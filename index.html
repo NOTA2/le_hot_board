@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LE HOT</title>
+    <title>LE HOT BOARD</title>
     <script
             src="https://code.jquery.com/jquery-3.1.1.min.js"
             integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
@@ -11,16 +11,190 @@
     <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.5.0/dist/semantic.min.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/semantic-ui@2.5.0/dist/semantic.min.css" rel="stylesheet">
+    <style>
+        .center-aligned {
+            width: 1300px;
+            margin: 0 auto; /* 가운데 정렬 */
+            padding: 2rem 5%; /* 양쪽 여백 설정 */
+        }
+
+        #board th {
+            text-align: center;
+        }
+
+        #board th:nth-of-type(1),
+        #board td:nth-of-type(1) {
+            width: 8%; /* 첫 번째 셀의 너비를 5%로 설정 */
+            text-align: center;
+        }
+
+        #board th:nth-of-type(2),
+        #board td:nth-of-type(2) {
+            width: 65%; /* 두 번째 셀의 너비를 70%로 설정 */
+        }
+
+        #board th:nth-of-type(3),
+        #board td:nth-of-type(3),
+        #board th:nth-of-type(4),
+        #board td:nth-of-type(4) {
+            width: 12%; /* 세 번째와 네 번째 셀의 너비를 10%로 설정 */
+            text-align: center;
+        }
+
+        #hiphople {
+            width: 100%;
+            height: 800px;
+        }
+
+        /* 모바일 화면에서 'pc' 클래스를 가진 td 숨기기 */
+        @media screen and (max-width: 932px) {
+            .center-aligned {
+                width: 100%;
+                margin: 0 auto; /* 가운데 정렬 */
+                padding: 1rem 10px; /* 양쪽 여백 설정 */
+            }
+
+            #board .pc {
+                display: none;
+            }
+
+            #board th:nth-of-type(2),
+            #board td:nth-of-type(2) {
+                width: 80%; /* 두 번째 셀의 너비를 70%로 설정 */
+            }
+
+            #board th:nth-of-type(3),
+            #board td:nth-of-type(3) {
+                width: 20%; /* 세 번째와 네 번째 셀의 너비를 10%로 설정 */
+            }
+
+            #hiphople {
+                width: 100%;
+                height: 400px;
+            }
+        }
+    </style>
 </head>
 <body>
-<div class="ui" style="padding:1rem">
+<div class="ui center-aligned">
     <h2 class="ui header">
-        <i class="map marker alternate icon"></i>
+        <i class="gripfire icon"></i>
         <div class="content">
-            LE HOT
+            LE HOT BOARD
             <div id="user" class="sub header"></div>
         </div>
     </h2>
+
+    <div class="ui secondary pointing menu">
+        <a id="kboard" class="item" href="?type=kboard&page=1">
+            국내 힙합
+        </a>
+        <a id="fboard" class="item" href="?type=fboard&page=1">
+            국외 힙합
+        </a>
+    </div>
+
+    <iframe id='hiphople' src="" seamless style="display: none"></iframe>
+
+    <table id="board" class="ui compact fixed unstackable table">
+        <thead>
+        <tr>
+            <th class="pc">카테고리</th>
+            <th>제목</th>
+            <th>글쓴이</th>
+            <th class="pc">날짜</th>
+        </tr>
+        </thead>
+        <tbody id="board-body"></tbody>
+    </table>
+
+    <div class="ui container center aligned">
+        <div class="ui pagination menu ">
+            <a class="active item">
+                1
+            </a>
+            <div class="disabled item">
+                ...
+            </div>
+            <a class="item">
+                10
+            </a>
+            <a class="item">
+                11
+            </a>
+            <a class="item">
+                12
+            </a>
+        </div>
+    </div>
 </div>
+
+<script>
+    let page = new URLSearchParams(location.search).get('page');
+    page = _.isNull(type) ? `1` : page;
+
+    let type = new URLSearchParams(location.search).get('type');
+    type = _.isNull(type) ? 'kboard' : type;
+    $('#' + type).addClass("active");
+
+    let content = new URLSearchParams(location.search).get('content');
+    if (!_.isNull(content)) {
+        document.getElementById("hiphople").src = "https://hiphople.com" + decodeURI(content);
+        document.getElementById("hiphople").style.display = 'block';
+    }
+
+    // 모바일 장치인 경우에만 'pc' 클래스를 가진 td 숨기기
+    if (isMobileDevice()) {
+        var pcCells = document.querySelectorAll('#board .pc');
+        pcCells.forEach(function (cell) {
+            cell.style.display = 'none';
+        });
+    }
+
+    function loadMeta() {
+        return fetch(`./${type}/meta.json`, {mode: 'no-cors'})
+            .then((response) => response.json())
+    }
+
+    function loadBoard(page) {
+        return fetch(`./${type}/${page}.json`, {mode: 'no-cors'})
+            .then((response) => response.json())
+    }
+
+    function displayBoard(issues) {
+        const container = document.getElementById('board-body');
+
+        for (let issue of issues) {
+            container.innerHTML += `
+            <tr>
+                <td class="pc">${issue.category}</td>
+                <td>
+                    <a class="ui item" style="color: #1f1f1f" href="?type=${type}&page=${page}&content=${encodeURI(issue.href)}"${issue.title}</a>
+                    <a href="">&nbsp;${issue.commentNum}</a>&nbsp;${issue.isVideo ? '<i class="play circle icon"></i>' : ''}${issue.isPhoto ? '<i class="images icon"></i>' : ''}
+            <!--                <i class="play circle outline icon"></i>-->
+            <!--                <i class="images outline icon"></i>-->
+            }
+                </td>
+                <td>${issue.author}</td>
+                <td class="pc">${issue.date}</td>
+            </tr>
+            `
+        }
+    }
+
+    loadMeta()
+        .then((meta) => {
+            // setPagination(meta)
+            loadBoard(page).then(issues => displayBoard(issues))
+        })
+
+    // 모바일 장치인지 확인하는 함수
+    function isMobileDevice() {
+        // 사용자 에이전트 문자열을 가져옵니다.
+        var userAgent = navigator.userAgent;
+        // 일반적으로 모바일 장치의 사용자 에이전트 문자열에는 "Mobile" 또는 "Android"가 포함됩니다.
+        return /Mobile|Android/.test(userAgent);
+    }
+</script>
 </body>
 </html>

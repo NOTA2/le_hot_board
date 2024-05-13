@@ -33,7 +33,9 @@ async function scraper(board, firstPage) {
                         .end()  //again go back to selected element
                         .text().trim(),
                     date: getDate($(hotIssueData[i]).find('.date').text()),
-                    commentNum: $(hotIssueData[i]).find('.commentNum').text()
+                    commentNum: $(hotIssueData[i]).find('.commentNum').text(),
+                    isVideo: $(hotIssueData[i]).find('.fa-play-circle').length > 0,
+                    isPhoto: $(hotIssueData[i]).find('.fa-image').length > 0
                 })
             } else {
                 // 값이 있으면 코멘트만 최신으로 변경
