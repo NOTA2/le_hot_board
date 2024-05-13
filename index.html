@@ -131,7 +131,7 @@
 
 <script>
     let page = new URLSearchParams(location.search).get('page');
-    page = _.isNull(type) ? `1` : page;
+    page = _.isNull(page) ? '1' : page;
 
     let type = new URLSearchParams(location.search).get('type');
     type = _.isNull(type) ? 'kboard' : type;
