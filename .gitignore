@@ -1,0 +1,11 @@
+/**/*.iml
+/**/.idea
+/.run
+
+/node_modules/
+
+!/.gitignore
+!/.github
+!.gitmodules
+!.editorconfig
+!.dockerignore
