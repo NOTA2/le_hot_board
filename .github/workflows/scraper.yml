@@ -27,9 +27,6 @@ jobs:
     - name: Run Scraper with node
       run: |
         node scrape.js
-      env:
-        GOOGLE_PRIVATE_KEY : ${{ secrets.GOOGLE_PRIVATE_KEY }}
-        GOOGLE_SERVICE_ACCOUNT_EMAIL : ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
     - name: Commits
       run: |
         git config --local user.email "skaska121212@gmail.com"
