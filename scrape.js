@@ -80,6 +80,15 @@ async function pageSort(board, firstPage) {
     }
 }
 
+async function updateMetaData(board) {
+    const meta = {
+        totalPage: fs.readdirSync(`${__dirname}/${board}`).length - 1,
+        lastUpdateTime: new Date(),
+    }
+
+    await fs.writeFileSync(path.join(`${__dirname}/${board}`, `meta.json`), JSON.stringify(meta, null, 4));
+}
+
 function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -107,6 +116,7 @@ function getDate(date) {
         let firstPage = await JSON.parse(fs.readFileSync(`${__dirname}/${board}/1.json`, 'utf8'));
         firstPage = await scraper(board, firstPage);
         await pageSort(board, firstPage);
+        await updateMetaData(board);
         await delay(2000); // 2초 대기
     }
 }());
