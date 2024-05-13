@@ -6,7 +6,9 @@
         "href": "/fboard/28173213",
         "author": "쟈이즈",
         "date": "2024.05.12",
-        "commentNum": "13"
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
     },
     {
         "id": "fboard_28185152",
@@ -15,7 +17,9 @@
         "href": "/fboard/28185152",
         "author": "예인",
         "date": "2024.05.13",
-        "commentNum": "32"
+        "commentNum": "32",
+        "isVideo": false,
+        "isPhoto": true
     },
     {
         "id": "fboard_28184720",
@@ -24,6 +28,8 @@
         "href": "/fboard/28184720",
         "author": "Wiwiiwiw",
         "date": "2024.05.13",
-        "commentNum": "18"
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
     }
 ]

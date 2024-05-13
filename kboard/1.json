@@ -1,30 +1,14 @@
 [
     {
-        "id": "kboard_28185833",
-        "category": "일반",
-        "title": "Ap는 5층짜리 탕후루 빌딩 같은거임 ㅇㅇ",
-        "href": "/kboard/28185833",
-        "author": "아니놀라",
-        "date": "2024.05.13",
-        "commentNum": "11"
-    },
-    {
         "id": "kboard_28173150",
         "category": "리뷰",
         "title": "한국힙합 유저매거진 \"HAUS OF MATTERS\" #12",
         "href": "/kboard/28173150",
         "author": "쟈이즈",
         "date": "2024.05.12",
-        "commentNum": "10"
-    },
-    {
-        "id": "kboard_28179505",
-        "category": "리뷰",
-        "title": "GongGongGoo009 [ㅠㅠ] 리뷰",
-        "href": "/kboard/28179505",
-        "author": "자카",
-        "date": "2024.05.12",
-        "commentNum": "12"
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
     },
     {
         "id": "kboard_28182562",
@@ -33,6 +17,19 @@
         "href": "/kboard/28182562",
         "author": "신이홉",
         "date": "2024.05.13",
-        "commentNum": "22"
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28185833",
+        "category": "일반",
+        "title": "Ap는 5층짜리 탕후루 빌딩 같은거임 ㅇㅇ",
+        "href": "/kboard/28185833",
+        "author": "아니놀라",
+        "date": "2024.05.13",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": false
     }
 ]
