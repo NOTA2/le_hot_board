@@ -11,6 +11,9 @@
     <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.5.0/dist/semantic.min.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/semantic-ui@2.5.0/dist/semantic.min.css" rel="stylesheet">
+    <script src="./js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./css/bootstrap.min.css" />
+    <script src="./js/jquery.twbsPagination.min.js"></script>
     <style>
         .center-aligned {
             width: 1300px;
@@ -94,6 +97,10 @@
         </a>
     </div>
 
+    <div class="extra content">
+        <p><i class="clock outline icon"></i> 업데이트 시각 : <span id="last-update-time"></span></p>
+    </div>
+
     <iframe id='hiphople' src="" seamless style="display: none"></iframe>
 
     <table id="board" class="ui compact fixed unstackable table">
@@ -109,23 +116,7 @@
     </table>
 
     <div class="ui container center aligned">
-        <div class="ui pagination menu ">
-            <a class="active item">
-                1
-            </a>
-            <div class="disabled item">
-                ...
-            </div>
-            <a class="item">
-                10
-            </a>
-            <a class="item">
-                11
-            </a>
-            <a class="item">
-                12
-            </a>
-        </div>
+        <ul id="pagination" class="ui pagination"></ul>
     </div>
 </div>
 
@@ -137,11 +128,13 @@
     type = _.isNull(type) ? 'kboard' : type;
     $('#' + type).addClass("active");
 
-    let content = new URLSearchParams(location.search).get('content');
+    const content = new URLSearchParams(location.search).get('content');
     if (!_.isNull(content)) {
         document.getElementById("hiphople").src = "https://hiphople.com" + decodeURI(content);
         document.getElementById("hiphople").style.display = 'block';
     }
+
+    const PAGE_SIZE = 5;
 
     // 모바일 장치인 경우에만 'pc' 클래스를 가진 td 숨기기
     if (isMobileDevice()) {
@@ -181,11 +174,39 @@
         }
     }
 
-    loadMeta()
-        .then((meta) => {
-            // setPagination(meta)
-            loadBoard(page).then(issues => displayBoard(issues))
-        })
+    function setPagination(meta) {
+        $('#pagination').twbsPagination({
+            totalPages: meta.totalPage,
+            visiblePages: 7,
+            startPage: page,
+            first: '<<',
+            prev: '<',
+            next: '>',
+            last: '>>',
+            onPageClick: function (event, page) {
+                loadBoard(page)
+                    .then(issues => {
+                        document.getElementById('board-body').innerHTML = '';
+                        displayBoard(issues);
+                    })
+            }
+        });
+
+        // 업데이트 시간 설정
+        const lastUpdateTime = document.getElementById('last-update-time');
+        lastUpdateTime.innerText = meta.lastUpdateTime
+    }
+
+    setPagination({
+        "totalPage": 1,
+        "lastUpdateTime": "2024-05-14T04:20:14.859Z"
+    })
+
+    // loadMeta()
+    //     .then((meta) => {
+    //         setPagination(meta)
+    //         loadBoard(page).then(issues => displayBoard(issues))
+    //     })
 
     // 모바일 장치인지 확인하는 함수
     function isMobileDevice() {
