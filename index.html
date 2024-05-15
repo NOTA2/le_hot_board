@@ -116,13 +116,13 @@
     </table>
 
     <div class="ui container center aligned">
-        <ul id="pagination" class="ui pagination"></ul>
+        <ul id="pagination" class="ui pagination text-center"></ul>
     </div>
 </div>
 
 <script>
     let page = new URLSearchParams(location.search).get('page');
-    page = _.isNull(page) ? '1' : page;
+    page = _.isNull(page) ? 1 : parseInt(page);
 
     let type = new URLSearchParams(location.search).get('type');
     type = _.isNull(type) ? 'kboard' : type;
@@ -177,7 +177,7 @@
     function setPagination(meta) {
         $('#pagination').twbsPagination({
             totalPages: meta.totalPage,
-            visiblePages: 7,
+            visiblePages: PAGE_SIZE,
             startPage: page,
             first: '<<',
             prev: '<',
