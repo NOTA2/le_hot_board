@@ -115,8 +115,8 @@
         <tbody id="board-body"></tbody>
     </table>
 
-    <div class="ui container center aligned">
-        <ul id="pagination" class="ui pagination text-center"></ul>
+    <div class="text-center">
+        <ul id="pagination" class="pagination"></ul>
     </div>
 </div>
 
@@ -197,16 +197,20 @@
         lastUpdateTime.innerText = meta.lastUpdateTime
     }
 
-    setPagination({
-        "totalPage": 1,
-        "lastUpdateTime": "2024-05-14T04:20:14.859Z"
-    })
+    function getFormattedDate(d) {
+        return d.getFullYear() + '-' +
+            addZero((d.getMonth() + 1)) + '-' +
+            addZero(d.getDate()) + ' ' +
+            addZero(d.getHours()) + ':' +
+            addZero(d.getMinutes()) + ':' +
+            addZero(d.getSeconds());
+    }
 
-    // loadMeta()
-    //     .then((meta) => {
-    //         setPagination(meta)
-    //         loadBoard(page).then(issues => displayBoard(issues))
-    //     })
+    loadMeta()
+        .then((meta) => {
+            setPagination(meta)
+            loadBoard(page).then(issues => displayBoard(issues))
+        })
 
     // 모바일 장치인지 확인하는 함수
     function isMobileDevice() {
