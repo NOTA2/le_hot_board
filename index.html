@@ -194,7 +194,7 @@
 
         // 업데이트 시간 설정
         const lastUpdateTime = document.getElementById('last-update-time');
-        lastUpdateTime.innerText = meta.lastUpdateTime
+        lastUpdateTime.innerText = getFormattedDate(meta.lastUpdateTime)
     }
 
     function getFormattedDate(d) {
