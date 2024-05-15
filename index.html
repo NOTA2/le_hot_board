@@ -116,7 +116,7 @@
     </table>
 
     <div class="text-center">
-        <ul id="pagination" class="pagination"></ul>
+        <ul id="pagination" class="pagination justify-content-center"></ul>
     </div>
 </div>
 
@@ -195,6 +195,11 @@
         // 업데이트 시간 설정
         const lastUpdateTime = document.getElementById('last-update-time');
         lastUpdateTime.innerText = getFormattedDate(meta.lastUpdateTime)
+    }
+
+    // 0을 추가하는 보조 함수입니다.
+    function addZero(num) {
+        return (num < 10 ? '0' : '') + num;
     }
 
     function getFormattedDate(d) {
