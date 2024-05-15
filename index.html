@@ -160,7 +160,7 @@
         for (let issue of issues) {
             container.innerHTML += `
             <tr>
-                <td class="pc">${issue.category}</td>
+                <td class="pc ${getColor(issue.category)}">${issue.category}</td>
                 <td>
                     <a class="ui item" style="color: #1f1f1f" href="?type=${type}&page=${page}&content=${encodeURI(issue.href)}">${issue.title}</a>
                     <a href="">&nbsp;${issue.commentNum}</a>&nbsp;${issue.isVideo ? '<i class="play circle icon"></i>' : ''}${issue.isPhoto ? '<i class="images icon"></i>' : ''}
@@ -194,7 +194,7 @@
 
         // 업데이트 시간 설정
         const lastUpdateTime = document.getElementById('last-update-time');
-        lastUpdateTime.innerText = getFormattedDate(meta.lastUpdateTime)
+        lastUpdateTime.innerText = getFormattedDate(new Date(meta.lastUpdateTime))
     }
 
     // 0을 추가하는 보조 함수입니다.
@@ -209,6 +209,16 @@
             addZero(d.getHours()) + ':' +
             addZero(d.getMinutes()) + ':' +
             addZero(d.getSeconds());
+    }
+
+    function getColor(category) {
+        switch (category) {
+            case "음악": return 'ui blue';
+            case "리뷰": return 'ui purple';
+            case "인증/후기": return 'ui orange';
+            case "그림/아트웍": return 'ui violet';
+            default: return '';
+        }
     }
 
     loadMeta()
