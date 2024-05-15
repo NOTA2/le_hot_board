@@ -186,6 +186,7 @@
             onPageClick: function (event, page) {
                 loadBoard(page)
                     .then(issues => {
+                        console.log('pageChange loadBoard')
                         document.getElementById('board-body').innerHTML = '';
                         displayBoard(issues);
                     })
@@ -224,6 +225,7 @@
     loadMeta()
         .then((meta) => {
             setPagination(meta)
+            console.log('init loadBoard')
             loadBoard(page).then(issues => displayBoard(issues))
         })
 
