@@ -223,11 +223,7 @@
     }
 
     loadMeta()
-        .then((meta) => {
-            setPagination(meta)
-            console.log('init loadBoard')
-            loadBoard(page).then(issues => displayBoard(issues))
-        })
+        .then(meta => setPagination(meta))
 
     // 모바일 장치인지 확인하는 함수
     function isMobileDevice() {
