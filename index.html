@@ -17,7 +17,11 @@
     <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
     <script>
         function addDarkmodeWidget() {
-            new Darkmode().showWidget();
+            const options = {
+                label: '🌓',
+                autoMatchOsTheme: true
+            }
+            new Darkmode(options).showWidget();
         }
         window.addEventListener('load', addDarkmodeWidget);
     </script>
@@ -56,17 +60,14 @@
             height: 800px;
         }
 
-        .darkmode--activated a.d-menu {
+        .darkmode--activated .d-menu {
             color: #fff;
         }
 
-        .darkmode--activated .active.item {
+        .darkmode--activated .active.d-menu {
             border-color: #fff;
         }
 
-        .darkmode-toggle::after {
-            content: "🌓";
-        }
         /* 모바일 화면에서 'pc' 클래스를 가진 td 숨기기 */
         @media screen and (max-width: 932px) {
             .center-aligned {
@@ -115,7 +116,7 @@
         </a>
     </div>
 
-    <iframe id='hiphople' src="" seamless style="display: none"></iframe>
+    <iframe id='hiphople' class="darkmode-ignore" src="" seamless style="display: none"></iframe>
 
     <table id="board" class="ui compact fixed unstackable table">
         <thead>
