@@ -111,7 +111,7 @@
         <tbody id="board-body"></tbody>
     </table>
 
-    <div class="extra content">
+    <div class="extra content" style="margin-bottom: 5px">
         <p><i class="clock outline icon"></i> 업데이트 시각 : <span id="last-update-time"></span></p>
     </div>
 
@@ -163,7 +163,7 @@
                 <td class="pc ${getColor(issue.category)}">${issue.category}</td>
                 <td>
                     <a class="ui item" style="color: #1f1f1f" href="?type=${type}&page=${page}&content=${encodeURI(issue.href)}">${issue.title}</a>
-                    <a>&nbsp;${issue.commentNum}</a>&nbsp;${issue.isVideo ? '<i class="play circle icon"></i>' : ''}${issue.isPhoto ? '<i class="images icon"></i>' : ''}
+                    <a class="text-primary">&nbsp;${issue.commentNum}</a>&nbsp;${issue.isVideo ? '<i class="play circle icon"></i>' : ''}${issue.isPhoto ? '<i class="images icon"></i>' : ''}
             <!--                <i class="play circle outline icon"></i>-->
             <!--                <i class="images outline icon"></i>-->
                 </td>
