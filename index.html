@@ -56,6 +56,17 @@
             height: 800px;
         }
 
+        .darkmode--activated a.d-menu {
+            color: #fff;
+        }
+
+        .darkmode--activated .active.item {
+            border-color: #fff;
+        }
+
+        .darkmode-toggle::after {
+            content: "🌓";
+        }
         /* 모바일 화면에서 'pc' 클래스를 가진 td 숨기기 */
         @media screen and (max-width: 932px) {
             .center-aligned {
@@ -96,10 +107,10 @@
     </h2>
 
     <div class="ui secondary pointing menu">
-        <a id="kboard" class="item" href="?type=kboard&page=1">
+        <a id="kboard" class="item d-menu" href="?type=kboard&page=1">
             국내 힙합
         </a>
-        <a id="fboard" class="item" href="?type=fboard&page=1">
+        <a id="fboard" class="item d-menu" href="?type=fboard&page=1">
             국외 힙합
         </a>
     </div>
