@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_28223913",
+        "category": "그림/아트웍",
+        "title": "덴젤 커리 (그리고 트래비스 스캇 연습)",
+        "href": "/fboard/28223913",
+        "author": "a_chal",
+        "date": "2024.05.18",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28223612",
         "category": "일반",
         "title": "마블 코믹스 MF DOOM",
         "href": "/fboard/28223612",
         "author": "IT",
         "date": "2024.05.18",
-        "commentNum": "7",
+        "commentNum": "18",
         "isVideo": false,
         "isPhoto": true
     },
