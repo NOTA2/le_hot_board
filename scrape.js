@@ -63,6 +63,8 @@ async function pageSort(board, firstPage) {
 
     // 폴더 내의 모든 파일 목록을 배열로 저장
     let files = _.map(fs.readdirSync(`${__dirname}/${board}`), file => _.replace(file, '.json', ''));
+    files = _.filter(files, file => file !== 'meta');
+    files = _.sortBy(files);
 
     for (let file of files) {
         let issues = JSON.parse(fs.readFileSync(`${__dirname}/${board}/${file}.json`, 'utf8'));
