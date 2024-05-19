@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_28233993",
+        "category": "그림/아트웍",
+        "title": "LEX",
+        "href": "/fboard/28233993",
+        "author": "a_chal",
+        "date": "2024.05.19",
+        "commentNum": "11",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28227896",
         "category": "리뷰",
         "title": "스템플레이어 3주차 ! 🫥(영상)",
         "href": "/fboard/28227896",
         "author": "스캇을좋아하는칸예",
         "date": "2024.05.18",
-        "commentNum": "8",
+        "commentNum": "15",
         "isVideo": false,
         "isPhoto": false
     },
@@ -17,7 +28,7 @@
         "href": "/fboard/28229424",
         "author": "GayGay",
         "date": "2024.05.18",
-        "commentNum": "51",
+        "commentNum": "56",
         "isVideo": false,
         "isPhoto": true
     },
@@ -204,17 +215,6 @@
         "href": "/fboard/28190170",
         "author": "a_chal",
         "date": "2024.05.14",
-        "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28185969",
-        "category": "일반",
-        "title": "여태까지 모은 음반",
-        "href": "/fboard/28185969",
-        "author": "GayFlock",
-        "date": "2024.05.13",
         "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
