@@ -62,22 +62,25 @@ async function pageSort(board, firstPage) {
     }
 
     // 폴더 내의 모든 파일 목록을 배열로 저장
-    let files = _.map(fs.readdirSync(`${__dirname}/${board}`), file => _.replace(file, '.json', ''));
+    let files = _.map(await fs.readdirSync(`${__dirname}/${board}`), file => _.replace(file, '.json', ''));
     files = _.filter(files, file => file !== 'meta');
     files = _.sortBy(files);
+    let issues;
+    let nextIssues;
+    let nextPageIssues;
 
     for (let file of files) {
-        let issues = JSON.parse(fs.readFileSync(`${__dirname}/${board}/${file}.json`, 'utf8'));
-        let nextIssues = _.slice(issues, ISSUE_COUNT, issues.length)
+        issues = JSON.parse(await fs.readFileSync(`${__dirname}/${board}/${file}.json`, 'utf8'));
+        nextIssues = _.slice(issues, ISSUE_COUNT, issues.length)
         issues = _.slice(issues, 0, ISSUE_COUNT)
 
         await fs.writeFileSync(path.join(`${__dirname}/${board}`, `${parseInt(file)}.json`), JSON.stringify(issues, null, 4));
 
         // 다음파일 쓰기
-        if (fs.existsSync(`${__dirname}/${board}/${parseInt(file) + 1}.json`)) {
+        if (await fs.existsSync(`${__dirname}/${board}/${parseInt(file) + 1}.json`)) {
             // 있으면 앞에 추가
-            let nextPageIssues = JSON.parse(fs.readFileSync(`${__dirname}/${board}/${parseInt(file) + 1}.json`, 'utf8'));
-            nextIssues = _.compact(nextIssues, nextPageIssues)
+            nextPageIssues = JSON.parse(await fs.readFileSync(`${__dirname}/${board}/${parseInt(file) + 1}.json`, 'utf8'));
+            nextIssues = nextIssues.concat(nextPageIssues);
         }
 
         await fs.writeFileSync(path.join(`${__dirname}/${board}`, `${parseInt(file) + 1}.json`), JSON.stringify(nextIssues, null, 4));
