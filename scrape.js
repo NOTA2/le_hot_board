@@ -1,10 +1,12 @@
-import { createRequire } from "module";
+import {createRequire} from "module";
+
 const require = createRequire(import.meta.url);
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const _ = require('lodash');
 import path from 'path';
+
 const __dirname = path.resolve();
 
 const ISSUE_COUNT = 20;
@@ -71,26 +73,29 @@ async function pageSort(board, firstPage) {
 
     for (let file of files) {
         issues = JSON.parse(await fs.readFileSync(`${__dirname}/${board}/${file}.json`, 'utf8'));
-        nextIssues = _.slice(issues, ISSUE_COUNT, issues.length)
-        issues = _.slice(issues, 0, ISSUE_COUNT)
 
-        await fs.writeFileSync(path.join(`${__dirname}/${board}`, `${parseInt(file)}.json`), JSON.stringify(issues, null, 4));
+        if (issues.length > ISSUE_COUNT) {
+            nextIssues = _.slice(issues, ISSUE_COUNT, issues.length)
+            issues = _.slice(issues, 0, ISSUE_COUNT)
 
-        // 다음파일 쓰기
-        if (await fs.existsSync(`${__dirname}/${board}/${parseInt(file) + 1}.json`)) {
-            // 있으면 앞에 추가
-            nextPageIssues = JSON.parse(await fs.readFileSync(`${__dirname}/${board}/${parseInt(file) + 1}.json`, 'utf8'));
-            nextIssues = nextIssues.concat(nextPageIssues);
+            await fs.writeFileSync(path.join(`${__dirname}/${board}`, `${parseInt(file)}.json`), JSON.stringify(issues, null, 4));
+
+            // 다음파일 쓰기
+            if (await fs.existsSync(`${__dirname}/${board}/${parseInt(file) + 1}.json`)) {
+                // 있으면 앞에 추가
+                nextPageIssues = JSON.parse(await fs.readFileSync(`${__dirname}/${board}/${parseInt(file) + 1}.json`, 'utf8'));
+                nextIssues = nextIssues.concat(nextPageIssues);
+            }
+
+            await fs.writeFileSync(path.join(`${__dirname}/${board}`, `${parseInt(file) + 1}.json`), JSON.stringify(nextIssues, null, 4));
         }
-
-        await fs.writeFileSync(path.join(`${__dirname}/${board}`, `${parseInt(file) + 1}.json`), JSON.stringify(nextIssues, null, 4));
     }
 }
 
 async function updateMetaData(board) {
     const meta = {
         totalPage: fs.readdirSync(`${__dirname}/${board}`).length - 1,
-        lastUpdateTime: new Date(),
+        lastUpdateTime: new Date()
     }
 
     await fs.writeFileSync(path.join(`${__dirname}/${board}`, `meta.json`), JSON.stringify(meta, null, 4));
@@ -117,7 +122,7 @@ function getDate(date) {
     return currentDate.getFullYear() + '.' + ('0' + (currentDate.getMonth() + 1)).slice(-2) + '.' + ('0' + currentDate.getDate()).slice(-2);
 }
 
-(async function() {
+(async function () {
     const boards = ['kboard', 'fboard']
     for (let board of boards) {
         let firstPage = await JSON.parse(fs.readFileSync(`${__dirname}/${board}/1.json`, 'utf8'));
