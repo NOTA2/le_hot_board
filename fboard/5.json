@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28245702",
+        "category": "일반",
+        "title": "오늘은 The Notorious B.I.G.의 생일입니다! 🎁",
+        "href": "/fboard/28245702",
+        "author": "생일봇",
+        "date": "2024.05.20",
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28243521",
         "category": "인증/후기",
         "title": "위켄드 바이닐 인증",
@@ -205,17 +216,6 @@
         "author": "옫으퓨쳐",
         "date": "2024.05.15",
         "commentNum": "32",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28195371",
-        "category": "일반",
-        "title": "😢",
-        "href": "/fboard/28195371",
-        "author": "GayGay",
-        "date": "2024.05.14",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
     }
