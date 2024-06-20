@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28272466",
+        "category": "리뷰",
+        "title": "BBl Drizzy 입갤 +섹시 뻘건 년",
+        "href": "/fboard/28272466",
+        "author": "trapfi",
+        "date": "2024.05.24",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28271590",
         "category": "음악",
         "title": "찐 드리지 BBL Drizzy 입갤",
@@ -207,16 +218,5 @@
         "commentNum": "15",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28233993",
-        "category": "그림/아트웍",
-        "title": "LEX",
-        "href": "/fboard/28233993",
-        "author": "a_chal",
-        "date": "2024.05.19",
-        "commentNum": "12",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
