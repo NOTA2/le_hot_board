@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28530982",
+        "category": "인증/후기",
+        "title": "엘범 cd 샀습니다",
+        "href": "/fboard/28530982",
+        "author": "Lapi",
+        "date": "2024.06.28",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28529437",
         "category": "음악",
         "title": "제 기억 속 데뷔시절 칸예에 대한 대략적인 반응.txt",
@@ -17,7 +28,7 @@
         "href": "/fboard/28527264",
         "author": "vondutch",
         "date": "2024.06.27",
-        "commentNum": "26",
+        "commentNum": "27",
         "isVideo": false,
         "isPhoto": false
     },
@@ -39,7 +50,7 @@
         "href": "/fboard/28523285",
         "author": "앞날",
         "date": "2024.06.27",
-        "commentNum": "2",
+        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "59",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28496288",
-        "category": "그림/아트웍",
-        "title": "⭐️ 칸붕티콘 : 디 에센셜",
-        "href": "/fboard/28496288",
-        "author": "GayGay",
-        "date": "2024.06.23",
-        "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
