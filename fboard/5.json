@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28414497",
+        "category": "일반",
+        "title": "놀라운 사실) 랩배틀의 원조는 바이킹이다....??",
+        "href": "/fboard/28414497",
+        "author": "MarshallMathers",
+        "date": "2024.06.13",
+        "commentNum": "5",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_28411510",
+        "category": "음악",
+        "title": "벌쳐스는 걍 혁명임 ㅇㅇ",
+        "href": "/fboard/28411510",
+        "author": "홀로로로로롤",
+        "date": "2024.06.13",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28414253",
         "category": "음악",
         "title": "전 칸예 벌쳐스 긍정적으로 봅니다",
@@ -194,28 +216,6 @@
         "author": "김치볶음밥너마저",
         "date": "2024.06.09",
         "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28376675",
-        "category": "일반",
-        "title": "오늘은 제 생일입니다",
-        "href": "/fboard/28376675",
-        "author": "Kanyeꓪest",
-        "date": "2024.06.08",
-        "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28377850",
-        "category": "인증/후기",
-        "title": "개추 좀 받아보려고 올리는 사진.JPEGMAFIA",
-        "href": "/fboard/28377850",
-        "author": "Rainymatic",
-        "date": "2024.06.08",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }
