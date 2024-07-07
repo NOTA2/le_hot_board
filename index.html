@@ -174,7 +174,7 @@
             .then((response) => response.json())
     }
 
-    function displayBoard(issues) {
+    function displayBoard(page, issues) {
         const container = document.getElementById('board-body');
 
         for (let issue of issues) {
@@ -207,7 +207,7 @@
                 loadBoard(page)
                     .then(issues => {
                         document.getElementById('board-body').innerHTML = '';
-                        displayBoard(issues);
+                        displayBoard(page, issues);
                     })
             }
         });
