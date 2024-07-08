@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28247633",
+        "category": "일반",
+        "title": "Rym 사람인지 확인하는 이유",
+        "href": "/fboard/28247633",
+        "author": "겁먹은괭이",
+        "date": "2024.05.21",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28245702",
         "category": "일반",
         "title": "오늘은 The Notorious B.I.G.의 생일입니다! 🎁",
@@ -216,17 +227,6 @@
         "author": "옫으퓨쳐",
         "date": "2024.05.15",
         "commentNum": "32",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28195371",
-        "category": "일반",
-        "title": "😢",
-        "href": "/fboard/28195371",
-        "author": "GayGay",
-        "date": "2024.05.14",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
     }
