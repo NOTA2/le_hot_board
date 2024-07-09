@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_28614465",
+        "category": "인증/후기",
+        "title": "양화대교에서 자이언티를 만날 확률은?!!?",
+        "href": "/kboard/28614465",
+        "author": "dalju",
+        "date": "2024.07.09",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28609729",
         "category": "인증/후기",
         "title": "상수형과 사진찍는데 뒤에 오션검이 웃고있을 확률은?!?",
         "href": "/kboard/28609729",
         "author": "dalju",
         "date": "2024.07.08",
-        "commentNum": "3",
+        "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
     },
@@ -28,7 +39,7 @@
         "href": "/kboard/28606678",
         "author": "Thunday",
         "date": "2024.07.08",
-        "commentNum": "29",
+        "commentNum": "30",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "초대해초대해",
         "date": "2024.07.05",
         "commentNum": "29",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28583114",
-        "category": "인증/후기",
-        "title": "스윙스가 이 사진보고 나 때릴 확률은..?!!?",
-        "href": "/kboard/28583114",
-        "author": "dalju",
-        "date": "2024.07.05",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }
