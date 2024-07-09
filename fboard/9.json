@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28302519",
+        "category": "인증/후기",
+        "title": "일본 타워 레코드 가서 산 음반들 인증",
+        "href": "/fboard/28302519",
+        "author": "Nowhere2go",
+        "date": "2024.05.28",
+        "commentNum": "29",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_28295860",
+        "category": "음악",
+        "title": "솔직히",
+        "href": "/fboard/28295860",
+        "author": "칸예아들",
+        "date": "2024.05.27",
+        "commentNum": "29",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28300749",
         "category": "음악",
         "title": "인증) 포인트 필요해서 올리는 앨범 인증",
@@ -194,28 +216,6 @@
         "author": "스캇을좋아하는칸예",
         "date": "2024.05.23",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28264305",
-        "category": "일반",
-        "title": "소신발언",
-        "href": "/fboard/28264305",
-        "author": "K드릭라마",
-        "date": "2024.05.23",
-        "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28266786",
-        "category": "일반",
-        "title": "난 테일러를 왜 싫어 할까?",
-        "href": "/fboard/28266786",
-        "author": "이pac",
-        "date": "2024.05.23",
-        "commentNum": "28",
         "isVideo": false,
         "isPhoto": false
     }
