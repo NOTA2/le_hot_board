@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28620972",
+        "category": "리뷰",
+        "title": "로스 정규 2집-SKANDALOUZ 2",
+        "href": "/kboard/28620972",
+        "author": "Alonso2000",
+        "date": "2024.07.10",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28617321",
         "category": "일반",
         "title": "지가힙합모태노코 쇼미탓탓",
@@ -205,17 +216,6 @@
         "author": "아니놀라",
         "date": "2024.07.07",
         "commentNum": "28",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28595566",
-        "category": "음악",
-        "title": "힙합신에서 먹튀는",
-        "href": "/kboard/28595566",
-        "author": "MULLER",
-        "date": "2024.07.06",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": false
     }
