@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28293888",
+        "category": "일반",
+        "title": "이제 겁먹은괭이는 없습니다",
+        "href": "/fboard/28293888",
+        "author": "JPꓰGMAFIA",
+        "date": "2024.05.26",
+        "commentNum": "24",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28298535",
         "category": "인증/후기",
         "title": "오늘의 디깅.jpeg",
@@ -216,17 +227,6 @@
         "author": "아아느낌이온다",
         "date": "2024.05.22",
         "commentNum": "72",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28259286",
-        "category": "일반",
-        "title": "고페킬 왈 '이번 디스전 좀 좆같다'",
-        "href": "/fboard/28259286",
-        "author": "KnightsVizion",
-        "date": "2024.05.22",
-        "commentNum": "37",
         "isVideo": false,
         "isPhoto": true
     }
