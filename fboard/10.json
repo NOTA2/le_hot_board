@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28298535",
+        "category": "인증/후기",
+        "title": "오늘의 디깅.jpeg",
+        "href": "/fboard/28298535",
+        "author": "killakim",
+        "date": "2024.05.27",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28287421",
         "category": "인증/후기",
         "title": "다니엘 시저 Always & 퓨처 Overload",
@@ -218,16 +229,5 @@
         "commentNum": "37",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28256367",
-        "category": "음악",
-        "title": "소× 대신발언) channel ORANGE>blonde",
-        "href": "/fboard/28256367",
-        "author": "켄드릭은신이야신",
-        "date": "2024.05.22",
-        "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
