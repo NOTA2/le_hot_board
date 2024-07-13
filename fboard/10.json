@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28287421",
+        "category": "인증/후기",
+        "title": "다니엘 시저 Always & 퓨처 Overload",
+        "href": "/fboard/28287421",
+        "author": "스캇을좋아하는칸예",
+        "date": "2024.05.26",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28290251",
         "category": "일반",
         "title": "그래도 섹시 레드의 당당함은 멋지다고 생각함",
@@ -218,16 +229,5 @@
         "commentNum": "27",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28254359",
-        "category": "일반",
-        "title": "칸예의 옛날 미공개 사진",
-        "href": "/fboard/28254359",
-        "author": "칸바라마",
-        "date": "2024.05.21",
-        "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
