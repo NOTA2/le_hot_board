@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28314000",
+        "category": "인증/후기",
+        "title": "인증) 4천포인트 남았다.. 앨범인증 가보자잇",
+        "href": "/fboard/28314000",
+        "author": "todd",
+        "date": "2024.05.30",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28309662",
         "category": "인증/후기",
         "title": "오랜만에 CD샀다",
@@ -217,17 +228,6 @@
         "date": "2024.05.24",
         "commentNum": "13",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28271590",
-        "category": "음악",
-        "title": "찐 드리지 BBL Drizzy 입갤",
-        "href": "/fboard/28271590",
-        "author": "산소",
-        "date": "2024.05.24",
-        "commentNum": "13",
-        "isVideo": false,
         "isPhoto": false
     }
 ]
