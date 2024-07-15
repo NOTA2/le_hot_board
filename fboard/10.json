@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28309662",
+        "category": "인증/후기",
+        "title": "오랜만에 CD샀다",
+        "href": "/fboard/28309662",
+        "author": "칸예윙크",
+        "date": "2024.05.29",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28309956",
         "category": "인증/후기",
         "title": "인증) 닉변을 위한 음반인증 2탄",
@@ -218,16 +229,5 @@
         "commentNum": "13",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28277603",
-        "category": "인증/후기",
-        "title": "아이들은 귀신을 본다 바이닐",
-        "href": "/fboard/28277603",
-        "author": "포스트말롱",
-        "date": "2024.05.24",
-        "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
