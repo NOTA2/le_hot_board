@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28377850",
+        "category": "인증/후기",
+        "title": "개추 좀 받아보려고 올리는 사진.JPEGMAFIA",
+        "href": "/fboard/28377850",
+        "author": "Rainymatic",
+        "date": "2024.06.08",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28375551",
         "category": "인증/후기",
         "title": "대한민국 1등 JPEGMAFIA 팬",
@@ -217,17 +228,6 @@
         "date": "2024.06.02",
         "commentNum": "13",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28337588",
-        "category": "인증/후기",
-        "title": "오늘의 디깅.jpeg (스압주의)",
-        "href": "/fboard/28337588",
-        "author": "killakim",
-        "date": "2024.06.02",
-        "commentNum": "17",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
