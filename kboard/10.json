@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28397983",
+        "category": "일반",
+        "title": "이정도면 알페스도 자작이네요",
+        "href": "/kboard/28397983",
+        "author": "박근호구다",
+        "date": "2024.06.11",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28390815",
         "category": "음악",
         "title": "110.12 사건이 계속 불타는 이유",
@@ -218,16 +229,5 @@
         "commentNum": "50",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28364100",
-        "category": "음악",
-        "title": "안녕하세요 곧 앨범을 발매할 IKYO라고 합니다",
-        "href": "/kboard/28364100",
-        "author": "zxcqwrqwrqt",
-        "date": "2024.06.06",
-        "commentNum": "48",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
