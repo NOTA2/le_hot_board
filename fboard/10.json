@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28407402",
+        "category": "인증/후기",
+        "title": "김밥 출동",
+        "href": "/fboard/28407402",
+        "author": "제이환",
+        "date": "2024.06.12",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28404983",
         "category": "음악",
         "title": "김밥 후기",
@@ -216,17 +227,6 @@
         "author": "seansean",
         "date": "2024.06.07",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28367893",
-        "category": "일반",
-        "title": "켄드릭이 고트인 이유",
-        "href": "/fboard/28367893",
-        "author": "nomologo",
-        "date": "2024.06.07",
-        "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
     }
