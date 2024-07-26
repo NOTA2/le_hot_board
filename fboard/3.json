@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28656422",
+        "category": "일반",
+        "title": "에미넴 앨범 해석 끝",
+        "href": "/fboard/28656422",
+        "author": "DanceD",
+        "date": "2024.07.16",
+        "commentNum": "23",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "fboard_28655445",
+        "category": "그림/아트웍",
+        "title": "기억나는 대로 제이지 형님 그려봤습니다",
+        "href": "/fboard/28655445",
+        "author": "솔난조르겐",
+        "date": "2024.07.16",
+        "commentNum": "24",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28652814",
         "category": "음악",
         "title": "Nas 스티커 기원 1일차",
@@ -196,27 +218,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28632037",
-        "category": "음악",
-        "title": "Gen Z들아 긁혔니?ㅋㅋ",
-        "href": "/fboard/28632037",
-        "author": "Trivium",
-        "date": "2024.07.12",
-        "commentNum": "7",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28628702",
-        "category": "음악",
-        "title": "생일입니다",
-        "href": "/fboard/28628702",
-        "author": "칸랭크예션",
-        "date": "2024.07.11",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
