@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28248817",
+        "category": "인증/후기",
+        "title": "ㅊ녀 겁주기...jpg",
+        "href": "/fboard/28248817",
+        "author": "6inthemorning",
+        "date": "2024.05.21",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_28247633",
+        "category": "일반",
+        "title": "Rym 사람인지 확인하는 이유",
+        "href": "/fboard/28247633",
+        "author": "겁먹은괭이",
+        "date": "2024.05.21",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28245702",
         "category": "일반",
         "title": "오늘은 The Notorious B.I.G.의 생일입니다! 🎁",
@@ -195,28 +217,6 @@
         "date": "2024.05.15",
         "commentNum": "9",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28203163",
-        "category": "음악",
-        "title": "엘피바를 창업하는데 앨범 추천 부탁드립니다 !",
-        "href": "/fboard/28203163",
-        "author": "강로일",
-        "date": "2024.05.15",
-        "commentNum": "78",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28205600",
-        "category": "일반",
-        "title": "앤더슨 팩 사인 받았습니다 ㅠㅠㅠ",
-        "href": "/fboard/28205600",
-        "author": "옫으퓨쳐",
-        "date": "2024.05.15",
-        "commentNum": "32",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
