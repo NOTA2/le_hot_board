@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_28723376",
+        "category": "인증/후기",
+        "title": "Westside Gunn - Hitler Wears Hermes 2 바이닐",
+        "href": "/fboard/28723376",
+        "author": "DumpGawd",
+        "date": "2024.07.27",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28722971",
         "category": "인증/후기",
         "title": "오랜만에 업데이트된 현실 탑스터",
         "href": "/fboard/28722971",
         "author": "Rainymatic",
         "date": "2024.07.27",
-        "commentNum": "7",
+        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     },
@@ -72,7 +83,7 @@
         "href": "/fboard/28717873",
         "author": "DJSam",
         "date": "2024.07.26",
-        "commentNum": "26",
+        "commentNum": "27",
         "isVideo": true,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "리플리",
         "date": "2024.07.23",
         "commentNum": "53",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28698689",
-        "category": "인증/후기",
-        "title": "8*8 탑스터",
-        "href": "/fboard/28698689",
-        "author": "자카",
-        "date": "2024.07.23",
-        "commentNum": "24",
         "isVideo": false,
         "isPhoto": true
     }
