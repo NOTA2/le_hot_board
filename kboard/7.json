@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28550616",
+        "category": "음악",
+        "title": "더콰가 쓴 가사 모아놓고 보니 힙합 그 자체네요",
+        "href": "/kboard/28550616",
+        "author": "김치힙합",
+        "date": "2024.06.30",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28545098",
         "category": "일반",
         "title": "저스디스 오마주한 언에듀 게시물",
@@ -205,17 +216,6 @@
         "author": "근본주의자",
         "date": "2024.06.26",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28516842",
-        "category": "음악",
-        "title": "킁",
-        "href": "/kboard/28516842",
-        "author": "김건혁",
-        "date": "2024.06.26",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
     }
