@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28444782",
+        "category": "일반",
+        "title": "휴가를 몇 번이나 내야하는 건가요",
+        "href": "/fboard/28444782",
+        "author": "온암",
+        "date": "2024.06.17",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28441128",
         "category": "일반",
         "title": "오늘은 Kendrick Lamar의 생일입니다! 🎉",
@@ -217,17 +228,6 @@
         "date": "2024.06.11",
         "commentNum": "17",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28401684",
-        "category": "음악",
-        "title": "나도 슬쩍 적어보는 벌쳐스 소신발언...",
-        "href": "/fboard/28401684",
-        "author": "ArtiViruz",
-        "date": "2024.06.11",
-        "commentNum": "9",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
