@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28583930",
+        "category": "음악",
+        "title": "[이벤트 알림] 힙합LE (LE MAG) 국외게 선정 Hip-Hop 입문 앨범 추천",
+        "href": "/fboard/28583930",
+        "author": "Trivium",
+        "date": "2024.07.05",
+        "commentNum": "28",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "fboard_28587160",
+        "category": "일반",
+        "title": "Not Like Us 뮤비 여기선 언급 안된 관전포인트",
+        "href": "/fboard/28587160",
+        "author": "파이리빵",
+        "date": "2024.07.05",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28581706",
         "category": "음악",
         "title": "켄드릭 뮤비속 재밌는 장면이랑 디테일 설명(마지막 소름 돋음)",
@@ -194,28 +216,6 @@
         "author": "오징스",
         "date": "2024.07.01",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28545421",
-        "category": "음악",
-        "title": "라샨 선정 2024년 상반기 Best Hip-Hop Album 30",
-        "href": "/fboard/28545421",
-        "author": "Trivium",
-        "date": "2024.06.30",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28545709",
-        "category": "인증/후기",
-        "title": "일본 타워레코드 후기",
-        "href": "/fboard/28545709",
-        "author": "주말이형이야",
-        "date": "2024.06.30",
-        "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
     }
