@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28477829",
+        "category": "일반",
+        "title": "ㅆㅃ 청불은 당연히 걸어주시고",
+        "href": "/fboard/28477829",
+        "author": "Kan￥ewe$t",
+        "date": "2024.06.20",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28483000",
         "category": "일반",
         "title": "?",
@@ -216,17 +227,6 @@
         "author": "파이리빵",
         "date": "2024.06.15",
         "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28434054",
-        "category": "일반",
-        "title": "미친속보) 칸예 내한확정😨",
-        "href": "/fboard/28434054",
-        "author": "Josu",
-        "date": "2024.06.15",
-        "commentNum": "59",
         "isVideo": false,
         "isPhoto": true
     }
