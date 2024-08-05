@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28485393",
+        "category": "일반",
+        "title": "진짜 fake ass fan들 거르자",
+        "href": "/fboard/28485393",
+        "author": "칸예공연가는성인",
+        "date": "2024.06.22",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28484642",
         "category": "인증/후기",
         "title": "인증) GRISELDA",
@@ -216,17 +227,6 @@
         "author": "야추테니스링",
         "date": "2024.06.16",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28434812",
-        "category": "일반",
-        "title": "2Pac의 생일입니다! 🥳",
-        "href": "/fboard/28434812",
-        "author": "생일봇",
-        "date": "2024.06.15",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     }
