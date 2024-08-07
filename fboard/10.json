@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28501417",
+        "category": "리뷰",
+        "title": "Lil Xan - TOTAL XANARCHY 진지한 후기",
+        "href": "/fboard/28501417",
+        "author": "예붕이",
+        "date": "2024.06.23",
+        "commentNum": "9",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28501004",
         "category": "일반",
         "title": "The Weeknd 스티커 추가 기원 6주차",
@@ -216,17 +227,6 @@
         "author": "killakim",
         "date": "2024.06.18",
         "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28447344",
-        "category": "일반",
-        "title": "저 장난하는거 아니고요",
-        "href": "/fboard/28447344",
-        "author": "펩시맨99",
-        "date": "2024.06.17",
-        "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
     }
