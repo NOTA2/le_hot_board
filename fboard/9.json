@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28541997",
+        "category": "인증/후기",
+        "title": "Travis scott-Rodeo 바이닐 인증",
+        "href": "/fboard/28541997",
+        "author": "포스트말롱",
+        "date": "2024.06.29",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28538058",
         "category": "음악",
         "title": "[뻘글] 실력으로 외모를 커버할 수 있을까?",
@@ -207,16 +218,5 @@
         "commentNum": "9",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28501004",
-        "category": "일반",
-        "title": "The Weeknd 스티커 추가 기원 6주차",
-        "href": "/fboard/28501004",
-        "author": "주말이형이야",
-        "date": "2024.06.23",
-        "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

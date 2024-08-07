@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28501004",
+        "category": "일반",
+        "title": "The Weeknd 스티커 추가 기원 6주차",
+        "href": "/fboard/28501004",
+        "author": "주말이형이야",
+        "date": "2024.06.23",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28493053",
         "category": "일반",
         "title": "예쪽이 고마운 이유..EU",
@@ -216,17 +227,6 @@
         "author": "펩시맨99",
         "date": "2024.06.17",
         "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28452386",
-        "category": "음악",
-        "title": "명반 왔습니다",
-        "href": "/fboard/28452386",
-        "author": "고트",
-        "date": "2024.06.18",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     }
