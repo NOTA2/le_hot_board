@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28503008",
+        "category": "인증/후기",
+        "title": "새로 들인 CD장 + 여태 모은 CD 총집합.jpeg",
+        "href": "/fboard/28503008",
+        "author": "killakim",
+        "date": "2024.06.24",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28501417",
         "category": "리뷰",
         "title": "Lil Xan - TOTAL XANARCHY 진지한 후기",
@@ -218,16 +229,5 @@
         "commentNum": "8",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28455032",
-        "category": "그림/아트웍",
-        "title": "외붕이 니들 내가 오랜만에 함 웃겨준다",
-        "href": "/fboard/28455032",
-        "author": "killakim",
-        "date": "2024.06.18",
-        "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
