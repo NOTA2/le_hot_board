@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28513204",
+        "category": "인증/후기",
+        "title": "엘피 2개 도착",
+        "href": "/fboard/28513204",
+        "author": "Kanyeꓪest",
+        "date": "2024.06.25",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28512642",
         "category": "일반",
         "title": "타일러 CMIYGL 3주년 기념으로 했습니다",
@@ -218,16 +229,5 @@
         "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28465031",
-        "category": "일반",
-        "title": "CLIPSE (PUSHA T & MALICE) 신보 커밍 쑨!",
-        "href": "/fboard/28465031",
-        "author": "에이셉과라마",
-        "date": "2024.06.19",
-        "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
