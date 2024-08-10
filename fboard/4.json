@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28711833",
+        "category": "인증/후기",
+        "title": "내가 이번 휴가 때 구매한 앨범들 #1.",
+        "href": "/fboard/28711833",
+        "author": "colewrld",
+        "date": "2024.07.25",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28710761",
         "category": "그림/아트웍",
         "title": "모자에 콰지모토도 추가해봤읍니다",
@@ -207,16 +218,5 @@
         "commentNum": "23",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28683398",
-        "category": "인증/후기",
-        "title": "Jeru The Damaja - 1,2집 CD 및 LP 인증",
-        "href": "/fboard/28683398",
-        "author": "DJSam",
-        "date": "2024.07.21",
-        "commentNum": "8",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
