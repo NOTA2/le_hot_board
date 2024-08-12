@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28538058",
+        "category": "음악",
+        "title": "[뻘글] 실력으로 외모를 커버할 수 있을까?",
+        "href": "/fboard/28538058",
+        "author": "killakim",
+        "date": "2024.06.29",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28534501",
         "category": "인증/후기",
         "title": "오늘의 디깅.jpeg",
@@ -218,16 +229,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28491445",
-        "category": "일반",
-        "title": "얀디 오피셜 릴리즈 USB가 일부 이지부스트 밑창에 숨어있다.",
-        "href": "/fboard/28491445",
-        "author": "GayGay",
-        "date": "2024.06.22",
-        "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
