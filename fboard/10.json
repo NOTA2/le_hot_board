@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28545421",
+        "category": "음악",
+        "title": "라샨 선정 2024년 상반기 Best Hip-Hop Album 30",
+        "href": "/fboard/28545421",
+        "author": "Trivium",
+        "date": "2024.06.30",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28545709",
         "category": "인증/후기",
         "title": "일본 타워레코드 후기",
@@ -218,16 +229,5 @@
         "commentNum": "19",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28503008",
-        "category": "인증/후기",
-        "title": "새로 들인 CD장 + 여태 모은 CD 총집합.jpeg",
-        "href": "/fboard/28503008",
-        "author": "killakim",
-        "date": "2024.06.24",
-        "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
