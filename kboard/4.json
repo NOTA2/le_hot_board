@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28738630",
+        "category": "일반",
+        "title": "요즘 세우 앨범리뷰 잘 안 올라오는 이유",
+        "href": "/kboard/28738630",
+        "author": "포라",
+        "date": "2024.07.29",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28729749",
         "category": "일반",
         "title": "스카이민혁이 개쩌는 이유는",
@@ -205,17 +216,6 @@
         "author": "에일란",
         "date": "2024.07.24",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28703623",
-        "category": "음악",
-        "title": "시대상을 고려하지 않는 것은",
-        "href": "/kboard/28703623",
-        "author": "이상비행",
-        "date": "2024.07.23",
-        "commentNum": "5",
         "isVideo": false,
         "isPhoto": false
     }
