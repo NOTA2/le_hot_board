@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28556897",
+        "category": "음악",
+        "title": "엘범 또 왔습니다",
+        "href": "/fboard/28556897",
+        "author": "Lapi",
+        "date": "2024.07.01",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28550701",
         "category": "일반",
         "title": "The Weeknd 스티커 추가 기원 7주차",
@@ -218,16 +229,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28513204",
-        "category": "인증/후기",
-        "title": "엘피 2개 도착",
-        "href": "/fboard/28513204",
-        "author": "Kanyeꓪest",
-        "date": "2024.06.25",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
