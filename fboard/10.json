@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28589184",
+        "category": "인증/후기",
+        "title": "Kanye West [The College Dropout] 피지컬 인증",
+        "href": "/fboard/28589184",
+        "author": "TFOYK",
+        "date": "2024.07.06",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28583930",
         "category": "음악",
         "title": "[이벤트 알림] 힙합LE (LE MAG) 국외게 선정 Hip-Hop 입문 앨범 추천",
@@ -218,16 +229,5 @@
         "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28545421",
-        "category": "음악",
-        "title": "라샨 선정 2024년 상반기 Best Hip-Hop Album 30",
-        "href": "/fboard/28545421",
-        "author": "Trivium",
-        "date": "2024.06.30",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
