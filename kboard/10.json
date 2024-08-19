@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28592637",
+        "category": "인증/후기",
+        "title": "오케이션이 나한테 납치됐을 확률은?!!?",
+        "href": "/kboard/28592637",
+        "author": "dalju",
+        "date": "2024.07.06",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28587886",
         "category": "인증/후기",
         "title": "지코가 어깨동무해서 사진찍어 줄 확률은?!!? (즐거운 주말 보내세요)",
@@ -218,16 +229,5 @@
         "commentNum": "9",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28545098",
-        "category": "일반",
-        "title": "저스디스 오마주한 언에듀 게시물",
-        "href": "/kboard/28545098",
-        "author": "크밍",
-        "date": "2024.06.30",
-        "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
