@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28603397",
+        "category": "리뷰",
+        "title": "💿 해외힙합 유저매거진 \"w/HAUS OF MATTERS\" #12",
+        "href": "/fboard/28603397",
+        "author": "쟈이즈",
+        "date": "2024.07.07",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_28599942",
+        "category": "인증/후기",
+        "title": "Organized Konfusion - 1,2,3집 CD Collection",
+        "href": "/fboard/28599942",
+        "author": "DJSam",
+        "date": "2024.07.07",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28597197",
         "category": "일반",
         "title": "근데 이거 홍보 잘 해야겠던데.....",
@@ -216,17 +238,6 @@
         "author": "칸예타코야끼",
         "date": "2024.07.01",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28558854",
-        "category": "일반",
-        "title": "엘이 오른쪽 화면 광고 어떻게좀해봐요..",
-        "href": "/fboard/28558854",
-        "author": "NAs_The Don",
-        "date": "2024.07.01",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }
