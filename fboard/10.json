@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28610696",
+        "category": "음악",
+        "title": "블론드 틀어놓은 뒤 잘 준비 하는데",
+        "href": "/fboard/28610696",
+        "author": "악마수리",
+        "date": "2024.07.08",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28606509",
         "category": "음악",
         "title": "블론드 초판 실물영접",
@@ -218,38 +229,5 @@
         "commentNum": "29",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28573144",
-        "category": "일반",
-        "title": "외힙원탑 누구인가요?",
-        "href": "/fboard/28573144",
-        "author": "하오노아",
-        "date": "2024.07.03",
-        "commentNum": "39",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28566685",
-        "category": "인증/후기",
-        "title": "개인적 MF DOOM 앨범중 TOP 4 인증",
-        "href": "/fboard/28566685",
-        "author": "DJSam",
-        "date": "2024.07.03",
-        "commentNum": "13",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28559809",
-        "category": "음악",
-        "title": "노래 듣다가 갑자기 정지 누르면 나만 가수한테 미안함?",
-        "href": "/fboard/28559809",
-        "author": "켄드릭은신이야신",
-        "date": "2024.07.02",
-        "commentNum": "54",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
