@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28798661",
+        "category": "일반",
+        "title": "비프리 때문에 뇌가 망가진 거 같아요",
+        "href": "/kboard/28798661",
+        "author": "엽",
+        "date": "2024.08.04",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28800317",
         "category": "인증/후기",
         "title": "많이늦은 비프리&이케이 실물영접후기",
@@ -205,17 +216,6 @@
         "author": "오버래핑",
         "date": "2024.07.30",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28746988",
-        "category": "음악",
-        "title": "한국힙합씬은 시간이 갈수록 질떨어지는 병신들만 모이네요",
-        "href": "/kboard/28746988",
-        "author": "pink + white",
-        "date": "2024.07.30",
-        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     }
