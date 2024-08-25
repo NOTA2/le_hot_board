@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28625241",
+        "category": "음악",
+        "title": "킁이 그렇게 좋은 앨범인가...? 난 잘 못느끼겠음 ㅠ",
+        "href": "/kboard/28625241",
+        "author": "뉴센스",
+        "date": "2024.07.11",
+        "commentNum": "12",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28625489",
         "category": "음악",
         "title": "킁과 노비츠키가 명반인 이유",
@@ -218,16 +229,5 @@
         "commentNum": "30",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28599832",
-        "category": "음악",
-        "title": "고등래퍼3, 키프클랜 출신 래퍼 영케이 피처링 잠수 폭로",
-        "href": "/kboard/28599832",
-        "author": "MULLER",
-        "date": "2024.07.07",
-        "commentNum": "59",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
