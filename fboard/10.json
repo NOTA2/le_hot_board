@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28630883",
+        "category": "일반",
+        "title": "Chris Brown (2) 아이콘 기원 128일차",
+        "href": "/fboard/28630883",
+        "author": "EastBrit",
+        "date": "2024.07.12",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28632037",
         "category": "음악",
         "title": "Gen Z들아 긁혔니?ㅋㅋ",
@@ -216,17 +227,6 @@
         "author": "Ghwn",
         "date": "2024.07.08",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28602891",
-        "category": "인증/후기",
-        "title": "최근 구매한 것들 (초레어템)",
-        "href": "/fboard/28602891",
-        "author": "DannyB",
-        "date": "2024.07.08",
-        "commentNum": "44",
         "isVideo": false,
         "isPhoto": true
     }
