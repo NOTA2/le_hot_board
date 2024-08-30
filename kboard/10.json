@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28656026",
+        "category": "음악",
+        "title": "버벌진트 같은 유형이 한국랩퍼의 90%라고 보면 되는게",
+        "href": "/kboard/28656026",
+        "author": "Alfie",
+        "date": "2024.07.16",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28649941",
         "category": "리뷰",
         "title": "키드밀리(Kid Milli) - ron interlude 『BEIGE』 (분석 + 리뷰 = 감상문)",
@@ -216,17 +227,6 @@
         "author": "추단",
         "date": "2024.07.12",
         "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28625820",
-        "category": "일반",
-        "title": "짱유 이번 앨범 이갈고 만든 듯",
-        "href": "/kboard/28625820",
-        "author": "밀어볼이는건",
-        "date": "2024.07.11",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }
