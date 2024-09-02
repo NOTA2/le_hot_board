@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28676484",
+        "category": "음악",
+        "title": "킁은 과대평가되었나?",
+        "href": "/kboard/28676484",
+        "author": "ㅅㅅㄲㄲ",
+        "date": "2024.07.20",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28675660",
         "category": "일반",
         "title": "누에킁이 아니라는건 아무리 들어도 개소리임",
@@ -218,16 +229,5 @@
         "commentNum": "11",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28642248",
-        "category": "인증/후기",
-        "title": "맨스티어 공연 다녀왔습니다",
-        "href": "/kboard/28642248",
-        "author": "Fridaythe13th",
-        "date": "2024.07.14",
-        "commentNum": "54",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
