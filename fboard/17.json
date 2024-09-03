@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28411510",
+        "category": "음악",
+        "title": "벌쳐스는 걍 혁명임 ㅇㅇ",
+        "href": "/fboard/28411510",
+        "author": "홀로로로로롤",
+        "date": "2024.06.13",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28414253",
         "category": "음악",
         "title": "전 칸예 벌쳐스 긍정적으로 봅니다",
@@ -205,17 +216,6 @@
         "author": "Kanyeꓪest",
         "date": "2024.06.08",
         "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28377850",
-        "category": "인증/후기",
-        "title": "개추 좀 받아보려고 올리는 사진.JPEGMAFIA",
-        "href": "/fboard/28377850",
-        "author": "Rainymatic",
-        "date": "2024.06.08",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }
