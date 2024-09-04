@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28983170",
+        "category": "일반",
+        "title": "힙x ?) 중고장터에서 이상한 사람 봤습니다",
+        "href": "/fboard/28983170",
+        "author": "earthllot",
+        "date": "2024.08.25",
+        "commentNum": "40",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28970094",
         "category": "일반",
         "title": "칸예는 제게 인생이었습니다",
@@ -206,17 +217,6 @@
         "date": "2024.08.20",
         "commentNum": "12",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28919678",
-        "category": "리뷰",
-        "title": "곰돌이",
-        "href": "/fboard/28919678",
-        "author": "ㄱㅈㅎ",
-        "date": "2024.08.19",
-        "commentNum": "4",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
