@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28983243",
+        "category": "일반",
+        "title": "칸예 행실은 압도적으로 씹새끼긴 함",
+        "href": "/fboard/28983243",
+        "author": "JPEGꓟAFIA",
+        "date": "2024.08.25",
+        "commentNum": "25",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28983170",
         "category": "일반",
         "title": "힙x ?) 중고장터에서 이상한 사람 봤습니다",
@@ -205,17 +216,6 @@
         "author": "Nyeong",
         "date": "2024.08.20",
         "commentNum": "20",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28921267",
-        "category": "인증/후기",
-        "title": "밴쿠버에서 페기 공연 보고왔습니다! 1부",
-        "href": "/fboard/28921267",
-        "author": "Nyeong",
-        "date": "2024.08.20",
-        "commentNum": "12",
         "isVideo": true,
         "isPhoto": true
     }
