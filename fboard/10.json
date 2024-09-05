@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28685146",
+        "category": "일반",
+        "title": "통한의 미자는 개추",
+        "href": "/fboard/28685146",
+        "author": "skxno",
+        "date": "2024.07.21",
+        "commentNum": "23",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28683398",
         "category": "인증/후기",
         "title": "Jeru The Damaja - 1,2집 CD 및 LP 인증",
@@ -218,16 +229,5 @@
         "commentNum": "21",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28654031",
-        "category": "인증/후기",
-        "title": "[ 103 . 5 - Dawn FM ] cd 인증+후기",
-        "href": "/fboard/28654031",
-        "author": "노는아이카르티",
-        "date": "2024.07.16",
-        "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
