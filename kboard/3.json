@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29005353",
+        "category": "음악",
+        "title": "비프리말 공감되네요",
+        "href": "/kboard/29005353",
+        "author": "KIIS",
+        "date": "2024.08.27",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29006444",
         "category": "인증/후기",
         "title": "[ 앨범 인증 ] 개쩌는 가격에 개쩌는 앨범 업어왔습니다",
@@ -206,17 +217,6 @@
         "date": "2024.08.22",
         "commentNum": "12",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28945255",
-        "category": "일반",
-        "title": "래퍼들이 외힙 듣냐고 물어볼 게 아니라",
-        "href": "/kboard/28945255",
-        "author": "ansaninLBNC",
-        "date": "2024.08.23",
-        "commentNum": "21",
-        "isVideo": false,
         "isPhoto": false
     }
 ]
