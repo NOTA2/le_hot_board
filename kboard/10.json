@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28721866",
+        "category": "인증/후기",
+        "title": "어제 신촌 알라딘에서 산 앨범",
+        "href": "/kboard/28721866",
+        "author": "Rainymatic",
+        "date": "2024.07.26",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28726093",
         "category": "그림/아트웍",
         "title": "안녕하세요. 제가 돌아왔습니다. 그리웠어요 :) 🎨",
@@ -218,16 +229,5 @@
         "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28689447",
-        "category": "일반",
-        "title": "누명 평가는 앞으로 계속 내려갈거임..",
-        "href": "/kboard/28689447",
-        "author": "근본주의자",
-        "date": "2024.07.21",
-        "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
