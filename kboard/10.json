@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28720098",
+        "category": "음악",
+        "title": "[Official Visualizer] 희재? (layer one) - POP KIMCHI (feat. 베이식, 콸라, 최성)",
+        "href": "/kboard/28720098",
+        "author": "AFROKI",
+        "date": "2024.07.26",
+        "commentNum": "16",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28721367",
         "category": "일반",
         "title": "우리 애기 보고 가세요",
@@ -218,16 +229,5 @@
         "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28684183",
-        "category": "일반",
-        "title": "걍 3대 어쩌구, 4대 어쩌구 이딴 짓거리만 안하면 됨",
-        "href": "/kboard/28684183",
-        "author": "MarshallMathers",
-        "date": "2024.07.21",
-        "commentNum": "45",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
