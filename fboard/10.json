@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28710761",
+        "category": "그림/아트웍",
+        "title": "모자에 콰지모토도 추가해봤읍니다",
+        "href": "/fboard/28710761",
+        "author": "CuP",
+        "date": "2024.07.24",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28712044",
         "category": "일반",
         "title": "(힙x) 염치 없지만 생일 축하 좀 해주세요",
@@ -218,16 +229,5 @@
         "commentNum": "16",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28677581",
-        "category": "음악",
-        "title": "방학기념탑스터",
-        "href": "/fboard/28677581",
-        "author": "너도밤나무",
-        "date": "2024.07.20",
-        "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
