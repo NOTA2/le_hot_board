@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_29162120",
+        "category": "일반",
+        "title": "스템 플레이어 도착!!!!!!!",
+        "href": "/fboard/29162120",
+        "author": "김건혁",
+        "date": "2024.09.12",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29159911",
         "category": "리뷰",
         "title": "¥$ - VULTURES 2",
         "href": "/fboard/29159911",
         "author": "예리",
         "date": "2024.09.12",
-        "commentNum": "26",
+        "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
     },
@@ -28,7 +39,7 @@
         "href": "/fboard/29154768",
         "author": "따흙",
         "date": "2024.09.11",
-        "commentNum": "18",
+        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "Kanyeꓪest",
         "date": "2024.09.06",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29102934",
-        "category": "일반",
-        "title": "MC RIDE 칸예 포스터 번역해봤습니다",
-        "href": "/fboard/29102934",
-        "author": "KangHosam",
-        "date": "2024.09.06",
-        "commentNum": "26",
         "isVideo": false,
         "isPhoto": true
     }
