@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28712437",
+        "category": "인증/후기",
+        "title": "ASTROWORLD",
+        "href": "/fboard/28712437",
+        "author": "크밍",
+        "date": "2024.07.25",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28711833",
         "category": "인증/후기",
         "title": "내가 이번 휴가 때 구매한 앨범들 #1.",
@@ -218,16 +229,5 @@
         "commentNum": "23",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28683398",
-        "category": "인증/후기",
-        "title": "Jeru The Damaja - 1,2집 CD 및 LP 인증",
-        "href": "/fboard/28683398",
-        "author": "DJSam",
-        "date": "2024.07.21",
-        "commentNum": "8",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
