@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28860704",
+        "category": "음악",
+        "title": "엔믹스 새 앨범 (feat. 키드밀리) ㄷㄷㄷ ㄷ ㄷ ㄷ ㄷ ㄷ",
+        "href": "/kboard/28860704",
+        "author": "오해원",
+        "date": "2024.08.11",
+        "commentNum": "16",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_28861075",
+        "category": "음악",
+        "title": "스압) 평소 눈팅하다 보면 식케이에 대해서",
+        "href": "/kboard/28861075",
+        "author": "킹짱갓지노",
+        "date": "2024.08.11",
+        "commentNum": "31",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28859165",
         "category": "리뷰",
         "title": "💿 한국힙합 유저매거진 \"HAUS OF MATTERS\" #15",
@@ -196,27 +218,5 @@
         "commentNum": "36",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28818637",
-        "category": "일반",
-        "title": "한국 힙합은 세대를 거듭할수록 퇴보하는가?에 대한 짧은 글 (스압, 두서 없음, 뇌피셜)",
-        "href": "/kboard/28818637",
-        "author": "잡동사니",
-        "date": "2024.08.06",
-        "commentNum": "24",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28816281",
-        "category": "인증/후기",
-        "title": "명반들 업어왔습니다",
-        "href": "/kboard/28816281",
-        "author": "오프니어",
-        "date": "2024.08.06",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
