@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28722971",
+        "category": "인증/후기",
+        "title": "오랜만에 업데이트된 현실 탑스터",
+        "href": "/fboard/28722971",
+        "author": "Rainymatic",
+        "date": "2024.07.27",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28718432",
         "category": "음악",
         "title": "7월 26일자 해외 힙합씬 소식들",
@@ -216,28 +227,6 @@
         "author": "ꓙPEGMAFIA",
         "date": "2024.07.22",
         "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28692398",
-        "category": "일반",
-        "title": "아니 아무리 그래도 국게도 아니고 너무 욕설 남발 아닌가요?",
-        "href": "/fboard/28692398",
-        "author": "EastBrit",
-        "date": "2024.07.22",
-        "commentNum": "30",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28697794",
-        "category": "그림/아트웍",
-        "title": "유화로 그리는 travis scott",
-        "href": "/fboard/28697794",
-        "author": "kingking154",
-        "date": "2024.07.22",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     }
