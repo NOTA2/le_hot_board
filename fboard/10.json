@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28735044",
+        "category": "인증/후기",
+        "title": "갑자기CD자랑하고싶음",
+        "href": "/fboard/28735044",
+        "author": "thriftCD",
+        "date": "2024.07.28",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28726826",
         "category": "음악",
         "title": "오늘은 유토피아&오스틴의 1주년이자",
@@ -218,27 +229,5 @@
         "commentNum": "9",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28703256",
-        "category": "그림/아트웍",
-        "title": "JESUS IS KING X THE LIFE OF PABLO",
-        "href": "/fboard/28703256",
-        "author": "Littlemetroboomin",
-        "date": "2024.07.23",
-        "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28702854",
-        "category": "인증/후기",
-        "title": "오늘 온거",
-        "href": "/fboard/28702854",
-        "author": "대깨퓨처",
-        "date": "2024.07.23",
-        "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
