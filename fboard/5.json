@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28968700",
+        "category": "일반",
+        "title": "님들 저 예매취소한 사람입니다",
+        "href": "/fboard/28968700",
+        "author": "물결",
+        "date": "2024.08.24",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28974400",
         "category": "인증/후기",
         "title": "부모님하고 Kanye 보러 간 후기",
@@ -207,16 +218,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28911775",
-        "category": "음악",
-        "title": "레이지 입문 & 심화 20선 탑스터",
-        "href": "/fboard/28911775",
-        "author": "Satang",
-        "date": "2024.08.18",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
