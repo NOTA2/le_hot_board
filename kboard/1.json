@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29215372",
+        "category": "음악",
+        "title": "개추부탁",
+        "href": "/kboard/29215372",
+        "author": "Ghwn",
+        "date": "2024.09.16",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29203436",
         "category": "음악",
         "title": "오랜만입니다 유령입니다",
@@ -28,7 +39,7 @@
         "href": "/kboard/29199338",
         "author": "mvꓲd",
         "date": "2024.09.15",
-        "commentNum": "26",
+        "commentNum": "27",
         "isVideo": false,
         "isPhoto": false
     },
@@ -50,7 +61,7 @@
         "href": "/kboard/29198362",
         "author": "MiKael",
         "date": "2024.09.15",
-        "commentNum": "15",
+        "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "우주b행",
         "date": "2024.09.11",
         "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29147268",
-        "category": "음악",
-        "title": "JUSTHIS / 저스디스 “고스트 클럽” 인스타그램 팔로우",
-        "href": "/kboard/29147268",
-        "author": "디스이즈마랖",
-        "date": "2024.09.11",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }
