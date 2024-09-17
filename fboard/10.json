@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28744896",
+        "category": "인증/후기",
+        "title": "오늘의 디깅으로 맞춰지는 퍼즐.jpeg",
+        "href": "/fboard/28744896",
+        "author": "killakim",
+        "date": "2024.07.30",
+        "commentNum": "29",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28743927",
         "category": "일반",
         "title": "해줘도 읽씹!",
@@ -218,16 +229,5 @@
         "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28712044",
-        "category": "일반",
-        "title": "(힙x) 염치 없지만 생일 축하 좀 해주세요",
-        "href": "/fboard/28712044",
-        "author": "흑부랄앨범내",
-        "date": "2024.07.25",
-        "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
