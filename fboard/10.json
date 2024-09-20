@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28771511",
+        "category": "음악",
+        "title": "Playboi Carti - Whole Lotta Red 청취 포인트",
+        "href": "/fboard/28771511",
+        "author": "노는아이카르티",
+        "date": "2024.08.01",
+        "commentNum": "32",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28773578",
         "category": "인증/후기",
         "title": "최근에 산 피지컬 모음",
@@ -216,28 +227,6 @@
         "author": "뉴비입니다",
         "date": "2024.07.28",
         "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28723665",
-        "category": "일반",
-        "title": "김밥레코즈 근황",
-        "href": "/fboard/28723665",
-        "author": "크랙커",
-        "date": "2024.07.27",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28723376",
-        "category": "인증/후기",
-        "title": "Westside Gunn - Hitler Wears Hermes 2 바이닐",
-        "href": "/fboard/28723376",
-        "author": "DumpGawd",
-        "date": "2024.07.27",
-        "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
     }
