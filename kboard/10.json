@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28861476",
+        "category": "일반",
+        "title": "양홍원 SLOWMO는 아무 생각 없을 때 들어야 합니다",
+        "href": "/kboard/28861476",
+        "author": "KangHosam",
+        "date": "2024.08.12",
+        "commentNum": "28",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28860704",
         "category": "음악",
         "title": "엔믹스 새 앨범 (feat. 키드밀리) ㄷㄷㄷ ㄷ ㄷ ㄷ ㄷ ㄷ",
@@ -218,38 +229,5 @@
         "commentNum": "36",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28818637",
-        "category": "일반",
-        "title": "한국 힙합은 세대를 거듭할수록 퇴보하는가?에 대한 짧은 글 (스압, 두서 없음, 뇌피셜)",
-        "href": "/kboard/28818637",
-        "author": "잡동사니",
-        "date": "2024.08.06",
-        "commentNum": "24",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28816281",
-        "category": "인증/후기",
-        "title": "명반들 업어왔습니다",
-        "href": "/kboard/28816281",
-        "author": "오프니어",
-        "date": "2024.08.06",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28812912",
-        "category": "일반",
-        "title": "비프리 허키 합작 리드머 나옴",
-        "href": "/kboard/28812912",
-        "author": "안낭",
-        "date": "2024.08.06",
-        "commentNum": "31",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
