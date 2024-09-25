@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28875797",
+        "category": "리뷰",
+        "title": "씨잼(C JAMM) - 약빨 (feat. Yescoba) 『킁』 (분석 + 리뷰 = 감상문)",
+        "href": "/kboard/28875797",
+        "author": "코지보이",
+        "date": "2024.08.13",
+        "commentNum": "9",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28875847",
+        "category": "일반",
+        "title": "(힙x,장문) 난청이 많이 나아져서 기뻐서 써 봅니다",
+        "href": "/kboard/28875847",
+        "author": "지나가던힙찔이",
+        "date": "2024.08.13",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28871485",
         "category": "음악",
         "title": "[RAD MILLI] 트랙리스트 8월 20일 발매",
@@ -216,17 +238,6 @@
         "author": "오프니어",
         "date": "2024.08.08",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28834482",
-        "category": "일반",
-        "title": "(힙x) 방시혁 근황..",
-        "href": "/kboard/28834482",
-        "author": "징코",
-        "date": "2024.08.08",
-        "commentNum": "28",
         "isVideo": false,
         "isPhoto": true
     }
