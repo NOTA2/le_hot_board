@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28878335",
+        "category": "음악",
+        "title": "963입니다. 정규 1집 [ 전쟁 ] 발매 했습니다.",
+        "href": "/kboard/28878335",
+        "author": "CAFREEG",
+        "date": "2024.08.14",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28884879",
         "category": "일반",
         "title": "심줌들 제발 꺼져라",
@@ -216,17 +227,6 @@
         "author": "쟈이즈",
         "date": "2024.08.09",
         "commentNum": "1",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28848245",
-        "category": "일반",
-        "title": "흑화(?)해버린 BTS 슈가 팬...",
-        "href": "/kboard/28848245",
-        "author": "paidinfull",
-        "date": "2024.08.09",
-        "commentNum": "50",
         "isVideo": false,
         "isPhoto": true
     }
