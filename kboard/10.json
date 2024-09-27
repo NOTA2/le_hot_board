@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28883912",
+        "category": "음악",
+        "title": "제가 Hardboiled Cafe를 좋아하는 이유",
+        "href": "/kboard/28883912",
+        "author": "Rainymatic",
+        "date": "2024.08.15",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28887966",
         "category": "리뷰",
         "title": "씨잼(C JAMM) - 포커페이스 『킁』 (분석 + 리뷰 = 감상문)",
@@ -218,16 +229,5 @@
         "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28850019",
-        "category": "음악",
-        "title": "식케이 너무 카티네",
-        "href": "/kboard/28850019",
-        "author": "앙대여",
-        "date": "2024.08.10",
-        "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
