@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28602891",
+        "category": "인증/후기",
+        "title": "최근 구매한 것들 (초레어템)",
+        "href": "/fboard/28602891",
+        "author": "DannyB",
+        "date": "2024.07.08",
+        "commentNum": "44",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28604937",
         "category": "일반",
         "title": "지금 딱 이 분위기가 좋음 ㅇㅇ",
@@ -207,16 +218,5 @@
         "commentNum": "39",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28566685",
-        "category": "인증/후기",
-        "title": "개인적 MF DOOM 앨범중 TOP 4 인증",
-        "href": "/fboard/28566685",
-        "author": "DJSam",
-        "date": "2024.07.03",
-        "commentNum": "13",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
