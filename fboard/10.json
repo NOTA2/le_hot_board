@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28863446",
+        "category": "음악",
+        "title": "가사 해석 채널 팠숩니다",
+        "href": "/fboard/28863446",
+        "author": "ZF",
+        "date": "2024.08.12",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28859224",
         "category": "리뷰",
         "title": "💿 창간 1주년! 해외힙합 유저매거진 \"w/HAUS OF MAT...",
@@ -216,28 +227,6 @@
         "author": "앞날",
         "date": "2024.08.06",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28810144",
-        "category": "일반",
-        "title": "BIG ANNOUNCEMENT",
-        "href": "/fboard/28810144",
-        "author": "clayboiparty",
-        "date": "2024.08.06",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28817460",
-        "category": "인증/후기",
-        "title": "오늘의 강력한 한방 디깅.jpeg",
-        "href": "/fboard/28817460",
-        "author": "killakim",
-        "date": "2024.08.06",
-        "commentNum": "36",
         "isVideo": false,
         "isPhoto": true
     }
