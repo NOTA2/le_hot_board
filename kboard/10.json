@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28896885",
+        "category": "일반",
+        "title": "참으로 안타까운 힙합엘이의 현주소네요",
+        "href": "/kboard/28896885",
+        "author": "김종호",
+        "date": "2024.08.16",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28898158",
         "category": "일반",
         "title": "손심바 하위호완 같은 글쓰는애가 있네",
@@ -217,17 +228,6 @@
         "date": "2024.08.12",
         "commentNum": "28",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28860704",
-        "category": "음악",
-        "title": "엔믹스 새 앨범 (feat. 키드밀리) ㄷㄷㄷ ㄷ ㄷ ㄷ ㄷ ㄷ",
-        "href": "/kboard/28860704",
-        "author": "오해원",
-        "date": "2024.08.11",
-        "commentNum": "16",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
