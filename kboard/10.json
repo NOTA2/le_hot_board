@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28908672",
+        "category": "음악",
+        "title": "큐엠 개인적으로 고평가라고 생각함",
+        "href": "/kboard/28908672",
+        "author": "나투더플라",
+        "date": "2024.08.18",
+        "commentNum": "38",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28912472",
         "category": "음악",
         "title": "개인의 이야기를 관련없는커뮤에 자꾸언급하는거도 보기좋진않네요",
@@ -216,28 +227,6 @@
         "author": "지나가던힙찔이",
         "date": "2024.08.13",
         "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28871485",
-        "category": "음악",
-        "title": "[RAD MILLI] 트랙리스트 8월 20일 발매",
-        "href": "/kboard/28871485",
-        "author": "Application",
-        "date": "2024.08.13",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28867442",
-        "category": "일반",
-        "title": "지금 프리허키 다시듣고있는데",
-        "href": "/kboard/28867442",
-        "author": "침대위에눕는",
-        "date": "2024.08.12",
-        "commentNum": "13",
         "isVideo": false,
         "isPhoto": false
     }
