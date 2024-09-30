@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28871731",
+        "category": "일반",
+        "title": "엘이에서 시작해 진짜 엘이맥 인터뷰까지",
+        "href": "/fboard/28871731",
+        "author": "clayboiparty",
+        "date": "2024.08.13",
+        "commentNum": "24",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28869746",
         "category": "일반",
         "title": "Yeezy 책임자, ‘승인한적 없다‘",
@@ -216,17 +227,6 @@
         "author": "Kanboooooongnboooo",
         "date": "2024.08.08",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28824699",
-        "category": "리뷰",
-        "title": "Death Grips - The Powers That B",
-        "href": "/fboard/28824699",
-        "author": "예리",
-        "date": "2024.08.07",
-        "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
     }
