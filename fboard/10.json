@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28896870",
+        "category": "음악",
+        "title": "내 기준 인생명반",
+        "href": "/fboard/28896870",
+        "author": "칸예예",
+        "date": "2024.08.16",
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28889954",
         "category": "일반",
         "title": "탑스터 요즘 듣는거 모음으로 해봤습니다",
@@ -216,28 +227,6 @@
         "author": "DJSam",
         "date": "2024.08.10",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28852332",
-        "category": "일반",
-        "title": "칸예 행복해보이네…",
-        "href": "/fboard/28852332",
-        "author": "방구뿡뿡",
-        "date": "2024.08.10",
-        "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28850463",
-        "category": "그림/아트웍",
-        "title": "칸예 파는 아싸의 일상 만화 #2",
-        "href": "/fboard/28850463",
-        "author": "카타르시스",
-        "date": "2024.08.10",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }
