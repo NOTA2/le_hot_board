@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28911775",
+        "category": "음악",
+        "title": "레이지 입문 & 심화 20선 탑스터",
+        "href": "/fboard/28911775",
+        "author": "Satang",
+        "date": "2024.08.18",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28911544",
         "category": "일반",
         "title": "이봐요, 피에르! 여기 나오고 싶습니까?",
@@ -216,17 +227,6 @@
         "author": "카타르시스",
         "date": "2024.08.14",
         "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28877398",
-        "category": "그림/아트웍",
-        "title": "NO CANDY",
-        "href": "/fboard/28877398",
-        "author": "AbélMakkonenTesfaye",
-        "date": "2024.08.14",
-        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     }
