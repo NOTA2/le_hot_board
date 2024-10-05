@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28942156",
+        "category": "일반",
+        "title": "중고신입 탑스터 6×5",
+        "href": "/kboard/28942156",
+        "author": "나비착취",
+        "date": "2024.08.22",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28941328",
         "category": "인증/후기",
         "title": "비프리 앨범들 인증",
@@ -218,16 +229,5 @@
         "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28908672",
-        "category": "음악",
-        "title": "큐엠 개인적으로 고평가라고 생각함",
-        "href": "/kboard/28908672",
-        "author": "나투더플라",
-        "date": "2024.08.18",
-        "commentNum": "38",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
