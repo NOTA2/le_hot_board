@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28913717",
+        "category": "음악",
+        "title": "마침내 부자",
+        "href": "/fboard/28913717",
+        "author": "Whale666",
+        "date": "2024.08.18",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28904350",
         "category": "음악",
         "title": "근황, 음악, 그래서 칸예의 최고작이 뭔데?",
@@ -216,17 +227,6 @@
         "author": "잇츠미",
         "date": "2024.08.13",
         "commentNum": "38",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28861895",
-        "category": "그림/아트웍",
-        "title": "Lil Xan의 그 앨범 ..! Total Xanarchy 팬아트",
-        "href": "/fboard/28861895",
-        "author": "김종호",
-        "date": "2024.08.12",
-        "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
     }
