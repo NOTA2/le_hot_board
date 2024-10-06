@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28921955",
+        "category": "일반",
+        "title": "칸예는 볼 때마다 느끼는 거",
+        "href": "/fboard/28921955",
+        "author": "이골",
+        "date": "2024.08.19",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28911775",
         "category": "음악",
         "title": "레이지 입문 & 심화 20선 탑스터",
@@ -216,17 +227,6 @@
         "author": "예리",
         "date": "2024.08.14",
         "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28879167",
-        "category": "그림/아트웍",
-        "title": "칸예 파는 아싸가 MT 가서 칸예 All Day 부르는 만화 #1",
-        "href": "/fboard/28879167",
-        "author": "카타르시스",
-        "date": "2024.08.14",
-        "commentNum": "21",
         "isVideo": false,
         "isPhoto": true
     }
