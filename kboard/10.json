@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28979829",
+        "category": "일반",
+        "title": "갤러리 정리하다 발견한거",
+        "href": "/kboard/28979829",
+        "author": "98364",
+        "date": "2024.08.24",
+        "commentNum": "6",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28974631",
+        "category": "일반",
+        "title": "365LIT 갑자기 앨범냄",
+        "href": "/kboard/28974631",
+        "author": "Kan￥ewe$t",
+        "date": "2024.08.24",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28969618",
         "category": "일반",
         "title": "엘이 힙갤 펨코 모두 싫어하는 유일한 사람",
@@ -216,17 +238,6 @@
         "author": "겨울잠자는곰",
         "date": "2024.08.20",
         "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28921570",
-        "category": "음악",
-        "title": "이센스 비행 앨범커버 직촬",
-        "href": "/kboard/28921570",
-        "author": "힙알못33",
-        "date": "2024.08.19",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
     }
