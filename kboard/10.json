@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28989459",
+        "category": "일반",
+        "title": "비프리 파격적 인스타 스토리",
+        "href": "/kboard/28989459",
+        "author": "밀어볼이는건",
+        "date": "2024.08.25",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28989596",
         "category": "일반",
         "title": "비프리 미친놈ㅋㅋㅋㅋㅋㅋㅋ",
@@ -218,16 +229,5 @@
         "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28927029",
-        "category": "일반",
-        "title": "평점 자기 맘대로 줄 수도 있죠",
-        "href": "/kboard/28927029",
-        "author": "ansaninLBNC",
-        "date": "2024.08.20",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
