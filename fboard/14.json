@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28757018",
+        "category": "인증/후기",
+        "title": "Kanye West - 싱글 2장 (Through the Wire / All Falls Down)",
+        "href": "/fboard/28757018",
+        "author": "DJSam",
+        "date": "2024.07.31",
+        "commentNum": "22",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28746235",
         "category": "일반",
         "title": "미자의 발악 최후단계: 칸예가 돼라",
@@ -206,17 +217,6 @@
         "date": "2024.07.26",
         "commentNum": "27",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28712437",
-        "category": "인증/후기",
-        "title": "ASTROWORLD",
-        "href": "/fboard/28712437",
-        "author": "크밍",
-        "date": "2024.07.25",
-        "commentNum": "18",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
