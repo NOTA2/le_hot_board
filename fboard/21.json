@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28520686",
+        "category": "일반",
+        "title": "Photoroom_20240623_142508.pngE947FEA7-D6D0-47B9-96C8-91C4969D...",
+        "href": "/fboard/28520686",
+        "author": "GayGay",
+        "date": "2024.06.27",
+        "commentNum": "25",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28518798",
         "category": "인증/후기",
         "title": "오늘의 디깅.jpeg",
@@ -207,16 +218,5 @@
         "commentNum": "17",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28483000",
-        "category": "일반",
-        "title": "?",
-        "href": "/fboard/28483000",
-        "author": "Mixside",
-        "date": "2024.06.21",
-        "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
