@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28995995",
+        "category": "음악",
+        "title": "뉴챔프의 일침 ㄷㄷ",
+        "href": "/kboard/28995995",
+        "author": "MC영훈",
+        "date": "2024.08.26",
+        "commentNum": "44",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28993013",
         "category": "일반",
         "title": "비와이 씨잼 합작앨범 기대해라 ㅋㅋ",
@@ -217,17 +228,6 @@
         "date": "2024.08.21",
         "commentNum": "",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28929027",
-        "category": "음악",
-        "title": "영파씨 - ATE THAT",
-        "href": "/kboard/28929027",
-        "author": "ticalman",
-        "date": "2024.08.21",
-        "commentNum": "11",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
