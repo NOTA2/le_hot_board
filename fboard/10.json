@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28933857",
+        "category": "일반",
+        "title": "중2의 홍대 나들이",
+        "href": "/fboard/28933857",
+        "author": "김건혁",
+        "date": "2024.08.21",
+        "commentNum": "37",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28936522",
         "category": "일반",
         "title": "와이프랑 칸예 리스닝 갈예정",
@@ -218,16 +229,5 @@
         "commentNum": "12",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28896870",
-        "category": "음악",
-        "title": "내 기준 인생명반",
-        "href": "/fboard/28896870",
-        "author": "칸예예",
-        "date": "2024.08.16",
-        "commentNum": "22",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
