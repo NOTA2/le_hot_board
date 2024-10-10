@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28963876",
+        "category": "일반",
+        "title": "자랑 하나만 해도 될까요",
+        "href": "/fboard/28963876",
+        "author": "cud",
+        "date": "2024.08.23",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28958587",
         "category": "일반",
         "title": "개추가 저절로 박히는 짤.jpeg",
@@ -216,17 +227,6 @@
         "author": "칸바라마",
         "date": "2024.08.18",
         "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28913717",
-        "category": "음악",
-        "title": "마침내 부자",
-        "href": "/fboard/28913717",
-        "author": "Whale666",
-        "date": "2024.08.18",
-        "commentNum": "26",
         "isVideo": false,
         "isPhoto": true
     }
