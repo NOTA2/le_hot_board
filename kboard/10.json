@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_29009736",
+        "category": "일반",
+        "title": "비프리 HOT SUMMER 이 노래 진짜 왤케 좋지",
+        "href": "/kboard/29009736",
+        "author": "NMIXX",
+        "date": "2024.08.28",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_29008532",
+        "category": "일반",
+        "title": "비프리가 뭘 하든 싫어할수가 없는 이유",
+        "href": "/kboard/29008532",
+        "author": "왕의존재",
+        "date": "2024.08.28",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29014514",
         "category": "음악",
         "title": "행복회로 풀가동해도 되겠죠..?",
@@ -216,17 +238,6 @@
         "author": "반성문을영어로하면글로벌",
         "date": "2024.08.23",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28960583",
-        "category": "일반",
-        "title": "비호감 goat",
-        "href": "/kboard/28960583",
-        "author": "Dududu",
-        "date": "2024.08.23",
-        "commentNum": "52",
         "isVideo": false,
         "isPhoto": true
     }
