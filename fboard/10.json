@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28979288",
+        "category": "인증/후기",
+        "title": "[¥$ 리스닝 파티 후기] 스압) 역대 최고의 칸예 공연을 직관한 건...",
+        "href": "/fboard/28979288",
+        "author": "온암",
+        "date": "2024.08.26",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28995428",
         "category": "일반",
         "title": "JESUS WALKS",
@@ -216,17 +227,6 @@
         "author": "매직원",
         "date": "2024.08.21",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28933857",
-        "category": "일반",
-        "title": "중2의 홍대 나들이",
-        "href": "/fboard/28933857",
-        "author": "김건혁",
-        "date": "2024.08.21",
-        "commentNum": "37",
         "isVideo": false,
         "isPhoto": true
     }
