@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28530860",
+        "category": "리뷰",
+        "title": "[교육목적]  드레이크의 생애_힙합입문부터 첫 믹스테잎까지",
+        "href": "/fboard/28530860",
+        "author": "NeatChaos",
+        "date": "2024.06.28",
+        "commentNum": "2",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_28530982",
+        "category": "인증/후기",
+        "title": "엘범 cd 샀습니다",
+        "href": "/fboard/28530982",
+        "author": "Lapi",
+        "date": "2024.06.28",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28529437",
         "category": "음악",
         "title": "제 기억 속 데뷔시절 칸예에 대한 대략적인 반응.txt",
@@ -194,28 +216,6 @@
         "author": "GayGay",
         "date": "2024.06.22",
         "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28497431",
-        "category": "음악",
-        "title": "음악 추천으로 여성의 마음을 쟁취하자!",
-        "href": "/fboard/28497431",
-        "author": "yves",
-        "date": "2024.06.23",
-        "commentNum": "59",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28496288",
-        "category": "그림/아트웍",
-        "title": "⭐️ 칸붕티콘 : 디 에센셜",
-        "href": "/fboard/28496288",
-        "author": "GayGay",
-        "date": "2024.06.23",
-        "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
     }
