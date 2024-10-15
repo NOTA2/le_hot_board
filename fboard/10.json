@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29012822",
+        "category": "일반",
+        "title": "우울증 있었는데 칸예때문에 나았어요",
+        "href": "/fboard/29012822",
+        "author": "민지a",
+        "date": "2024.08.28",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29016774",
         "category": "일반",
         "title": "벌써 돈다 발매 3주년입니다",
@@ -216,17 +227,6 @@
         "author": "CXL",
         "date": "2024.08.23",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28963876",
-        "category": "일반",
-        "title": "자랑 하나만 해도 될까요",
-        "href": "/fboard/28963876",
-        "author": "cud",
-        "date": "2024.08.23",
-        "commentNum": "26",
         "isVideo": false,
         "isPhoto": true
     }
