@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28545709",
+        "category": "인증/후기",
+        "title": "일본 타워레코드 후기",
+        "href": "/fboard/28545709",
+        "author": "주말이형이야",
+        "date": "2024.06.30",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28544566",
         "category": "음악",
         "title": "모스 데프만 듣고 탈립 콸리 형님은 안들었던 제 자신을 반성하겠...",
@@ -207,16 +218,5 @@
         "commentNum": "19",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28503008",
-        "category": "인증/후기",
-        "title": "새로 들인 CD장 + 여태 모은 CD 총집합.jpeg",
-        "href": "/fboard/28503008",
-        "author": "killakim",
-        "date": "2024.06.24",
-        "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
