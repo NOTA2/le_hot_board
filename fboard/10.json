@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29032611",
+        "category": "음악",
+        "title": "칸예에 대해서",
+        "href": "/fboard/29032611",
+        "author": "아이돈라이크힙합",
+        "date": "2024.08.30",
+        "commentNum": "132",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "fboard_29025526",
+        "category": "일반",
+        "title": "기습찬양",
+        "href": "/fboard/29025526",
+        "author": "칸예예",
+        "date": "2024.08.29",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29028378",
         "category": "일반",
         "title": "속보) 쥬씨 블루베리주스 할인 이벤트",
@@ -217,17 +239,6 @@
         "date": "2024.08.24",
         "commentNum": "18",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28966419",
-        "category": "인증/후기",
-        "title": "30대 아재의 칸예 리스닝 파티 후기입니다.",
-        "href": "/fboard/28966419",
-        "author": "추측",
-        "date": "2024.08.24",
-        "commentNum": "6",
-        "isVideo": false,
         "isPhoto": false
     }
 ]
