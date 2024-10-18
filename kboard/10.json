@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29089212",
+        "category": "일반",
+        "title": "GOAT 반열로 언급되는 분들한테 느끼는 감상",
+        "href": "/kboard/29089212",
+        "author": "ansaninLBNC",
+        "date": "2024.09.04",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29085503",
         "category": "음악",
         "title": "싸이먼 디 근황",
@@ -216,17 +227,6 @@
         "author": "왕의존재",
         "date": "2024.08.29",
         "commentNum": "24",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_29029587",
-        "category": "음악",
-        "title": "XXX 이전의 지리는 국내 익페 앨범들",
-        "href": "/kboard/29029587",
-        "author": "887mafia",
-        "date": "2024.08.30",
-        "commentNum": "19",
         "isVideo": true,
         "isPhoto": false
     }
