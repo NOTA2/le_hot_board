@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_29624659",
+        "category": "인증/후기",
+        "title": "팔로알토 [Lovers Turn To Haters] 한정판 CD 인증.jpg",
+        "href": "/kboard/29624659",
+        "author": "killakim",
+        "date": "2024.10.20",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_29632380",
+        "category": "인증/후기",
+        "title": "OGS콘 갔다왔어요",
+        "href": "/kboard/29632380",
+        "author": "Alonso2000",
+        "date": "2024.10.20",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29618555",
         "category": "인증/후기",
         "title": "씨잼싸인에 이은 이그니토싸인과 젓딧콘 후기",
@@ -196,27 +218,5 @@
         "commentNum": "22",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_29569381",
-        "category": "음악",
-        "title": "솔직히 프더비가 좋냐?",
-        "href": "/kboard/29569381",
-        "author": "히파팬",
-        "date": "2024.10.15",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29565101",
-        "category": "일반",
-        "title": "딘 DM 답장 ㄷㄷ...jpg",
-        "href": "/kboard/29565101",
-        "author": "Jesus",
-        "date": "2024.10.14",
-        "commentNum": "40",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
