@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29113906",
+        "category": "음악",
+        "title": "눈팅러의 탑스터",
+        "href": "/kboard/29113906",
+        "author": "하얀설탕",
+        "date": "2024.09.07",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29113430",
         "category": "음악",
         "title": "노비츠키 Lp 도착했네요 !!",
@@ -216,28 +227,6 @@
         "author": "아이폰15프로",
         "date": "2024.09.01",
         "commentNum": "",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29059904",
-        "category": "인증/후기",
-        "title": "Glow forever CD/LP 사인반 인증",
-        "href": "/kboard/29059904",
-        "author": "Spitfire1108",
-        "date": "2024.09.01",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29041912",
-        "category": "일반",
-        "title": "데이토나 가서 팔로얄토랑 더콰이엇 만남ㅋㅋㅋ",
-        "href": "/kboard/29041912",
-        "author": "김건혁",
-        "date": "2024.08.31",
-        "commentNum": "26",
         "isVideo": false,
         "isPhoto": true
     }
