@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29088766",
+        "category": "인증/후기",
+        "title": "가장 레어한 Westside Gunn 바이닐",
+        "href": "/fboard/29088766",
+        "author": "DumpGawd",
+        "date": "2024.09.04",
+        "commentNum": "21",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29089541",
         "category": "인증/후기",
         "title": "올드칸예 좋아하면 당연히  개추",
@@ -216,17 +227,6 @@
         "author": "칸예예",
         "date": "2024.08.29",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29028378",
-        "category": "일반",
-        "title": "속보) 쥬씨 블루베리주스 할인 이벤트",
-        "href": "/fboard/29028378",
-        "author": "Destreza417",
-        "date": "2024.08.30",
-        "commentNum": "29",
         "isVideo": false,
         "isPhoto": true
     }
