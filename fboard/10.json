@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29147187",
+        "category": "일반",
+        "title": "YE 팬이리면 지켜야할 6가지 규칙",
+        "href": "/fboard/29147187",
+        "author": "칸예워스트2",
+        "date": "2024.09.11",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29145863",
         "category": "인증/후기",
         "title": "파블로 부틀렉이 도착했다",
@@ -218,16 +229,5 @@
         "commentNum": "36",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_29088766",
-        "category": "인증/후기",
-        "title": "가장 레어한 Westside Gunn 바이닐",
-        "href": "/fboard/29088766",
-        "author": "DumpGawd",
-        "date": "2024.09.04",
-        "commentNum": "21",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
