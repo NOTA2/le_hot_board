@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29195314",
+        "category": "인증/후기",
+        "title": "CD) 일리네어 레코즈 - 11:11 초판 & 재판 (2014)",
+        "href": "/kboard/29195314",
+        "author": "추단",
+        "date": "2024.09.15",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29198362",
         "category": "음악",
         "title": "탑스터로 알아보는 힙합 입문 과정",
@@ -218,27 +229,5 @@
         "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29139889",
-        "category": "음악",
-        "title": "안녕하세요 덥덥이라고 합니다. Mild Beats님과의 합작 앨범을 발매하였습니다.",
-        "href": "/kboard/29139889",
-        "author": "섭섭이",
-        "date": "2024.09.10",
-        "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_29138771",
-        "category": "인증/후기",
-        "title": "비프리 INDO는 명곡인 듯",
-        "href": "/kboard/29138771",
-        "author": "가라아게2조각",
-        "date": "2024.09.10",
-        "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
