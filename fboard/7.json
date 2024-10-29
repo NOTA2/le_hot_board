@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29372648",
+        "category": "음악",
+        "title": "챗지피티 진짜 한대쳐버리고싶네",
+        "href": "/fboard/29372648",
+        "author": "PDFMAFIA",
+        "date": "2024.09.28",
+        "commentNum": "35",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29371110",
+        "category": "일반",
+        "title": "(보따리 이벤트) stormzy에 대해 알아보자",
+        "href": "/fboard/29371110",
+        "author": "하비에르",
+        "date": "2024.09.28",
+        "commentNum": "7",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29368962",
         "category": "인증/후기",
         "title": "The Notorious B.I.G X 팀버랜드 6인치 구매완료",
@@ -194,28 +216,6 @@
         "author": "칸베지드예",
         "date": "2024.09.24",
         "commentNum": "38",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29331999",
-        "category": "인증/후기",
-        "title": "오늘 도착한 The Weeknd - Starboy cd",
-        "href": "/fboard/29331999",
-        "author": "노는아이카르티",
-        "date": "2024.09.24",
-        "commentNum": "38",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29333053",
-        "category": "일반",
-        "title": "유저의 질문과 소신발언에 판타노가 답하다",
-        "href": "/fboard/29333053",
-        "author": "하비에르",
-        "date": "2024.09.24",
-        "commentNum": "24",
         "isVideo": false,
         "isPhoto": true
     }
