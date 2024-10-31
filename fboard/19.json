@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28735044",
+        "category": "인증/후기",
+        "title": "갑자기CD자랑하고싶음",
+        "href": "/fboard/28735044",
+        "author": "thriftCD",
+        "date": "2024.07.28",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28726826",
         "category": "음악",
         "title": "오늘은 유토피아&오스틴의 1주년이자",
@@ -207,16 +218,5 @@
         "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28709730",
-        "category": "음악",
-        "title": "2024 XXL FRESHMAN 사이퍼 번역했어요",
-        "href": "/fboard/28709730",
-        "author": "trapfi",
-        "date": "2024.07.24",
-        "commentNum": "9",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
