@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28339392",
+        "category": "인증/후기",
+        "title": "개추가 박힐 명반들",
+        "href": "/fboard/28339392",
+        "author": "까녜",
+        "date": "2024.06.02",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28331536",
         "category": "인증/후기",
         "title": "Mach-Hommy - HBO 바이닐",
@@ -205,17 +216,6 @@
         "author": "칸예아들",
         "date": "2024.05.27",
         "commentNum": "29",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28300749",
-        "category": "음악",
-        "title": "인증) 포인트 필요해서 올리는 앨범 인증",
-        "href": "/fboard/28300749",
-        "author": "todd",
-        "date": "2024.05.28",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     }
