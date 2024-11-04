@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28578297",
+        "category": "음악",
+        "title": "🔥해외힙합 유저매거진 w/HOM #12 7.8 Coming Soon🔥",
+        "href": "/fboard/28578297",
+        "author": "쟈이즈",
+        "date": "2024.07.04",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28574565",
         "category": "음악",
         "title": "행복하네요",
@@ -205,17 +216,6 @@
         "author": "killakim",
         "date": "2024.06.29",
         "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28534501",
-        "category": "인증/후기",
-        "title": "오늘의 디깅.jpeg",
-        "href": "/fboard/28534501",
-        "author": "killakim",
-        "date": "2024.06.29",
-        "commentNum": "2",
         "isVideo": false,
         "isPhoto": true
     }
