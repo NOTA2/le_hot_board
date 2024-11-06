@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29303538",
+        "category": "인증/후기",
+        "title": "드선생의 수면제(FATD) 복용 후기",
+        "href": "/fboard/29303538",
+        "author": "노는아이카르티",
+        "date": "2024.09.22",
+        "commentNum": "50",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29306880",
+        "category": "리뷰",
+        "title": "나스 내한 기념<Nastradamus> 솔직리뷰",
+        "href": "/fboard/29306880",
+        "author": "kegun",
+        "date": "2024.09.22",
+        "commentNum": "25",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29306273",
         "category": "일반",
         "title": "이주의 외힙레딧 만담모음",
@@ -216,17 +238,6 @@
         "author": "칸베지드예",
         "date": "2024.09.16",
         "commentNum": "37",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29218392",
-        "category": "그림/아트웍",
-        "title": "Ye listening party 🎨",
-        "href": "/fboard/29218392",
-        "author": "shawtyfromseoul",
-        "date": "2024.09.16",
-        "commentNum": "26",
         "isVideo": false,
         "isPhoto": true
     }
