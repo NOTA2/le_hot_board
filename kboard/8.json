@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29446767",
+        "category": "일반",
+        "title": "쿤디판다류 랩은 도저히 귀에 안들어옴",
+        "href": "/kboard/29446767",
+        "author": "왕의존재",
+        "date": "2024.10.04",
+        "commentNum": "28",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29446120",
         "category": "음악",
         "title": "KHA, 한대음 올해의 앨범",
@@ -205,17 +216,6 @@
         "author": "고스트페이스에프킬라",
         "date": "2024.09.30",
         "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29385906",
-        "category": "인증/후기",
-        "title": "다들 화가 많은것 같은데 이거보고 화 푸세요",
-        "href": "/kboard/29385906",
-        "author": "텐타시옴",
-        "date": "2024.09.29",
-        "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
     }
