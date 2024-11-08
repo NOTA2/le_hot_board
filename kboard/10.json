@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29364594",
+        "category": "음악",
+        "title": "힙합 레이블들은 진짜 마케팅이 너무 부족함",
+        "href": "/kboard/29364594",
+        "author": "nunukkk",
+        "date": "2024.09.27",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29363664",
         "category": "음악",
         "title": "비프리 명반 예약",
@@ -218,16 +229,5 @@
         "commentNum": "22",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29308568",
-        "category": "음악",
-        "title": "저는 이런 음악이 싫음.",
-        "href": "/kboard/29308568",
-        "author": "asapjin",
-        "date": "2024.09.22",
-        "commentNum": "37",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
