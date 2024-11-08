@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29776409",
+        "category": "일반",
+        "title": "속보) 힙민수 프더비 풀앨범 업로드 예고",
+        "href": "/kboard/29776409",
+        "author": "m1N10d0",
+        "date": "2024.11.03",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29779790",
         "category": "인증/후기",
         "title": "뱃사공 cd들 인증 +공연소식",
@@ -205,17 +216,6 @@
         "author": "양그늘",
         "date": "2024.10.30",
         "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29741015",
-        "category": "음악",
-        "title": "키드밀리 사클곡 스윙스 + 나티 언급",
-        "href": "/kboard/29741015",
-        "author": "Alibi",
-        "date": "2024.10.30",
-        "commentNum": "36",
         "isVideo": false,
         "isPhoto": true
     }
