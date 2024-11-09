@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28863446",
+        "category": "음악",
+        "title": "가사 해석 채널 팠숩니다",
+        "href": "/fboard/28863446",
+        "author": "ZF",
+        "date": "2024.08.12",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28859224",
         "category": "리뷰",
         "title": "💿 창간 1주년! 해외힙합 유저매거진 \"w/HAUS OF MAT...",
@@ -205,17 +216,6 @@
         "author": "카타르시스",
         "date": "2024.08.07",
         "commentNum": "38",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28815268",
-        "category": "리뷰",
-        "title": "Common & Pete Rock <The Auditorium, Vol. 1> 리뷰",
-        "href": "/fboard/28815268",
-        "author": "앞날",
-        "date": "2024.08.06",
-        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     }
