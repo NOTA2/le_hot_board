@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29802538",
+        "category": "음악",
+        "title": "지디 파워 구리다는 말이 나오는게 이해가 안됨",
+        "href": "/kboard/29802538",
+        "author": "벅꾸동생",
+        "date": "2024.11.05",
+        "commentNum": "81",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29797942",
         "category": "인증/후기",
         "title": "조용히 개추가 박히는 앨범 인증(3)",
@@ -207,16 +218,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_29750047",
-        "category": "일반",
-        "title": "지디 이번곡이 선공개인 이유",
-        "href": "/kboard/29750047",
-        "author": "어린권지용",
-        "date": "2024.10.31",
-        "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
