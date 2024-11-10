@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29380543",
+        "category": "일반",
+        "title": "가만보면 힙찔이들 양심이 살짝 없음 ㅇㅇ",
+        "href": "/kboard/29380543",
+        "author": "아니놀라",
+        "date": "2024.09.29",
+        "commentNum": "29",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29379669",
         "category": "음악",
         "title": "난 힙합 대중화 찬성파임",
@@ -216,17 +227,6 @@
         "author": "불가항력으로메꿔",
         "date": "2024.09.23",
         "commentNum": "28",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29325871",
-        "category": "인증/후기",
-        "title": "CD) 라보나튠",
-        "href": "/kboard/29325871",
-        "author": "추단",
-        "date": "2024.09.23",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }
