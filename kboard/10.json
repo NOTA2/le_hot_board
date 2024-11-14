@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29418551",
+        "category": "일반",
+        "title": "랩퍼블릭 마케팅 감다뒤인게",
+        "href": "/kboard/29418551",
+        "author": "일식돕칠",
+        "date": "2024.10.02",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29419447",
         "category": "일반",
         "title": "새로 올라온 김강토의 민희진 찬양 영상을 보면서 느낀게",
@@ -218,27 +229,5 @@
         "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29368877",
-        "category": "음악",
-        "title": "장르 파악하는 거 너무 어려워요",
-        "href": "/kboard/29368877",
-        "author": "DanceD",
-        "date": "2024.09.28",
-        "commentNum": "26",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_29364594",
-        "category": "음악",
-        "title": "힙합 레이블들은 진짜 마케팅이 너무 부족함",
-        "href": "/kboard/29364594",
-        "author": "nunukkk",
-        "date": "2024.09.27",
-        "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
