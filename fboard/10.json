@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29380553",
+        "category": "일반",
+        "title": "“BEAUTY AND THE BEAST” 해석과 여담",
+        "href": "/fboard/29380553",
+        "author": "GayGay",
+        "date": "2024.09.29",
+        "commentNum": "37",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29372648",
         "category": "음악",
         "title": "챗지피티 진짜 한대쳐버리고싶네",
@@ -216,28 +227,6 @@
         "author": "칸베지드예",
         "date": "2024.09.24",
         "commentNum": "38",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29331999",
-        "category": "인증/후기",
-        "title": "오늘 도착한 The Weeknd - Starboy cd",
-        "href": "/fboard/29331999",
-        "author": "노는아이카르티",
-        "date": "2024.09.24",
-        "commentNum": "38",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29333053",
-        "category": "일반",
-        "title": "유저의 질문과 소신발언에 판타노가 답하다",
-        "href": "/fboard/29333053",
-        "author": "하비에르",
-        "date": "2024.09.24",
-        "commentNum": "24",
         "isVideo": false,
         "isPhoto": true
     }
