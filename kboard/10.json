@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29446767",
+        "category": "일반",
+        "title": "쿤디판다류 랩은 도저히 귀에 안들어옴",
+        "href": "/kboard/29446767",
+        "author": "왕의존재",
+        "date": "2024.10.04",
+        "commentNum": "28",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29446120",
         "category": "음악",
         "title": "KHA, 한대음 올해의 앨범",
@@ -218,16 +229,5 @@
         "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29389390",
-        "category": "음악",
-        "title": "모도 <<< 존나잘하면개추",
-        "href": "/kboard/29389390",
-        "author": "SHINEWAY",
-        "date": "2024.09.29",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
