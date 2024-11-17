@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29465674",
+        "category": "음악",
+        "title": "[대형이벤트] 포인트 2만 5000개를 뿌립니다",
+        "href": "/kboard/29465674",
+        "author": "피닛",
+        "date": "2024.10.06",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29453674",
         "category": "인증/후기",
         "title": "cdp 샀습니다",
@@ -216,17 +227,6 @@
         "author": "tjdnfdp",
         "date": "2024.10.01",
         "commentNum": "30",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29393264",
-        "category": "일반",
-        "title": "쿤디판다 데자부 그룹 계약종료+ 내일 정규 3집 [MODM 2] 선공개 싱글 발매 예정",
-        "href": "/kboard/29393264",
-        "author": "Mob",
-        "date": "2024.09.30",
-        "commentNum": "39",
         "isVideo": false,
         "isPhoto": true
     }
