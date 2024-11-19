@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28586386",
+        "category": "리뷰",
+        "title": "지금까지 들었던 앨범 31개 짧은 감상평",
+        "href": "/kboard/28586386",
+        "author": "김루드",
+        "date": "2024.09.04",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29089212",
         "category": "일반",
         "title": "GOAT 반열로 언급되는 분들한테 느끼는 감상",
@@ -205,17 +216,6 @@
         "author": "알력",
         "date": "2024.08.29",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29030300",
-        "category": "음악",
-        "title": "녹색이념이 명반이라고 묻는다면 대답해주는게 인지상정!",
-        "href": "/kboard/29030300",
-        "author": "pleasedontdoubt",
-        "date": "2024.08.30",
-        "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
     }
