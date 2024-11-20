@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29433745",
+        "category": "일반",
+        "title": "최근 커디가 칸예 관련해서 올렸던 트윗 몇개",
+        "href": "/fboard/29433745",
+        "author": "칸바라마",
+        "date": "2024.10.03",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29429177",
         "category": "음악",
         "title": "속보 카티 내한?",
@@ -218,27 +229,5 @@
         "commentNum": "7",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29368962",
-        "category": "인증/후기",
-        "title": "The Notorious B.I.G X 팀버랜드 6인치 구매완료",
-        "href": "/fboard/29368962",
-        "author": "killakim",
-        "date": "2024.09.28",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29367624",
-        "category": "리뷰",
-        "title": "보따리) 응애뉴비 음악추천",
-        "href": "/fboard/29367624",
-        "author": "섹스마스터윤성",
-        "date": "2024.09.28",
-        "commentNum": "4",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
