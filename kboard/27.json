@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28705701",
+        "category": "일반",
+        "title": "안녕하세요 와이챈스입니다. 하고싶은 말이 또 있어요",
+        "href": "/kboard/28705701",
+        "author": "brandyY",
+        "date": "2024.07.24",
+        "commentNum": "18",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28701014",
         "category": "일반",
         "title": "예지몽인건가 꿈에 키드밀리가 나와서",
@@ -207,16 +218,5 @@
         "commentNum": "2",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28665638",
-        "category": "일반",
-        "title": "힙x) 썸 타는 사람이 조건만남하는 걸 알게 됐는데 어떡하죠",
-        "href": "/kboard/28665638",
-        "author": "revybreaux",
-        "date": "2024.07.18",
-        "commentNum": "23",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
