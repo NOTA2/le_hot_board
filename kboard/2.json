@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_29971969",
+        "category": "일반",
+        "title": "지디 신곡이 구린 원인을 찾았습니다",
+        "href": "/kboard/29971969",
+        "author": "왕의존재",
+        "date": "2024.11.22",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_29972556",
+        "category": "일반",
+        "title": "최자 근황",
+        "href": "/kboard/29972556",
+        "author": "Mob",
+        "date": "2024.11.22",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29966075",
         "category": "리뷰",
         "title": "키츠요치 내려가자 감상",
@@ -194,28 +216,6 @@
         "author": "똥있지똥닦은담에처먹어",
         "date": "2024.11.17",
         "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29927957",
-        "category": "음악",
-        "title": "키츠요지 EP \"#NAERYEOGAZA (내려가자)\" 11월 20일 발매",
-        "href": "/kboard/29927957",
-        "author": "Something",
-        "date": "2024.11.17",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29927181",
-        "category": "일반",
-        "title": "박재범&타달싸",
-        "href": "/kboard/29927181",
-        "author": "Mob",
-        "date": "2024.11.17",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     }
