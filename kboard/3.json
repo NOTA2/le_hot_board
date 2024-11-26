@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29922113",
+        "category": "음악",
+        "title": "외힙만 듣는 사람의 국힙 탑스터",
+        "href": "/kboard/29922113",
+        "author": "피닛",
+        "date": "2024.11.16",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29915440",
         "category": "음악",
         "title": "힙합은 왜 이렇게 허들이 높을까",
@@ -205,17 +216,6 @@
         "author": "BLVU",
         "date": "2024.11.12",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29870175",
-        "category": "음악",
-        "title": "탑스터 한번 해봤어요",
-        "href": "/kboard/29870175",
-        "author": "시zkxkd",
-        "date": "2024.11.11",
-        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     }
