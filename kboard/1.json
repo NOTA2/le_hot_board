@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30020232",
+        "category": "리뷰",
+        "title": "혜민송&젬마 인터뷰 진행했습니다 / HAUS OF INTERVIEWS",
+        "href": "/kboard/30020232",
+        "author": "쟈이즈",
+        "date": "2024.11.26",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_30019636",
         "category": "음악",
         "title": "쿤디판다에게 피드백 받을수 있는 절호의 기회!! 대박",
@@ -17,7 +28,7 @@
         "href": "/kboard/30018670",
         "author": "케이셉라마",
         "date": "2024.11.26",
-        "commentNum": "29",
+        "commentNum": "31",
         "isVideo": false,
         "isPhoto": false
     },
@@ -28,7 +39,7 @@
         "href": "/kboard/30021304",
         "author": "쟈이즈",
         "date": "2024.11.26",
-        "commentNum": "6",
+        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29968189",
-        "category": "음악",
-        "title": "지디 관련해서 이전 글에서도 말했지만",
-        "href": "/kboard/29968189",
-        "author": "벅꾸동생",
-        "date": "2024.11.22",
-        "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
