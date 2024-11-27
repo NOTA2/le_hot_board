@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29809600",
+        "category": "인증/후기",
+        "title": "[인증] 3x3 실물 탑스터 + 보나쓰",
+        "href": "/fboard/29809600",
+        "author": "피닛",
+        "date": "2024.11.05",
+        "commentNum": "32",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29810402",
         "category": "음악",
         "title": "내가 생각하는 칸예의 장점과 단점",
@@ -207,16 +218,5 @@
         "commentNum": "23",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29753156",
-        "category": "음악",
-        "title": "Tyler, The Creator - CHROMAKOPIA 전곡해석 완료",
-        "href": "/fboard/29753156",
-        "author": "크밍",
-        "date": "2024.10.31",
-        "commentNum": "31",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
