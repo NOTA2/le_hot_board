@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29599968",
+        "category": "음악",
+        "title": "율음 앨범이 AOTY인 이유",
+        "href": "/kboard/29599968",
+        "author": "El-Note",
+        "date": "2024.10.18",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29600338",
         "category": "리뷰",
         "title": "그 잼민이가 얘라고? (율음 [CICADA] 리뷰)",
@@ -216,17 +227,6 @@
         "author": "오프니어",
         "date": "2024.10.12",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29536381",
-        "category": "그림/아트웍",
-        "title": "모듬2 팬아트",
-        "href": "/kboard/29536381",
-        "author": "양그늘",
-        "date": "2024.10.12",
-        "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
     }
