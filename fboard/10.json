@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29524642",
+        "category": "인증/후기",
+        "title": "엘이 최초 DBR 후디 세트 인증",
+        "href": "/fboard/29524642",
+        "author": "StarboiCarti",
+        "date": "2024.10.11",
+        "commentNum": "23",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29522029",
         "category": "인증/후기",
         "title": "비기 X 팀버랜드6인치 인증.jpg",
@@ -216,28 +227,6 @@
         "author": "크밍",
         "date": "2024.10.06",
         "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29467502",
-        "category": "리뷰",
-        "title": "저의 4년간의 칸예 커리어 정복기",
-        "href": "/fboard/29467502",
-        "author": "kgb",
-        "date": "2024.10.06",
-        "commentNum": "16",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29465512",
-        "category": "음악",
-        "title": "[대형 이벤트] 포인트 2만 5000개를 뿌립니다!!",
-        "href": "/fboard/29465512",
-        "author": "피닛",
-        "date": "2024.10.06",
-        "commentNum": "39",
         "isVideo": false,
         "isPhoto": true
     }
