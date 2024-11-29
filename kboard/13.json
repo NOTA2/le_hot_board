@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29429062",
+        "category": "일반",
+        "title": "랩퍼블릭 흥행은 안될듯",
+        "href": "/kboard/29429062",
+        "author": "왕의존재",
+        "date": "2024.10.03",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29427038",
         "category": "음악",
         "title": "식케이(Sik-K) - TRAP (feat. Jimmy Paige)",
@@ -207,16 +218,5 @@
         "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29381177",
-        "category": "음악",
-        "title": "그리고 랩퍼블릭에는 왜 그리 집착하심?",
-        "href": "/kboard/29381177",
-        "author": "맙쉿",
-        "date": "2024.09.29",
-        "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
