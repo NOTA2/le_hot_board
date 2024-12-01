@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29649979",
+        "category": "리뷰",
+        "title": "굿바이 데이토나 레코즈! - 데이토나 레코즈 되돌아보기 (스압주의)",
+        "href": "/kboard/29649979",
+        "author": "loding",
+        "date": "2024.10.22",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29640419",
         "category": "일반",
         "title": "ㅅㅂ 자세교정 마려워 뒤지겠는 앨범커버 투탑",
@@ -218,16 +229,5 @@
         "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29576497",
-        "category": "일반",
-        "title": "빅나티가 좀 많이 못보여준면이 있죠.",
-        "href": "/kboard/29576497",
-        "author": "BBBBBora",
-        "date": "2024.10.16",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

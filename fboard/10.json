@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29555458",
+        "category": "인증/후기",
+        "title": "R.I.P.",
+        "href": "/fboard/29555458",
+        "author": "mountain3",
+        "date": "2024.10.14",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29563522",
         "category": "음악",
         "title": "추천 눌러주시나요...??",
@@ -216,17 +227,6 @@
         "author": "East21",
         "date": "2024.10.08",
         "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29495669",
-        "category": "인증/후기",
-        "title": "명반 바이닐과 피규어.jpg",
-        "href": "/fboard/29495669",
-        "author": "killakim",
-        "date": "2024.10.09",
-        "commentNum": "32",
         "isVideo": false,
         "isPhoto": true
     }
