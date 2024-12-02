@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28414253",
+        "category": "음악",
+        "title": "전 칸예 벌쳐스 긍정적으로 봅니다",
+        "href": "/fboard/28414253",
+        "author": "비젼",
+        "date": "2024.06.13",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28411642",
         "category": "일반",
         "title": "소신 발언)))",
@@ -205,17 +216,6 @@
         "author": "Rainymatic",
         "date": "2024.06.08",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28375551",
-        "category": "인증/후기",
-        "title": "대한민국 1등 JPEGMAFIA 팬",
-        "href": "/fboard/28375551",
-        "author": "김치볶음밥너마저",
-        "date": "2024.06.08",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }
