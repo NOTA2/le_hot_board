@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28836261",
+        "category": "인증/후기",
+        "title": "칸예 역사상 2번째 최고명반이 도착했네요",
+        "href": "/fboard/28836261",
+        "author": "두개의사형대",
+        "date": "2024.08.08",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28831650",
         "category": "일반",
         "title": " 오늘은 세계 고양이의 날입니다.",
@@ -205,17 +216,6 @@
         "author": "파이리빵",
         "date": "2024.08.03",
         "commentNum": "47",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28783227",
-        "category": "음악",
-        "title": "한시간만 기다리면 벌쳐스2가 나와요!",
-        "href": "/fboard/28783227",
-        "author": "Alonso2000",
-        "date": "2024.08.03",
-        "commentNum": "24",
         "isVideo": false,
         "isPhoto": true
     }
