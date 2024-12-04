@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28861976",
+        "category": "일반",
+        "title": "버벌진트 라이브 좋았던 영상 몇개",
+        "href": "/kboard/28861976",
+        "author": "에일란",
+        "date": "2024.08.12",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28865781",
         "category": "일반",
         "title": "루피 MARNI 사인반 받음",
@@ -205,17 +216,6 @@
         "author": "릴재우",
         "date": "2024.08.08",
         "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28829295",
-        "category": "일반",
-        "title": "다시보는 국힙계의 이탕",
-        "href": "/kboard/28829295",
-        "author": "닉을왜봐",
-        "date": "2024.08.07",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }
