@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28810144",
+        "category": "일반",
+        "title": "BIG ANNOUNCEMENT",
+        "href": "/fboard/28810144",
+        "author": "clayboiparty",
+        "date": "2024.08.06",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "fboard_28817460",
+        "category": "인증/후기",
+        "title": "오늘의 강력한 한방 디깅.jpeg",
+        "href": "/fboard/28817460",
+        "author": "killakim",
+        "date": "2024.08.06",
+        "commentNum": "36",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28815749",
         "category": "일반",
         "title": "*진짜뉴스) 진짜 공연 갈뻔했습니다",
@@ -196,27 +218,5 @@
         "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28770836",
-        "category": "일반",
-        "title": "최근에 구매한 음반들",
-        "href": "/fboard/28770836",
-        "author": "Wiwiiwiw",
-        "date": "2024.08.01",
-        "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28765272",
-        "category": "일반",
-        "title": "8월2일 벌쳐스뜨면 제가 랜덤으로 3000포 줌",
-        "href": "/fboard/28765272",
-        "author": "주말이형이야",
-        "date": "2024.07.31",
-        "commentNum": "44",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
