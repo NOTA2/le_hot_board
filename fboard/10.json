@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29661974",
+        "category": "인증/후기",
+        "title": "개추.",
+        "href": "/fboard/29661974",
+        "author": "토마토개구리",
+        "date": "2024.10.23",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29656640",
+        "category": "리뷰",
+        "title": "<앨범 한줄평> #3",
+        "href": "/fboard/29656640",
+        "author": "MiKael",
+        "date": "2024.10.22",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29656150",
         "category": "일반",
         "title": "켄드릭 인터뷰 욕 먹을 건 아닌듯",
@@ -216,17 +238,6 @@
         "author": "프리영떡",
         "date": "2024.10.17",
         "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29588474",
-        "category": "인증/후기",
-        "title": "우탱클랜 앨범 구매했습니다",
-        "href": "/fboard/29588474",
-        "author": "쓸쓸하구만",
-        "date": "2024.10.17",
-        "commentNum": "39",
         "isVideo": false,
         "isPhoto": true
     }
