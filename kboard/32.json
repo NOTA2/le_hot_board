@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28639133",
+        "category": "리뷰",
+        "title": "21세기 히피의 초대장, 화지 <ZISSOU> 리뷰",
+        "href": "/kboard/28639133",
+        "author": "Writersglock",
+        "date": "2024.07.14",
+        "commentNum": "5",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28635591",
+        "category": "리뷰",
+        "title": "[앨범 총정리] 빈지노 - 『NOWITZKI』",
+        "href": "/kboard/28635591",
+        "author": "코지보이",
+        "date": "2024.07.13",
+        "commentNum": "7",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28637292",
         "category": "일반",
         "title": "인간 같지 않은 트래퍼 폭로합니다.",
@@ -195,28 +217,6 @@
         "date": "2024.07.09",
         "commentNum": "8",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28615762",
-        "category": "일반",
-        "title": "혐주의) 엘이는 광고가 왜이렇게 좆같은것만 뜸?",
-        "href": "/kboard/28615762",
-        "author": "근본주의자",
-        "date": "2024.07.09",
-        "commentNum": "26",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28609545",
-        "category": "음악",
-        "title": "MEET THE GRAHAMS 들으면 스윙스 생각이 많이 나요",
-        "href": "/kboard/28609545",
-        "author": "맙쉿",
-        "date": "2024.07.08",
-        "commentNum": "3",
-        "isVideo": false,
         "isPhoto": false
     }
 ]
