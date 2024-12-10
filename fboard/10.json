@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29662349",
+        "category": "리뷰",
+        "title": "<앨범 한줄평> #4",
+        "href": "/fboard/29662349",
+        "author": "MiKael",
+        "date": "2024.10.23",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29661921",
         "category": "일반",
         "title": "축하좀)) CD/LP 플레이어 샀습니다!",
@@ -216,17 +227,6 @@
         "author": "이오더매드문",
         "date": "2024.10.18",
         "commentNum": "66",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29604836",
-        "category": "인증/후기",
-        "title": "billy woods X kenny segal - Hiding Places 인증.jpg",
-        "href": "/fboard/29604836",
-        "author": "killakim",
-        "date": "2024.10.18",
-        "commentNum": "26",
         "isVideo": false,
         "isPhoto": true
     }
