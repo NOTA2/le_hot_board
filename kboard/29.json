@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28766741",
+        "category": "일반",
+        "title": "유명래퍼 공원 폭행사건 개인적인 고찰",
+        "href": "/kboard/28766741",
+        "author": "Fridaythe13th",
+        "date": "2024.08.01",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28760365",
         "category": "음악",
         "title": "어쩔수없다 국게를 정화시키기 위해 치트키를 쓰겠음",
@@ -207,16 +218,5 @@
         "commentNum": "44",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28720098",
-        "category": "음악",
-        "title": "[Official Visualizer] 희재? (layer one) - POP KIMCHI (feat. 베이식, 콸라, 최성)",
-        "href": "/kboard/28720098",
-        "author": "AFROKI",
-        "date": "2024.07.26",
-        "commentNum": "16",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
