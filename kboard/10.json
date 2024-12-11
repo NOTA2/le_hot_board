@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29750047",
+        "category": "일반",
+        "title": "지디 이번곡이 선공개인 이유",
+        "href": "/kboard/29750047",
+        "author": "어린권지용",
+        "date": "2024.10.31",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29744910",
         "category": "일반",
         "title": "지드래곤 랩은 진짜 모르겠네",
@@ -218,16 +229,5 @@
         "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29699977",
-        "category": "음악",
-        "title": "사실은 성공한 앨범: 업그레이드5",
-        "href": "/kboard/29699977",
-        "author": "맙쉿",
-        "date": "2024.10.27",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
