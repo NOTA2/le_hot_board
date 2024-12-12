@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_30183987",
+        "category": "일반",
+        "title": "안녕하세요",
+        "href": "/fboard/30183987",
+        "author": "JPEGULTRA",
+        "date": "2024.12.12",
+        "commentNum": "39",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_30185726",
         "category": "인증/후기",
         "title": "오늘의 바이닐 인증",
         "href": "/fboard/30185726",
         "author": "Nowhere2go",
         "date": "2024.12.12",
-        "commentNum": "16",
+        "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
     },
@@ -72,7 +83,7 @@
         "href": "/fboard/30177775",
         "author": "earthllot",
         "date": "2024.12.11",
-        "commentNum": "20",
+        "commentNum": "21",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "Delphox",
         "date": "2024.12.08",
         "commentNum": "51",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30147850",
-        "category": "일반",
-        "title": "많이들 자랑하시길레 저도 해봄",
-        "href": "/fboard/30147850",
-        "author": "Jiwon",
-        "date": "2024.12.08",
-        "commentNum": "29",
         "isVideo": false,
         "isPhoto": true
     }
