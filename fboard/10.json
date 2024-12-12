@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29688799",
+        "category": "인증/후기",
+        "title": "힙린이의 cd 컬렉션",
+        "href": "/fboard/29688799",
+        "author": "hajin",
+        "date": "2024.10.26",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29686824",
         "category": "리뷰",
         "title": "<앨범 한줄평> #7",
@@ -217,17 +228,6 @@
         "date": "2024.10.21",
         "commentNum": "40",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29640450",
-        "category": "인증/후기",
-        "title": "간만의 시디 인증",
-        "href": "/fboard/29640450",
-        "author": "Kanyeꓪest",
-        "date": "2024.10.21",
-        "commentNum": "14",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
