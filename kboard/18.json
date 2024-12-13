@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29347523",
+        "category": "음악",
+        "title": "안녕하세요 마이크 스웨거에 나오게 된 노아차(NOIDEACHILD) 입니다!",
+        "href": "/kboard/29347523",
+        "author": "NOIDEACHILD",
+        "date": "2024.09.25",
+        "commentNum": "36",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29340921",
         "category": "음악",
         "title": "손심바 까는건 디스가 아님 ㅇㅇ",
@@ -205,17 +216,6 @@
         "author": "칸예예",
         "date": "2024.09.20",
         "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_29274092",
-        "category": "일반",
-        "title": "소신발언2) 킁은 좀 고평가돼있음",
-        "href": "/kboard/29274092",
-        "author": "Juxtaposition",
-        "date": "2024.09.19",
-        "commentNum": "30",
         "isVideo": false,
         "isPhoto": false
     }
