@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29736037",
+        "category": "음악",
+        "title": "번역) 뉴진스를 극찬한 대니 브라운",
+        "href": "/fboard/29736037",
+        "author": "이오더매드문",
+        "date": "2024.10.29",
+        "commentNum": "55",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29735982",
         "category": "리뷰",
         "title": "Tyler, The Creator - CHROMAKOPIA를 듣고",
@@ -217,17 +228,6 @@
         "date": "2024.10.25",
         "commentNum": "19",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29674941",
-        "category": "일반",
-        "title": "#1 알앤비 앨범 소개 🗻",
-        "href": "/fboard/29674941",
-        "author": "김베이비킴",
-        "date": "2024.10.24",
-        "commentNum": "18",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
