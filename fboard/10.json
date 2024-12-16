@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29737222",
+        "category": "인증/후기",
+        "title": "앨범커버 이쁜것들",
+        "href": "/fboard/29737222",
+        "author": "토마토개구리",
+        "date": "2024.10.30",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29741959",
         "category": "일반",
         "title": "싱글벙글 친구에게 칸예, 타일러 먹이기!",
@@ -216,17 +227,6 @@
         "author": "너도밤나무",
         "date": "2024.10.25",
         "commentNum": "43",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29680976",
-        "category": "음악",
-        "title": "BULLY 구매희망자들을 위한 허니팁.jpg",
-        "href": "/fboard/29680976",
-        "author": "killakim",
-        "date": "2024.10.25",
-        "commentNum": "21",
         "isVideo": false,
         "isPhoto": true
     }
