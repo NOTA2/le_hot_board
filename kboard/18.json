@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29381177",
+        "category": "음악",
+        "title": "그리고 랩퍼블릭에는 왜 그리 집착하심?",
+        "href": "/kboard/29381177",
+        "author": "맙쉿",
+        "date": "2024.09.29",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29380543",
         "category": "일반",
         "title": "가만보면 힙찔이들 양심이 살짝 없음 ㅇㅇ",
@@ -206,17 +217,6 @@
         "date": "2024.09.24",
         "commentNum": "15",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29323548",
-        "category": "인증/후기",
-        "title": "노비츠키 단콘 후기 (+빈지노 삐끼삐끼)",
-        "href": "/kboard/29323548",
-        "author": "conscious",
-        "date": "2024.09.23",
-        "commentNum": "4",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
