@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29768927",
+        "category": "일반",
+        "title": "알아두면 좋을 참신하고 유용한 디깅 방법 6가지",
+        "href": "/fboard/29768927",
+        "author": "수저",
+        "date": "2024.11.02",
+        "commentNum": "31",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29765603",
         "category": "일반",
         "title": "학교에서 음악취향 개똥같단 소리 들음",
@@ -218,27 +229,5 @@
         "commentNum": "44",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29710689",
-        "category": "음악",
-        "title": "판타노의 키드커디 Speedin' Bullet to Heaven 리뷰",
-        "href": "/fboard/29710689",
-        "author": "데이비드번",
-        "date": "2024.10.27",
-        "commentNum": "57",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29711194",
-        "category": "음악",
-        "title": "판타노의 키드시고스트 리뷰",
-        "href": "/fboard/29711194",
-        "author": "데이비드번",
-        "date": "2024.10.27",
-        "commentNum": "20",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
