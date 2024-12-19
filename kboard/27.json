@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28917922",
+        "category": "일반",
+        "title": "[단독] ‘행인 폭행’ 래퍼 산이, 특수폭행 혐의로 입건",
+        "href": "/kboard/28917922",
+        "author": "마카오킴",
+        "date": "2024.08.19",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28918298",
         "category": "일반",
         "title": "임성빈 씨 발 새끼야 주제파악좀해",
@@ -206,17 +217,6 @@
         "date": "2024.08.15",
         "commentNum": "5",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28881036",
-        "category": "음악",
-        "title": "고2 СD 모은거 인증",
-        "href": "/kboard/28881036",
-        "author": "디아초",
-        "date": "2024.08.14",
-        "commentNum": "6",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
