@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29805734",
+        "category": "인증/후기",
+        "title": "오늘 온 CD",
+        "href": "/fboard/29805734",
+        "author": "PDFMAFIA",
+        "date": "2024.11.05",
+        "commentNum": "42",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29797989",
         "category": "리뷰",
         "title": "<앨범 한줄평> #13",
@@ -218,16 +229,5 @@
         "commentNum": "11",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_29742367",
-        "category": "인증/후기",
-        "title": "90년대 냄새 찐한 음반인증",
-        "href": "/fboard/29742367",
-        "author": "BKNNETS",
-        "date": "2024.10.30",
-        "commentNum": "26",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
