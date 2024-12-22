@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28309662",
+        "category": "인증/후기",
+        "title": "오랜만에 CD샀다",
+        "href": "/fboard/28309662",
+        "author": "칸예윙크",
+        "date": "2024.05.29",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28309956",
         "category": "인증/후기",
         "title": "인증) 닉변을 위한 음반인증 2탄",
@@ -206,17 +217,6 @@
         "date": "2024.05.24",
         "commentNum": "13",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28271590",
-        "category": "음악",
-        "title": "찐 드리지 BBL Drizzy 입갤",
-        "href": "/fboard/28271590",
-        "author": "산소",
-        "date": "2024.05.24",
-        "commentNum": "13",
-        "isVideo": false,
         "isPhoto": false
     }
 ]
