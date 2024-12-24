@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_30294645",
+        "category": "리뷰",
+        "title": "쿤디판다 인터뷰 진행했습니다 / HAUS OF INTERVIEWS",
+        "href": "/kboard/30294645",
+        "author": "쟈이즈",
+        "date": "2024.12.24",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_30288845",
         "category": "음악",
         "title": "힙합에 진심인 연예인들 모음...jpg",
         "href": "/kboard/30288845",
         "author": "이센스센이",
         "date": "2024.12.24",
-        "commentNum": "20",
+        "commentNum": "24",
         "isVideo": true,
         "isPhoto": true
     },
@@ -28,7 +39,7 @@
         "href": "/kboard/30281782",
         "author": "생경",
         "date": "2024.12.23",
-        "commentNum": "7",
+        "commentNum": "8",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "IBAN",
         "date": "2024.12.19",
         "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_30243979",
-        "category": "인증/후기",
-        "title": "12월 19일에 인증하는 CD",
-        "href": "/kboard/30243979",
-        "author": "Rainymatic",
-        "date": "2024.12.19",
-        "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
     }

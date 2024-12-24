@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29467044",
+        "category": "리뷰",
+        "title": " [인생리뷰] Tyler, the Creator - IGOR",
+        "href": "/fboard/29467044",
+        "author": "크밍",
+        "date": "2024.10.06",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29467502",
         "category": "리뷰",
         "title": "저의 4년간의 칸예 커리어 정복기",
@@ -205,17 +216,6 @@
         "author": "칸베지드예",
         "date": "2024.10.02",
         "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29417915",
-        "category": "인증/후기",
-        "title": "칸예 정규 실물 탑스터",
-        "href": "/fboard/29417915",
-        "author": "mountain3",
-        "date": "2024.10.02",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     }
