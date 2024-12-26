@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29848213",
+        "category": "인증/후기",
+        "title": "카시나 X Wu-tang Clan 팝업 방문후기.jpg",
+        "href": "/fboard/29848213",
+        "author": "killakim",
+        "date": "2024.11.09",
+        "commentNum": "48",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29844542",
         "category": "인증/후기",
         "title": "제 익페 입문작이 도착했습니다",
@@ -216,17 +227,6 @@
         "author": "aoty2024",
         "date": "2024.11.04",
         "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29780707",
-        "category": "인증/후기",
-        "title": "김밥,도프 레코드 갔다옴!",
-        "href": "/fboard/29780707",
-        "author": "끽해야만원",
-        "date": "2024.11.03",
-        "commentNum": "21",
         "isVideo": false,
         "isPhoto": true
     }
