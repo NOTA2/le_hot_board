@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29918449",
+        "category": "인증/후기",
+        "title": "타일러 CD를 왜 삼?",
+        "href": "/fboard/29918449",
+        "author": "칸베지드예",
+        "date": "2024.11.16",
+        "commentNum": "40",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29921500",
         "category": "인증/후기",
         "title": "여명808",
@@ -205,17 +216,6 @@
         "author": "따흙",
         "date": "2024.11.10",
         "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29852853",
-        "category": "리뷰",
-        "title": "💿 해외힙합 유저매거진 \"w/HAUS OF MATTERS\" #16",
-        "href": "/fboard/29852853",
-        "author": "쟈이즈",
-        "date": "2024.11.11",
-        "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
     }
