@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29943158",
+        "category": "음악",
+        "title": "수퍼비 \"Love, Rap & Life\" 11월 26일 발매",
+        "href": "/kboard/29943158",
+        "author": "Something",
+        "date": "2024.11.19",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29947259",
         "category": "음악",
         "title": "한국 힙합 역대 최고의 벌스 5개",
@@ -216,17 +227,6 @@
         "author": "ansaninLBNC",
         "date": "2024.11.15",
         "commentNum": "26",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_29906204",
-        "category": "음악",
-        "title": "빅나티 랩할 때 왜 자꾸 끙끙 거려요?",
-        "href": "/kboard/29906204",
-        "author": "다펑크",
-        "date": "2024.11.15",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": false
     }
