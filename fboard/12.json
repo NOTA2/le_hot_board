@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29801326",
+        "category": "리뷰",
+        "title": "곧 졸업하는 중학생의 <Graduation> 앨범 리뷰 (장문)",
+        "href": "/fboard/29801326",
+        "author": "토마토개구리",
+        "date": "2024.11.05",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
+        "id": "fboard_29805734",
+        "category": "인증/후기",
+        "title": "오늘 온 CD",
+        "href": "/fboard/29805734",
+        "author": "PDFMAFIA",
+        "date": "2024.11.05",
+        "commentNum": "42",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29797989",
         "category": "리뷰",
         "title": "<앨범 한줄평> #13",
@@ -195,28 +217,6 @@
         "date": "2024.10.31",
         "commentNum": "24",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29749244",
-        "category": "리뷰",
-        "title": "<앨범 한줄평> #9",
-        "href": "/fboard/29749244",
-        "author": "MiKael",
-        "date": "2024.10.31",
-        "commentNum": "11",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29735648",
-        "category": "일반",
-        "title": "#4 알앤비 앨범 소개  ⚖",
-        "href": "/fboard/29735648",
-        "author": "김베이비킴",
-        "date": "2024.10.30",
-        "commentNum": "11",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
