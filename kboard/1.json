@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30370837",
+        "category": "일반",
+        "title": "엘이에",
+        "href": "/kboard/30370837",
+        "author": "Leeh",
+        "date": "2024.12.31",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30368425",
         "category": "음악",
         "title": "크루셜스타 디스곡 들어봤는데 아...",
@@ -207,16 +218,5 @@
         "commentNum": "33",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_30325937",
-        "category": "일반",
-        "title": "[많이 진지] 인디고에이드입니다. 저는 성공하지 못했습니다.",
-        "href": "/kboard/30325937",
-        "author": "indegoaid",
-        "date": "2024.12.27",
-        "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
