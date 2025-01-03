@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29971969",
+        "category": "일반",
+        "title": "지디 신곡이 구린 원인을 찾았습니다",
+        "href": "/kboard/29971969",
+        "author": "왕의존재",
+        "date": "2024.11.22",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29972556",
         "category": "일반",
         "title": "최자 근황",
@@ -216,28 +227,6 @@
         "author": "Something",
         "date": "2024.11.17",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29927181",
-        "category": "일반",
-        "title": "박재범&타달싸",
-        "href": "/kboard/29927181",
-        "author": "Mob",
-        "date": "2024.11.17",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29929272",
-        "category": "음악",
-        "title": "PROBLEMCHILD 1st ALBUM CONCERT",
-        "href": "/kboard/29929272",
-        "author": "MEXXYPROB메시프로브",
-        "date": "2024.11.17",
-        "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
     }
