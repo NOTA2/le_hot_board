@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29975095",
+        "category": "음악",
+        "title": "밑글 때문에 키츠요지 앨범 들어봤는데",
+        "href": "/kboard/29975095",
+        "author": "hoopoc",
+        "date": "2024.11.22",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29980622",
         "category": "일반",
         "title": "oswald - DORK",
@@ -216,17 +227,6 @@
         "author": "메종일각",
         "date": "2024.11.18",
         "commentNum": "9",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_29933321",
-        "category": "일반",
-        "title": "아이엠머니 장가가다",
-        "href": "/kboard/29933321",
-        "author": "랩스타",
-        "date": "2024.11.18",
-        "commentNum": "7",
         "isVideo": true,
         "isPhoto": false
     }
