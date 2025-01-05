@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29674941",
+        "category": "일반",
+        "title": "#1 알앤비 앨범 소개 🗻",
+        "href": "/fboard/29674941",
+        "author": "김베이비킴",
+        "date": "2024.10.24",
+        "commentNum": "18",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29670767",
+        "category": "일반",
+        "title": "BULLY cover cover by Claybōi Párty",
+        "href": "/fboard/29670767",
+        "author": "clayboiparty",
+        "date": "2024.10.24",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29669745",
         "category": "리뷰",
         "title": "<앨범 한줄평> #5",
@@ -196,27 +218,5 @@
         "commentNum": "30",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29613694",
-        "category": "음악",
-        "title": "안녕하세요 뉴비 탑스터입니다",
-        "href": "/fboard/29613694",
-        "author": "Hanni",
-        "date": "2024.10.19",
-        "commentNum": "65",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29618608",
-        "category": "일반",
-        "title": "오늘 너무 기분이 좋다",
-        "href": "/fboard/29618608",
-        "author": "MiKael",
-        "date": "2024.10.19",
-        "commentNum": "37",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
