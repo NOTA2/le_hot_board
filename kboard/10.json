@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30004304",
+        "category": "음악",
+        "title": "랩퍼블릭에서 스민 한계가 명확히 보이네요.",
+        "href": "/kboard/30004304",
+        "author": "안드레2999",
+        "date": "2024.11.25",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30012852",
         "category": "음악",
         "title": "테이크원 상업예술 듣는데",
@@ -218,16 +229,5 @@
         "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29958510",
-        "category": "음악",
-        "title": "스포) 내려가자 재밌게 들었습니다",
-        "href": "/kboard/29958510",
-        "author": "unofficiality",
-        "date": "2024.11.21",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
