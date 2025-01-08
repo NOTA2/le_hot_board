@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29991577",
+        "category": "리뷰",
+        "title": "Kendrick Lamar - GNX(2024) 리뷰",
+        "href": "/fboard/29991577",
+        "author": "온암",
+        "date": "2024.11.24",
+        "commentNum": "28",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29987978",
         "category": "인증/후기",
         "title": "오늘 김밥에서 전재산태웠습니다..",
@@ -218,16 +229,5 @@
         "commentNum": "23",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_29937389",
-        "category": "리뷰",
-        "title": "Nas - Illmatic",
-        "href": "/fboard/29937389",
-        "author": "예리",
-        "date": "2024.11.18",
-        "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
