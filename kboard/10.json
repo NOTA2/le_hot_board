@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30034168",
+        "category": "일반",
+        "title": "힙x) 학교축제 찢었습니다",
+        "href": "/kboard/30034168",
+        "author": "앨범미루기",
+        "date": "2024.11.27",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30020232",
         "category": "리뷰",
         "title": "혜민송&젬마 인터뷰 진행했습니다 / HAUS OF INTERVIEWS",
@@ -218,16 +229,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29968189",
-        "category": "음악",
-        "title": "지디 관련해서 이전 글에서도 말했지만",
-        "href": "/kboard/29968189",
-        "author": "벅꾸동생",
-        "date": "2024.11.22",
-        "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

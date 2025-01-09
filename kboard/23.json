@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29364594",
+        "category": "음악",
+        "title": "힙합 레이블들은 진짜 마케팅이 너무 부족함",
+        "href": "/kboard/29364594",
+        "author": "nunukkk",
+        "date": "2024.09.27",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29363664",
         "category": "음악",
         "title": "비프리 명반 예약",
@@ -205,17 +216,6 @@
         "author": "쑥갓칸예나스",
         "date": "2024.09.22",
         "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29316033",
-        "category": "일반",
-        "title": "눈팅하다가 처음 글 써봅니다",
-        "href": "/kboard/29316033",
-        "author": "오션부활기원",
-        "date": "2024.09.22",
-        "commentNum": "22",
         "isVideo": false,
         "isPhoto": true
     }
