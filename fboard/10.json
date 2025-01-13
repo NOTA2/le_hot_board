@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30038063",
+        "category": "일반",
+        "title": "뉴진스 다니엘 켄드릭 라마 샤라웃ㄷㄷ",
+        "href": "/fboard/30038063",
+        "author": "칸베지드예",
+        "date": "2024.11.28",
+        "commentNum": "51",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_30036629",
         "category": "음악",
         "title": "블랙프라이데이가 뭔지 참…jpg",
@@ -216,17 +227,6 @@
         "author": "Shsuuddb",
         "date": "2024.11.23",
         "commentNum": "33",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29982372",
-        "category": "일반",
-        "title": "엘이 나감",
-        "href": "/fboard/29982372",
-        "author": "데이비드번",
-        "date": "2024.11.23",
-        "commentNum": "52",
         "isVideo": false,
         "isPhoto": false
     }
