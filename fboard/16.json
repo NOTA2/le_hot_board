@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29726565",
+        "category": "음악",
+        "title": "앨범을 내고 몇시간 동안 타일러가 당한 음해..",
+        "href": "/fboard/29726565",
+        "author": "민니",
+        "date": "2024.10.28",
+        "commentNum": "85",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29726838",
+        "category": "리뷰",
+        "title": "대깨타의 CHROMAKOPIA 리뷰",
+        "href": "/fboard/29726838",
+        "author": "applegrinder",
+        "date": "2024.10.28",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29722578",
         "category": "일반",
         "title": "인생이 아주 편하지 ㅆ련아?ㅋㅋㅋ",
@@ -194,28 +216,6 @@
         "author": "MiKael",
         "date": "2024.10.23",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29662349",
-        "category": "리뷰",
-        "title": "<앨범 한줄평> #4",
-        "href": "/fboard/29662349",
-        "author": "MiKael",
-        "date": "2024.10.23",
-        "commentNum": "13",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29661921",
-        "category": "일반",
-        "title": "축하좀)) CD/LP 플레이어 샀습니다!",
-        "href": "/fboard/29661921",
-        "author": "칸베지드예",
-        "date": "2024.10.23",
-        "commentNum": "49",
         "isVideo": false,
         "isPhoto": true
     }
