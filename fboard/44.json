@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28376675",
+        "category": "일반",
+        "title": "오늘은 제 생일입니다",
+        "href": "/fboard/28376675",
+        "author": "Kanyeꓪest",
+        "date": "2024.06.08",
+        "commentNum": "25",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28377850",
         "category": "인증/후기",
         "title": "개추 좀 받아보려고 올리는 사진.JPEGMAFIA",
@@ -207,16 +218,5 @@
         "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28342638",
-        "category": "일반",
-        "title": "앨범 평점 사이트",
-        "href": "/fboard/28342638",
-        "author": "mala",
-        "date": "2024.06.03",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
