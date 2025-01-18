@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30143818",
+        "category": "일반",
+        "title": "안녕하세요 랩퍼블릭 김가연입니다!",
+        "href": "/kboard/30143818",
+        "author": "uadz",
+        "date": "2024.12.08",
+        "commentNum": "18",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30132600",
         "category": "일반",
         "title": "래퍼가 사이버렉카냐 ㅋㅋㅋㅋㅋ",
@@ -216,28 +227,6 @@
         "author": "히파팬",
         "date": "2024.12.02",
         "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_30086807",
-        "category": "일반",
-        "title": "뭔가 xxx 앨범 커버들은 이런 뜻일 것 같음",
-        "href": "/kboard/30086807",
-        "author": "tjdnfdp",
-        "date": "2024.12.02",
-        "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_30084029",
-        "category": "그림/아트웍",
-        "title": "빈지노를 그려보았다.",
-        "href": "/kboard/30084029",
-        "author": "양그늘",
-        "date": "2024.12.02",
-        "commentNum": "18",
         "isVideo": false,
         "isPhoto": true
     }
