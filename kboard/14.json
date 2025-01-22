@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_29986013",
+        "category": "일반",
+        "title": "선진&격 앨범 발매예정",
+        "href": "/kboard/29986013",
+        "author": "밀어볼이는건",
+        "date": "2024.11.23",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_29975095",
+        "category": "음악",
+        "title": "밑글 때문에 키츠요지 앨범 들어봤는데",
+        "href": "/kboard/29975095",
+        "author": "hoopoc",
+        "date": "2024.11.22",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29980622",
         "category": "일반",
         "title": "oswald - DORK",
@@ -194,28 +216,6 @@
         "author": "회원",
         "date": "2024.11.19",
         "commentNum": "29",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_29943615",
-        "category": "리뷰",
-        "title": "오코예 인터뷰 진행했습니다 / HAUS OF INTERVIEWS",
-        "href": "/kboard/29943615",
-        "author": "쟈이즈",
-        "date": "2024.11.19",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29938060",
-        "category": "음악",
-        "title": "어그로 끌어서 죄송합니다!  홍보 한 번 하겠습니다!",
-        "href": "/kboard/29938060",
-        "author": "메종일각",
-        "date": "2024.11.18",
-        "commentNum": "9",
         "isVideo": true,
         "isPhoto": false
     }
