@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28859224",
+        "category": "리뷰",
+        "title": "💿 창간 1주년! 해외힙합 유저매거진 \"w/HAUS OF MAT...",
+        "href": "/fboard/28859224",
+        "author": "쟈이즈",
+        "date": "2024.08.11",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28857089",
         "category": "음악",
         "title": "힙합 탄생일!",
@@ -207,16 +218,5 @@
         "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28810144",
-        "category": "일반",
-        "title": "BIG ANNOUNCEMENT",
-        "href": "/fboard/28810144",
-        "author": "clayboiparty",
-        "date": "2024.08.06",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
