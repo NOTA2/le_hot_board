@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29786013",
+        "category": "일반",
+        "title": "구매완료",
+        "href": "/kboard/29786013",
+        "author": "추단",
+        "date": "2024.11.03",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29776409",
         "category": "일반",
         "title": "속보) 힙민수 프더비 풀앨범 업로드 예고",
@@ -205,17 +216,6 @@
         "author": "holidayblueshxt",
         "date": "2024.10.30",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29739033",
-        "category": "그림/아트웍",
-        "title": "루시갱 팬아트 왔습니다~",
-        "href": "/kboard/29739033",
-        "author": "양그늘",
-        "date": "2024.10.30",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }
