@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28316897",
+        "category": "일반",
+        "title": "심바가 그렇게까지 특별한 래퍼였나요?",
+        "href": "/kboard/28316897",
+        "author": "Jannny",
+        "date": "2024.05.30",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28319801",
         "category": "일반",
         "title": "고고학 새글 올라왔네",
@@ -207,16 +218,5 @@
         "commentNum": "27",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28286791",
-        "category": "일반",
-        "title": "힙갤고고학 또 나왔네",
-        "href": "/kboard/28286791",
-        "author": "곤죠",
-        "date": "2024.05.25",
-        "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
