@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28465031",
+        "category": "일반",
+        "title": "CLIPSE (PUSHA T & MALICE) 신보 커밍 쑨!",
+        "href": "/fboard/28465031",
+        "author": "에이셉과라마",
+        "date": "2024.06.19",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28466300",
         "category": "음악",
         "title": "오늘은 민니의 생일입니다! 🎆",
@@ -205,17 +216,6 @@
         "author": "Gmkbmdctt",
         "date": "2024.06.14",
         "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28425009",
-        "category": "인증/후기",
-        "title": "오늘자 시험 기간의 소비",
-        "href": "/fboard/28425009",
-        "author": "YD10",
-        "date": "2024.06.14",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     }

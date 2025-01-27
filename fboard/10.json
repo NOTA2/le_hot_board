@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30185726",
+        "category": "인증/후기",
+        "title": "오늘의 바이닐 인증",
+        "href": "/fboard/30185726",
+        "author": "Nowhere2go",
+        "date": "2024.12.12",
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30184126",
         "category": "인증/후기",
         "title": "Vince Staples - Summertime '06",
@@ -216,17 +227,6 @@
         "author": "GayGay",
         "date": "2024.12.07",
         "commentNum": "28",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30134545",
-        "category": "인증/후기",
-        "title": "[엘이 회원 합작 앨범 프로젝트] 래퍼를 담당하실 분들을 모집합...",
-        "href": "/fboard/30134545",
-        "author": "피닛",
-        "date": "2024.12.07",
-        "commentNum": "39",
         "isVideo": false,
         "isPhoto": true
     }
