@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30197320",
+        "category": "인증/후기",
+        "title": "* 엘이 최초 * 빈스 스테이플스 친필 사인반 인증",
+        "href": "/fboard/30197320",
+        "author": "피닛",
+        "date": "2024.12.13",
+        "commentNum": "36",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30201327",
         "category": "인증/후기",
         "title": "후쿠오카 타워레코드에서 구매한 음반들",
@@ -216,17 +227,6 @@
         "author": "xxxwz25",
         "date": "2024.12.09",
         "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30159418",
-        "category": "인증/후기",
-        "title": "장문) 참다참다 글 씁니다. 연락하지 마세요.",
-        "href": "/fboard/30159418",
-        "author": "mountain3",
-        "date": "2024.12.09",
-        "commentNum": "52",
         "isVideo": false,
         "isPhoto": true
     }
