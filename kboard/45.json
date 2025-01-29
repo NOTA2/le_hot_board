@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28578227",
+        "category": "일반",
+        "title": "🔥한국힙합 유저매거진 HOM #14 7.8 Coming Soon🔥",
+        "href": "/kboard/28578227",
+        "author": "쟈이즈",
+        "date": "2024.07.04",
+        "commentNum": "7",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28570170",
+        "category": "일반",
+        "title": "브루노 챔프맨 헉피 디스 날카롭네요",
+        "href": "/kboard/28570170",
+        "author": "새끼손가락피노키오",
+        "date": "2024.07.03",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28574095",
         "category": "일반",
         "title": "실시간 양홍원의 손심바 저격 ㄷㄷㄷ",
@@ -196,27 +218,5 @@
         "commentNum": "44",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28534437",
-        "category": "음악",
-        "title": "양홍원이 아무리 십새끼라도",
-        "href": "/kboard/28534437",
-        "author": "ㅅㅅㄲㄲ",
-        "date": "2024.06.29",
-        "commentNum": "75",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28534201",
-        "category": "음악",
-        "title": "똥글) 오보에 관련 소신발언",
-        "href": "/kboard/28534201",
-        "author": "ꓙPEGMAFIA",
-        "date": "2024.06.28",
-        "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
