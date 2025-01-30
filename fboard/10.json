@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30202362",
+        "category": "인증/후기",
+        "title": "드디어 도착한 “명반”",
+        "href": "/fboard/30202362",
+        "author": "archiveshaw",
+        "date": "2024.12.14",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30197320",
         "category": "인증/후기",
         "title": "* 엘이 최초 * 빈스 스테이플스 친필 사인반 인증",
@@ -217,17 +228,6 @@
         "date": "2024.12.10",
         "commentNum": "38",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30165723",
-        "category": "인증/후기",
-        "title": "Mm..Food 바이닐 인증",
-        "href": "/fboard/30165723",
-        "author": "xxxwz25",
-        "date": "2024.12.09",
-        "commentNum": "15",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
