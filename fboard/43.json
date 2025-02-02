@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28558854",
+        "category": "일반",
+        "title": "엘이 오른쪽 화면 광고 어떻게좀해봐요..",
+        "href": "/fboard/28558854",
+        "author": "NAs_The Don",
+        "date": "2024.07.01",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28556897",
         "category": "음악",
         "title": "엘범 또 왔습니다",
@@ -205,17 +216,6 @@
         "author": "GayGay",
         "date": "2024.06.27",
         "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28518798",
-        "category": "인증/후기",
-        "title": "오늘의 디깅.jpeg",
-        "href": "/fboard/28518798",
-        "author": "killakim",
-        "date": "2024.06.26",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }

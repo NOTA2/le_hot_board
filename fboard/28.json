@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29225908",
+        "category": "일반",
+        "title": "???: 치료가 필요할 정도로 심각한 '힙합엘이 중독증'...",
+        "href": "/fboard/29225908",
+        "author": "칸베지드예",
+        "date": "2024.09.16",
+        "commentNum": "37",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29218392",
         "category": "그림/아트웍",
         "title": "Ye listening party 🎨",
@@ -207,16 +218,5 @@
         "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29147187",
-        "category": "일반",
-        "title": "YE 팬이리면 지켜야할 6가지 규칙",
-        "href": "/fboard/29147187",
-        "author": "칸예워스트2",
-        "date": "2024.09.11",
-        "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
