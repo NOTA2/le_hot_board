@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28796036",
+        "category": "리뷰",
+        "title": "씨잼(C JAMM) - ㅈ (Error) 『킁』 (분석 + 리뷰 = 감상문)",
+        "href": "/kboard/28796036",
+        "author": "코지보이",
+        "date": "2024.08.04",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28792106",
+        "category": "일반",
+        "title": "쇼미11은 진지하게 이영지 돌잔치같네",
+        "href": "/kboard/28792106",
+        "author": "류조니서태지이건거리의시",
+        "date": "2024.08.03",
+        "commentNum": "40",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28790962",
         "category": "일반",
         "title": "한국힙합이 힘든 사람들의 음악이었나",
@@ -196,27 +218,5 @@
         "commentNum": "55",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28747919",
-        "category": "음악",
-        "title": "최근 국힙 한짤 요약",
-        "href": "/kboard/28747919",
-        "author": "델른",
-        "date": "2024.07.30",
-        "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28736490",
-        "category": "음악",
-        "title": "영쿡과 비솝은 랩을 개잘했어요",
-        "href": "/kboard/28736490",
-        "author": "anmond",
-        "date": "2024.07.29",
-        "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
