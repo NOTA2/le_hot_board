@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28806137",
+        "category": "음악",
+        "title": "안녕하세요 덥덥이라고 합니다",
+        "href": "/kboard/28806137",
+        "author": "섭섭이",
+        "date": "2024.08.05",
+        "commentNum": "6",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28798661",
         "category": "일반",
         "title": "비프리 때문에 뇌가 망가진 거 같아요",
@@ -206,17 +217,6 @@
         "date": "2024.07.31",
         "commentNum": "37",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28751445",
-        "category": "일반",
-        "title": "안녕하세요 새로 가입했습니다!",
-        "href": "/kboard/28751445",
-        "author": "오버래핑",
-        "date": "2024.07.30",
-        "commentNum": "4",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
