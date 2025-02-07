@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28926089",
+        "category": "인증/후기",
+        "title": "라드밀리로 핫한 와중",
+        "href": "/kboard/28926089",
+        "author": "옛날힙합몰라요",
+        "date": "2024.08.20",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28927029",
+        "category": "일반",
+        "title": "평점 자기 맘대로 줄 수도 있죠",
+        "href": "/kboard/28927029",
+        "author": "ansaninLBNC",
+        "date": "2024.08.20",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28922905",
         "category": "일반",
         "title": "빈지노? 솔직히 요새는 퇴물? 아닌가요?",
@@ -194,28 +216,6 @@
         "author": "박근호구다",
         "date": "2024.08.16",
         "commentNum": "36",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28895822",
-        "category": "음악",
-        "title": "십대의 평범하지 않으면서 평범한 진심을 담은 음악",
-        "href": "/kboard/28895822",
-        "author": "si9",
-        "date": "2024.08.16",
-        "commentNum": "2",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28894729",
-        "category": "일반",
-        "title": "진짜 여름엔 리짓군즈가 국힙 GOAT임 ㅇㅇ",
-        "href": "/kboard/28894729",
-        "author": "아니놀라",
-        "date": "2024.08.16",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": false
     }
