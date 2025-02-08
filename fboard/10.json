@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30313388",
+        "category": "음악",
+        "title": "(카티 아님) 앨범 커버 구리다고 생각했었는데",
+        "href": "/fboard/30313388",
+        "author": "피닛",
+        "date": "2024.12.26",
+        "commentNum": "21",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30306140",
         "category": "인증/후기",
         "title": "[인생 리뷰 V3] 인생 앨범 TOP 9을 소개합니다!",
@@ -216,17 +227,6 @@
         "author": "빈zi노",
         "date": "2024.12.19",
         "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30249363",
-        "category": "인증/후기",
-        "title": "[리뷰] Tyler, The Creator - Flower Boy",
-        "href": "/fboard/30249363",
-        "author": "크밍",
-        "date": "2024.12.19",
-        "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
     }
