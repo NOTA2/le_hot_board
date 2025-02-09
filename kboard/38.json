@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28912472",
+        "category": "음악",
+        "title": "개인의 이야기를 관련없는커뮤에 자꾸언급하는거도 보기좋진않네요",
+        "href": "/kboard/28912472",
+        "author": "세이구",
+        "date": "2024.08.18",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28909652",
         "category": "음악",
         "title": "고스트클럽 개인적으로 저평가라 생각함",
@@ -207,16 +218,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28871485",
-        "category": "음악",
-        "title": "[RAD MILLI] 트랙리스트 8월 20일 발매",
-        "href": "/kboard/28871485",
-        "author": "Application",
-        "date": "2024.08.13",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
