@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30335458",
+        "category": "인증/후기",
+        "title": "요즘 받은 CD 인증",
+        "href": "/fboard/30335458",
+        "author": "BKNNETS",
+        "date": "2024.12.28",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30327354",
         "category": "일반",
         "title": "소신발언) Mmtbs는 명반임",
@@ -218,27 +229,5 @@
         "commentNum": "31",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_30273143",
-        "category": "인증/후기",
-        "title": "개추받는법",
-        "href": "/fboard/30273143",
-        "author": "따흙",
-        "date": "2024.12.22",
-        "commentNum": "57",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30266753",
-        "category": "인증/후기",
-        "title": "#RICHAXXHAITIAN 디지털 에디션 바이닐",
-        "href": "/fboard/30266753",
-        "author": "DumpGawd",
-        "date": "2024.12.21",
-        "commentNum": "25",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
