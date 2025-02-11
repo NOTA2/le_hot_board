@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30352045",
+        "category": "인증/후기",
+        "title": "[2024연말결산이벤트] 어느 고딩의 음반 수집 이야기",
+        "href": "/fboard/30352045",
+        "author": "BKNNETS",
+        "date": "2024.12.29",
+        "commentNum": "34",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30343505",
         "category": "음악",
         "title": "[2024연말결산이벤트] 자랑과 수다 #1 (그리고 힙합)",
@@ -216,17 +227,6 @@
         "author": "Irvine",
         "date": "2024.12.24",
         "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30291793",
-        "category": "인증/후기",
-        "title": "무료 LP 나눔 받았어요! (썸랩송)",
-        "href": "/fboard/30291793",
-        "author": "K드릭라마",
-        "date": "2024.12.24",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     }
