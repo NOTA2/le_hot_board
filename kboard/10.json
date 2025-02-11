@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30354060",
+        "category": "일반",
+        "title": "테이크원 선생님의 일침(qm편)",
+        "href": "/kboard/30354060",
+        "author": "KDBK1099",
+        "date": "2024.12.29",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30353934",
         "category": "일반",
         "title": "테이크원 선생님의 일침(딥플로우편)",
@@ -218,16 +229,5 @@
         "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_30292630",
-        "category": "일반",
-        "title": "스윙스 사단 래퍼들은 왜 정신병 면제가 많을까?",
-        "href": "/kboard/30292630",
-        "author": "Gyeeah",
-        "date": "2024.12.24",
-        "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
