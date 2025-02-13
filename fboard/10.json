@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30367873",
+        "category": "인증/후기",
+        "title": "저도 연말결산겸 여태 산 앨범들 모아봄",
+        "href": "/fboard/30367873",
+        "author": "푸샤투샤",
+        "date": "2024.12.31",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30366067",
         "category": "인증/후기",
         "title": "[2024연말결산이벤트] 군붕이 바이닐 컬렉션",
@@ -217,17 +228,6 @@
         "date": "2024.12.25",
         "commentNum": "14",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30313388",
-        "category": "음악",
-        "title": "(카티 아님) 앨범 커버 구리다고 생각했었는데",
-        "href": "/fboard/30313388",
-        "author": "피닛",
-        "date": "2024.12.26",
-        "commentNum": "21",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
