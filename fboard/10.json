@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30380778",
+        "category": "인증/후기",
+        "title": "[CD] SUFJAN STEVENS - Javelin",
+        "href": "/fboard/30380778",
+        "author": "yskim03",
+        "date": "2025.01.01",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30382107",
         "category": "인증/후기",
         "title": "오늘 구입한 음반",
@@ -216,28 +227,6 @@
         "author": "BKNNETS",
         "date": "2024.12.28",
         "commentNum": "26",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30327354",
-        "category": "일반",
-        "title": "소신발언) Mmtbs는 명반임",
-        "href": "/fboard/30327354",
-        "author": "칸베지드예",
-        "date": "2024.12.27",
-        "commentNum": "45",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30325283",
-        "category": "인증/후기",
-        "title": "Ka - The Thief Next to Jesus 바이닐 (+전집 인증)",
-        "href": "/fboard/30325283",
-        "author": "DumpGawd",
-        "date": "2024.12.27",
-        "commentNum": "24",
         "isVideo": false,
         "isPhoto": true
     }
