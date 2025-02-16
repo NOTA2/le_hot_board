@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29106512",
+        "category": "일반",
+        "title": "한국힙합 유저매거진 HOM #16 9월 9일 발간 예정!",
+        "href": "/kboard/29106512",
+        "author": "쟈이즈",
+        "date": "2024.09.07",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29113906",
         "category": "음악",
         "title": "눈팅러의 탑스터",
@@ -207,16 +218,5 @@
         "commentNum": "2",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29063785",
-        "category": "음악",
-        "title": "양홍원 갠적으로 감탄한가사",
-        "href": "/kboard/29063785",
-        "author": "세이구",
-        "date": "2024.09.02",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

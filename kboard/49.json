@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28553035",
+        "category": "리뷰",
+        "title": "[앨범 리뷰] 에픽하이 믹스테입 <PUMP> (24.06.20.)",
+        "href": "/kboard/28553035",
+        "author": "그루트",
+        "date": "2024.07.01",
+        "commentNum": "4",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28550616",
         "category": "음악",
         "title": "더콰가 쓴 가사 모아놓고 보니 힙합 그 자체네요",
@@ -205,17 +216,6 @@
         "author": "까복돌이새끼들아",
         "date": "2024.06.26",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28519263",
-        "category": "일반",
-        "title": "여태 이런 거한테 열을 냈었구나",
-        "href": "/kboard/28519263",
-        "author": "근본주의자",
-        "date": "2024.06.26",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     }
