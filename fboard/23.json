@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29711194",
+        "category": "음악",
+        "title": "판타노의 키드시고스트 리뷰",
+        "href": "/fboard/29711194",
+        "author": "데이비드번",
+        "date": "2024.10.27",
+        "commentNum": "20",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29707781",
         "category": "인증/후기",
         "title": "개추를 주세오",
@@ -207,16 +218,5 @@
         "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29656640",
-        "category": "리뷰",
-        "title": "<앨범 한줄평> #3",
-        "href": "/fboard/29656640",
-        "author": "MiKael",
-        "date": "2024.10.22",
-        "commentNum": "13",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
