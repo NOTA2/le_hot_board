@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28762584",
+        "category": "음악",
+        "title": "트래비스 스캇은 3집>1집>2집>4집임",
+        "href": "/fboard/28762584",
+        "author": "아이돈라이크힙합",
+        "date": "2024.07.31",
+        "commentNum": "24",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28746227",
         "category": "음악",
         "title": "방학에 한것",
@@ -205,17 +216,6 @@
         "author": "데이비너스",
         "date": "2024.07.25",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28714308",
-        "category": "인증/후기",
-        "title": "굳띠멩...",
-        "href": "/fboard/28714308",
-        "author": "AllMoneyIn",
-        "date": "2024.07.25",
-        "commentNum": "2",
         "isVideo": false,
         "isPhoto": true
     }
