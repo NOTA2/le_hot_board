@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30431400",
+        "category": "일반",
+        "title": "뒷북주의) 타블로는 왜 수퍼비의 디스에 대해 해명을 안 했을까요?",
+        "href": "/kboard/30431400",
+        "author": "사랑이아니야필요할뿐이야",
+        "date": "2025.01.06",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30430775",
         "category": "음악",
         "title": "와 킁 왤케 ㅈ됨?",
@@ -218,16 +229,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_30378161",
-        "category": "일반",
-        "title": "오왼 인스타+디젤 반응",
-        "href": "/kboard/30378161",
-        "author": "SGA",
-        "date": "2025.01.01",
-        "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
