@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29467502",
+        "category": "리뷰",
+        "title": "저의 4년간의 칸예 커리어 정복기",
+        "href": "/fboard/29467502",
+        "author": "kgb",
+        "date": "2024.10.06",
+        "commentNum": "16",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29465512",
         "category": "음악",
         "title": "[대형 이벤트] 포인트 2만 5000개를 뿌립니다!!",
@@ -205,17 +216,6 @@
         "author": "mountain3",
         "date": "2024.10.02",
         "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29414919",
-        "category": "인증/후기",
-        "title": "오늘 산거",
-        "href": "/fboard/29414919",
-        "author": "칸베지드예",
-        "date": "2024.10.02",
-        "commentNum": "40",
         "isVideo": false,
         "isPhoto": true
     }
