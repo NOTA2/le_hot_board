@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29473052",
+        "category": "인증/후기",
+        "title": "명반",
+        "href": "/fboard/29473052",
+        "author": "playboiyerti",
+        "date": "2024.10.07",
+        "commentNum": "21",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29476900",
         "category": "음악",
         "title": "릴 테카 싸인 CD 도착💯",
@@ -207,16 +218,5 @@
         "commentNum": "23",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_29417073",
-        "category": "일반",
-        "title": "실물 4×4 탑스터",
-        "href": "/fboard/29417073",
-        "author": "earthllot",
-        "date": "2024.10.02",
-        "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
