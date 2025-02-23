@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30401015",
+        "category": "리뷰",
+        "title": "드디어",
+        "href": "/kboard/30401015",
+        "author": "aqbin",
+        "date": "2025.01.03",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30398046",
         "category": "인증/후기",
         "title": "에픽하이 사인 LP 당첨됐네요",
@@ -205,17 +216,6 @@
         "author": "힙합은내친구",
         "date": "2024.12.30",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_30354106",
-        "category": "일반",
-        "title": "테이크원 선생님의 일침(110.12편)",
-        "href": "/kboard/30354106",
-        "author": "KDBK1099",
-        "date": "2024.12.29",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": false
     }
