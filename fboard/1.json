@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31230385",
+        "category": "음악",
+        "title": "레이지 입문자들을 위한 오피움 간단 입문서",
+        "href": "/fboard/31230385",
+        "author": "HomixideGang",
+        "date": "2025.02.23",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31225413",
         "category": "음악",
         "title": "2월 3주 청취 기록",
@@ -17,7 +28,7 @@
         "href": "/fboard/31221858",
         "author": "Serotonin",
         "date": "2025.02.23",
-        "commentNum": "45",
+        "commentNum": "46",
         "isVideo": false,
         "isPhoto": true
     },
@@ -28,7 +39,7 @@
         "href": "/fboard/31219458",
         "author": "rangee",
         "date": "2025.02.23",
-        "commentNum": "22",
+        "commentNum": "23",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "GayGay",
         "date": "2025.02.18",
         "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31156550",
-        "category": "인증/후기",
-        "title": "교과서 2권 사왔습니다",
-        "href": "/fboard/31156550",
-        "author": "archiveshaw",
-        "date": "2025.02.18",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }
