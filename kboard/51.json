@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28525702",
+        "category": "인증/후기",
+        "title": "충격과 공포의 블라세 Debugging 피지컬 후기",
+        "href": "/kboard/28525702",
+        "author": "성실",
+        "date": "2024.06.27",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28520190",
         "category": "일반",
         "title": "힙x)최근에 본 사건중에서 너무 화가나고 어이없는 사건",
@@ -206,17 +217,6 @@
         "date": "2024.06.23",
         "commentNum": "13",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28496510",
-        "category": "일반",
-        "title": "손심바로 끓인 보신탕",
-        "href": "/kboard/28496510",
-        "author": "난지우다",
-        "date": "2024.06.23",
-        "commentNum": "19",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
