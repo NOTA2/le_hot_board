@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28970094",
+        "category": "일반",
+        "title": "칸예는 제게 인생이었습니다",
+        "href": "/fboard/28970094",
+        "author": "Kan￥ewe$t",
+        "date": "2024.08.24",
+        "commentNum": "18",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28966419",
         "category": "인증/후기",
         "title": "30대 아재의 칸예 리스닝 파티 후기입니다.",
@@ -205,17 +216,6 @@
         "author": "ㄱㅈㅎ",
         "date": "2024.08.19",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28918854",
-        "category": "일반",
-        "title": "나도 드랍아웃 베어",
-        "href": "/fboard/28918854",
-        "author": "김건혁",
-        "date": "2024.08.19",
-        "commentNum": "26",
         "isVideo": false,
         "isPhoto": true
     }

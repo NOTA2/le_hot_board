@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_31255495",
+        "category": "인증/후기",
+        "title": "나이트메어 삼신기",
+        "href": "/fboard/31255495",
+        "author": "SEONG",
+        "date": "2025.02.25",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31249169",
         "category": "인증/후기",
         "title": "Gang Starr - CD & LP Collection (프리모 그는 신이야!)",
         "href": "/fboard/31249169",
         "author": "DJSam",
         "date": "2025.02.25",
-        "commentNum": "14",
+        "commentNum": "16",
         "isVideo": true,
         "isPhoto": true
     },
@@ -17,7 +28,7 @@
         "href": "/fboard/31257079",
         "author": "MN3",
         "date": "2025.02.25",
-        "commentNum": "32",
+        "commentNum": "34",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "kopia",
         "date": "2025.02.21",
         "commentNum": "24",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31176631",
-        "category": "음악",
-        "title": "위켄드 CD들",
-        "href": "/fboard/31176631",
-        "author": "위켄드찐팬",
-        "date": "2025.02.20",
-        "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
     }
