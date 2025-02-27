@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29972556",
+        "category": "일반",
+        "title": "최자 근황",
+        "href": "/kboard/29972556",
+        "author": "Mob",
+        "date": "2024.11.22",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29966075",
         "category": "리뷰",
         "title": "키츠요치 내려가자 감상",
@@ -205,17 +216,6 @@
         "author": "Something",
         "date": "2024.11.17",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29927181",
-        "category": "일반",
-        "title": "박재범&타달싸",
-        "href": "/kboard/29927181",
-        "author": "Mob",
-        "date": "2024.11.17",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     }
