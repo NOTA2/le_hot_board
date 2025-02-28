@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30364587",
+        "category": "일반",
+        "title": "김태균 선생님...",
+        "href": "/kboard/30364587",
+        "author": "잡동사니",
+        "date": "2024.12.30",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30356899",
         "category": "음악",
         "title": "오래된 친구들처럼 편한 힙합",
@@ -205,17 +216,6 @@
         "author": "kmgpractice",
         "date": "2024.12.25",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_30307803",
-        "category": "음악",
-        "title": "홍다빈은 뭔가 아쉽다",
-        "href": "/kboard/30307803",
-        "author": "호랑이살지한반도에",
-        "date": "2024.12.25",
-        "commentNum": "5",
         "isVideo": false,
         "isPhoto": false
     }
