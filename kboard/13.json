@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30354106",
+        "category": "일반",
+        "title": "테이크원 선생님의 일침(110.12편)",
+        "href": "/kboard/30354106",
+        "author": "KDBK1099",
+        "date": "2024.12.29",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30354060",
         "category": "일반",
         "title": "테이크원 선생님의 일침(qm편)",
@@ -205,17 +216,6 @@
         "author": "lIIlIIl",
         "date": "2024.12.25",
         "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_30301823",
-        "category": "인증/후기",
-        "title": "올해의 크리스마스 선물🥰",
-        "href": "/kboard/30301823",
-        "author": "비프리조아",
-        "date": "2024.12.24",
-        "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
     }
