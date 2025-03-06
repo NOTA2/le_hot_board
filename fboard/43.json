@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28762334",
+        "category": "일반",
+        "title": "칸예 내한 영상 편지 떴다",
+        "href": "/fboard/28762334",
+        "author": "doydly",
+        "date": "2024.07.31",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28762584",
         "category": "음악",
         "title": "트래비스 스캇은 3집>1집>2집>4집임",
@@ -207,16 +218,5 @@
         "commentNum": "8",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28713170",
-        "category": "음악",
-        "title": "외힙 1년차 뉴비 탑스터",
-        "href": "/fboard/28713170",
-        "author": "데이비너스",
-        "date": "2024.07.25",
-        "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
