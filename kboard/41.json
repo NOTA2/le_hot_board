@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29010724",
+        "category": "음악",
+        "title": "안녕하세요 정규 1집 [정리해고]를 발매하게 된 업무태만입니다",
+        "href": "/kboard/29010724",
+        "author": "휴일히히",
+        "date": "2024.08.28",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29005353",
         "category": "음악",
         "title": "비프리말 공감되네요",
@@ -206,17 +217,6 @@
         "date": "2024.08.23",
         "commentNum": "30",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28940960",
-        "category": "음악",
-        "title": "[비빔팝 선공개]키드밀리& 엔믹스(해원)SICKUHH LIVE",
-        "href": "/kboard/28940960",
-        "author": "Application",
-        "date": "2024.08.22",
-        "commentNum": "12",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
