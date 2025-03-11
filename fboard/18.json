@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30205160",
+        "category": "일반",
+        "title": "아 닉변하고싶다",
+        "href": "/fboard/30205160",
+        "author": "칸베지드예",
+        "date": "2024.12.14",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_30207194",
         "category": "그림/아트웍",
         "title": "카티 앨범 내길바라면서 그렷습니다",
@@ -206,17 +217,6 @@
         "date": "2024.12.11",
         "commentNum": "18",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30168562",
-        "category": "리뷰",
-        "title": "수원 스타필드 LP 존 후기 (라고 하기엔 짧은)",
-        "href": "/fboard/30168562",
-        "author": "음충이",
-        "date": "2024.12.10",
-        "commentNum": "25",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

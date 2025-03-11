@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28989459",
+        "category": "일반",
+        "title": "비프리 파격적 인스타 스토리",
+        "href": "/kboard/28989459",
+        "author": "밀어볼이는건",
+        "date": "2024.08.25",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28989596",
         "category": "일반",
         "title": "비프리 미친놈ㅋㅋㅋㅋㅋㅋㅋ",
@@ -207,16 +218,5 @@
         "commentNum": "9",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28926089",
-        "category": "인증/후기",
-        "title": "라드밀리로 핫한 와중",
-        "href": "/kboard/28926089",
-        "author": "옛날힙합몰라요",
-        "date": "2024.08.20",
-        "commentNum": "1",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
