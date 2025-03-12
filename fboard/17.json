@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30266225",
+        "category": "인증/후기",
+        "title": "요즘 엘이는 피지컬 인증이 인기네요",
+        "href": "/fboard/30266225",
+        "author": "민니",
+        "date": "2024.12.21",
+        "commentNum": "48",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30263236",
         "category": "인증/후기",
         "title": "불리한 사람",
@@ -206,17 +217,6 @@
         "date": "2024.12.16",
         "commentNum": "45",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30218746",
-        "category": "리뷰",
-        "title": "내맘대로 2024 HIPHOP AWARDS",
-        "href": "/fboard/30218746",
-        "author": "앞날",
-        "date": "2024.12.16",
-        "commentNum": "14",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
