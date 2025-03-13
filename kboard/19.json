@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_30191577",
+        "category": "리뷰",
+        "title": "JUSTHIS _ VIVID 해석",
+        "href": "/kboard/30191577",
+        "author": "banhana1014",
+        "date": "2024.12.13",
+        "commentNum": "29",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_30184130",
+        "category": "음악",
+        "title": "저스디스 몇년간 정말 아쉽네요",
+        "href": "/kboard/30184130",
+        "author": "니매미청림",
+        "date": "2024.12.12",
+        "commentNum": "38",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30185711",
         "category": "일반",
         "title": "저스디스한테 디엠 보내고 싶네 ㅇㅇ",
@@ -196,27 +218,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_30158263",
-        "category": "음악",
-        "title": "한국 언더그라운드 씬은 엘이가 살린다",
-        "href": "/kboard/30158263",
-        "author": "피닛",
-        "date": "2024.12.09",
-        "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_30153543",
-        "category": "인증/후기",
-        "title": "돌고돌아 cd인증",
-        "href": "/kboard/30153543",
-        "author": "Fishkim",
-        "date": "2024.12.08",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
