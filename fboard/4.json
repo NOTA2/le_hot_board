@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31264759",
+        "category": "음악",
+        "title": "[전곡 해석] Death Grips - Exmilitary (Mixtape)",
+        "href": "/fboard/31264759",
+        "author": "강이현",
+        "date": "2025.02.26",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31268453",
         "category": "일반",
         "title": "이제 그만묻고",
@@ -205,17 +216,6 @@
         "author": "rangee",
         "date": "2025.02.21",
         "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31193667",
-        "category": "일반",
-        "title": "똥글) 플레이보이 카티 심리학적 분석",
-        "href": "/fboard/31193667",
-        "author": "HomixideGang",
-        "date": "2025.02.21",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }
