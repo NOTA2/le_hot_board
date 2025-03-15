@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30748621",
+        "category": "리뷰",
+        "title": "Kanye West - The College Dropout 리뷰",
+        "href": "/fboard/30748621",
+        "author": "공ZA",
+        "date": "2025.01.28",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30745441",
         "category": "리뷰",
         "title": "Pusha T - DAYTONA 리뷰",
@@ -218,16 +229,5 @@
         "commentNum": "39",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_30692359",
-        "category": "리뷰",
-        "title": "제이콜의 'Love Yourz'와 어린왕자",
-        "href": "/fboard/30692359",
-        "author": "lemonhead",
-        "date": "2025.01.24",
-        "commentNum": "10",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
