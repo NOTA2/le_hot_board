@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30725642",
+        "category": "일반",
+        "title": "김강토씨 영상을보고 느낀점",
+        "href": "/kboard/30725642",
+        "author": "KIIS",
+        "date": "2025.01.26",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30729195",
         "category": "음악",
         "title": "안녕하세요! 여행하면서 음악하는 여성 보컬 프리나즈(Fre Naz) 입니다 :)!",
@@ -218,16 +229,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_30665560",
-        "category": "음악",
-        "title": "입문서) OSWALD의 대해서 알아보자",
-        "href": "/kboard/30665560",
-        "author": "ron인터루드",
-        "date": "2025.01.21",
-        "commentNum": "4",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
