@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28319801",
+        "category": "일반",
+        "title": "고고학 새글 올라왔네",
+        "href": "/kboard/28319801",
+        "author": "테이크원3집존버단",
+        "date": "2024.05.30",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28314844",
         "category": "일반",
         "title": "이제 그만하라니 쓰러진 사람 조롱하는 게 옳은지에 대해",
@@ -207,16 +218,5 @@
         "commentNum": "23",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28285017",
-        "category": "음악",
-        "title": "힙합엘이 줌터뷰 백번째 손님 오도마, 건배님 인터뷰",
-        "href": "/kboard/28285017",
-        "author": "공ZA",
-        "date": "2024.05.25",
-        "commentNum": "",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
