@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_29612062",
+        "category": "음악",
+        "title": "[엘이 회원 합작 앨범 프로젝트] 비트 메이킹, 프로듀싱하는 분들을 모집합니다!",
+        "href": "/kboard/29612062",
+        "author": "피닛",
+        "date": "2024.10.19",
+        "commentNum": "9",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_29603361",
+        "category": "음악",
+        "title": "에픽하이-미슐랭 cypher",
+        "href": "/kboard/29603361",
+        "author": "Mob",
+        "date": "2024.10.18",
+        "commentNum": "9",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29599968",
         "category": "음악",
         "title": "율음 앨범이 AOTY인 이유",
@@ -194,28 +216,6 @@
         "author": "박근호구다",
         "date": "2024.10.13",
         "commentNum": "43",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29540565",
-        "category": "음악",
-        "title": "스타나 명반이 매해 나오면",
-        "href": "/kboard/29540565",
-        "author": "Alonso2000",
-        "date": "2024.10.13",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_29542309",
-        "category": "음악",
-        "title": "스윙스: 술 한 잔 마셨습니다.",
-        "href": "/kboard/29542309",
-        "author": "맙쉿",
-        "date": "2024.10.12",
-        "commentNum": "35",
         "isVideo": false,
         "isPhoto": true
     }
