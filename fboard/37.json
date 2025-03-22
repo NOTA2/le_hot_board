@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29275360",
+        "category": "그림/아트웍",
+        "title": "인기글보고 삘받아서 저도 위켄드 그려봤어요",
+        "href": "/fboard/29275360",
+        "author": "Jannny",
+        "date": "2024.09.19",
+        "commentNum": "23",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29270831",
+        "category": "음악",
+        "title": "JPEGMAFIA - I LAY DOWN MY LIFE FOR YOU 전곡해석 완료!",
+        "href": "/fboard/29270831",
+        "author": "자카",
+        "date": "2024.09.19",
+        "commentNum": "24",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29264512",
         "category": "그림/아트웍",
         "title": "10만포인트를 향한 여정 2일차 - 개추를 누를 수 밖에 없는 그림",
@@ -195,28 +217,6 @@
         "date": "2024.09.14",
         "commentNum": "28",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29187796",
-        "category": "일반",
-        "title": "엤다 이놈아",
-        "href": "/fboard/29187796",
-        "author": "김건혁",
-        "date": "2024.09.14",
-        "commentNum": "42",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29181041",
-        "category": "음악",
-        "title": "[추석 특선] 🩸WLR - Rockstar Made 받아쓰기🩸",
-        "href": "/fboard/29181041",
-        "author": "GayGay",
-        "date": "2024.09.14",
-        "commentNum": "17",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
