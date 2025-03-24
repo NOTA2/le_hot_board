@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30893212",
+        "category": "일반",
+        "title": "2025 제 22회 한국대중음악상 후보 정리",
+        "href": "/kboard/30893212",
+        "author": "E센스",
+        "date": "2025.02.06",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30885672",
         "category": "인증/후기",
         "title": "율음 CICADA CD 인증",
@@ -217,17 +228,6 @@
         "date": "2025.02.01",
         "commentNum": "10",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_30800774",
-        "category": "리뷰",
-        "title": "QM - 망가진것들 (분석 + 리뷰 = 감상문)",
-        "href": "/kboard/30800774",
-        "author": "코지보이",
-        "date": "2025.01.31",
-        "commentNum": "7",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
