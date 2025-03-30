@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30036629",
+        "category": "음악",
+        "title": "블랙프라이데이가 뭔지 참…jpg",
+        "href": "/fboard/30036629",
+        "author": "killakim",
+        "date": "2024.11.28",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30034552",
         "category": "음악",
         "title": "근데 확실히 지금 켄드릭 모습이 투팍이랑 비슷하긴 한듯.",
@@ -205,17 +216,6 @@
         "author": "Shsuuddb",
         "date": "2024.11.23",
         "commentNum": "33",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29982372",
-        "category": "일반",
-        "title": "엘이 나감",
-        "href": "/fboard/29982372",
-        "author": "데이비드번",
-        "date": "2024.11.23",
-        "commentNum": "52",
         "isVideo": false,
         "isPhoto": false
     }
