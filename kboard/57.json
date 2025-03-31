@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28578227",
+        "category": "일반",
+        "title": "🔥한국힙합 유저매거진 HOM #14 7.8 Coming Soon🔥",
+        "href": "/kboard/28578227",
+        "author": "쟈이즈",
+        "date": "2024.07.04",
+        "commentNum": "7",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28570170",
         "category": "일반",
         "title": "브루노 챔프맨 헉피 디스 날카롭네요",
@@ -207,16 +218,5 @@
         "commentNum": "44",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28534437",
-        "category": "음악",
-        "title": "양홍원이 아무리 십새끼라도",
-        "href": "/kboard/28534437",
-        "author": "ㅅㅅㄲㄲ",
-        "date": "2024.06.29",
-        "commentNum": "75",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
