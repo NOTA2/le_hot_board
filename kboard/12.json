@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30905286",
+        "category": "인증/후기",
+        "title": "브론즈 Bronze - 1,2,3집 LP / Tape 컬렉션",
+        "href": "/kboard/30905286",
+        "author": "DJSam",
+        "date": "2025.02.07",
+        "commentNum": "41",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_30915139",
         "category": "일반",
         "title": "대학 합격했습니다",
@@ -207,16 +218,5 @@
         "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_30828826",
-        "category": "일반",
-        "title": "업그레이드5 좋게 들음",
-        "href": "/kboard/30828826",
-        "author": "뻐끔",
-        "date": "2025.02.02",
-        "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
