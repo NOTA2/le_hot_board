@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_31214806",
+        "category": "인증/후기",
+        "title": "수십억 집 한 채가",
+        "href": "/kboard/31214806",
+        "author": "Rainymatic",
+        "date": "2025.02.22",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_31207699",
         "category": "인증/후기",
         "title": "CD) 사수자리",
@@ -217,17 +228,6 @@
         "date": "2025.02.17",
         "commentNum": "5",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_31128209",
-        "category": "일반",
-        "title": "이런 컨텐츠 좋은거같아요",
-        "href": "/kboard/31128209",
-        "author": "아포칼립소",
-        "date": "2025.02.16",
-        "commentNum": "3",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
