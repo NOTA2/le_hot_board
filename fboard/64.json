@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28238042",
+        "category": "일반",
+        "title": "엘이맥(님)에게 소신발언 하겠습니다.",
+        "href": "/fboard/28238042",
+        "author": "주말이형이야",
+        "date": "2024.05.19",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28233993",
         "category": "그림/아트웍",
         "title": "LEX",
@@ -205,17 +216,6 @@
         "author": "Wiwiiwiw",
         "date": "2024.05.14",
         "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28190170",
-        "category": "그림/아트웍",
-        "title": "트래비스 스캇",
-        "href": "/fboard/28190170",
-        "author": "a_chal",
-        "date": "2024.05.14",
-        "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
     }
