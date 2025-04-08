@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31375387",
+        "category": "음악",
+        "title": "[전곡 해석] The Pharcyde - Bizarre Ride II The Pharcyde",
+        "href": "/fboard/31375387",
+        "author": "강이현",
+        "date": "2025.03.08",
+        "commentNum": "25",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31374230",
         "category": "음악",
         "title": "다음 해석할 거 공개함.",
@@ -205,17 +216,6 @@
         "author": "yevis",
         "date": "2025.03.02",
         "commentNum": "32",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31329059",
-        "category": "음악",
-        "title": "[전곡 해석] Earl Sweatshirt & The Alchemist - VOIR DIRE",
-        "href": "/fboard/31329059",
-        "author": "강이현",
-        "date": "2025.03.02",
-        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     }
