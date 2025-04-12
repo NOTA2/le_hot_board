@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31231154",
+        "category": "리뷰",
+        "title": "Playboi Carti - Whole Lotta Red",
+        "href": "/fboard/31231154",
+        "author": "PIayboiCarti",
+        "date": "2025.02.24",
+        "commentNum": "36",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31232045",
         "category": "음악",
         "title": "Mach-Hommy - Dump Gawd: Hommy Edition 전곡 해석 완료",
@@ -216,28 +227,6 @@
         "author": "PDFMAFIA",
         "date": "2025.02.18",
         "commentNum": "29",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31143236",
-        "category": "일반",
-        "title": "어제자 YEEZY 전 디자이너의 회고 인터뷰 (비앙카의 불륜, 인종차...",
-        "href": "/fboard/31143236",
-        "author": "GayGay",
-        "date": "2025.02.18",
-        "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31156550",
-        "category": "인증/후기",
-        "title": "교과서 2권 사왔습니다",
-        "href": "/fboard/31156550",
-        "author": "archiveshaw",
-        "date": "2025.02.18",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }
