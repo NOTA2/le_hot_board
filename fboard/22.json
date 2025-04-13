@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30335458",
+        "category": "인증/후기",
+        "title": "요즘 받은 CD 인증",
+        "href": "/fboard/30335458",
+        "author": "BKNNETS",
+        "date": "2024.12.28",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30327354",
         "category": "일반",
         "title": "소신발언) Mmtbs는 명반임",
@@ -207,16 +218,5 @@
         "commentNum": "34",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_30269797",
-        "category": "음악",
-        "title": "Penamena <- 이분에게 물건 구매하신 분들을 찾습니다!",
-        "href": "/fboard/30269797",
-        "author": "민니",
-        "date": "2024.12.22",
-        "commentNum": "31",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

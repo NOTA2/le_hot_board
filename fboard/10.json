@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31249169",
+        "category": "인증/후기",
+        "title": "Gang Starr - CD & LP Collection (프리모 그는 신이야!)",
+        "href": "/fboard/31249169",
+        "author": "DJSam",
+        "date": "2025.02.25",
+        "commentNum": "16",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31257079",
         "category": "인증/후기",
         "title": "엑조디아 완성",
@@ -218,16 +229,5 @@
         "commentNum": "18",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_31175640",
-        "category": "인증/후기",
-        "title": "얼빡 트릴로지 완성",
-        "href": "/fboard/31175640",
-        "author": "AbélMakkonenTesfaye",
-        "date": "2025.02.20",
-        "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
