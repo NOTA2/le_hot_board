@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28327111",
+        "category": "인증/후기",
+        "title": "어제 처음으로 중고서점 가서 본 국힙 CD들",
+        "href": "/kboard/28327111",
+        "author": "세오죠",
+        "date": "2024.06.01",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28327395",
         "category": "일반",
         "title": "그냥 뭘 봐도 이수린 손을 들어줄 수밖에 없음",
@@ -207,16 +218,5 @@
         "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28305686",
-        "category": "음악",
-        "title": "[Official Visualizer] 희재? (layer one) - HIPPO (feat. Grimm Doza, Khundi Panda, ...",
-        "href": "/kboard/28305686",
-        "author": "pARTist",
-        "date": "2024.05.28",
-        "commentNum": "10",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
