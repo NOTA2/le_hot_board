@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28643393",
+        "category": "인증/후기",
+        "title": "그동안 모은 피지컬들 인증합니다!",
+        "href": "/kboard/28643393",
+        "author": "ㅇ일리키즈",
+        "date": "2024.07.14",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28640877",
         "category": "리뷰",
         "title": "그냥노창 - 없는계절 <2부> (분석 + 리뷰 = 감상문)",
@@ -205,17 +216,6 @@
         "author": "dalju",
         "date": "2024.07.09",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28620635",
-        "category": "일반",
-        "title": "지예아",
-        "href": "/kboard/28620635",
-        "author": "김루드",
-        "date": "2024.07.10",
-        "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
     }
