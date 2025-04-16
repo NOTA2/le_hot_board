@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31302710",
+        "category": "음악",
+        "title": "일매틱 간단 후기",
+        "href": "/fboard/31302710",
+        "author": "Parkta1958",
+        "date": "2025.02.28",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_31296374",
         "category": "음악",
         "title": "[나의 인생앨범 이벤트] The Black Messiah",
@@ -216,17 +227,6 @@
         "author": "rangee",
         "date": "2025.02.23",
         "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31214218",
-        "category": "리뷰",
-        "title": "(뉴비 필독) 외힙 쌩초보를 위한 입문용 앨범 15선",
-        "href": "/fboard/31214218",
-        "author": "FINNIT",
-        "date": "2025.02.22",
-        "commentNum": "99",
         "isVideo": false,
         "isPhoto": true
     }
