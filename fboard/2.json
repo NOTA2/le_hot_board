@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31734222",
+        "category": "리뷰",
+        "title": "뉴-켄드릭 에라에 관하여",
+        "href": "/fboard/31734222",
+        "author": "uma馬",
+        "date": "2025.04.12",
+        "commentNum": "41",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31726511",
         "category": "리뷰",
         "title": "[리 뷰 이 벤 트] $$$4U 공구 진행중~",
@@ -207,16 +218,5 @@
         "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_31688440",
-        "category": "일반",
-        "title": "그냥 과거는 다 차치해두고 현재 칸예 상황만 객관적으로 봅시다",
-        "href": "/fboard/31688440",
-        "author": "HomixideGang",
-        "date": "2025.04.07",
-        "commentNum": "28",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
