@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31712704",
+        "category": "일반",
+        "title": "자기혐오에서 벗어나는 법..",
+        "href": "/fboard/31712704",
+        "author": "뾴감이",
+        "date": "2025.04.09",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31706492",
         "category": "인증/후기",
         "title": "외힙 입문 CD 인증",
@@ -207,16 +218,5 @@
         "commentNum": "18",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_31668007",
-        "category": "리뷰",
-        "title": "Jane Remover - [REVENGESEEKERZ] 리뷰",
-        "href": "/fboard/31668007",
-        "author": "thediamondsea",
-        "date": "2025.04.05",
-        "commentNum": "27",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
