@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29701884",
+        "category": "인증/후기",
+        "title": "최근 산 앨범들",
+        "href": "/fboard/29701884",
+        "author": "민니",
+        "date": "2024.10.27",
+        "commentNum": "42",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29689785",
+        "category": "인증/후기",
+        "title": "OOTD 오늘 착장 / 촬영 후기",
+        "href": "/fboard/29689785",
+        "author": "shawtyfromseoul",
+        "date": "2024.10.26",
+        "commentNum": "33",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29692944",
         "category": "음악",
         "title": "연대별 베스트 앨범 탑스터 - 당신의 선택은?",
@@ -194,28 +216,6 @@
         "author": "JPEGꓟAFIA",
         "date": "2024.10.22",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29647638",
-        "category": "일반",
-        "title": "타일러 소식에 가입한 뉴비입니다 (탑스터)",
-        "href": "/fboard/29647638",
-        "author": "댄싱토니",
-        "date": "2024.10.22",
-        "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29651485",
-        "category": "일반",
-        "title": "축하 좀 받아도 될까요?",
-        "href": "/fboard/29651485",
-        "author": "A.Miller",
-        "date": "2024.10.22",
-        "commentNum": "63",
         "isVideo": false,
         "isPhoto": false
     }
