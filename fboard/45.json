@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29136893",
+        "category": "인증/후기",
+        "title": "DBR 앨범 왔네유",
+        "href": "/fboard/29136893",
+        "author": "KennyBeats",
+        "date": "2024.09.09",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29130979",
         "category": "리뷰",
         "title": "JPEGMAFIA - I LAY DOWN MY LIFE FOR YOU(2024) 리뷰",
@@ -205,17 +216,6 @@
         "author": "김건혁",
         "date": "2024.09.03",
         "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29083225",
-        "category": "인증/후기",
-        "title": "서울 여의도 더현대 LP샵 후기",
-        "href": "/fboard/29083225",
-        "author": "PDFMAFIA",
-        "date": "2024.09.03",
-        "commentNum": "40",
         "isVideo": false,
         "isPhoto": true
     }
