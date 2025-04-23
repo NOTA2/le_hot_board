@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_31404773",
+        "category": "음악",
+        "title": "스윙스, 선공개곡 Burning Slow Remix (feat. Molly Yam) 공개",
+        "href": "/kboard/31404773",
+        "author": "piggybank",
+        "date": "2025.03.12",
+        "commentNum": "35",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_31404513",
         "category": "음악",
         "title": "스윙스  (형님은)  보아라 (요)",
@@ -218,16 +229,5 @@
         "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_31365815",
-        "category": "일반",
-        "title": "인기글 컷 레전드네",
-        "href": "/kboard/31365815",
-        "author": "스틱키지러프트",
-        "date": "2025.03.06",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
