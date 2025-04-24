@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29306880",
+        "category": "리뷰",
+        "title": "나스 내한 기념<Nastradamus> 솔직리뷰",
+        "href": "/fboard/29306880",
+        "author": "kegun",
+        "date": "2024.09.22",
+        "commentNum": "25",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29306273",
         "category": "일반",
         "title": "이주의 외힙레딧 만담모음",
@@ -205,17 +216,6 @@
         "author": "파브루어프",
         "date": "2024.09.17",
         "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29225908",
-        "category": "일반",
-        "title": "???: 치료가 필요할 정도로 심각한 '힙합엘이 중독증'...",
-        "href": "/fboard/29225908",
-        "author": "칸베지드예",
-        "date": "2024.09.16",
-        "commentNum": "37",
         "isVideo": false,
         "isPhoto": true
     }
