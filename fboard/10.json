@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31406664",
+        "category": "리뷰",
+        "title": "[1-♡] 연도별 최고의 앨범",
+        "href": "/fboard/31406664",
+        "author": "핑구할아버지",
+        "date": "2025.03.12",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31404536",
         "category": "일반",
         "title": "엘이 오늘 가입했어요! 탑스터 올려봅니다~",
@@ -218,16 +229,5 @@
         "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_31365932",
-        "category": "일반",
-        "title": "전 세계에서 가장 게토 분위기를 잘 내는 사람은?",
-        "href": "/fboard/31365932",
-        "author": "국힙원탑손심바",
-        "date": "2025.03.06",
-        "commentNum": "36",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
