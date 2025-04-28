@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29962469",
+        "category": "인증/후기",
+        "title": "[음반 인증] 큰거 왔습니다",
+        "href": "/fboard/29962469",
+        "author": "피닛",
+        "date": "2024.11.21",
+        "commentNum": "39",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29958075",
         "category": "음악",
         "title": "익페 계열이 아는만큼 보이는 건 어느정도 사실이죠",
@@ -205,17 +216,6 @@
         "author": "매직원",
         "date": "2024.11.16",
         "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29918607",
-        "category": "리뷰",
-        "title": "Tyler, The Creator - CHROMAKOPIA",
-        "href": "/fboard/29918607",
-        "author": "예리",
-        "date": "2024.11.16",
-        "commentNum": "29",
         "isVideo": false,
         "isPhoto": true
     }
