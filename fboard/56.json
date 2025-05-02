@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28698689",
+        "category": "인증/후기",
+        "title": "8*8 탑스터",
+        "href": "/fboard/28698689",
+        "author": "자카",
+        "date": "2024.07.23",
+        "commentNum": "24",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28693301",
         "category": "일반",
         "title": "안녕히 계세요",
@@ -205,17 +216,6 @@
         "author": "솔난조르겐",
         "date": "2024.07.18",
         "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28665273",
-        "category": "음악",
-        "title": "와; 이거 진짜 개좆되는 힙합앨범이네요",
-        "href": "/fboard/28665273",
-        "author": "DannyB",
-        "date": "2024.07.18",
-        "commentNum": "41",
         "isVideo": false,
         "isPhoto": true
     }
