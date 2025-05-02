@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31473184",
+        "category": "리뷰",
+        "title": "개인적인 카티 신보 I AM MUSIC 후기 (장문)",
+        "href": "/fboard/31473184",
+        "author": "김호진02",
+        "date": "2025.03.17",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_31472175",
         "category": "인증/후기",
         "title": "카티 듣지말고 이거 들어라",
@@ -216,17 +227,6 @@
         "author": "Jannny",
         "date": "2025.03.11",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31399793",
-        "category": "음악",
-        "title": "가입 기념 탑스터입니다~",
-        "href": "/fboard/31399793",
-        "author": "두우율",
-        "date": "2025.03.11",
-        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     }
