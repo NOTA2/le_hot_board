@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28904353",
+        "category": "일반",
+        "title": "국내 힙합의 'Payback Season’: 국내 힙합은 죽었는가?",
+        "href": "/kboard/28904353",
+        "author": "Asherp",
+        "date": "2024.08.17",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28896885",
         "category": "일반",
         "title": "참으로 안타까운 힙합엘이의 현주소네요",
@@ -207,16 +218,5 @@
         "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28864349",
-        "category": "일반",
-        "title": "#1 진짜 개명반인듯",
-        "href": "/kboard/28864349",
-        "author": "루룰루",
-        "date": "2024.08.12",
-        "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
