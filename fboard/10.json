@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31485127",
+        "category": "음악",
+        "title": "카티 신보에 대한 개인적인 소신발언",
+        "href": "/fboard/31485127",
+        "author": "미오",
+        "date": "2025.03.18",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31485627",
         "category": "리뷰",
         "title": "Playboi Carti - MUSIC을 듣고",
@@ -218,16 +229,5 @@
         "commentNum": "13",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_31416447",
-        "category": "일반",
-        "title": "애새끼들은 귀신을 보면 개추ㅋㅋㅋㅋㅋ",
-        "href": "/fboard/31416447",
-        "author": "Jannny",
-        "date": "2025.03.13",
-        "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
