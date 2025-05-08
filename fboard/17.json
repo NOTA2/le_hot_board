@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31049138",
+        "category": "음악",
+        "title": "외게에서 종게얘기 그만하세요",
+        "href": "/fboard/31049138",
+        "author": "DannyB",
+        "date": "2025.02.13",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_31049606",
         "category": "인증/후기",
         "title": "GNX.jpg",
@@ -206,17 +217,6 @@
         "date": "2025.02.09",
         "commentNum": "14",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30947578",
-        "category": "일반",
-        "title": "1년동안 칸예팬 요약",
-        "href": "/fboard/30947578",
-        "author": "크랙커",
-        "date": "2025.02.08",
-        "commentNum": "21",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
