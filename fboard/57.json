@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28698689",
+        "category": "인증/후기",
+        "title": "8*8 탑스터",
+        "href": "/fboard/28698689",
+        "author": "자카",
+        "date": "2024.07.23",
+        "commentNum": "24",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_28693301",
+        "category": "일반",
+        "title": "안녕히 계세요",
+        "href": "/fboard/28693301",
+        "author": "ꓙPEGMAFIA",
+        "date": "2024.07.22",
+        "commentNum": "23",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28692398",
         "category": "일반",
         "title": "아니 아무리 그래도 국게도 아니고 너무 욕설 남발 아닌가요?",
@@ -194,28 +216,6 @@
         "author": "솔난조르겐",
         "date": "2024.07.18",
         "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28665273",
-        "category": "음악",
-        "title": "와; 이거 진짜 개좆되는 힙합앨범이네요",
-        "href": "/fboard/28665273",
-        "author": "DannyB",
-        "date": "2024.07.18",
-        "commentNum": "41",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28665643",
-        "category": "음악",
-        "title": "개인적으로 완벽하다고 생각하는 붐뱁 앨범",
-        "href": "/fboard/28665643",
-        "author": "amineminem",
-        "date": "2024.07.18",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     }
