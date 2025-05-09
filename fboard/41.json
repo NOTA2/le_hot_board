@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29574660",
+        "category": "인증/후기",
+        "title": "Common & Pete Rock 친필사인 인증.jpg",
+        "href": "/fboard/29574660",
+        "author": "killakim",
+        "date": "2024.10.15",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29566953",
         "category": "인증/후기",
         "title": "명반 바이닐과 피규어.jpg",
@@ -205,17 +216,6 @@
         "author": "피닛",
         "date": "2024.10.10",
         "commentNum": "31",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29495095",
-        "category": "음악",
-        "title": "입문 혹은 디깅에 좋은 근본 명반리스트 소개",
-        "href": "/fboard/29495095",
-        "author": "이오더매드문",
-        "date": "2024.10.09",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": false
     }
