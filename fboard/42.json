@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29524642",
+        "category": "인증/후기",
+        "title": "엘이 최초 DBR 후디 세트 인증",
+        "href": "/fboard/29524642",
+        "author": "StarboiCarti",
+        "date": "2024.10.11",
+        "commentNum": "23",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29522029",
         "category": "인증/후기",
         "title": "비기 X 팀버랜드6인치 인증.jpg",
@@ -205,17 +216,6 @@
         "author": "스깨링더호",
         "date": "2024.10.07",
         "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29467044",
-        "category": "리뷰",
-        "title": " [인생리뷰] Tyler, the Creator - IGOR",
-        "href": "/fboard/29467044",
-        "author": "크밍",
-        "date": "2024.10.06",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     }
