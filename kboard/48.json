@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29345344",
+        "category": "일반",
+        "title": "[뒷북] 흔한 센충이 채널 복귀",
+        "href": "/kboard/29345344",
+        "author": "코모도왕도마뱀",
+        "date": "2024.09.25",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29345616",
         "category": "음악",
         "title": "앨범 나온 기념으로 햄버거 공짜로 뿌리겠습니다",
@@ -207,16 +218,5 @@
         "commentNum": "40",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29281625",
-        "category": "음악",
-        "title": "한 국 힙 합",
-        "href": "/kboard/29281625",
-        "author": "나비착취",
-        "date": "2024.09.20",
-        "commentNum": "6",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
