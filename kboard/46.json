@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29453674",
+        "category": "인증/후기",
+        "title": "cdp 샀습니다",
+        "href": "/kboard/29453674",
+        "author": "Linchpins",
+        "date": "2024.10.05",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29456552",
         "category": "음악",
         "title": "래퍼들이 앨범 하나 만드는 데 최소 1500만원은 든다고 합니다.",
@@ -205,17 +216,6 @@
         "author": "tjdnfdp",
         "date": "2024.10.01",
         "commentNum": "30",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29393264",
-        "category": "일반",
-        "title": "쿤디판다 데자부 그룹 계약종료+ 내일 정규 3집 [MODM 2] 선공개 싱글 발매 예정",
-        "href": "/kboard/29393264",
-        "author": "Mob",
-        "date": "2024.09.30",
-        "commentNum": "39",
         "isVideo": false,
         "isPhoto": true
     }
