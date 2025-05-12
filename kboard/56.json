@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28927081",
+        "category": "일반",
+        "title": "자기 감상대로 평점 남기는 것도 머라고 하면",
+        "href": "/kboard/28927081",
+        "author": "오해원",
+        "date": "2024.08.20",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28925559",
         "category": "인증/후기",
         "title": "20살 반년간 모은 cd들",
@@ -207,16 +218,5 @@
         "commentNum": "6",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28886294",
-        "category": "일반",
-        "title": "이제 손심바 이야기는 그만했으면 좋겠습니다",
-        "href": "/kboard/28886294",
-        "author": "kegun",
-        "date": "2024.08.15",
-        "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

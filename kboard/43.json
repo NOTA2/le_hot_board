@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29649979",
+        "category": "리뷰",
+        "title": "굿바이 데이토나 레코즈! - 데이토나 레코즈 되돌아보기 (스압주의)",
+        "href": "/kboard/29649979",
+        "author": "loding",
+        "date": "2024.10.22",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29640419",
         "category": "일반",
         "title": "ㅅㅂ 자세교정 마려워 뒤지겠는 앨범커버 투탑",
@@ -207,16 +218,5 @@
         "commentNum": "11",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_29583723",
-        "category": "인증/후기",
-        "title": "웅장한 라인업의 피지컬들",
-        "href": "/kboard/29583723",
-        "author": "밀어볼이는건",
-        "date": "2024.10.16",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
