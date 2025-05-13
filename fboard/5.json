@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31829564",
+        "category": "일반",
+        "title": "현대 정신 의학의 중요성을 보여주는 예시",
+        "href": "/fboard/31829564",
+        "author": "김종호",
+        "date": "2025.04.22",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31824150",
         "category": "인증/후기",
         "title": "CD 삽시다",
@@ -207,16 +218,5 @@
         "commentNum": "19",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_31792403",
-        "category": "그림/아트웍",
-        "title": "후방주의) MONEY STORE",
-        "href": "/fboard/31792403",
-        "author": "Jannny",
-        "date": "2025.04.17",
-        "commentNum": "37",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

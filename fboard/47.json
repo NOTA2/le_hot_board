@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29280628",
+        "category": "일반",
+        "title": "<TOTAL XANARCHY> 솔직리뷰",
+        "href": "/fboard/29280628",
+        "author": "kegun",
+        "date": "2024.09.20",
+        "commentNum": "48",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29276085",
         "category": "그림/아트웍",
         "title": "저도 조심스레 올려보는 그림.jpeg",
@@ -205,17 +216,6 @@
         "author": "돌체",
         "date": "2024.09.15",
         "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29199928",
-        "category": "그림/아트웍",
-        "title": "영롱한 144 깔맞춤 탑스터 (개추 부탁)",
-        "href": "/fboard/29199928",
-        "author": "JPEGꓟAFIA",
-        "date": "2024.09.15",
-        "commentNum": "30",
         "isVideo": false,
         "isPhoto": true
     }
