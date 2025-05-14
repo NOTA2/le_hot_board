@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30177956",
+        "category": "음악",
+        "title": "GROOVL1N / 그루블린 “저스디스” 싱글 [VIVID (Feat. 인순이)] 발매",
+        "href": "/kboard/30177956",
+        "author": "디스이즈마랖",
+        "date": "2024.12.11",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30179341",
         "category": "음악",
         "title": "랩퍼블릭 무대들 진짜 수준 이하네요",
@@ -207,16 +218,5 @@
         "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_30142527",
-        "category": "일반",
-        "title": "정치어쩌고",
-        "href": "/kboard/30142527",
-        "author": "깐녜",
-        "date": "2024.12.08",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
