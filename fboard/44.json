@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29455872",
+        "category": "일반",
+        "title": "오늘은 제 생일입니다",
+        "href": "/fboard/29455872",
+        "author": "shawtyfromseoul",
+        "date": "2024.10.05",
+        "commentNum": "28",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29444381",
         "category": "음악",
         "title": "제이 딜라를 알고 싶은 분들에게",
@@ -206,17 +217,6 @@
         "date": "2024.10.01",
         "commentNum": "41",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29396852",
-        "category": "인증/후기",
-        "title": "The Weeknd - 일본반 CD Collection",
-        "href": "/fboard/29396852",
-        "author": "DJSam",
-        "date": "2024.09.30",
-        "commentNum": "30",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
