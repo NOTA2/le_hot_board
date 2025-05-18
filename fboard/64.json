@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28534501",
+        "category": "인증/후기",
+        "title": "오늘의 디깅.jpeg",
+        "href": "/fboard/28534501",
+        "author": "killakim",
+        "date": "2024.06.29",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28530860",
         "category": "리뷰",
         "title": "[교육목적]  드레이크의 생애_힙합입문부터 첫 믹스테잎까지",
@@ -207,16 +218,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28491445",
-        "category": "일반",
-        "title": "얀디 오피셜 릴리즈 USB가 일부 이지부스트 밑창에 숨어있다.",
-        "href": "/fboard/28491445",
-        "author": "GayGay",
-        "date": "2024.06.22",
-        "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
