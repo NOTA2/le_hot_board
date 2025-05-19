@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29468540",
+        "category": "일반",
+        "title": "이게 군대냐 진짜 요즘 군캉스 다됐구나 ㅅㅂ ㅋㅋㅋㅋㅋ",
+        "href": "/kboard/29468540",
+        "author": "뭐먹고놀지",
+        "date": "2024.10.07",
+        "commentNum": "79",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29467769",
         "category": "리뷰",
         "title": "[인생 리뷰] 절박함 끝에 핀 가장 아름다운 꽃",
@@ -207,16 +218,5 @@
         "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29418551",
-        "category": "일반",
-        "title": "랩퍼블릭 마케팅 감다뒤인게",
-        "href": "/kboard/29418551",
-        "author": "일식돕칠",
-        "date": "2024.10.02",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
