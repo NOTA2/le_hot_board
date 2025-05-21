@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28297613",
+        "category": "일반",
+        "title": "언에듀식 기믹은 수명을 다했다",
+        "href": "/kboard/28297613",
+        "author": "근본주의자",
+        "date": "2024.05.27",
+        "commentNum": "23",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_28294938",
+        "category": "일반",
+        "title": "손심바는 데일리로 까도 된다고 생각함",
+        "href": "/kboard/28294938",
+        "author": "가스절도범",
+        "date": "2024.05.27",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28289068",
         "category": "일반",
         "title": "고고학 정주행하고 있는데",
@@ -196,27 +218,5 @@
         "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28250141",
-        "category": "음악",
-        "title": "오늘은 11:11 발매 10주년 되는 날입니다.",
-        "href": "/kboard/28250141",
-        "author": "Johnny Hates Novel",
-        "date": "2024.05.21",
-        "commentNum": "22",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28251749",
-        "category": "음악",
-        "title": "손심바 이번 사건에 대한 개인적인 소감",
-        "href": "/kboard/28251749",
-        "author": "라이프이즈굳",
-        "date": "2024.05.21",
-        "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

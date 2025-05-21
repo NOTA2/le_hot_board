@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_30441989",
+        "category": "인증/후기",
+        "title": "오늘의 음반 #50",
+        "href": "/fboard/30441989",
+        "author": "EPMDbaby",
+        "date": "2025.01.07",
+        "commentNum": "2",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_30437725",
+        "category": "음악",
+        "title": "최듣앨",
+        "href": "/fboard/30437725",
+        "author": "피닛",
+        "date": "2025.01.06",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30437131",
         "category": "인증/후기",
         "title": "저 김밥레코즈 갔다했었죠? 뭐였냐면~",
@@ -194,28 +216,6 @@
         "author": "Irvine",
         "date": "2025.01.03",
         "commentNum": "34",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30395048",
-        "category": "그림/아트웍",
-        "title": "똥 그림으로 만든 엘이 요약",
-        "href": "/fboard/30395048",
-        "author": "Irvine",
-        "date": "2025.01.03",
-        "commentNum": "42",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30393101",
-        "category": "인증/후기",
-        "title": "하지만 난 인증을 해야해",
-        "href": "/fboard/30393101",
-        "author": "적극마인드갖",
-        "date": "2025.01.02",
-        "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
     }
