@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29442075",
+        "category": "인증/후기",
+        "title": "방금 사온 갤주 우주명반 인증",
+        "href": "/fboard/29442075",
+        "author": "P1ay6o1Cart1",
+        "date": "2024.10.04",
+        "commentNum": "46",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29440673",
+        "category": "일반",
+        "title": "확실히 금요일 오후라 엘이가 핫하네요",
+        "href": "/fboard/29440673",
+        "author": "칸베지드예",
+        "date": "2024.10.04",
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29439779",
         "category": "인증/후기",
         "title": "어디서 무슨 소리 들리지 않나요?",
@@ -195,28 +217,6 @@
         "date": "2024.09.29",
         "commentNum": "14",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29386205",
-        "category": "인증/후기",
-        "title": "명반 모음",
-        "href": "/fboard/29386205",
-        "author": "텐타시옴",
-        "date": "2024.09.29",
-        "commentNum": "52",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29384286",
-        "category": "일반",
-        "title": "백인팬들을 디스한 제이펙마피아",
-        "href": "/fboard/29384286",
-        "author": "이오더매드문",
-        "date": "2024.09.29",
-        "commentNum": "18",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
