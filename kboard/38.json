@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29992260",
+        "category": "인증/후기",
+        "title": "한국 힙합 굴지의 걸작",
+        "href": "/kboard/29992260",
+        "author": "WALKIT",
+        "date": "2024.11.24",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29978192",
         "category": "일반",
         "title": "손 심바의 생일입니다!",
@@ -205,17 +216,6 @@
         "author": "넉클라운픽하이",
         "date": "2024.11.19",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29943158",
-        "category": "음악",
-        "title": "수퍼비 \"Love, Rap & Life\" 11월 26일 발매",
-        "href": "/kboard/29943158",
-        "author": "Something",
-        "date": "2024.11.19",
-        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     }
