@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28518798",
+        "category": "인증/후기",
+        "title": "오늘의 디깅.jpeg",
+        "href": "/fboard/28518798",
+        "author": "killakim",
+        "date": "2024.06.26",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28516224",
         "category": "음악",
         "title": "2024 상반기 결산 중간 보고",
@@ -205,17 +216,6 @@
         "author": "Mixside",
         "date": "2024.06.21",
         "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28475552",
-        "category": "일반",
-        "title": "말 없이 개추가 박히는 짤",
-        "href": "/fboard/28475552",
-        "author": "리플리",
-        "date": "2024.06.20",
-        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     }
