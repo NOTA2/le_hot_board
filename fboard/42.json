@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29710689",
+        "category": "음악",
+        "title": "판타노의 키드커디 Speedin' Bullet to Heaven 리뷰",
+        "href": "/fboard/29710689",
+        "author": "데이비드번",
+        "date": "2024.10.27",
+        "commentNum": "57",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29711194",
         "category": "음악",
         "title": "판타노의 키드시고스트 리뷰",
@@ -205,17 +216,6 @@
         "author": "크밍",
         "date": "2024.10.23",
         "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29661974",
-        "category": "인증/후기",
-        "title": "개추.",
-        "href": "/fboard/29661974",
-        "author": "토마토개구리",
-        "date": "2024.10.23",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }
