@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31996254",
+        "category": "인증/후기",
+        "title": "[인증] 90년대 여성 붐뱁 좋아하신다면! (1편)",
+        "href": "/fboard/31996254",
+        "author": "DJSam",
+        "date": "2025.05.12",
+        "commentNum": "18",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31985289",
         "category": "리뷰",
         "title": "켄드릭 라마, 플레이보이 카티, 그리고 티모시 샬라메",
@@ -205,17 +216,6 @@
         "author": "turnupordie",
         "date": "2025.05.07",
         "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31960290",
-        "category": "일반",
-        "title": "디카 탑스터",
-        "href": "/fboard/31960290",
-        "author": "리스",
-        "date": "2025.05.07",
-        "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
     }
