@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31302710",
+        "category": "음악",
+        "title": "일매틱 간단 후기",
+        "href": "/fboard/31302710",
+        "author": "Parkta1958",
+        "date": "2025.02.28",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_31296374",
         "category": "음악",
         "title": "[나의 인생앨범 이벤트] The Black Messiah",
@@ -205,17 +216,6 @@
         "author": "Serotonin",
         "date": "2025.02.23",
         "commentNum": "51",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31219458",
-        "category": "리뷰",
-        "title": "알고싶어요! 재즈 랩!",
-        "href": "/fboard/31219458",
-        "author": "rangee",
-        "date": "2025.02.23",
-        "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
     }
