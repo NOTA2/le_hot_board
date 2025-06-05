@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31794968",
+        "category": "리뷰",
+        "title": "남부 래퍼의 야망, JID-The Forever Story 리뷰",
+        "href": "/fboard/31794968",
+        "author": "MIRR",
+        "date": "2025.04.18",
+        "commentNum": "10",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31800236",
         "category": "리뷰",
         "title": "묵직한 붐뱁 스파게티 한그릇, [Alfredo]",
@@ -216,17 +227,6 @@
         "author": "브라이언이노",
         "date": "2025.04.13",
         "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31753503",
-        "category": "리뷰",
-        "title": "💿 해외힙합 유저매거진 \"w/HAUS OF MATTERS\" #21",
-        "href": "/fboard/31753503",
-        "author": "쟈이즈",
-        "date": "2025.04.13",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     }
