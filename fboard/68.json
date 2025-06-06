@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28523285",
+        "category": "리뷰",
+        "title": "Vince Staples <Dark Times> 리뷰",
+        "href": "/fboard/28523285",
+        "author": "앞날",
+        "date": "2024.06.27",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28522318",
         "category": "일반",
         "title": "대 드 릭",
@@ -207,16 +218,5 @@
         "commentNum": "27",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28484642",
-        "category": "인증/후기",
-        "title": "인증) GRISELDA",
-        "href": "/fboard/28484642",
-        "author": "김치볶음밥너마저",
-        "date": "2024.06.21",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
