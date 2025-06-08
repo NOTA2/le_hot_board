@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29444381",
+        "category": "음악",
+        "title": "제이 딜라를 알고 싶은 분들에게",
+        "href": "/fboard/29444381",
+        "author": "HipHaHa",
+        "date": "2024.10.04",
+        "commentNum": "34",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29450215",
         "category": "인증/후기",
         "title": "줘.",
@@ -206,17 +217,6 @@
         "date": "2024.09.30",
         "commentNum": "30",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29398090",
-        "category": "일반",
-        "title": "실례지만 합법적 포인트 구걸을 허용해주시겠습니까?",
-        "href": "/fboard/29398090",
-        "author": "산지직송사이다",
-        "date": "2024.09.30",
-        "commentNum": "34",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
