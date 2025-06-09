@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31836760",
+        "category": "일반",
+        "title": "싫으면 그냥 가지 마",
+        "href": "/fboard/31836760",
+        "author": "GayGay",
+        "date": "2025.04.23",
+        "commentNum": "45",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_31833813",
         "category": "인증/후기",
         "title": "지금처럼 시끄러운 시기에 가장 필요한 앨범",
@@ -217,17 +228,6 @@
         "date": "2025.04.17",
         "commentNum": "8",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31797889",
-        "category": "음악",
-        "title": "[리 뷰 이 벤 트 ] 당첨자 발표 🦋",
-        "href": "/fboard/31797889",
-        "author": "브라이언이노",
-        "date": "2025.04.18",
-        "commentNum": "25",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
