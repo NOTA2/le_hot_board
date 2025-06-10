@@ -101,11 +101,13 @@
 <body>
 <div class="ui center-aligned">
     <h2 class="ui header">
-        <i class="gripfire icon"></i>
-        <div class="content">
-            LE HOT BOARD
-            <div id="user" class="sub header"></div>
-        </div>
+        <a class="ui header" href="https://nota2.github.io/le_hot_board">
+            <i class="gripfire icon"></i>
+            <div class="content">
+                LE HOT BOARD
+                <div id="user" class="sub header"></div>
+            </div>
+        </a>
     </h2>
 
     <div class="ui secondary pointing menu">
@@ -117,7 +119,7 @@
         </a>
     </div>
 
-    <iframe id='hiphople' class="darkmode-ignore" src="" seamless style="display: none"></iframe>
+    <iframe id='hiphople' class="darkmode-ignore" src="" seamless style="display: none; border:none"></iframe>
 
     <table id="board" class="ui compact fixed unstackable table">
         <thead>
@@ -174,7 +176,7 @@
             .then((response) => response.json())
     }
 
-    function displayBoard(page, issues) {
+    function displayBoard(displayPage, issues) {
         const container = document.getElementById('board-body');
 
         for (let issue of issues) {
@@ -182,12 +184,15 @@
             <tr>
                 <td class="pc ${getColor(issue.category)}">${issue.category}</td>
                 <td>
-                    <a class="ui item" style="color: #1f1f1f" href="?type=${type}&page=${page}&content=${encodeURI(issue.href)}">${issue.title}</a>
+                    <a class="ui item" style="color: #1f1f1f" href="?type=${type}&page=${displayPage}&content=${encodeURI(issue.href)}">${issue.title}</a>
                     <a class="text-primary">&nbsp;${issue.commentNum}</a>&nbsp;${issue.isVideo ? '<i class="play circle icon"></i>' : ''}${issue.isPhoto ? '<i class="images icon"></i>' : ''}
             <!--                <i class="play circle outline icon"></i>-->
             <!--                <i class="images outline icon"></i>-->
+                    <div class="description">
+                        <p><i class="clock outline icon"></i>${issue.date} | <i class="user outline icon"></i>${issue.author} | <i class="align justify icon"></i>${issue.category}</p>
+                    </div>
                 </td>
-                <td>${issue.author}</td>
+                <td class="pc">${issue.author}</td>
                 <td class="pc">${issue.date}</td>
             </tr>
             `
@@ -207,6 +212,7 @@
                 loadBoard(page)
                     .then(issues => {
                         document.getElementById('board-body').innerHTML = '';
+                        console.log(page)
                         displayBoard(page, issues);
                     })
             }
