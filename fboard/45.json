@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29711194",
+        "category": "음악",
+        "title": "판타노의 키드시고스트 리뷰",
+        "href": "/fboard/29711194",
+        "author": "데이비드번",
+        "date": "2024.10.27",
+        "commentNum": "20",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
+        "id": "fboard_29707781",
+        "category": "인증/후기",
+        "title": "개추를 주세오",
+        "href": "/fboard/29707781",
+        "author": "오버래핑",
+        "date": "2024.10.27",
+        "commentNum": "28",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29701884",
         "category": "인증/후기",
         "title": "최근 산 앨범들",
@@ -196,27 +218,5 @@
         "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29656640",
-        "category": "리뷰",
-        "title": "<앨범 한줄평> #3",
-        "href": "/fboard/29656640",
-        "author": "MiKael",
-        "date": "2024.10.22",
-        "commentNum": "13",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29656150",
-        "category": "일반",
-        "title": "켄드릭 인터뷰 욕 먹을 건 아닌듯",
-        "href": "/fboard/29656150",
-        "author": "JPEGꓟAFIA",
-        "date": "2024.10.22",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
