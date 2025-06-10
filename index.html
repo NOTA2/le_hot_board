@@ -26,6 +26,14 @@
         window.addEventListener('load', addDarkmodeWidget);
     </script>
     <style>
+        td.mobile a.ui.item:hover,
+        td.mobile a.ui.item:focus {
+            background-color: #f5f5f5;
+        }
+        td.mobile a.ui.item:active {
+            background-color: #e0e0e0;
+        }
+
         .center-aligned {
             width: 1300px;
             margin: 0 auto; /* 가운데 정렬 */
@@ -199,7 +207,7 @@
                   height: 100%;
                   color: #1f1f1f;
                   padding: 0.5em;      /* 필요에 따라 여백 조절 */
-                  text-decoration-line: none;
+                  text-decoration: none;
                 "
                 >
                     <!-- 제목 + 댓글 수 -->
