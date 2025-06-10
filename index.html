@@ -188,7 +188,7 @@
             container.innerHTML += `
             <tr>
                 <td class="pc ${getColor(issue.category)}">${issue.category}</td>
-            <td class="mobile" style="padding: 0;">
+            <td class="mobile" style="padding: 0; text-decoration-line: none;">
                 <!-- href에 들어갈 URL은 issue.href 변수 치환 형태 그대로 사용하세요 -->
                 <a
                 href="?type=${type}&page=${displayPage}&content=${encodeURI(issue.href)}"
