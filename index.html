@@ -188,14 +188,38 @@
             container.innerHTML += `
             <tr>
                 <td class="pc ${getColor(issue.category)}">${issue.category}</td>
-                <td>
+            <td class="mobile" style="padding: 0;">
+                <!-- href에 들어갈 URL은 issue.href 변수 치환 형태 그대로 사용하세요 -->
+                <a
+                href="?type=${type}&page=${displayPage}&content=${encodeURI(issue.href)}"
+                class="ui item"
+                style="
+                  display: block;
+                  width: 100%;
+                  height: 100%;
+                  color: #1f1f1f;
+                  padding: 0.5em;      /* 필요에 따라 여백 조절 */
+                "
+                >
+                    <!-- 제목 + 댓글 수 -->
+                    <span>
+                      ${issue.title}
+                      <span class="text-primary">&nbsp;${issue.commentNum}</span>
+                      ${issue.isVideo  ? '<i class="play circle icon"></i>' : ''}
+                      ${issue.isPhoto  ? '<i class="images icon"></i>'      : ''}
+                    </span>
+
+                    <!-- 메타 정보 -->
+                    <div class="ui text-muted mobile" style="font-size: 0.85em; margin-top: 0.3em;">
+                      <i class="clock outline icon"></i>${issue.date}
+                      &nbsp;|&nbsp;<i class="user outline icon"></i>${issue.author}
+                      &nbsp;|&nbsp;<i class="align justify icon"></i>${issue.category}
+                    </div>
+                </a>
+            </td>
+                <td class="pc">
                     <a class="ui item" style="color: #1f1f1f" href="?type=${type}&page=${displayPage}&content=${encodeURI(issue.href)}">${issue.title}</a>
                     <a class="text-primary">&nbsp;${issue.commentNum}</a>&nbsp;${issue.isVideo ? '<i class="play circle icon"></i>' : ''}${issue.isPhoto ? '<i class="images icon"></i>' : ''}
-            <!--                <i class="play circle outline icon"></i>-->
-            <!--                <i class="images outline icon"></i>-->
-                    <div class="ui text-muted mobile" style="font-size: 0.85em">
-                        <p><i class="clock outline icon"></i>${issue.date} | <i class="user outline icon"></i>${issue.author} | <i class="align justify icon"></i>${issue.category}</p>
-                    </div>
                 </td>
                 <td class="pc">${issue.author}</td>
                 <td class="pc">${issue.date}</td>
