@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31247103",
+        "category": "일반",
+        "title": "뉴비 받아라",
+        "href": "/fboard/31247103",
+        "author": "GNX",
+        "date": "2025.02.24",
+        "commentNum": "28",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31241931",
         "category": "일반",
         "title": "뿌지직 뿡 💩😩푸드득….🚽 뿌욱….🗿",
@@ -205,17 +216,6 @@
         "author": "AbélMakkonenTesfaye",
         "date": "2025.02.20",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31173644",
-        "category": "일반",
-        "title": "어이가 없어서 쓰는 글",
-        "href": "/fboard/31173644",
-        "author": "yevis",
-        "date": "2025.02.19",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     }
