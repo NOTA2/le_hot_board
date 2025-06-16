@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_29603361",
+        "category": "음악",
+        "title": "에픽하이-미슐랭 cypher",
+        "href": "/kboard/29603361",
+        "author": "Mob",
+        "date": "2024.10.18",
+        "commentNum": "9",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_29599968",
+        "category": "음악",
+        "title": "율음 앨범이 AOTY인 이유",
+        "href": "/kboard/29599968",
+        "author": "El-Note",
+        "date": "2024.10.18",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29600338",
         "category": "리뷰",
         "title": "그 잼민이가 얘라고? (율음 [CICADA] 리뷰)",
@@ -196,27 +218,5 @@
         "commentNum": "7",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_29542309",
-        "category": "음악",
-        "title": "스윙스: 술 한 잔 마셨습니다.",
-        "href": "/kboard/29542309",
-        "author": "맙쉿",
-        "date": "2024.10.12",
-        "commentNum": "35",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29536139",
-        "category": "인증/후기",
-        "title": "뭐? 사인할 앨범이 12장이나 된다고?",
-        "href": "/kboard/29536139",
-        "author": "오프니어",
-        "date": "2024.10.12",
-        "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
