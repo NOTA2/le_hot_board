@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29018884",
+        "category": "인증/후기",
+        "title": "Armand Hammer - WHT LBL, BLK LBL 바이닐",
+        "href": "/fboard/29018884",
+        "author": "DumpGawd",
+        "date": "2024.08.29",
+        "commentNum": "15",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29011783",
         "category": "일반",
         "title": "여러분들은 추천만 누르시면 됩니다",
@@ -205,17 +216,6 @@
         "author": "cud",
         "date": "2024.08.23",
         "commentNum": "26",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28958587",
-        "category": "일반",
-        "title": "개추가 저절로 박히는 짤.jpeg",
-        "href": "/fboard/28958587",
-        "author": "JPEGꓟAFIA",
-        "date": "2024.08.23",
-        "commentNum": "31",
         "isVideo": false,
         "isPhoto": true
     }
