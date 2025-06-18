@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32025732",
+        "category": "인증/후기",
+        "title": "누가 진짜 퇴역군인일까요",
+        "href": "/fboard/32025732",
+        "author": "MN3",
+        "date": "2025.05.19",
+        "commentNum": "29",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32024811",
         "category": "일반",
         "title": "쿠팡플레이 내한 취소까지 내부 상황 예측",
@@ -206,17 +217,6 @@
         "date": "2025.05.14",
         "commentNum": "19",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32003199",
-        "category": "리뷰",
-        "title": "Top 100 다시 정하기 프로젝트",
-        "href": "/fboard/32003199",
-        "author": "음충이",
-        "date": "2025.05.14",
-        "commentNum": "14",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
