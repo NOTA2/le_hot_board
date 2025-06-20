@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30352045",
+        "category": "인증/후기",
+        "title": "[2024연말결산이벤트] 어느 고딩의 음반 수집 이야기",
+        "href": "/fboard/30352045",
+        "author": "BKNNETS",
+        "date": "2024.12.29",
+        "commentNum": "34",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30343505",
         "category": "음악",
         "title": "[2024연말결산이벤트] 자랑과 수다 #1 (그리고 힙합)",
@@ -205,17 +216,6 @@
         "author": "온암",
         "date": "2024.12.25",
         "commentNum": "37",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30292216",
-        "category": "인증/후기",
-        "title": "🔥그저께 사온 내 인생 첫 바이닐들",
-        "href": "/fboard/30292216",
-        "author": "Irvine",
-        "date": "2024.12.24",
-        "commentNum": "23",
         "isVideo": false,
         "isPhoto": true
     }
