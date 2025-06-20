@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_31396443",
+        "category": "일반",
+        "title": "피타입 휘성 추모글",
+        "href": "/kboard/31396443",
+        "author": "Thunday",
+        "date": "2025.03.10",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_31395889",
         "category": "일반",
         "title": "휘성 부고소식에 엘이에 처음 글써요.",
@@ -206,17 +217,6 @@
         "date": "2025.03.05",
         "commentNum": "6",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_31353584",
-        "category": "일반",
-        "title": "힙x) 취업하였습니다.",
-        "href": "/kboard/31353584",
-        "author": "라뷰투더문앤백",
-        "date": "2025.03.05",
-        "commentNum": "16",
-        "isVideo": false,
         "isPhoto": false
     }
 ]
