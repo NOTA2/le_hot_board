@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_31917101",
+        "category": "인증/후기",
+        "title": "CD) L I F E",
+        "href": "/kboard/31917101",
+        "author": "추단",
+        "date": "2025.05.02",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_31914701",
         "category": "일반",
         "title": "아니 6개월동안 시디를 못 받는게 말이 되냐",
@@ -218,16 +229,5 @@
         "commentNum": "",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_31879588",
-        "category": "리뷰",
-        "title": "코드 쿤스트 정규 2집-CRUMPLE",
-        "href": "/kboard/31879588",
-        "author": "Alonso2000",
-        "date": "2025.04.28",
-        "commentNum": "6",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
