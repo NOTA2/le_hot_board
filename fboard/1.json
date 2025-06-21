@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32178718",
+        "category": "인증/후기",
+        "title": "도착! Ghostface Killah - Supreme Clientele LP",
+        "href": "/fboard/32178718",
+        "author": "DJSam",
+        "date": "2025.06.21",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32175459",
         "category": "음악",
         "title": "오늘 제 생일이에요",
         "href": "/fboard/32175459",
         "author": "민니",
         "date": "2025.06.20",
-        "commentNum": "33",
+        "commentNum": "45",
         "isVideo": false,
         "isPhoto": true
     },
@@ -28,7 +39,7 @@
         "href": "/fboard/32173102",
         "author": "gunacho",
         "date": "2025.06.20",
-        "commentNum": "28",
+        "commentNum": "30",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "fldjf",
         "date": "2025.06.16",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32156799",
-        "category": "그림/아트웍",
-        "title": "유명 앨범 커버들이 한국에서 발매됐다면? [pt.2]",
-        "href": "/fboard/32156799",
-        "author": "lambda",
-        "date": "2025.06.16",
-        "commentNum": "43",
         "isVideo": false,
         "isPhoto": true
     }
