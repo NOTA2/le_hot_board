@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_31366392",
+        "category": "음악",
+        "title": "스윙스 'fire' 정규앨범 발매 예고",
+        "href": "/kboard/31366392",
+        "author": "mayp",
+        "date": "2025.03.07",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_31369984",
         "category": "일반",
         "title": "한국힙합 유저매거진 HOM #22 3월 13일 공개 예정!",
@@ -206,17 +217,6 @@
         "date": "2025.03.02",
         "commentNum": "9",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_31329322",
-        "category": "인증/후기",
-        "title": "TakeOne For The Team + 해방 CD",
-        "href": "/kboard/31329322",
-        "author": "nunnu1028",
-        "date": "2025.03.02",
-        "commentNum": "4",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
