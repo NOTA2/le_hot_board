@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28911775",
+        "category": "음악",
+        "title": "레이지 입문 & 심화 20선 탑스터",
+        "href": "/fboard/28911775",
+        "author": "Satang",
+        "date": "2024.08.18",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28911544",
         "category": "일반",
         "title": "이봐요, 피에르! 여기 나오고 싶습니까?",
@@ -205,17 +216,6 @@
         "author": "예리",
         "date": "2024.08.14",
         "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28879167",
-        "category": "그림/아트웍",
-        "title": "칸예 파는 아싸가 MT 가서 칸예 All Day 부르는 만화 #1",
-        "href": "/fboard/28879167",
-        "author": "카타르시스",
-        "date": "2024.08.14",
-        "commentNum": "21",
         "isVideo": false,
         "isPhoto": true
     }
