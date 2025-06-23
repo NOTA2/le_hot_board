@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32191424",
+        "category": "음악",
+        "title": "[전곡해석] Lil Tecca - DOPAMINE",
+        "href": "/fboard/32191424",
+        "author": "추첨",
+        "date": "2025.06.23",
+        "commentNum": "",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32188248",
         "category": "인증/후기",
         "title": "김밥집 또 털기",
         "href": "/fboard/32188248",
         "author": "웃지마정들어",
         "date": "2025.06.22",
-        "commentNum": "21",
+        "commentNum": "22",
         "isVideo": false,
         "isPhoto": true
     },
@@ -17,7 +28,7 @@
         "href": "/fboard/32186054",
         "author": "ささやき",
         "date": "2025.06.22",
-        "commentNum": "19",
+        "commentNum": "20",
         "isVideo": false,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "3",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32159337",
-        "category": "일반",
-        "title": "생일 축하해 Kendrick Lamar! 🎁",
-        "href": "/fboard/32159337",
-        "author": "생일봇",
-        "date": "2025.06.17",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

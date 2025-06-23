@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28327395",
+        "category": "일반",
+        "title": "그냥 뭘 봐도 이수린 손을 들어줄 수밖에 없음",
+        "href": "/kboard/28327395",
+        "author": "Snorlax",
+        "date": "2024.06.01",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28330965",
         "category": "일반",
         "title": "개인적으로 큐엠 앨범을 명반이라 느낀 적은 없는듯",
@@ -205,17 +216,6 @@
         "author": "pARTist",
         "date": "2024.05.28",
         "commentNum": "10",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28304000",
-        "category": "음악",
-        "title": "기습숭배) \"트랩 명반\"",
-        "href": "/kboard/28304000",
-        "author": "다윈",
-        "date": "2024.05.28",
-        "commentNum": "44",
         "isVideo": true,
         "isPhoto": false
     }
