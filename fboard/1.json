@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32193378",
+        "category": "리뷰",
+        "title": "<리뷰> Lil Tecca - DOPAMINE🧬",
+        "href": "/fboard/32193378",
+        "author": "히오스는니얼굴이다",
+        "date": "2025.06.23",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32191424",
         "category": "음악",
         "title": "[전곡해석] Lil Tecca - DOPAMINE",
         "href": "/fboard/32191424",
         "author": "추첨",
         "date": "2025.06.23",
-        "commentNum": "",
+        "commentNum": "2",
         "isVideo": true,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "14",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32163171",
-        "category": "일반",
-        "title": "Dawn FM과 Dopamine Radio",
-        "href": "/fboard/32163171",
-        "author": "마름모하트",
-        "date": "2025.06.17",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

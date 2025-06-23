@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30125129",
+        "category": "일반",
+        "title": "해외힙합 유저매거진 HOM #17 12월 9일 발간 예정!",
+        "href": "/fboard/30125129",
+        "author": "쟈이즈",
+        "date": "2024.12.06",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30124575",
         "category": "인증/후기",
         "title": "추천 좀 눌러줘요",
@@ -205,17 +216,6 @@
         "author": "칸예아들",
         "date": "2024.12.01",
         "commentNum": "30",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30071073",
-        "category": "일반",
-        "title": "실험) 대화형 AI에게 블론드vs채널오렌지 갈드컵을 시켜보았다",
-        "href": "/fboard/30071073",
-        "author": "모든장르뉴비",
-        "date": "2024.12.01",
-        "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
     }
