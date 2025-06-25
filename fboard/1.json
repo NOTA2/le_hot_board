@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32199596",
+        "category": "그림/아트웍",
+        "title": "클립스 그려봄 (안닮음 주의)",
+        "href": "/fboard/32199596",
+        "author": "nomnomcat",
+        "date": "2025.06.25",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32196500",
         "category": "인증/후기",
         "title": "ALL CAPS WHEN YOU SPELL THE MAN NAME",
         "href": "/fboard/32196500",
         "author": "마름모하트",
         "date": "2025.06.24",
-        "commentNum": "6",
+        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     },
@@ -17,7 +28,7 @@
         "href": "/fboard/32197740",
         "author": "동동Ol",
         "date": "2025.06.24",
-        "commentNum": "17",
+        "commentNum": "18",
         "isVideo": false,
         "isPhoto": false
     },
@@ -206,17 +217,6 @@
         "date": "2025.06.20",
         "commentNum": "10",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32173102",
-        "category": "음악",
-        "title": "(가입글) 어제 겪은 황당한 음반 거래에 대해...",
-        "href": "/fboard/32173102",
-        "author": "gunacho",
-        "date": "2025.06.20",
-        "commentNum": "30",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
