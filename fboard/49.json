@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29661974",
+        "category": "인증/후기",
+        "title": "개추.",
+        "href": "/fboard/29661974",
+        "author": "토마토개구리",
+        "date": "2024.10.23",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29656640",
         "category": "리뷰",
         "title": "<앨범 한줄평> #3",
@@ -205,17 +216,6 @@
         "author": "김스껄",
         "date": "2024.10.18",
         "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29590466",
-        "category": "인증/후기",
-        "title": "추천을 안누를수가 없는 앨범 후기",
-        "href": "/fboard/29590466",
-        "author": "bianca",
-        "date": "2024.10.17",
-        "commentNum": "31",
         "isVideo": false,
         "isPhoto": true
     }
