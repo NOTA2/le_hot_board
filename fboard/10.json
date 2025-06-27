@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31995898",
+        "category": "일반",
+        "title": "나에게 칸예란",
+        "href": "/fboard/31995898",
+        "author": "yi",
+        "date": "2025.05.12",
+        "commentNum": "10",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_31996254",
         "category": "인증/후기",
         "title": "[인증] 90년대 여성 붐뱁 좋아하신다면! (1편)",
@@ -216,17 +227,6 @@
         "author": "turnupordie",
         "date": "2025.05.07",
         "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31960290",
-        "category": "일반",
-        "title": "디카 탑스터",
-        "href": "/fboard/31960290",
-        "author": "리스",
-        "date": "2025.05.07",
-        "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
     }
