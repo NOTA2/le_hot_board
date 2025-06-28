@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32082440",
+        "category": "그림/아트웍",
+        "title": "(만화) 빈지노가 대선기간에 빨간바지를 입은게 잘못일까?",
+        "href": "/kboard/32082440",
+        "author": "i$$homan",
+        "date": "2025.06.02",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32078542",
         "category": "일반",
         "title": "정치색? 그냥 밝히면 되잖아?",
@@ -205,17 +216,6 @@
         "author": "giplee",
         "date": "2025.05.27",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32055453",
-        "category": "일반",
-        "title": "나도 불고기버거가 최곤 줄 알았다.",
-        "href": "/kboard/32055453",
-        "author": "식스핑거",
-        "date": "2025.05.27",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": false
     }
