@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29742367",
+        "category": "인증/후기",
+        "title": "90년대 냄새 찐한 음반인증",
+        "href": "/fboard/29742367",
+        "author": "BKNNETS",
+        "date": "2024.10.30",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29737222",
+        "category": "인증/후기",
+        "title": "앨범커버 이쁜것들",
+        "href": "/fboard/29737222",
+        "author": "토마토개구리",
+        "date": "2024.10.30",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29741959",
         "category": "일반",
         "title": "싱글벙글 친구에게 칸예, 타일러 먹이기!",
@@ -194,28 +216,6 @@
         "author": "sugkdippp",
         "date": "2024.10.26",
         "commentNum": "34",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29685702",
-        "category": "일반",
-        "title": "힙X) 똥글이 싫으면 똥글에 반응을 안하면 됩니다",
-        "href": "/fboard/29685702",
-        "author": "온암",
-        "date": "2024.10.26",
-        "commentNum": "23",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29678755",
-        "category": "그림/아트웍",
-        "title": "중3 미술수행ㅋㅋㅋ",
-        "href": "/fboard/29678755",
-        "author": "너도밤나무",
-        "date": "2024.10.25",
-        "commentNum": "43",
         "isVideo": false,
         "isPhoto": true
     }
