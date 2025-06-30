@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30245021",
+        "category": "인증/후기",
+        "title": "King Geedorah 가 뭐길래 이리 난리죠?",
+        "href": "/fboard/30245021",
+        "author": "DJSam",
+        "date": "2024.12.19",
+        "commentNum": "32",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30244268",
         "category": "일반",
         "title": "칸예한테 케이크 받았습니다",
@@ -205,17 +216,6 @@
         "author": "archiveshaw",
         "date": "2024.12.14",
         "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30197320",
-        "category": "인증/후기",
-        "title": "* 엘이 최초 * 빈스 스테이플스 친필 사인반 인증",
-        "href": "/fboard/30197320",
-        "author": "피닛",
-        "date": "2024.12.13",
-        "commentNum": "36",
         "isVideo": false,
         "isPhoto": true
     }
