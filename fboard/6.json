@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32100445",
+        "category": "일반",
+        "title": "고3 수능 5달전 앨범 샀읍니다,,",
+        "href": "/fboard/32100445",
+        "author": "Itrac",
+        "date": "2025.06.06",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32103063",
         "category": "일반",
         "title": "안녕하세요",
@@ -206,17 +217,6 @@
         "date": "2025.06.02",
         "commentNum": "26",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32078855",
-        "category": "음악",
-        "title": "kuru는 프로듀싱도 잘함",
-        "href": "/fboard/32078855",
-        "author": "mikgazer",
-        "date": "2025.06.01",
-        "commentNum": "9",
-        "isVideo": true,
         "isPhoto": false
     }
 ]

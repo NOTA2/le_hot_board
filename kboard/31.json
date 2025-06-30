@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30725642",
+        "category": "일반",
+        "title": "김강토씨 영상을보고 느낀점",
+        "href": "/kboard/30725642",
+        "author": "KIIS",
+        "date": "2025.01.26",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30729195",
         "category": "음악",
         "title": "안녕하세요! 여행하면서 음악하는 여성 보컬 프리나즈(Fre Naz) 입니다 :)!",
@@ -205,17 +216,6 @@
         "author": "BBBBBora",
         "date": "2025.01.22",
         "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_30667853",
-        "category": "일반",
-        "title": "공연하고 싶은 아티스트 찾음(직장인밴드, 래퍼, 가수 누구나)",
-        "href": "/kboard/30667853",
-        "author": "CJyoung",
-        "date": "2025.01.22",
-        "commentNum": "4",
         "isVideo": false,
         "isPhoto": false
     }
