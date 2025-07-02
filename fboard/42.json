@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30125050",
+        "category": "인증/후기",
+        "title": "오늘의 명반디깅 인증.jpg",
+        "href": "/fboard/30125050",
+        "author": "killakim",
+        "date": "2024.12.06",
+        "commentNum": "38",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30112634",
         "category": "인증/후기",
         "title": "한국 1위 퓨처 팬의 연말결산",
@@ -205,17 +216,6 @@
         "author": "Kanyeꓪest",
         "date": "2024.12.02",
         "commentNum": "32",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30066421",
-        "category": "인증/후기",
-        "title": "이걸 참아?",
-        "href": "/fboard/30066421",
-        "author": "bianca",
-        "date": "2024.12.01",
-        "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
     }
