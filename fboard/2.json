@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32220550",
+        "category": "리뷰",
+        "title": "<리뷰> Kevin Abstract - Blush🤭",
+        "href": "/fboard/32220550",
+        "author": "히오스는니얼굴이다",
+        "date": "2025.06.29",
+        "commentNum": "9",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32216812",
         "category": "인증/후기",
         "title": "야심한 밤…. 바이닐 인증 #오랜만에",
@@ -207,16 +218,5 @@
         "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32197740",
-        "category": "음악",
-        "title": "오늘은 동동이님의 생일입니다! 🎉",
-        "href": "/fboard/32197740",
-        "author": "동동Ol",
-        "date": "2025.06.24",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
