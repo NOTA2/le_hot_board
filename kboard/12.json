@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_31958049",
+        "category": "일반",
+        "title": "이센스: 에넥도트 CD도 재발매 하겠습니다",
+        "href": "/kboard/31958049",
+        "author": "Eastcoast",
+        "date": "2025.05.06",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_31954014",
         "category": "일반",
         "title": "씨디 모읍니다",
@@ -205,17 +216,6 @@
         "author": "우드에이엠",
         "date": "2025.05.01",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_31907123",
-        "category": "음악",
-        "title": "루시갱 리드머점수",
-        "href": "/kboard/31907123",
-        "author": "올블수도",
-        "date": "2025.05.01",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
     }
