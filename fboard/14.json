@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31881890",
+        "category": "인증/후기",
+        "title": "CD 컬렉션 pt.1",
+        "href": "/fboard/31881890",
+        "author": "drxxmymane",
+        "date": "2025.04.28",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31882141",
         "category": "인증/후기",
         "title": "CD 도착자",
@@ -205,17 +216,6 @@
         "author": "Jannny",
         "date": "2025.04.23",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_31836760",
-        "category": "일반",
-        "title": "싫으면 그냥 가지 마",
-        "href": "/fboard/31836760",
-        "author": "GayGay",
-        "date": "2025.04.23",
-        "commentNum": "45",
         "isVideo": false,
         "isPhoto": false
     }
