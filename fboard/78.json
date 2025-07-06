@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28375551",
+        "category": "인증/후기",
+        "title": "대한민국 1등 JPEGMAFIA 팬",
+        "href": "/fboard/28375551",
+        "author": "김치볶음밥너마저",
+        "date": "2024.06.08",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28373408",
         "category": "일반",
         "title": "감사합니다.",
@@ -206,17 +217,6 @@
         "date": "2024.06.02",
         "commentNum": "13",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28337588",
-        "category": "인증/후기",
-        "title": "오늘의 디깅.jpeg (스압주의)",
-        "href": "/fboard/28337588",
-        "author": "killakim",
-        "date": "2024.06.02",
-        "commentNum": "17",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
