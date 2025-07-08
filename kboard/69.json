@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28837957",
+        "category": "인증/후기",
+        "title": "앨범 진열장 샀습니다! (Feat. 앨범 인증)",
+        "href": "/kboard/28837957",
+        "author": "오프니어",
+        "date": "2024.08.08",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28834482",
         "category": "일반",
         "title": "(힙x) 방시혁 근황..",
@@ -207,16 +218,5 @@
         "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28779940",
-        "category": "음악",
-        "title": "스윙스의 호들갑 중 지켜졌어야 했던 것",
-        "href": "/kboard/28779940",
-        "author": "ansaninLBNC",
-        "date": "2024.08.02",
-        "commentNum": "15",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
