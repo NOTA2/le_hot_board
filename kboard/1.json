@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32271728",
+        "category": "음악",
+        "title": "뱃사공 일단 올해최고 ㅇㅇ",
+        "href": "/kboard/32271728",
+        "author": "Stevegarl",
+        "date": "2025.07.09",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32271394",
         "category": "음악",
         "title": "뱃사 새앨범 후기",
         "href": "/kboard/32271394",
         "author": "Writersglock",
         "date": "2025.07.09",
-        "commentNum": "8",
+        "commentNum": "10",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "비병무무",
         "date": "2025.07.03",
         "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32240129",
-        "category": "음악",
-        "title": "ek 사랑합니다 진짜",
-        "href": "/kboard/32240129",
-        "author": "이택현",
-        "date": "2025.07.03",
-        "commentNum": "",
         "isVideo": false,
         "isPhoto": false
     }
