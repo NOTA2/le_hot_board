@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32275149",
+        "category": "음악",
+        "title": "대니브라운 에피 샤라웃 ㄷㄷ",
+        "href": "/kboard/32275149",
+        "author": "민니",
+        "date": "2025.07.10",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32274415",
         "category": "그림/아트웍",
         "title": "그림판으로 삼각관계 skit 만화 그려봄 (발퀄)",
         "href": "/kboard/32274415",
         "author": "후주",
         "date": "2025.07.10",
-        "commentNum": "14",
+        "commentNum": "17",
         "isVideo": true,
         "isPhoto": true
     },
@@ -17,7 +28,7 @@
         "href": "/kboard/32272548",
         "author": "2cut",
         "date": "2025.07.09",
-        "commentNum": "",
+        "commentNum": "2",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "마름모하트",
         "date": "2025.07.05",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32245093",
-        "category": "그림/아트웍",
-        "title": "[팬아트웍] 염따-살아숨셔4 캐릭터",
-        "href": "/kboard/32245093",
-        "author": "plamoconcept",
-        "date": "2025.07.04",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }
