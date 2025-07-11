@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32276866",
+        "category": "인증/후기",
+        "title": "AP Alchemy 컴필레이션 2CD 피지컬 합본",
+        "href": "/kboard/32276866",
+        "author": "오프니어",
+        "date": "2025.07.10",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32276064",
         "category": "리뷰",
         "title": "올해 들은 힙합앨범들 중 인상적이었던 것들 5개 한줄리뷰",
@@ -17,7 +28,7 @@
         "href": "/kboard/32275149",
         "author": "민니",
         "date": "2025.07.10",
-        "commentNum": "16",
+        "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "130",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32249274",
-        "category": "일반",
-        "title": "비프리햄 씨다 씨 ㅋㅋㅋ",
-        "href": "/kboard/32249274",
-        "author": "AsianaAirlineGirl",
-        "date": "2025.07.05",
-        "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
