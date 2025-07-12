@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32282482",
+        "category": "일반",
+        "title": "(정보) 뚱뚱한 2CD 케이스 깨진 경우 수리방법!!",
+        "href": "/fboard/32282482",
+        "author": "DJSam",
+        "date": "2025.07.12",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32282699",
         "category": "인증/후기",
         "title": "아 ㅅㅂ 칸예 또 시작이네",
         "href": "/fboard/32282699",
         "author": "국힙은둥글다",
         "date": "2025.07.12",
-        "commentNum": "9",
+        "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
     },
@@ -28,7 +39,7 @@
         "href": "/fboard/32279449",
         "author": "라콜",
         "date": "2025.07.11",
-        "commentNum": "20",
+        "commentNum": "21",
         "isVideo": false,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "25",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32250154",
-        "category": "음악",
-        "title": "외힙 래퍼 분석 프로젝트 1편 - 에미넴",
-        "href": "/fboard/32250154",
-        "author": "이마이넘",
-        "date": "2025.07.05",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
