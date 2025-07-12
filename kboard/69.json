@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28871485",
+        "category": "음악",
+        "title": "[RAD MILLI] 트랙리스트 8월 20일 발매",
+        "href": "/kboard/28871485",
+        "author": "Application",
+        "date": "2024.08.13",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28867442",
         "category": "일반",
         "title": "지금 프리허키 다시듣고있는데",
@@ -205,17 +216,6 @@
         "author": "오프니어",
         "date": "2024.08.08",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28834482",
-        "category": "일반",
-        "title": "(힙x) 방시혁 근황..",
-        "href": "/kboard/28834482",
-        "author": "징코",
-        "date": "2024.08.08",
-        "commentNum": "28",
         "isVideo": false,
         "isPhoto": true
     }
