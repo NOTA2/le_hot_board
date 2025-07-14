@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30681867",
+        "category": "인증/후기",
+        "title": "역대급으로 이쁜 이번달 구매한 바이닐들",
+        "href": "/fboard/30681867",
+        "author": "6vrter6",
+        "date": "2025.01.23",
+        "commentNum": "52",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30668819",
         "category": "일반",
         "title": "프레디 깁스 입문서",
@@ -205,17 +216,6 @@
         "author": "PDFMAFIA",
         "date": "2025.01.17",
         "commentNum": "40",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30579771",
-        "category": "인증/후기",
-        "title": "정보) 현재 아무도 모르는 네이버페이 대란 요약.jpg",
-        "href": "/fboard/30579771",
-        "author": "range",
-        "date": "2025.01.17",
-        "commentNum": "21",
         "isVideo": false,
         "isPhoto": true
     }
