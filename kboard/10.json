@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32056290",
+        "category": "인증/후기",
+        "title": "제임스 안 더블 싱글 릴리즈 파티 다녀왔어요~ (후기)",
+        "href": "/kboard/32056290",
+        "author": "성실",
+        "date": "2025.05.30",
+        "commentNum": "1",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32066990",
         "category": "일반",
         "title": "리드머 장르 구분도 못하고 리뷰한건 충격이네",
@@ -216,17 +227,6 @@
         "author": "NaTi",
         "date": "2025.05.24",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32042054",
-        "category": "리뷰",
-        "title": "인생앨범: C JAMM - 킁 리뷰 + 피지컬 인증",
-        "href": "/kboard/32042054",
-        "author": "DaniełCaesar",
-        "date": "2025.05.24",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     }
