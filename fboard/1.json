@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32298105",
+        "category": "리뷰",
+        "title": "McKinley Dixon, <Magic, Alive!> 리뷰",
+        "href": "/fboard/32298105",
+        "author": "uma馬",
+        "date": "2025.07.15",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32296165",
         "category": "인증/후기",
         "title": "[인증] 90년대 여성 래퍼 좋아한다면? (21편 Salt-N-Pepa)",
@@ -207,16 +218,5 @@
         "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32273305",
-        "category": "음악",
-        "title": "라샨 선정 2025년 상반기 Best Album List",
-        "href": "/fboard/32273305",
-        "author": "Trivium",
-        "date": "2025.07.09",
-        "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
