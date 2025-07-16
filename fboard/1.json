@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32297749",
+        "category": "리뷰",
+        "title": "재즈힙합 세 장",
+        "href": "/fboard/32297749",
+        "author": "닝닝",
+        "date": "2025.07.15",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32298105",
         "category": "리뷰",
         "title": "McKinley Dixon, <Magic, Alive!> 리뷰",
@@ -205,17 +216,6 @@
         "author": "다스시디어스",
         "date": "2025.07.10",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32272989",
-        "category": "일반",
-        "title": "새로 가입했습니다",
-        "href": "/fboard/32272989",
-        "author": "JESUMAFIA",
-        "date": "2025.07.09",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }
