@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32076032",
+        "category": "일반",
+        "title": "카티 머치 이메일 꼭 확인해보세요 (안 하면 주문 취소될 수도 있음)",
+        "href": "/fboard/32076032",
+        "author": "Koan",
+        "date": "2025.06.01",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32077806",
         "category": "음악",
         "title": "익스페리멘탈 힙합 소개서🧪",
@@ -218,27 +229,5 @@
         "commentNum": "9",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32054870",
-        "category": "인증/후기",
-        "title": "[인증] 90년대 여성 붐뱁 좋아하신다면! (7편)",
-        "href": "/fboard/32054870",
-        "author": "DJSam",
-        "date": "2025.05.27",
-        "commentNum": "16",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32052793",
-        "category": "인증/후기",
-        "title": "재즈 힙합 최고 명반 모셔왔습니다",
-        "href": "/fboard/32052793",
-        "author": "Rainymatic",
-        "date": "2025.05.26",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
