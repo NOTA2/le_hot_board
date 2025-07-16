@@ -1,12 +1,34 @@
 [
     {
+        "id": "fboard_32304278",
+        "category": "음악",
+        "title": "이 세상에 없는 사람의 음악을 들을 때면",
+        "href": "/fboard/32304278",
+        "author": "릴랩스베이비",
+        "date": "2025.07.16",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32302137",
+        "category": "리뷰",
+        "title": "명반 다섯 장",
+        "href": "/fboard/32302137",
+        "author": "닝닝",
+        "date": "2025.07.16",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32299575",
         "category": "음악",
         "title": "내가 좋아하는 앨범들",
         "href": "/fboard/32299575",
         "author": "IloveCarti1231",
         "date": "2025.07.15",
-        "commentNum": "2",
+        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     },
@@ -196,27 +218,5 @@
         "commentNum": "25",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32275429",
-        "category": "음악",
-        "title": "내일 나오는 거",
-        "href": "/fboard/32275429",
-        "author": "공ZA",
-        "date": "2025.07.10",
-        "commentNum": "17",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32276115",
-        "category": "인증/후기",
-        "title": "다이릿 lp & 뮤직 cd",
-        "href": "/fboard/32276115",
-        "author": "어허허",
-        "date": "2025.07.10",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
