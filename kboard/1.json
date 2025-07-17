@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32308030",
+        "category": "인증/후기",
+        "title": "너네 살아숨셔는 들어봤냐?! (Feat. 따형 따봉)",
+        "href": "/kboard/32308030",
+        "author": "오프니어",
+        "date": "2025.07.17",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32307190",
         "category": "리뷰",
         "title": "던밀스 이번 EP 저주받은 걸작",
         "href": "/kboard/32307190",
         "author": "paranoidremix",
         "date": "2025.07.17",
-        "commentNum": "10",
+        "commentNum": "17",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "dynamicbanana",
         "date": "2025.07.12",
         "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32282978",
-        "category": "일반",
-        "title": "뉴진스 회생방안",
-        "href": "/kboard/32282978",
-        "author": "크랙커",
-        "date": "2025.07.12",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }
