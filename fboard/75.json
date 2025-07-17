@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28570427",
+        "category": "인증/후기",
+        "title": "오늘의 탈틀+탈꼰+MZ세대 디깅.jpeg",
+        "href": "/fboard/28570427",
+        "author": "killakim",
+        "date": "2024.07.03",
+        "commentNum": "29",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28573144",
         "category": "일반",
         "title": "외힙원탑 누구인가요?",
@@ -206,17 +217,6 @@
         "date": "2024.06.28",
         "commentNum": "2",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28530982",
-        "category": "인증/후기",
-        "title": "엘범 cd 샀습니다",
-        "href": "/fboard/28530982",
-        "author": "Lapi",
-        "date": "2024.06.28",
-        "commentNum": "12",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
