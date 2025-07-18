@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32308482",
+        "category": "일반",
+        "title": "던밀스 X 250 합작앨범 안나오려나",
+        "href": "/kboard/32308482",
+        "author": "redstar",
+        "date": "2025.07.17",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32305805",
         "category": "음악",
         "title": "누명 17주년",
@@ -28,7 +39,7 @@
         "href": "/kboard/32307190",
         "author": "paranoidremix",
         "date": "2025.07.17",
-        "commentNum": "29",
+        "commentNum": "30",
         "isVideo": false,
         "isPhoto": false
     },
@@ -206,17 +217,6 @@
         "date": "2025.07.13",
         "commentNum": "2",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32282716",
-        "category": "일반",
-        "title": "뱃사공 랩 들으면 신기함 ㅇㅇ",
-        "href": "/kboard/32282716",
-        "author": "그래침착",
-        "date": "2025.07.12",
-        "commentNum": "7",
-        "isVideo": false,
         "isPhoto": false
     }
 ]
