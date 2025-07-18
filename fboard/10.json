@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32086366",
+        "category": "그림/아트웍",
+        "title": "페기 포스터 맹글었어요",
+        "href": "/fboard/32086366",
+        "author": "갓스핃글로리",
+        "date": "2025.06.03",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32084556",
+        "category": "그림/아트웍",
+        "title": "엘이에서 안만들어줘서 내가 직접 만든 자살소년단 아이콘",
+        "href": "/fboard/32084556",
+        "author": "Delphox",
+        "date": "2025.06.02",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32084230",
         "category": "음악",
         "title": "2010~2013년 애틀랜타 트랩에 중독됬어요",
@@ -218,16 +240,5 @@
         "commentNum": "18",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32061741",
-        "category": "리뷰",
-        "title": "Drake - 「Take Care」",
-        "href": "/fboard/32061741",
-        "author": "SlimeYouOut",
-        "date": "2025.05.28",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

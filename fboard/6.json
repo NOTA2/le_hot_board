@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32186054",
+        "category": "음악",
+        "title": "이져스가 왜 미니멀하지 않다는지 모르겠어요",
+        "href": "/fboard/32186054",
+        "author": "ささやき",
+        "date": "2025.06.22",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "fboard_32184824",
+        "category": "음악",
+        "title": "에미넴 관련 소신발언 (속사포 관련 소신발언?)  (장문주의)",
+        "href": "/fboard/32184824",
+        "author": "이마이넘",
+        "date": "2025.06.22",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32182459",
         "category": "리뷰",
         "title": "<리뷰> JPEGMAFIA - I LAY DOWN MY LIFE FOR YOU✝️",
@@ -196,27 +218,5 @@
         "commentNum": "1",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32161570",
-        "category": "음악",
-        "title": "서부힙합의 G-Funk 개론서 : Understanding of G-Funk (Remind)",
-        "href": "/fboard/32161570",
-        "author": "N.W.A.",
-        "date": "2025.06.17",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32158439",
-        "category": "리뷰",
-        "title": "힙뉴비의 Total xanarchy 리뷰",
-        "href": "/fboard/32158439",
-        "author": "릴랩스베이비",
-        "date": "2025.06.16",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

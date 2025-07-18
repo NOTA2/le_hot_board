@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32287194",
+        "category": "인증/후기",
+        "title": "(인증을 곁들인) 바보 같은 내 모습",
+        "href": "/fboard/32287194",
+        "author": "DJSam",
+        "date": "2025.07.13",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32283861",
+        "category": "일반",
+        "title": "칸예 라이브 왤캐 열심히 함?",
+        "href": "/fboard/32283861",
+        "author": "doubleO0",
+        "date": "2025.07.12",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32282482",
         "category": "일반",
         "title": "(정보) 뚱뚱한 2CD 케이스 깨진 경우 수리방법!!",
@@ -194,28 +216,6 @@
         "author": "sakurako",
         "date": "2025.07.06",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32244701",
-        "category": "리뷰",
-        "title": "《The Slim Shady LP》 감상문",
-        "href": "/fboard/32244701",
-        "author": "이명준",
-        "date": "2025.07.06",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32224211",
-        "category": "인증/후기",
-        "title": "안녕하세요, 마이크입니다.",
-        "href": "/fboard/32224211",
-        "author": "MN3",
-        "date": "2025.07.06",
-        "commentNum": "25",
         "isVideo": false,
         "isPhoto": true
     }
