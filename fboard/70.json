@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28722971",
+        "category": "인증/후기",
+        "title": "오랜만에 업데이트된 현실 탑스터",
+        "href": "/fboard/28722971",
+        "author": "Rainymatic",
+        "date": "2024.07.27",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28718432",
         "category": "음악",
         "title": "7월 26일자 해외 힙합씬 소식들",
@@ -205,17 +216,6 @@
         "author": "자카",
         "date": "2024.07.23",
         "commentNum": "24",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28693301",
-        "category": "일반",
-        "title": "안녕히 계세요",
-        "href": "/fboard/28693301",
-        "author": "ꓙPEGMAFIA",
-        "date": "2024.07.22",
-        "commentNum": "23",
         "isVideo": false,
         "isPhoto": true
     }
