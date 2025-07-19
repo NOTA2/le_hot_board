@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_32083448",
+        "category": "일반",
+        "title": "에피와 킴제이 그리고 투홀리스",
+        "href": "/kboard/32083448",
+        "author": "데인드한",
+        "date": "2025.06.02",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_32080277",
+        "category": "일반",
+        "title": "한국에서 저평가받는 섬",
+        "href": "/kboard/32080277",
+        "author": "회원",
+        "date": "2025.06.02",
+        "commentNum": "6",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32084537",
         "category": "인증/후기",
         "title": "씨잼 ‘걘’ 부틀랙 가내수공업",
@@ -217,17 +239,6 @@
         "date": "2025.05.29",
         "commentNum": "11",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32058464",
-        "category": "일반",
-        "title": "몰락에 식케이 피쳐링 한다던데",
-        "href": "/kboard/32058464",
-        "author": "Hiprine",
-        "date": "2025.05.28",
-        "commentNum": "2",
-        "isVideo": false,
         "isPhoto": false
     }
 ]
