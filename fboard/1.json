@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32318328",
+        "category": "리뷰",
+        "title": "J Dilla",
+        "href": "/fboard/32318328",
+        "author": "닝닝",
+        "date": "2025.07.20",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32317434",
         "category": "음악",
         "title": "랩으로 조져버리는 rap shxt 앨범들",
         "href": "/fboard/32317434",
         "author": "다스시디어스",
         "date": "2025.07.20",
-        "commentNum": "7",
+        "commentNum": "8",
         "isVideo": true,
         "isPhoto": false
     },
@@ -206,17 +217,6 @@
         "date": "2025.07.14",
         "commentNum": "12",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32296866",
-        "category": "인증/후기",
-        "title": "제.제.제.제.와 댐페기",
-        "href": "/fboard/32296866",
-        "author": "StarboiCarti",
-        "date": "2025.07.15",
-        "commentNum": "9",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

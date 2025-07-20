@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30543242",
+        "category": "음악",
+        "title": "럭셔리플로우를 왜주지 대체",
+        "href": "/kboard/30543242",
+        "author": "maskane",
+        "date": "2025.01.15",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30544760",
         "category": "음악",
         "title": "LF없는게 더 이상하다 생각했는데",
@@ -205,17 +216,6 @@
         "author": "밀어볼이는건",
         "date": "2025.01.12",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_30477480",
-        "category": "일반",
-        "title": "이센스 X 릴모쉬핏",
-        "href": "/kboard/30477480",
-        "author": "Eastcoast",
-        "date": "2025.01.11",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }

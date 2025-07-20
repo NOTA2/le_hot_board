@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32089045",
+        "category": "일반",
+        "title": "빈지노 바지색 논란에 대해",
+        "href": "/kboard/32089045",
+        "author": "knockthedoor",
+        "date": "2025.06.03",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32087994",
         "category": "음악",
         "title": "앨범 뿌려요",
@@ -218,16 +229,5 @@
         "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32063622",
-        "category": "일반",
-        "title": "힙x 연예인들 정치색 밝히는거 미국처럼 해야한다고 봄",
-        "href": "/kboard/32063622",
-        "author": "츠카사",
-        "date": "2025.05.29",
-        "commentNum": "38",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
