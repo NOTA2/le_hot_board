@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32324667",
+        "category": "인증/후기",
+        "title": "호러코어그룹 Gravediggaz 1, 2집 CD/LP 인증!",
+        "href": "/fboard/32324667",
+        "author": "DJSam",
+        "date": "2025.07.21",
+        "commentNum": "16",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32324125",
         "category": "리뷰",
         "title": "[Let God Sort Em Out] 피치포크 해석",
@@ -205,17 +216,6 @@
         "author": "IloveCarti1231",
         "date": "2025.07.15",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32297749",
-        "category": "리뷰",
-        "title": "재즈힙합 세 장",
-        "href": "/fboard/32297749",
-        "author": "닝닝",
-        "date": "2025.07.15",
-        "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
     }
