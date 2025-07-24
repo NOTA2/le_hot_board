@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28337588",
+        "category": "인증/후기",
+        "title": "오늘의 디깅.jpeg (스압주의)",
+        "href": "/fboard/28337588",
+        "author": "killakim",
+        "date": "2024.06.02",
+        "commentNum": "17",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28339392",
         "category": "인증/후기",
         "title": "개추가 박힐 명반들",
@@ -204,17 +215,6 @@
         "href": "/fboard/28302519",
         "author": "Nowhere2go",
         "date": "2024.05.28",
-        "commentNum": "29",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28295860",
-        "category": "음악",
-        "title": "솔직히",
-        "href": "/fboard/28295860",
-        "author": "칸예아들",
-        "date": "2024.05.27",
         "commentNum": "29",
         "isVideo": false,
         "isPhoto": true
