@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29068844",
+        "category": "음악",
+        "title": "씨디 공개합니다",
+        "href": "/fboard/29068844",
+        "author": "아이돈라이크힙합",
+        "date": "2024.09.02",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29065800",
         "category": "인증/후기",
         "title": "그날이 오면 (힙합이 교과서에 실린다면...)",
@@ -205,17 +216,6 @@
         "author": "스캇을좋아하는칸예",
         "date": "2024.08.28",
         "commentNum": "19",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29018884",
-        "category": "인증/후기",
-        "title": "Armand Hammer - WHT LBL, BLK LBL 바이닐",
-        "href": "/fboard/29018884",
-        "author": "DumpGawd",
-        "date": "2024.08.29",
-        "commentNum": "15",
         "isVideo": true,
         "isPhoto": true
     }
