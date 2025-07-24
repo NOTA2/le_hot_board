@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32343929",
+        "category": "인증/후기",
+        "title": "Wu Tang & Mathematics 2025년 앨범 디럭스 2CD",
+        "href": "/fboard/32343929",
+        "author": "DJSam",
+        "date": "2025.07.24",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32342095",
         "category": "일반",
         "title": "(짤 주의) 아 ㅆ 짜증나게",
@@ -207,16 +218,5 @@
         "commentNum": "2",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32315991",
-        "category": "인증/후기",
-        "title": "바이닐 입문 했어요",
-        "href": "/fboard/32315991",
-        "author": "Aaaaaaassss",
-        "date": "2025.07.19",
-        "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
