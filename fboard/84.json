@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28271590",
+        "category": "음악",
+        "title": "찐 드리지 BBL Drizzy 입갤",
+        "href": "/fboard/28271590",
+        "author": "산소",
+        "date": "2024.05.24",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28277603",
         "category": "인증/후기",
         "title": "아이들은 귀신을 본다 바이닐",
@@ -207,16 +218,5 @@
         "commentNum": "12",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28227896",
-        "category": "리뷰",
-        "title": "스템플레이어 3주차 ! 🫥(영상)",
-        "href": "/fboard/28227896",
-        "author": "스캇을좋아하는칸예",
-        "date": "2024.05.18",
-        "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
