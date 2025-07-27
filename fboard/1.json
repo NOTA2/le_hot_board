@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32357740",
+        "category": "인증/후기",
+        "title": "미성년자 YE 콘 후기",
+        "href": "/fboard/32357740",
+        "author": "Ty원sign",
+        "date": "2025.07.27",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32354893",
         "category": "인증/후기",
         "title": "YE콘에서 찍은 사진들 봐주세오",
@@ -205,17 +216,6 @@
         "author": "DJSam",
         "date": "2025.07.22",
         "commentNum": "16",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32327736",
-        "category": "리뷰",
-        "title": "챗GPT가 쓴 타일러 DON'T TAP THE GLASS 후기",
-        "href": "/fboard/32327736",
-        "author": "ㅅㅅㄲㄲ",
-        "date": "2025.07.21",
-        "commentNum": "8",
         "isVideo": true,
         "isPhoto": true
     }
