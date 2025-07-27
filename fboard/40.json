@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30453241",
+        "category": "리뷰",
+        "title": "[리뷰] Mac Miller, 그리고 Faces",
+        "href": "/fboard/30453241",
+        "author": "피닛",
+        "date": "2025.01.09",
+        "commentNum": "38",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_30451512",
         "category": "리뷰",
         "title": "[리뷰] Lil Yachty - Let’s Start Here.",
@@ -205,17 +216,6 @@
         "author": "피닛",
         "date": "2025.01.04",
         "commentNum": "64",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30399881",
-        "category": "인증/후기",
-        "title": "칸예 웨스트 yeezus 나눔합니다",
-        "href": "/fboard/30399881",
-        "author": "Ryo愛",
-        "date": "2025.01.03",
-        "commentNum": "114",
         "isVideo": false,
         "isPhoto": true
     }
