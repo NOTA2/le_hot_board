@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31132943",
+        "category": "인증/후기",
+        "title": "난 요즘 무슨 음악을 좋아하노",
+        "href": "/fboard/31132943",
+        "author": "쀒",
+        "date": "2025.02.17",
+        "commentNum": "47",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31137200",
         "category": "일반",
         "title": "[아트워크 이벤트] 결과 발표",
@@ -207,16 +218,5 @@
         "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_31032148",
-        "category": "리뷰",
-        "title": "<GNX>에 관한 주저리주저리..",
-        "href": "/fboard/31032148",
-        "author": "자카",
-        "date": "2025.02.12",
-        "commentNum": "47",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
