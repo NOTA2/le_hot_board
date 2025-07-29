@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28637620",
+        "category": "인증/후기",
+        "title": "Navy Blue 전집 인증",
+        "href": "/fboard/28637620",
+        "author": "DumpGawd",
+        "date": "2024.07.13",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28634476",
         "category": "음악",
         "title": "나스 진짜 오는구나",
@@ -207,16 +218,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28612781",
-        "category": "일반",
-        "title": "힙X) 여친이랑 헤어지고 싶습니다",
-        "href": "/fboard/28612781",
-        "author": "김베이비킴",
-        "date": "2024.07.09",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
