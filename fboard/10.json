@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32132663",
+        "category": "인증/후기",
+        "title": "인생 첫 lp는 역시",
+        "href": "/fboard/32132663",
+        "author": "한시사십이분",
+        "date": "2025.06.12",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32133526",
         "category": "인증/후기",
         "title": "주말에 김밥에서 산 바이닐들",
@@ -218,16 +229,5 @@
         "commentNum": "25",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32107658",
-        "category": "리뷰",
-        "title": "JPEGMAFIA - <Veteran> 😱 리뷰",
-        "href": "/fboard/32107658",
-        "author": "히오스는니얼굴이다",
-        "date": "2025.06.07",
-        "commentNum": "29",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
