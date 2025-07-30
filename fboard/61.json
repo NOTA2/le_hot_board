@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29346120",
+        "category": "인증/후기",
+        "title": "내가 이번 휴가 때 구매한 앨범들 #2.",
+        "href": "/fboard/29346120",
+        "author": "colewrld",
+        "date": "2024.09.25",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29346066",
         "category": "일반",
         "title": "김밥가서 산 LP들",
@@ -205,17 +216,6 @@
         "author": "파브루어프",
         "date": "2024.09.20",
         "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29282642",
-        "category": "일반",
-        "title": "뭐라고!!!!!!!!!!!",
-        "href": "/fboard/29282642",
-        "author": "산지직송사이다",
-        "date": "2024.09.20",
-        "commentNum": "18",
         "isVideo": false,
         "isPhoto": true
     }

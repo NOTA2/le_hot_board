@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32263164",
+        "category": "일반",
+        "title": "엘이 좆같다는 사람들은 들어라 ㅇㅇ",
+        "href": "/fboard/32263164",
+        "author": "노미춘식",
+        "date": "2025.07.07",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32258700",
         "category": "인증/후기",
         "title": "Departure LP",
@@ -205,17 +216,6 @@
         "author": "Kanyeꓪest",
         "date": "2025.07.02",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32233351",
-        "category": "인증/후기",
-        "title": "앨범 샀읍니다",
-        "href": "/fboard/32233351",
-        "author": "KennyBeats",
-        "date": "2025.07.02",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
     }
