@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30266753",
+        "category": "인증/후기",
+        "title": "#RICHAXXHAITIAN 디지털 에디션 바이닐",
+        "href": "/fboard/30266753",
+        "author": "DumpGawd",
+        "date": "2024.12.21",
+        "commentNum": "25",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30265973",
         "category": "인증/후기",
         "title": "지금까지 모은 LP들로 5x5+3 실물 탑스터",
@@ -205,17 +216,6 @@
         "author": "칸베지드예",
         "date": "2024.12.16",
         "commentNum": "30",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30223363",
-        "category": "인증/후기",
-        "title": "최근 구매한 외힙 명반들 사이 진짜 명반 (앨범 인증)",
-        "href": "/fboard/30223363",
-        "author": "xxxwz25",
-        "date": "2024.12.16",
-        "commentNum": "39",
         "isVideo": false,
         "isPhoto": true
     }
