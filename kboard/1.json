@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32369860",
+        "category": "음악",
+        "title": "강민재 - 정규 앨범 [Stars Run To Heaven] 발매.",
+        "href": "/kboard/32369860",
+        "author": "코홀트닌자들다어디감",
+        "date": "2025.07.31",
+        "commentNum": "1",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32364566",
         "category": "일반",
         "title": "지금까지 나온 올해 국힙 중 주관적인 top10",
@@ -17,7 +28,7 @@
         "href": "/kboard/32367611",
         "author": "오프니어",
         "date": "2025.07.30",
-        "commentNum": "25",
+        "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
     },
@@ -28,7 +39,7 @@
         "href": "/kboard/32367483",
         "author": "로뎃",
         "date": "2025.07.30",
-        "commentNum": "11",
+        "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "와투제이",
         "date": "2025.07.25",
         "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32345378",
-        "category": "일반",
-        "title": "비프리 - 샘스미스 불화설 ㄷㄷ",
-        "href": "/kboard/32345378",
-        "author": "안녕미래",
-        "date": "2025.07.25",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }
