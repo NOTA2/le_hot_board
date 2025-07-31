@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32146411",
+        "category": "리뷰",
+        "title": "Kanye West, <ye> 리뷰",
+        "href": "/fboard/32146411",
+        "author": "uma馬",
+        "date": "2025.06.14",
+        "commentNum": "11",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32144264",
         "category": "리뷰",
         "title": "고통으로부터의 해방인가, 또다른 자의식의 붕괴인가?",
@@ -216,17 +227,6 @@
         "author": "Kanyeꓪest",
         "date": "2025.06.08",
         "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32119747",
-        "category": "인증/후기",
-        "title": "엘이 최초 인증 bedwetter - Vol. 1 : Flick Your Tongue.... LP",
-        "href": "/fboard/32119747",
-        "author": "dDog",
-        "date": "2025.06.09",
-        "commentNum": "25",
         "isVideo": false,
         "isPhoto": true
     }
