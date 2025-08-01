@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28606509",
+        "category": "음악",
+        "title": "블론드 초판 실물영접",
+        "href": "/fboard/28606509",
+        "author": "Ghwn",
+        "date": "2024.07.08",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28602891",
         "category": "인증/후기",
         "title": "최근 구매한 것들 (초레어템)",
@@ -207,16 +218,5 @@
         "commentNum": "29",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28573144",
-        "category": "일반",
-        "title": "외힙원탑 누구인가요?",
-        "href": "/fboard/28573144",
-        "author": "하오노아",
-        "date": "2024.07.03",
-        "commentNum": "39",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
