@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28816281",
+        "category": "인증/후기",
+        "title": "명반들 업어왔습니다",
+        "href": "/kboard/28816281",
+        "author": "오프니어",
+        "date": "2024.08.06",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28812912",
         "category": "일반",
         "title": "비프리 허키 합작 리드머 나옴",
@@ -205,17 +216,6 @@
         "author": "리플리",
         "date": "2024.07.31",
         "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28766741",
-        "category": "일반",
-        "title": "유명래퍼 공원 폭행사건 개인적인 고찰",
-        "href": "/kboard/28766741",
-        "author": "Fridaythe13th",
-        "date": "2024.08.01",
-        "commentNum": "27",
         "isVideo": false,
         "isPhoto": false
     }
