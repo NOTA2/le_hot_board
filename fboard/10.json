@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32156576",
+        "category": "인증/후기",
+        "title": "현대 붐뱁 좋아하신다면... (앨범 소개 및 피지컬 인증)",
+        "href": "/fboard/32156576",
+        "author": "천재금붕어모임",
+        "date": "2025.06.16",
+        "commentNum": "5",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32158920",
         "category": "일반",
         "title": "하 안되겠다 진짜 왕가슴 뿌린다",
@@ -216,17 +227,6 @@
         "author": "23시",
         "date": "2025.06.11",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32128632",
-        "category": "인증/후기",
-        "title": "TPAB 10주년 기념반 인증",
-        "href": "/fboard/32128632",
-        "author": "Mortal_man",
-        "date": "2025.06.11",
-        "commentNum": "18",
         "isVideo": false,
         "isPhoto": true
     }
