@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32251768",
+        "category": "인증/후기",
+        "title": "오랜만에 엘이 들어오니까 또 싸우네ㅋㅋ",
+        "href": "/fboard/32251768",
+        "author": "gunacho",
+        "date": "2025.07.06",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32248773",
+        "category": "인증/후기",
+        "title": "그냥 tpab 10주년반 인증",
+        "href": "/fboard/32248773",
+        "author": "FluxㅣLight",
+        "date": "2025.07.05",
+        "commentNum": "30",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32247424",
         "category": "리뷰",
         "title": "<리뷰> Logic - Under Pressure 🤐",
@@ -194,28 +216,6 @@
         "author": "6vrter6",
         "date": "2025.07.01",
         "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32229431",
-        "category": "일반",
-        "title": "ㅇㅎ)지리는 아헤가오ㄷㄷ",
-        "href": "/fboard/32229431",
-        "author": "느그에미넴",
-        "date": "2025.07.01",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32226550",
-        "category": "인증/후기",
-        "title": "(인증글)바이닐 인증 재밌네요,,,",
-        "href": "/fboard/32226550",
-        "author": "와투제이",
-        "date": "2025.06.30",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     }

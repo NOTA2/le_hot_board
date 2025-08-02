@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29194963",
+        "category": "인증/후기",
+        "title": "좋아하는 국내 음반들 인증",
+        "href": "/kboard/29194963",
+        "author": "민니",
+        "date": "2024.09.14",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29194758",
         "category": "일반",
         "title": "포인트벌이 순회 왔습니다",
@@ -205,17 +216,6 @@
         "author": "섭섭이",
         "date": "2024.09.10",
         "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_29138771",
-        "category": "인증/후기",
-        "title": "비프리 INDO는 명곡인 듯",
-        "href": "/kboard/29138771",
-        "author": "가라아게2조각",
-        "date": "2024.09.10",
-        "commentNum": "23",
         "isVideo": false,
         "isPhoto": false
     }
