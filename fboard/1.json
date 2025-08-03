@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32381117",
+        "category": "인증/후기",
+        "title": "힙합뉴비의 음반 인증",
+        "href": "/fboard/32381117",
+        "author": "죽전동스캇",
+        "date": "2025.08.02",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32380199",
         "category": "인증/후기",
         "title": "내 밥값을 도둑질한 두명을 고발합니다",
         "href": "/fboard/32380199",
         "author": "Nyeong",
         "date": "2025.08.02",
-        "commentNum": "19",
+        "commentNum": "22",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "예리",
         "date": "2025.07.29",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32362010",
-        "category": "인증/후기",
-        "title": "DTTG 바이닐 도착!",
-        "href": "/fboard/32362010",
-        "author": "윤티",
-        "date": "2025.07.29",
-        "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
     }
