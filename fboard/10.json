@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32159337",
+        "category": "일반",
+        "title": "생일 축하해 Kendrick Lamar! 🎁",
+        "href": "/fboard/32159337",
+        "author": "생일봇",
+        "date": "2025.06.17",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32162643",
         "category": "일반",
         "title": "화산조의적과우려의목소리",
@@ -216,28 +227,6 @@
         "author": "아이돈라이크힙합",
         "date": "2025.06.12",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32132663",
-        "category": "인증/후기",
-        "title": "인생 첫 lp는 역시",
-        "href": "/fboard/32132663",
-        "author": "한시사십이분",
-        "date": "2025.06.12",
-        "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32133526",
-        "category": "인증/후기",
-        "title": "주말에 김밥에서 산 바이닐들",
-        "href": "/fboard/32133526",
-        "author": "Nowhere2go",
-        "date": "2025.06.12",
-        "commentNum": "18",
         "isVideo": false,
         "isPhoto": true
     }
