@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28295860",
+        "category": "음악",
+        "title": "솔직히",
+        "href": "/fboard/28295860",
+        "author": "칸예아들",
+        "date": "2024.05.27",
+        "commentNum": "29",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28300749",
         "category": "음악",
         "title": "인증) 포인트 필요해서 올리는 앨범 인증",
@@ -205,17 +216,6 @@
         "author": "K드릭라마",
         "date": "2024.05.23",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28266786",
-        "category": "일반",
-        "title": "난 테일러를 왜 싫어 할까?",
-        "href": "/fboard/28266786",
-        "author": "이pac",
-        "date": "2024.05.23",
-        "commentNum": "28",
         "isVideo": false,
         "isPhoto": false
     }

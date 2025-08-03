@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32258700",
+        "category": "인증/후기",
+        "title": "Departure LP",
+        "href": "/fboard/32258700",
+        "author": "sakurako",
+        "date": "2025.07.06",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32244701",
+        "category": "리뷰",
+        "title": "《The Slim Shady LP》 감상문",
+        "href": "/fboard/32244701",
+        "author": "이명준",
+        "date": "2025.07.06",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32224211",
         "category": "인증/후기",
         "title": "안녕하세요, 마이크입니다.",
@@ -194,28 +216,6 @@
         "author": "KennyBeats",
         "date": "2025.07.02",
         "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32235161",
-        "category": "인증/후기",
-        "title": "큰 거 하나 인증!",
-        "href": "/fboard/32235161",
-        "author": "DJSam",
-        "date": "2025.07.02",
-        "commentNum": "27",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32233879",
-        "category": "음악",
-        "title": "Ye 불리 발매 예정 떴습니다",
-        "href": "/fboard/32233879",
-        "author": "Youpee",
-        "date": "2025.07.02",
-        "commentNum": "26",
         "isVideo": false,
         "isPhoto": true
     }
