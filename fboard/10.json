@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32165364",
+        "category": "일반",
+        "title": "CD가 왔습니다",
+        "href": "/fboard/32165364",
+        "author": "마름모하트",
+        "date": "2025.06.18",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32167129",
         "category": "인증/후기",
         "title": "Mckinely Dixon [Magic, Alive!] 피지컬 인증.jpg",
@@ -216,17 +227,6 @@
         "author": "GoodPerson",
         "date": "2025.06.13",
         "commentNum": "1",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32136193",
-        "category": "음악",
-        "title": "매우 당당 발언",
-        "href": "/fboard/32136193",
-        "author": "XOglaz",
-        "date": "2025.06.13",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": false
     }
