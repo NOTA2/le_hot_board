@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28878335",
+        "category": "음악",
+        "title": "963입니다. 정규 1집 [ 전쟁 ] 발매 했습니다.",
+        "href": "/kboard/28878335",
+        "author": "CAFREEG",
+        "date": "2024.08.14",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28884879",
         "category": "일반",
         "title": "심줌들 제발 꺼져라",
@@ -205,17 +216,6 @@
         "author": "MarshallMathers",
         "date": "2024.08.10",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28844982",
-        "category": "일반",
-        "title": "한국힙합 유저매거진 HOM #15 예고 + 매거진 디자이너 모집 중!",
-        "href": "/kboard/28844982",
-        "author": "쟈이즈",
-        "date": "2024.08.09",
-        "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
     }
