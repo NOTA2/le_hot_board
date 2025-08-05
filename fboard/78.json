@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28599942",
+        "category": "인증/후기",
+        "title": "Organized Konfusion - 1,2,3집 CD Collection",
+        "href": "/fboard/28599942",
+        "author": "DJSam",
+        "date": "2024.07.07",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28597197",
         "category": "일반",
         "title": "근데 이거 홍보 잘 해야겠던데.....",
@@ -207,16 +218,5 @@
         "commentNum": "48",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28558811",
-        "category": "그림/아트웍",
-        "title": "친구가 그린 칸예그림",
-        "href": "/fboard/28558811",
-        "author": "칸예타코야끼",
-        "date": "2024.07.01",
-        "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
