@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32393088",
+        "category": "음악",
+        "title": "전설 그 자체",
+        "href": "/fboard/32393088",
+        "author": "혹스턴",
+        "date": "2025.08.06",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32168120",
         "category": "리뷰",
         "title": "앨범리뷰 - KIDS SEE GHOSTS",
@@ -28,7 +39,7 @@
         "href": "/fboard/32390027",
         "author": "DJSam",
         "date": "2025.08.05",
-        "commentNum": "41",
+        "commentNum": "42",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "히오스는니얼굴이다",
         "date": "2025.08.01",
         "commentNum": "",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32374906",
-        "category": "일반",
-        "title": "메트로 선발대) 영포티에 물 들어버린 영써티",
-        "href": "/fboard/32374906",
-        "author": "Yeisdumbasf",
-        "date": "2025.08.01",
-        "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
     }
