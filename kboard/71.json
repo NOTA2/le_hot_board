@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_29003730",
+        "category": "일반",
+        "title": "뭔 일 났을 때 엘이에 물어보지좀 마셈",
+        "href": "/kboard/29003730",
+        "author": "근본주의자",
+        "date": "2024.08.27",
+        "commentNum": "51",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_28994181",
+        "category": "일반",
+        "title": "앙",
+        "href": "/kboard/28994181",
+        "author": "잇츠미",
+        "date": "2024.08.26",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28995995",
         "category": "음악",
         "title": "뉴챔프의 일침 ㄷㄷ",
@@ -194,28 +216,6 @@
         "author": "kyuman",
         "date": "2024.08.22",
         "commentNum": "19",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28930463",
-        "category": "일반",
-        "title": "김하온 근황",
-        "href": "/kboard/28930463",
-        "author": "마카오킴",
-        "date": "2024.08.21",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28937297",
-        "category": "음악",
-        "title": "01년생이 뽑은 한국 힙합 명곡 TOP 10 (1편)",
-        "href": "/kboard/28937297",
-        "author": "코지보이",
-        "date": "2024.08.21",
-        "commentNum": "29",
         "isVideo": true,
         "isPhoto": false
     }
