@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_32197481",
+        "category": "일반",
+        "title": "뉴스에서 PUBLIC ENEMY 나오네요 ㅋㅋ",
+        "href": "/kboard/32197481",
+        "author": "GDFine",
+        "date": "2025.06.24",
+        "commentNum": "20",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_32195875",
+        "category": "음악",
+        "title": "이제 지훈이도 민식이 인정할 거라고 봐",
+        "href": "/kboard/32195875",
+        "author": "anmond",
+        "date": "2025.06.24",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32192087",
         "category": "일반",
         "title": "결국 케이플립이 명반이 될라면 매체들로부터 인정을 받아야함",
@@ -218,16 +240,5 @@
         "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32165587",
-        "category": "음악",
-        "title": "스플라이스에 부정적인 사람들 꽤나 이해감",
-        "href": "/kboard/32165587",
-        "author": "nunukkk",
-        "date": "2025.06.18",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
