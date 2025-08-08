@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32186054",
+        "category": "음악",
+        "title": "이져스가 왜 미니멀하지 않다는지 모르겠어요",
+        "href": "/fboard/32186054",
+        "author": "ささやき",
+        "date": "2025.06.22",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32184824",
         "category": "음악",
         "title": "에미넴 관련 소신발언 (속사포 관련 소신발언?)  (장문주의)",
@@ -218,27 +229,5 @@
         "commentNum": "5",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32158439",
-        "category": "리뷰",
-        "title": "힙뉴비의 Total xanarchy 리뷰",
-        "href": "/fboard/32158439",
-        "author": "릴랩스베이비",
-        "date": "2025.06.16",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32156576",
-        "category": "인증/후기",
-        "title": "현대 붐뱁 좋아하신다면... (앨범 소개 및 피지컬 인증)",
-        "href": "/fboard/32156576",
-        "author": "천재금붕어모임",
-        "date": "2025.06.16",
-        "commentNum": "5",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]

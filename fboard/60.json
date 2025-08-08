@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29489301",
+        "category": "인증/후기",
+        "title": "지금까지 모은 바이닐&CD",
+        "href": "/fboard/29489301",
+        "author": "East21",
+        "date": "2024.10.08",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29495669",
+        "category": "인증/후기",
+        "title": "명반 바이닐과 피규어.jpg",
+        "href": "/fboard/29495669",
+        "author": "killakim",
+        "date": "2024.10.09",
+        "commentNum": "32",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29494264",
         "category": "인증/후기",
         "title": "자동으로 추천이 눌리는 글",
@@ -194,28 +216,6 @@
         "author": "PDFMAFIA",
         "date": "2024.10.05",
         "commentNum": "53",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29442075",
-        "category": "인증/후기",
-        "title": "방금 사온 갤주 우주명반 인증",
-        "href": "/fboard/29442075",
-        "author": "P1ay6o1Cart1",
-        "date": "2024.10.04",
-        "commentNum": "46",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29440673",
-        "category": "일반",
-        "title": "확실히 금요일 오후라 엘이가 핫하네요",
-        "href": "/fboard/29440673",
-        "author": "칸베지드예",
-        "date": "2024.10.04",
-        "commentNum": "22",
         "isVideo": false,
         "isPhoto": true
     }

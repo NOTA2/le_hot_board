@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_31938048",
+        "category": "일반",
+        "title": "KC를 보면 결국 팬들은 크루,패밀리,갱 느낌을 원함..",
+        "href": "/kboard/31938048",
+        "author": "KCTAPE",
+        "date": "2025.05.04",
+        "commentNum": "24",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_31933930",
         "category": "인증/후기",
         "title": "작년 12월 부터 모은 것",
@@ -207,16 +218,5 @@
         "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_31895427",
-        "category": "리뷰",
-        "title": "식구 EP 듣고왔는데",
-        "href": "/kboard/31895427",
-        "author": "잡동사니",
-        "date": "2025.04.30",
-        "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

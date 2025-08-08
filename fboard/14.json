@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32084556",
+        "category": "그림/아트웍",
+        "title": "엘이에서 안만들어줘서 내가 직접 만든 자살소년단 아이콘",
+        "href": "/fboard/32084556",
+        "author": "Delphox",
+        "date": "2025.06.02",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32084230",
+        "category": "음악",
+        "title": "2010~2013년 애틀랜타 트랩에 중독됬어요",
+        "href": "/fboard/32084230",
+        "author": "PAEC",
+        "date": "2025.06.02",
+        "commentNum": "",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32083718",
         "category": "음악",
         "title": "2025 4-5월 주목받아야할 음악 4선",
@@ -195,28 +217,6 @@
         "date": "2025.05.29",
         "commentNum": "23",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32060455",
-        "category": "일반",
-        "title": "Gnx 기습발매됐을 때 luther 개좋다고 하던게 엊그제 같은데",
-        "href": "/fboard/32060455",
-        "author": "Vanessakang",
-        "date": "2025.05.28",
-        "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32061741",
-        "category": "리뷰",
-        "title": "Drake - 「Take Care」",
-        "href": "/fboard/32061741",
-        "author": "SlimeYouOut",
-        "date": "2025.05.28",
-        "commentNum": "19",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
