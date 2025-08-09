@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32193378",
+        "category": "리뷰",
+        "title": "<리뷰> Lil Tecca - DOPAMINE🧬",
+        "href": "/fboard/32193378",
+        "author": "히오스는니얼굴이다",
+        "date": "2025.06.23",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32191424",
         "category": "음악",
         "title": "[전곡해석] Lil Tecca - DOPAMINE",
@@ -217,28 +228,6 @@
         "date": "2025.06.17",
         "commentNum": "3",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32159337",
-        "category": "일반",
-        "title": "생일 축하해 Kendrick Lamar! 🎁",
-        "href": "/fboard/32159337",
-        "author": "생일봇",
-        "date": "2025.06.17",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32162643",
-        "category": "일반",
-        "title": "화산조의적과우려의목소리",
-        "href": "/fboard/32162643",
-        "author": "히오스는니얼굴이다",
-        "date": "2025.06.17",
-        "commentNum": "1",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
