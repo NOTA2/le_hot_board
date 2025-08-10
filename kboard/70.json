@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29079350",
+        "category": "일반",
+        "title": "신병받아라~",
+        "href": "/kboard/29079350",
+        "author": "산지직송사이다",
+        "date": "2024.09.03",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29075537",
         "category": "일반",
         "title": "힙합엘이는 위클래스가 아닙니다",
@@ -207,16 +218,5 @@
         "commentNum": "22",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_29020788",
-        "category": "리뷰",
-        "title": "JJK 《고결한 충돌 (Noble Collision)》 (2015)",
-        "href": "/kboard/29020788",
-        "author": "사무스아란",
-        "date": "2024.08.29",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

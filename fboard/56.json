@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29753156",
+        "category": "음악",
+        "title": "Tyler, The Creator - CHROMAKOPIA 전곡해석 완료",
+        "href": "/fboard/29753156",
+        "author": "크밍",
+        "date": "2024.10.31",
+        "commentNum": "31",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29751933",
         "category": "일반",
         "title": "To. 에이셉 라키",
@@ -205,17 +216,6 @@
         "author": "shawtyfromseoul",
         "date": "2024.10.26",
         "commentNum": "33",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29692944",
-        "category": "음악",
-        "title": "연대별 베스트 앨범 탑스터 - 당신의 선택은?",
-        "href": "/fboard/29692944",
-        "author": "피닛",
-        "date": "2024.10.26",
-        "commentNum": "53",
         "isVideo": false,
         "isPhoto": true
     }
