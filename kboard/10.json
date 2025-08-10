@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32201851",
+        "category": "일반",
+        "title": "갓대웅은 갓칭호 반납해라",
+        "href": "/kboard/32201851",
+        "author": "비니빈지노",
+        "date": "2025.06.25",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32202005",
         "category": "일반",
         "title": "[속보] 와비사비룸 [물질보다 정신] 피지컬 한정반 발매!",
@@ -216,17 +227,6 @@
         "author": "Djdejddl",
         "date": "2025.06.20",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32175031",
-        "category": "인증/후기",
-        "title": "케이플립 CD 부틀랙 가내수공업",
-        "href": "/kboard/32175031",
-        "author": "Djdejddl",
-        "date": "2025.06.20",
-        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     }
