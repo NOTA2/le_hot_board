@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28744896",
+        "category": "인증/후기",
+        "title": "오늘의 디깅으로 맞춰지는 퍼즐.jpeg",
+        "href": "/fboard/28744896",
+        "author": "killakim",
+        "date": "2024.07.30",
+        "commentNum": "29",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_28743927",
+        "category": "일반",
+        "title": "해줘도 읽씹!",
+        "href": "/fboard/28743927",
+        "author": "DJSam",
+        "date": "2024.07.29",
+        "commentNum": "46",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28739060",
         "category": "음악",
         "title": "신청곡 개같이 부활",
@@ -196,27 +218,5 @@
         "commentNum": "18",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28710761",
-        "category": "그림/아트웍",
-        "title": "모자에 콰지모토도 추가해봤읍니다",
-        "href": "/fboard/28710761",
-        "author": "CuP",
-        "date": "2024.07.24",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28712044",
-        "category": "일반",
-        "title": "(힙x) 염치 없지만 생일 축하 좀 해주세요",
-        "href": "/fboard/28712044",
-        "author": "흑부랄앨범내",
-        "date": "2024.07.25",
-        "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
