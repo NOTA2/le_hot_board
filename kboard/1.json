@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32418039",
+        "category": "일반",
+        "title": "대중들이 잘한다는 래퍼와 힙팬들이 잘한다는 래퍼의 차이는 뭘까요?",
+        "href": "/kboard/32418039",
+        "author": "왕의존재",
+        "date": "2025.08.11",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32417357",
         "category": "음악",
         "title": "머쉬베놈 정규 1집 트랙리스트 공개",
@@ -17,7 +28,7 @@
         "href": "/kboard/32415753",
         "author": "쌈닭",
         "date": "2025.08.11",
-        "commentNum": "15",
+        "commentNum": "20",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "KCTAPE",
         "date": "2025.08.06",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32395449",
-        "category": "음악",
-        "title": "어디서 감히 식케이님을 모욕해",
-        "href": "/kboard/32395449",
-        "author": "외힙른이",
-        "date": "2025.08.06",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": false
     }
