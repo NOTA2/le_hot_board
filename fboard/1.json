@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32416193",
+        "category": "리뷰",
+        "title": "Clipse - Let God Sort Em Out 리뷰",
+        "href": "/fboard/32416193",
+        "author": "온암",
+        "date": "2025.08.12",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32417433",
         "category": "인증/후기",
         "title": "Yeezy 옷왔다",
@@ -204,17 +215,6 @@
         "href": "/fboard/32393088",
         "author": "혹스턴",
         "date": "2025.08.06",
-        "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32168120",
-        "category": "리뷰",
-        "title": "앨범리뷰 - KIDS SEE GHOSTS",
-        "href": "/fboard/32168120",
-        "author": "피자모짜렐라",
-        "date": "2025.08.05",
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
