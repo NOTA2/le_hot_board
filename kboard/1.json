@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32416229",
+        "category": "음악",
+        "title": "식케이 테잌잇 풀립잇 벌스 개지리지않나요?",
+        "href": "/kboard/32416229",
+        "author": "XOglaz",
+        "date": "2025.08.11",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32419632",
         "category": "리뷰",
         "title": "로꼬 정규 3집-SCRAPS",
@@ -28,7 +39,7 @@
         "href": "/kboard/32417357",
         "author": "cig0721",
         "date": "2025.08.11",
-        "commentNum": "27",
+        "commentNum": "30",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "오프니어",
         "date": "2025.08.07",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32399614",
-        "category": "인증/후기",
-        "title": "엘이 정상화시킬 앨범 가져왔다 개추 박아라",
-        "href": "/kboard/32399614",
-        "author": "오프니어",
-        "date": "2025.08.07",
-        "commentNum": "36",
         "isVideo": false,
         "isPhoto": true
     }
