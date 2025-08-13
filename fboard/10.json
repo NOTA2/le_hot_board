@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32204176",
+        "category": "인증/후기",
+        "title": "Stones Throw 20주년 티셔츠 인증",
+        "href": "/fboard/32204176",
+        "author": "프랭크자파",
+        "date": "2025.06.26",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32203371",
         "category": "그림/아트웍",
         "title": "👑 관예대왕 행차하신다 👑",
@@ -218,16 +229,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32178718",
-        "category": "인증/후기",
-        "title": "도착! Ghostface Killah - Supreme Clientele LP",
-        "href": "/fboard/32178718",
-        "author": "DJSam",
-        "date": "2025.06.21",
-        "commentNum": "24",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
