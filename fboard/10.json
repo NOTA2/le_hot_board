@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32203371",
+        "category": "그림/아트웍",
+        "title": "👑 관예대왕 행차하신다 👑",
+        "href": "/fboard/32203371",
+        "author": "GayGay",
+        "date": "2025.06.26",
+        "commentNum": "56",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32203491",
         "category": "인증/후기",
         "title": "맥킨리 딕슨 magic, alive! 바이닐 인증",
@@ -217,17 +228,6 @@
         "date": "2025.06.21",
         "commentNum": "24",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32175459",
-        "category": "음악",
-        "title": "오늘 제 생일이에요",
-        "href": "/fboard/32175459",
-        "author": "민니",
-        "date": "2025.06.20",
-        "commentNum": "48",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
