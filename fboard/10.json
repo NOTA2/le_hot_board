@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32203491",
+        "category": "인증/후기",
+        "title": "맥킨리 딕슨 magic, alive! 바이닐 인증",
+        "href": "/fboard/32203491",
+        "author": "와투제이",
+        "date": "2025.06.26",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32199970",
         "category": "일반",
         "title": "Evidence 정규 5집 발매 예정 및 선싱글 공개",
@@ -217,17 +228,6 @@
         "date": "2025.06.20",
         "commentNum": "48",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32172592",
-        "category": "인증/후기",
-        "title": "[인증] 90년대 여성 래퍼 좋아하신다면! (17편 Shazzy)",
-        "href": "/fboard/32172592",
-        "author": "DJSam",
-        "date": "2025.06.20",
-        "commentNum": "10",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
