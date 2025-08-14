@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32206211",
+        "category": "음악",
+        "title": "Mr morale에 대한 이야기를 좀 해보자면",
+        "href": "/fboard/32206211",
+        "author": "AMW",
+        "date": "2025.06.26",
+        "commentNum": "21",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32204176",
         "category": "인증/후기",
         "title": "Stones Throw 20주년 티셔츠 인증",
@@ -216,17 +227,6 @@
         "author": "KarmaPopo",
         "date": "2025.06.21",
         "commentNum": "29",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32180128",
-        "category": "일반",
-        "title": "칸예의 논란들이 다른 아티스트들의 범죄와는 다르게 느껴지는 이유",
-        "href": "/fboard/32180128",
-        "author": "BrentFaiyaz",
-        "date": "2025.06.21",
-        "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
     }
