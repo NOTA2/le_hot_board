@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32207639",
+        "category": "리뷰",
+        "title": "취미로 쓰는 Biggie의 Ready to Die 리이뷰",
+        "href": "/fboard/32207639",
+        "author": "fldjf",
+        "date": "2025.06.27",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32209172",
         "category": "일반",
         "title": "칸예 신보 열받는점",
@@ -216,17 +227,6 @@
         "author": "ささやき",
         "date": "2025.06.22",
         "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32184824",
-        "category": "음악",
-        "title": "에미넴 관련 소신발언 (속사포 관련 소신발언?)  (장문주의)",
-        "href": "/fboard/32184824",
-        "author": "이마이넘",
-        "date": "2025.06.22",
-        "commentNum": "26",
         "isVideo": false,
         "isPhoto": false
     }

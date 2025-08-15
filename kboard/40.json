@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30723407",
+        "category": "일반",
+        "title": "김강토가 더욱 떠야하는 이유",
+        "href": "/kboard/30723407",
+        "author": "m1N10d0",
+        "date": "2025.01.26",
+        "commentNum": "9",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_30713536",
         "category": "일반",
         "title": "래퍼의 리스크에 관해-혹은 리얼에 관해",
@@ -205,17 +216,6 @@
         "author": "Gyeeah",
         "date": "2025.01.22",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_30665479",
-        "category": "일반",
-        "title": "내가 봤을때 스윙스가 작업실 월세받는 이유는",
-        "href": "/kboard/30665479",
-        "author": "2927301",
-        "date": "2025.01.21",
-        "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
     }

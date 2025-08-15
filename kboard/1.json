@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32429284",
+        "category": "일반",
+        "title": "허클베리피 × 딥플로우 × 마이노스 ???",
+        "href": "/kboard/32429284",
+        "author": "릴태양",
+        "date": "2025.08.14",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32430375",
         "category": "일반",
         "title": "ph1 로꼬 쿠키 랩의 공통점",
         "href": "/kboard/32430375",
         "author": "왕의존재",
         "date": "2025.08.14",
-        "commentNum": "6",
+        "commentNum": "13",
         "isVideo": false,
         "isPhoto": false
     },
@@ -17,7 +28,7 @@
         "href": "/kboard/32430525",
         "author": "ATCQuiet",
         "date": "2025.08.14",
-        "commentNum": "10",
+        "commentNum": "12",
         "isVideo": false,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "1",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32412682",
-        "category": "인증/후기",
-        "title": "염따 전집 인증 (살아숨셔3 CD?)",
-        "href": "/kboard/32412682",
-        "author": "오프니어",
-        "date": "2025.08.10",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
