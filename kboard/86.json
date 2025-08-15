@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28496510",
+        "category": "일반",
+        "title": "손심바로 끓인 보신탕",
+        "href": "/kboard/28496510",
+        "author": "난지우다",
+        "date": "2024.06.23",
+        "commentNum": "19",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28490123",
         "category": "리뷰",
         "title": "지금까지 앨범 안 듣다가 30개 몰아들은 국힙뉴비 리뷰",
@@ -205,17 +216,6 @@
         "author": "치닝디핑",
         "date": "2024.06.18",
         "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28455975",
-        "category": "일반",
-        "title": "감마 서리 관련은 날조가 너무 많네요",
-        "href": "/kboard/28455975",
-        "author": "멋진청년",
-        "date": "2024.06.18",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": false
     }
