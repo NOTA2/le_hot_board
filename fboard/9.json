@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32233351",
+        "category": "인증/후기",
+        "title": "앨범 샀읍니다",
+        "href": "/fboard/32233351",
+        "author": "KennyBeats",
+        "date": "2025.07.02",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32235161",
         "category": "인증/후기",
         "title": "큰 거 하나 인증!",
@@ -205,17 +216,6 @@
         "author": "노는아이카르티",
         "date": "2025.06.28",
         "commentNum": "30",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32210030",
-        "category": "음악",
-        "title": "장르에 대한 개인적인 생각인데(약간의뻘소리주의)",
-        "href": "/fboard/32210030",
-        "author": "KnightsVizion",
-        "date": "2025.06.27",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": false
     }
