@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32228244",
+        "category": "음악",
+        "title": "전역앨범",
+        "href": "/kboard/32228244",
+        "author": "tmstrt",
+        "date": "2025.07.01",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32227878",
         "category": "음악",
         "title": "제가 좋아하는 염따 벌스에요",
@@ -218,16 +229,5 @@
         "commentNum": "22",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32204332",
-        "category": "일반",
-        "title": "국힙 앨범 수집 꿀팁 대방출",
-        "href": "/kboard/32204332",
-        "author": "오프니어",
-        "date": "2025.06.26",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
