@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32216812",
+        "category": "인증/후기",
+        "title": "야심한 밤…. 바이닐 인증 #오랜만에",
+        "href": "/fboard/32216812",
+        "author": "따흙",
+        "date": "2025.06.28",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32078341",
         "category": "일반",
         "title": "바이닐",
@@ -218,16 +229,5 @@
         "commentNum": "4",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32196157",
-        "category": "음악",
-        "title": "그 켄드릭 벌스 여기잇어요",
-        "href": "/fboard/32196157",
-        "author": "mikgazer",
-        "date": "2025.06.24",
-        "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
