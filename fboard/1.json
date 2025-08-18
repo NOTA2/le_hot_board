@@ -1,12 +1,34 @@
 [
     {
+        "id": "fboard_32444843",
+        "category": "인증/후기",
+        "title": "데이토나오는 바이닐인증",
+        "href": "/fboard/32444843",
+        "author": "따흙",
+        "date": "2025.08.18",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32445558",
+        "category": "리뷰",
+        "title": "다시 돌아보니 $$$4u는…",
+        "href": "/fboard/32445558",
+        "author": "그데",
+        "date": "2025.08.18",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32445082",
         "category": "리뷰",
         "title": "Dijon - Baby Pitchfork 리뷰 해석",
         "href": "/fboard/32445082",
         "author": "공ZA",
         "date": "2025.08.18",
-        "commentNum": "5",
+        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     },
@@ -196,27 +218,5 @@
         "commentNum": "25",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32422611",
-        "category": "음악",
-        "title": "[전곡 해석] Tyler, The Creator - DON'T TAP THE GLASS",
-        "href": "/fboard/32422611",
-        "author": "Chips",
-        "date": "2025.08.12",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32420341",
-        "category": "리뷰",
-        "title": "JACKBOYS, <JACKBOYS 2> 리뷰",
-        "href": "/fboard/32420341",
-        "author": "uma馬",
-        "date": "2025.08.12",
-        "commentNum": "11",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
