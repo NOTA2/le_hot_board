@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32220219",
+        "category": "인증/후기",
+        "title": "더울 때는... G-Funk 명반 인증 및 추천!",
+        "href": "/fboard/32220219",
+        "author": "DJSam",
+        "date": "2025.06.29",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32220550",
         "category": "리뷰",
         "title": "<리뷰> Kevin Abstract - Blush🤭",
@@ -218,16 +229,5 @@
         "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32197740",
-        "category": "음악",
-        "title": "오늘은 동동이님의 생일입니다! 🎉",
-        "href": "/fboard/32197740",
-        "author": "동동Ol",
-        "date": "2025.06.24",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
