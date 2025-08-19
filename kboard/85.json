@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28557889",
+        "category": "일반",
+        "title": "LE프리미엄없나?",
+        "href": "/kboard/28557889",
+        "author": "SoBright",
+        "date": "2024.07.01",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28552901",
         "category": "음악",
         "title": "비프리 최근 작사법이랑 빈지노 노비츠키 작사법이랑 닮은거같아요",
@@ -205,17 +216,6 @@
         "author": "마카오킴",
         "date": "2024.06.27",
         "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28527083",
-        "category": "음악",
-        "title": "의외로 잘 주는 년들 많습니다",
-        "href": "/kboard/28527083",
-        "author": "spend882",
-        "date": "2024.06.27",
-        "commentNum": "30",
         "isVideo": false,
         "isPhoto": true
     }
