@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32448497",
+        "category": "음악",
+        "title": "뭐? 영 서그?",
+        "href": "/fboard/32448497",
+        "author": "카티야앨범내",
+        "date": "2025.08.19",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32448055",
         "category": "음악",
         "title": "탑스터 하나 투척",
@@ -28,7 +39,7 @@
         "href": "/fboard/32447909",
         "author": "예리",
         "date": "2025.08.19",
-        "commentNum": "13",
+        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "릴랩스베이비",
         "date": "2025.08.14",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32427572",
-        "category": "그림/아트웍",
-        "title": "칸예 전집 LP 목업",
-        "href": "/fboard/32427572",
-        "author": "MODM",
-        "date": "2025.08.13",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     }
