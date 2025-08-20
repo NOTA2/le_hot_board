@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_30905286",
+        "category": "인증/후기",
+        "title": "브론즈 Bronze - 1,2,3집 LP / Tape 컬렉션",
+        "href": "/kboard/30905286",
+        "author": "DJSam",
+        "date": "2025.02.07",
+        "commentNum": "41",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_30915139",
+        "category": "일반",
+        "title": "대학 합격했습니다",
+        "href": "/kboard/30915139",
+        "author": "Rorschach",
+        "date": "2025.02.07",
+        "commentNum": "39",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_30908343",
         "category": "리뷰",
         "title": "94-24 리뷰",
@@ -194,28 +216,6 @@
         "author": "이가온a.k.aL.ga",
         "date": "2025.02.02",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_30828826",
-        "category": "일반",
-        "title": "업그레이드5 좋게 들음",
-        "href": "/kboard/30828826",
-        "author": "뻐끔",
-        "date": "2025.02.02",
-        "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_30822387",
-        "category": "일반",
-        "title": "쿤타 입장문",
-        "href": "/kboard/30822387",
-        "author": "Eastcoast",
-        "date": "2025.02.02",
-        "commentNum": "32",
         "isVideo": false,
         "isPhoto": true
     }
