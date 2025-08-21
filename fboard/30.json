@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31538752",
+        "category": "음악",
+        "title": "CLOSE TO YOU의 뿌리는 블론드가 아닌 스티비 원더이다.",
+        "href": "/fboard/31538752",
+        "author": "GunzNButter",
+        "date": "2025.03.23",
+        "commentNum": "28",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_31543286",
         "category": "인증/후기",
         "title": "앨범 나눔을 자주 해왔던 이유",
@@ -205,17 +216,6 @@
         "author": "미오",
         "date": "2025.03.18",
         "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31485627",
-        "category": "리뷰",
-        "title": "Playboi Carti - MUSIC을 듣고",
-        "href": "/fboard/31485627",
-        "author": "NikesFM",
-        "date": "2025.03.18",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }
