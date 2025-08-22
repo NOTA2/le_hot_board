@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32239287",
+        "category": "일반",
+        "title": "디디게이트 배심원 평결 결과",
+        "href": "/fboard/32239287",
+        "author": "MarshallMathers",
+        "date": "2025.07.03",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32239620",
         "category": "인증/후기",
         "title": "JPEGMAFIA - LP! (Offline) CD 인증",
@@ -216,17 +227,6 @@
         "author": "히오스는니얼굴이다",
         "date": "2025.06.28",
         "commentNum": "24",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32213921",
-        "category": "인증/후기",
-        "title": "DOPAMINE CD",
-        "href": "/fboard/32213921",
-        "author": "KimKardashian",
-        "date": "2025.06.28",
-        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     }
