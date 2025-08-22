@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32242902",
+        "category": "인증/후기",
+        "title": "시험도 끝났는데 바이닐 인증 한번쯤은",
+        "href": "/fboard/32242902",
+        "author": "따흙",
+        "date": "2025.07.04",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32242964",
         "category": "음악",
         "title": "지드 4곡짜리 EP 후기",
@@ -216,17 +227,6 @@
         "author": "DumpGawd",
         "date": "2025.06.28",
         "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32216372",
-        "category": "음악",
-        "title": "언더힙합 좋아한다고 했더니 생일 선물로 이런 거 받음",
-        "href": "/fboard/32216372",
-        "author": "mikgazer",
-        "date": "2025.06.28",
-        "commentNum": "24",
         "isVideo": false,
         "isPhoto": true
     }

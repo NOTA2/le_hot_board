@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32457698",
+        "category": "인증/후기",
+        "title": "생일선물로 받은 RTJ2 바이닐",
+        "href": "/fboard/32457698",
+        "author": "기분이조아",
+        "date": "2025.08.22",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32454566",
         "category": "인증/후기",
         "title": "2hollis & Conceal 사인!!!",
@@ -206,17 +217,6 @@
         "date": "2025.08.17",
         "commentNum": "7",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32442513",
-        "category": "인증/후기",
-        "title": "[90년대 붐뱁 프로듀서] 05. DJ Premier",
-        "href": "/fboard/32442513",
-        "author": "DJSam",
-        "date": "2025.08.17",
-        "commentNum": "37",
-        "isVideo": true,
         "isPhoto": true
     }
 ]

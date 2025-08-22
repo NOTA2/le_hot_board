@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29147187",
+        "category": "일반",
+        "title": "YE 팬이리면 지켜야할 6가지 규칙",
+        "href": "/fboard/29147187",
+        "author": "칸예워스트2",
+        "date": "2024.09.11",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29145863",
         "category": "인증/후기",
         "title": "파블로 부틀렉이 도착했다",
@@ -207,16 +218,5 @@
         "commentNum": "31",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29091976",
-        "category": "일반",
-        "title": "오늘 생일인데.. 1포인트씩이라도",
-        "href": "/fboard/29091976",
-        "author": "Lanadelpray",
-        "date": "2024.09.04",
-        "commentNum": "36",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
