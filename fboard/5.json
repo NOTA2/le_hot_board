@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32370099",
+        "category": "인증/후기",
+        "title": "제이 딜라가 인정한 래퍼 Elzhi - CD/LP 인증",
+        "href": "/fboard/32370099",
+        "author": "DJSam",
+        "date": "2025.07.31",
+        "commentNum": "14",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32368207",
         "category": "일반",
         "title": "돈탭더글래스 바이닐",
@@ -205,17 +216,6 @@
         "author": "somki",
         "date": "2025.07.26",
         "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32347734",
-        "category": "리뷰",
-        "title": "<리뷰> EsDeeKid - Rebel 🥷",
-        "href": "/fboard/32347734",
-        "author": "히오스는니얼굴이다",
-        "date": "2025.07.25",
-        "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
     }
