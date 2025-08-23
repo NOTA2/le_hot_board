@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31191655",
+        "category": "인증/후기",
+        "title": "스티커 뜯은 사람입니다",
+        "href": "/fboard/31191655",
+        "author": "rangee",
+        "date": "2025.02.21",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31193667",
         "category": "일반",
         "title": "똥글) 플레이보이 카티 심리학적 분석",
@@ -205,17 +216,6 @@
         "author": "kegun",
         "date": "2025.02.17",
         "commentNum": "96",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31123600",
-        "category": "그림/아트웍",
-        "title": "[아트워크 이벤트] OH MY GOD I'M REALLY THAT GUY",
-        "href": "/fboard/31123600",
-        "author": "카티야앨범내",
-        "date": "2025.02.16",
-        "commentNum": "31",
         "isVideo": true,
         "isPhoto": true
     }
