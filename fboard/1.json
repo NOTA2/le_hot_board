@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32459048",
+        "category": "리뷰",
+        "title": "J Dilla - Welcome 2 Detroit",
+        "href": "/fboard/32459048",
+        "author": "예리",
+        "date": "2025.08.23",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32457446",
         "category": "리뷰",
         "title": "읽어본 래퍼들 자서전 목록+후기",
@@ -17,7 +28,7 @@
         "href": "/fboard/32457698",
         "author": "기분이조아",
         "date": "2025.08.22",
-        "commentNum": "5",
+        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     },
@@ -39,7 +50,7 @@
         "href": "/fboard/32456635",
         "author": "혹스턴",
         "date": "2025.08.22",
-        "commentNum": "5",
+        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     },
@@ -204,17 +215,6 @@
         "href": "/fboard/32445082",
         "author": "공ZA",
         "date": "2025.08.18",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32442349",
-        "category": "인증/후기",
-        "title": "김밥에서 골리웍 줍하기",
-        "href": "/fboard/32442349",
-        "author": "alwayswithsound",
-        "date": "2025.08.17",
         "commentNum": "7",
         "isVideo": false,
         "isPhoto": true

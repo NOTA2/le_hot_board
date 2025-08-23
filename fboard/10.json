@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32244635",
+        "category": "일반",
+        "title": "호주 정부, 칸예의 입국 비자를 취소시키다",
+        "href": "/fboard/32244635",
+        "author": "MarshallMathers",
+        "date": "2025.07.04",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32243242",
         "category": "인증/후기",
         "title": "뉴비의 첫 lp",
@@ -217,17 +228,6 @@
         "date": "2025.06.29",
         "commentNum": "9",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32216812",
-        "category": "인증/후기",
-        "title": "야심한 밤…. 바이닐 인증 #오랜만에",
-        "href": "/fboard/32216812",
-        "author": "따흙",
-        "date": "2025.06.28",
-        "commentNum": "4",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
