@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28796036",
+        "category": "리뷰",
+        "title": "씨잼(C JAMM) - ㅈ (Error) 『킁』 (분석 + 리뷰 = 감상문)",
+        "href": "/kboard/28796036",
+        "author": "코지보이",
+        "date": "2024.08.04",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28792106",
         "category": "일반",
         "title": "쇼미11은 진지하게 이영지 돌잔치같네",
@@ -205,17 +216,6 @@
         "author": "근본주의자",
         "date": "2024.07.30",
         "commentNum": "55",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28747919",
-        "category": "음악",
-        "title": "최근 국힙 한짤 요약",
-        "href": "/kboard/28747919",
-        "author": "델른",
-        "date": "2024.07.30",
-        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     }
