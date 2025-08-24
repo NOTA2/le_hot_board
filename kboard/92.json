@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28345654",
+        "category": "일반",
+        "title": "속보) 씨잼 킁",
+        "href": "/kboard/28345654",
+        "author": "데이클로페스",
+        "date": "2024.06.03",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28341276",
         "category": "음악",
         "title": "참 요즘 여러 래퍼들 사건 보며 미란이,ph-1,기리보이",
@@ -205,17 +216,6 @@
         "author": "이지스",
         "date": "2024.05.30",
         "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28314771",
-        "category": "일반",
-        "title": "요즘 엘이 손심바 루틴 ㅇㅇ",
-        "href": "/kboard/28314771",
-        "author": "아니놀라",
-        "date": "2024.05.30",
-        "commentNum": "17",
         "isVideo": false,
         "isPhoto": false
     }
