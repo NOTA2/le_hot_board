@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28610626",
+        "category": "일반",
+        "title": "JPEGMAFIA 아이콘 기원 70일차",
+        "href": "/fboard/28610626",
+        "author": "ꓙPEGMAFIA",
+        "date": "2024.07.08",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_28591865",
+        "category": "리뷰",
+        "title": "Jeru The Damaja - The Sun Rises in the East(1994) 리뷰",
+        "href": "/fboard/28591865",
+        "author": "온암",
+        "date": "2024.07.08",
+        "commentNum": "4",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28607162",
         "category": "일반",
         "title": "텅스텐",
@@ -194,28 +216,6 @@
         "author": "이골",
         "date": "2024.07.04",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28578872",
-        "category": "인증/후기",
-        "title": "“Nasty Nas In Your Area”",
-        "href": "/fboard/28578872",
-        "author": "killakim",
-        "date": "2024.07.04",
-        "commentNum": "30",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28578297",
-        "category": "음악",
-        "title": "🔥해외힙합 유저매거진 w/HOM #12 7.8 Coming Soon🔥",
-        "href": "/fboard/28578297",
-        "author": "쟈이즈",
-        "date": "2024.07.04",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }

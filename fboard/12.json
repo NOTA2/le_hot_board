@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32206211",
+        "category": "음악",
+        "title": "Mr morale에 대한 이야기를 좀 해보자면",
+        "href": "/fboard/32206211",
+        "author": "AMW",
+        "date": "2025.06.26",
+        "commentNum": "21",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "fboard_32204176",
+        "category": "인증/후기",
+        "title": "Stones Throw 20주년 티셔츠 인증",
+        "href": "/fboard/32204176",
+        "author": "프랭크자파",
+        "date": "2025.06.26",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32203371",
         "category": "그림/아트웍",
         "title": "👑 관예대왕 행차하신다 👑",
@@ -196,27 +218,5 @@
         "commentNum": "13",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32182612",
-        "category": "일반",
-        "title": "선착순 1인 전재산",
-        "href": "/fboard/32182612",
-        "author": "KarmaPopo",
-        "date": "2025.06.21",
-        "commentNum": "29",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32180128",
-        "category": "일반",
-        "title": "칸예의 논란들이 다른 아티스트들의 범죄와는 다르게 느껴지는 이유",
-        "href": "/fboard/32180128",
-        "author": "BrentFaiyaz",
-        "date": "2025.06.21",
-        "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
