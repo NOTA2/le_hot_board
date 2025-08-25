@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28447344",
+        "category": "일반",
+        "title": "저 장난하는거 아니고요",
+        "href": "/fboard/28447344",
+        "author": "펩시맨99",
+        "date": "2024.06.17",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28452386",
         "category": "음악",
         "title": "명반 왔습니다",
@@ -205,17 +216,6 @@
         "author": "비젼",
         "date": "2024.06.13",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28411642",
-        "category": "일반",
-        "title": "소신 발언)))",
-        "href": "/fboard/28411642",
-        "author": "StarboiCarti",
-        "date": "2024.06.13",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": false
     }
