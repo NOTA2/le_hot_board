@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32107658",
+        "category": "리뷰",
+        "title": "JPEGMAFIA - <Veteran> 😱 리뷰",
+        "href": "/fboard/32107658",
+        "author": "히오스는니얼굴이다",
+        "date": "2025.06.07",
+        "commentNum": "29",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32105698",
         "category": "인증/후기",
         "title": "바다건너 들어온 엘이 최초 인증",
@@ -206,17 +217,6 @@
         "date": "2025.06.03",
         "commentNum": "8",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32086366",
-        "category": "그림/아트웍",
-        "title": "페기 포스터 맹글었어요",
-        "href": "/fboard/32086366",
-        "author": "갓스핃글로리",
-        "date": "2025.06.03",
-        "commentNum": "12",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

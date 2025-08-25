@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32467221",
+        "category": "리뷰",
+        "title": "에피의 E 는 명반입니다.",
+        "href": "/kboard/32467221",
+        "author": "yeezyus",
+        "date": "2025.08.25",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32466432",
         "category": "일반",
         "title": "님들 kc 힙플페 영상 올라왔네요",
@@ -205,17 +216,6 @@
         "author": "redstar",
         "date": "2025.08.20",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32449532",
-        "category": "음악",
-        "title": "쇼미 꼭 성공했으면 좋겠음",
-        "href": "/kboard/32449532",
-        "author": "자유낙하",
-        "date": "2025.08.20",
-        "commentNum": "1",
         "isVideo": false,
         "isPhoto": false
     }
