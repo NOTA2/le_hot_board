@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28930463",
+        "category": "일반",
+        "title": "김하온 근황",
+        "href": "/kboard/28930463",
+        "author": "마카오킴",
+        "date": "2024.08.21",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28937297",
         "category": "음악",
         "title": "01년생이 뽑은 한국 힙합 명곡 TOP 10 (1편)",
@@ -205,17 +216,6 @@
         "author": "세이구",
         "date": "2024.08.18",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28909652",
-        "category": "음악",
-        "title": "고스트클럽 개인적으로 저평가라 생각함",
-        "href": "/kboard/28909652",
-        "author": "롤링라우드롤렉스롤스라이스",
-        "date": "2024.08.18",
-        "commentNum": "22",
         "isVideo": false,
         "isPhoto": false
     }
