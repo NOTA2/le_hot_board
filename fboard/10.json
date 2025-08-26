@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32263164",
+        "category": "일반",
+        "title": "엘이 좆같다는 사람들은 들어라 ㅇㅇ",
+        "href": "/fboard/32263164",
+        "author": "노미춘식",
+        "date": "2025.07.07",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32258700",
         "category": "인증/후기",
         "title": "Departure LP",
@@ -217,17 +228,6 @@
         "date": "2025.07.02",
         "commentNum": "9",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32235161",
-        "category": "인증/후기",
-        "title": "큰 거 하나 인증!",
-        "href": "/fboard/32235161",
-        "author": "DJSam",
-        "date": "2025.07.02",
-        "commentNum": "27",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
