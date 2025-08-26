@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32278671",
+        "category": "일반",
+        "title": "여름철 GOATs ㅇㅇ",
+        "href": "/kboard/32278671",
+        "author": "그래침착",
+        "date": "2025.07.11",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32277533",
         "category": "리뷰",
         "title": "김심야 money flows 개인적인 해석",
@@ -218,16 +229,5 @@
         "commentNum": "18",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32254299",
-        "category": "인증/후기",
-        "title": "제가 가진 앨범을 다시 좀 모아봤습니다...",
-        "href": "/kboard/32254299",
-        "author": "banhana1014",
-        "date": "2025.07.06",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
