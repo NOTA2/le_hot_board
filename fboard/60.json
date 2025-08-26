@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29686824",
+        "category": "리뷰",
+        "title": "<앨범 한줄평> #7",
+        "href": "/fboard/29686824",
+        "author": "MiKael",
+        "date": "2024.10.26",
+        "commentNum": "18",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29693217",
         "category": "인증/후기",
         "title": "고딩의 바이닐 자랑",
@@ -206,17 +217,6 @@
         "date": "2024.10.21",
         "commentNum": "40",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29640450",
-        "category": "인증/후기",
-        "title": "간만의 시디 인증",
-        "href": "/fboard/29640450",
-        "author": "Kanyeꓪest",
-        "date": "2024.10.21",
-        "commentNum": "14",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
