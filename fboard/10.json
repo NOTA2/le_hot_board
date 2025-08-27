@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32269630",
+        "category": "인증/후기",
+        "title": "J J J J JJJJJJJJJJJJJJJJ",
+        "href": "/fboard/32269630",
+        "author": "Nyeong",
+        "date": "2025.07.08",
+        "commentNum": "12",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32268472",
         "category": "인증/후기",
         "title": "굴리오옹 나이스~",
@@ -218,16 +229,5 @@
         "commentNum": "8",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32239620",
-        "category": "인증/후기",
-        "title": "JPEGMAFIA - LP! (Offline) CD 인증",
-        "href": "/fboard/32239620",
-        "author": "KimKardashian",
-        "date": "2025.07.03",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
