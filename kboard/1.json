@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32477577",
+        "category": "리뷰",
+        "title": "E SENS <The Anecdote>를 기념하며",
+        "href": "/kboard/32477577",
+        "author": "앞날",
+        "date": "2025.08.27",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32479185",
         "category": "음악",
         "title": "정신병에 대한 인식이 미천한 애들 많네",
         "href": "/kboard/32479185",
         "author": "maldinista",
         "date": "2025.08.28",
-        "commentNum": "12",
+        "commentNum": "15",
         "isVideo": false,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32461814",
-        "category": "일반",
-        "title": "돌림판 웃음포인트",
-        "href": "/kboard/32461814",
-        "author": "아포칼립소",
-        "date": "2025.08.24",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
