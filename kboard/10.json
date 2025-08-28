@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32292612",
+        "category": "일반",
+        "title": "잘 지내는 황세현.jpg",
+        "href": "/kboard/32292612",
+        "author": "MarshallMathers",
+        "date": "2025.07.14",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32292601",
         "category": "음악",
         "title": "몰락 처음에 기대를 많이 했나 싶었는디",
@@ -216,17 +227,6 @@
         "author": "Stevegarl",
         "date": "2025.07.09",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32271394",
-        "category": "음악",
-        "title": "뱃사 새앨범 후기",
-        "href": "/kboard/32271394",
-        "author": "Writersglock",
-        "date": "2025.07.09",
-        "commentNum": "10",
         "isVideo": false,
         "isPhoto": false
     }
