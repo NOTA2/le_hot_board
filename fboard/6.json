@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32372134",
+        "category": "일반",
+        "title": "클립스 모음집",
+        "href": "/fboard/32372134",
+        "author": "국힙버러지손심바",
+        "date": "2025.07.31",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32369810",
+        "category": "인증/후기",
+        "title": "Clipse - Let God Sort Em Out - CD 인증 (+ 1,2,3집)",
+        "href": "/fboard/32369810",
+        "author": "DJSam",
+        "date": "2025.07.31",
+        "commentNum": "14",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32370099",
         "category": "인증/후기",
         "title": "제이 딜라가 인정한 래퍼 Elzhi - CD/LP 인증",
@@ -194,28 +216,6 @@
         "author": "이명준",
         "date": "2025.07.26",
         "commentNum": "",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32353359",
-        "category": "일반",
-        "title": "예를 찬양하라",
-        "href": "/fboard/32353359",
-        "author": "융린",
-        "date": "2025.07.26",
-        "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32349709",
-        "category": "그림/아트웍",
-        "title": "오늘 칸예콘 오시는 분... 포스터 받아가세여",
-        "href": "/fboard/32349709",
-        "author": "somki",
-        "date": "2025.07.26",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }
