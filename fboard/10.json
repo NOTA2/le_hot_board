@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32272989",
+        "category": "일반",
+        "title": "새로 가입했습니다",
+        "href": "/fboard/32272989",
+        "author": "JESUMAFIA",
+        "date": "2025.07.09",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32273305",
         "category": "음악",
         "title": "라샨 선정 2025년 상반기 Best Album List",
@@ -218,27 +229,5 @@
         "commentNum": "5",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32243242",
-        "category": "인증/후기",
-        "title": "뉴비의 첫 lp",
-        "href": "/fboard/32243242",
-        "author": "말존나안듣는Ye",
-        "date": "2025.07.04",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32242902",
-        "category": "인증/후기",
-        "title": "시험도 끝났는데 바이닐 인증 한번쯤은",
-        "href": "/fboard/32242902",
-        "author": "따흙",
-        "date": "2025.07.04",
-        "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
