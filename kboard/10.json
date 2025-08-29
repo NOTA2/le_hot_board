@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32307190",
+        "category": "리뷰",
+        "title": "던밀스 이번 EP 저주받은 걸작",
+        "href": "/kboard/32307190",
+        "author": "paranoidremix",
+        "date": "2025.07.17",
+        "commentNum": "31",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32304597",
         "category": "음악",
         "title": "한국사람 “씨발”",
@@ -216,17 +227,6 @@
         "author": "리오리",
         "date": "2025.07.11",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32278671",
-        "category": "일반",
-        "title": "여름철 GOATs ㅇㅇ",
-        "href": "/kboard/32278671",
-        "author": "그래침착",
-        "date": "2025.07.11",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
     }
