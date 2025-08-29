@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32275870",
+        "category": "음악",
+        "title": "무더운 여름을 날려줄 서부 힙합 앨범 100선",
+        "href": "/fboard/32275870",
+        "author": "다스시디어스",
+        "date": "2025.07.10",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32272989",
         "category": "일반",
         "title": "새로 가입했습니다",
@@ -218,16 +229,5 @@
         "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32244635",
-        "category": "일반",
-        "title": "호주 정부, 칸예의 입국 비자를 취소시키다",
-        "href": "/fboard/32244635",
-        "author": "MarshallMathers",
-        "date": "2025.07.04",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
