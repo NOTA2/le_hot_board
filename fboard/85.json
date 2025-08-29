@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28485393",
+        "category": "일반",
+        "title": "진짜 fake ass fan들 거르자",
+        "href": "/fboard/28485393",
+        "author": "칸예공연가는성인",
+        "date": "2024.06.22",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28484642",
         "category": "인증/후기",
         "title": "인증) GRISELDA",
@@ -205,17 +216,6 @@
         "author": "두개의사형대",
         "date": "2024.06.16",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28440718",
-        "category": "인증/후기",
-        "title": "엘붕이들 오랜만",
-        "href": "/fboard/28440718",
-        "author": "야추테니스링",
-        "date": "2024.06.16",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     }

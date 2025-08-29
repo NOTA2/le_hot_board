@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32483200",
+        "category": "음악",
+        "title": "최고의 조합: 핏자와 코데인",
+        "href": "/fboard/32483200",
+        "author": "혹스턴",
+        "date": "2025.08.29",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32481405",
         "category": "음악",
         "title": "삼수생의 삼수탑스터",
@@ -28,7 +39,7 @@
         "href": "/fboard/32479925",
         "author": "공ZA",
         "date": "2025.08.28",
-        "commentNum": "2",
+        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "DJSam",
         "date": "2025.08.23",
         "commentNum": "12",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32458128",
-        "category": "리뷰",
-        "title": "리뷰 써봄",
-        "href": "/fboard/32458128",
-        "author": "천재금붕어모임",
-        "date": "2025.08.23",
-        "commentNum": "8",
         "isVideo": true,
         "isPhoto": true
     }
