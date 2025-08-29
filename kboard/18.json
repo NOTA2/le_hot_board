@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32102280",
+        "category": "일반",
+        "title": "오토튠스윙스와 개지리는 키드밀리피처링",
+        "href": "/kboard/32102280",
+        "author": "KCTAPE",
+        "date": "2025.06.06",
+        "commentNum": "7",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32098656",
         "category": "인증/후기",
         "title": "이사기념 NEW 앨범인증",
@@ -205,17 +216,6 @@
         "author": "후주",
         "date": "2025.05.31",
         "commentNum": "7",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32076108",
-        "category": "음악",
-        "title": "SIKKOO는 확실히 영앤리치가 잘맞았을거 같음",
-        "href": "/kboard/32076108",
-        "author": "KIIS",
-        "date": "2025.06.01",
-        "commentNum": "11",
         "isVideo": true,
         "isPhoto": false
     }
