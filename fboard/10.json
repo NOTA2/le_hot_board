@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32282482",
+        "category": "일반",
+        "title": "(정보) 뚱뚱한 2CD 케이스 깨진 경우 수리방법!!",
+        "href": "/fboard/32282482",
+        "author": "DJSam",
+        "date": "2025.07.12",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32282699",
         "category": "인증/후기",
         "title": "아 ㅅㅂ 칸예 또 시작이네",
@@ -218,16 +229,5 @@
         "commentNum": "6",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32248855",
-        "category": "인증/후기",
-        "title": "Bladee 바이닐 세개 인증",
-        "href": "/fboard/32248855",
-        "author": "헤어팥",
-        "date": "2025.07.05",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
