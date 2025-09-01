@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29735648",
+        "category": "일반",
+        "title": "#4 알앤비 앨범 소개  ⚖",
+        "href": "/fboard/29735648",
+        "author": "김베이비킴",
+        "date": "2024.10.30",
+        "commentNum": "11",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29742367",
         "category": "인증/후기",
         "title": "90년대 냄새 찐한 음반인증",
@@ -207,16 +218,5 @@
         "commentNum": "18",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_29693217",
-        "category": "인증/후기",
-        "title": "고딩의 바이닐 자랑",
-        "href": "/fboard/29693217",
-        "author": "sugkdippp",
-        "date": "2024.10.26",
-        "commentNum": "34",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
