@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32492165",
+        "category": "그림/아트웍",
+        "title": "앨범 키링 직접 만듦",
+        "href": "/fboard/32492165",
+        "author": "lambda",
+        "date": "2025.09.01",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32491411",
         "category": "그림/아트웍",
         "title": "제인 리무버 쨩을 그려보았어요~",
         "href": "/fboard/32491411",
         "author": "후주",
         "date": "2025.08.31",
-        "commentNum": "11",
+        "commentNum": "13",
         "isVideo": true,
         "isPhoto": true
     },
@@ -17,7 +28,7 @@
         "href": "/fboard/32490895",
         "author": "JBL",
         "date": "2025.08.31",
-        "commentNum": "24",
+        "commentNum": "28",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "23시",
         "date": "2025.08.26",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32467619",
-        "category": "음악",
-        "title": "J Dilla와 21장의 앨범들",
-        "href": "/fboard/32467619",
-        "author": "Glokk40Spaz",
-        "date": "2025.08.26",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }

@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28267760",
+        "category": "인증/후기",
+        "title": "여러분들이 보내주신 최애곡들 영상 [1]",
+        "href": "/fboard/28267760",
+        "author": "스캇을좋아하는칸예",
+        "date": "2024.05.23",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28264305",
         "category": "일반",
         "title": "소신발언",
@@ -206,17 +217,6 @@
         "date": "2024.05.18",
         "commentNum": "20",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28223913",
-        "category": "그림/아트웍",
-        "title": "덴젤 커리 (그리고 트래비스 스캇 연습)",
-        "href": "/fboard/28223913",
-        "author": "a_chal",
-        "date": "2024.05.18",
-        "commentNum": "19",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

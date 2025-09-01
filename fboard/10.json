@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32285064",
+        "category": "일반",
+        "title": "MF DOOM의 생일입니다! 😍",
+        "href": "/fboard/32285064",
+        "author": "생일봇",
+        "date": "2025.07.12",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32289637",
         "category": "음악",
         "title": "잭보이즈랑 클립스앨범",
@@ -216,17 +227,6 @@
         "author": "노미춘식",
         "date": "2025.07.07",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32258700",
-        "category": "인증/후기",
-        "title": "Departure LP",
-        "href": "/fboard/32258700",
-        "author": "sakurako",
-        "date": "2025.07.06",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     }
