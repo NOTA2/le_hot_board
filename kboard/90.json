@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28490123",
+        "category": "리뷰",
+        "title": "지금까지 앨범 안 듣다가 30개 몰아들은 국힙뉴비 리뷰",
+        "href": "/kboard/28490123",
+        "author": "IBAN",
+        "date": "2024.06.22",
+        "commentNum": "64",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28491764",
         "category": "일반",
         "title": "지예아",
@@ -205,17 +216,6 @@
         "author": "멋진청년",
         "date": "2024.06.18",
         "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28450949",
-        "category": "일반",
-        "title": "념글 컷좀 올려라",
-        "href": "/kboard/28450949",
-        "author": "응가",
-        "date": "2024.06.18",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": false
     }

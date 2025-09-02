@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32494724",
+        "category": "리뷰",
+        "title": "올해의 언더 명반 킹동준-청화 리뷰",
+        "href": "/kboard/32494724",
+        "author": "Djdejddl",
+        "date": "2025.09.02",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32493322",
         "category": "일반",
         "title": "저스디스: LIT 완성됐다. 발매일도 확정됐다",
         "href": "/kboard/32493322",
         "author": "Eastcoast",
         "date": "2025.09.01",
-        "commentNum": "26",
+        "commentNum": "29",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "REALiZE",
         "date": "2025.08.28",
         "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32479338",
-        "category": "음악",
-        "title": "자기가 돈버는 분야 안멋지다고 하면 화나는게 당연하지않나?",
-        "href": "/kboard/32479338",
-        "author": "RODDagger",
-        "date": "2025.08.28",
-        "commentNum": "18",
         "isVideo": false,
         "isPhoto": false
     }
