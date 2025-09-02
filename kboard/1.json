@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32496682",
+        "category": "음악",
+        "title": "큰거 온다",
+        "href": "/kboard/32496682",
+        "author": "Something",
+        "date": "2025.09.02",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32495872",
         "category": "음악",
         "title": "최엘비 정규 4집 [her.] 트랙리스트",
@@ -28,7 +39,7 @@
         "href": "/kboard/32493322",
         "author": "Eastcoast",
         "date": "2025.09.01",
-        "commentNum": "34",
+        "commentNum": "35",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "32",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32479739",
-        "category": "일반",
-        "title": "국힙은 긁혔다",
-        "href": "/kboard/32479739",
-        "author": "ynrhm",
-        "date": "2025.08.28",
-        "commentNum": "",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
