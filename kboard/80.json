@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28859165",
+        "category": "리뷰",
+        "title": "💿 한국힙합 유저매거진 \"HAUS OF MATTERS\" #15",
+        "href": "/kboard/28859165",
+        "author": "쟈이즈",
+        "date": "2024.08.11",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28853521",
         "category": "인증/후기",
         "title": "루피 MARNI 앨범 구매했습니다",
@@ -205,17 +216,6 @@
         "author": "오프니어",
         "date": "2024.08.06",
         "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28812912",
-        "category": "일반",
-        "title": "비프리 허키 합작 리드머 나옴",
-        "href": "/kboard/28812912",
-        "author": "안낭",
-        "date": "2024.08.06",
-        "commentNum": "31",
         "isVideo": false,
         "isPhoto": true
     }
