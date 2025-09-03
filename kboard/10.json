@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32330839",
+        "category": "일반",
+        "title": "엘이 3대 저평가 (개인적인 생각)",
+        "href": "/kboard/32330839",
+        "author": "미니멀리즘",
+        "date": "2025.07.22",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32329842",
         "category": "리뷰",
         "title": "가장 개인적인 폐허에서 피어난 가장 창의적인 증명 - <살아숨셔 4>를 듣고",
@@ -218,16 +229,5 @@
         "commentNum": "31",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32304597",
-        "category": "음악",
-        "title": "한국사람 “씨발”",
-        "href": "/kboard/32304597",
-        "author": "유레카9번트랙",
-        "date": "2025.07.16",
-        "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
