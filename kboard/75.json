@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29089212",
+        "category": "일반",
+        "title": "GOAT 반열로 언급되는 분들한테 느끼는 감상",
+        "href": "/kboard/29089212",
+        "author": "ansaninLBNC",
+        "date": "2024.09.04",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29085503",
         "category": "음악",
         "title": "싸이먼 디 근황",
@@ -207,16 +218,5 @@
         "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29022994",
-        "category": "일반",
-        "title": "외힙 영향 하나도 안받은 래퍼",
-        "href": "/kboard/29022994",
-        "author": "왕의존재",
-        "date": "2024.08.29",
-        "commentNum": "24",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
