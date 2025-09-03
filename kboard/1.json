@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32497653",
+        "category": "인증/후기",
+        "title": "에넥도트 도착",
+        "href": "/kboard/32497653",
+        "author": "과카몰리",
+        "date": "2025.09.03",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32496579",
         "category": "일반",
         "title": "쇼미 솔직히 너무 재밌게 보는 사람이지만 CJ랑 계약했던 회사들 너무 쎄게 밀어줬을때",
@@ -28,7 +39,7 @@
         "href": "/kboard/32497907",
         "author": "SURP",
         "date": "2025.09.03",
-        "commentNum": "17",
+        "commentNum": "18",
         "isVideo": true,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "식스핑거",
         "date": "2025.08.29",
         "commentNum": "",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32483849",
-        "category": "음악",
-        "title": "자이언티 이번 ep",
-        "href": "/kboard/32483849",
-        "author": "유명하다왜",
-        "date": "2025.08.29",
-        "commentNum": "2",
         "isVideo": false,
         "isPhoto": false
     }
