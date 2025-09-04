@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32498688",
+        "category": "음악",
+        "title": "꽤재밌는 진짜 꽤재밌다",
+        "href": "/fboard/32498688",
+        "author": "릴랩스베이비",
+        "date": "2025.09.03",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32498369",
         "category": "리뷰",
         "title": "Sabrina Carpenter - Man's Best Friend 피치포크 리뷰 해석",
         "href": "/fboard/32498369",
         "author": "공ZA",
         "date": "2025.09.03",
-        "commentNum": "12",
+        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "스깨링더호",
         "date": "2025.08.29",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32483200",
-        "category": "음악",
-        "title": "최고의 조합: 핏자와 코데인",
-        "href": "/fboard/32483200",
-        "author": "혹스턴",
-        "date": "2025.08.29",
-        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     }
