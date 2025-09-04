@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28508827",
+        "category": "일반",
+        "title": "크램프입니다.",
+        "href": "/kboard/28508827",
+        "author": "KRAMP",
+        "date": "2024.06.24",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28504447",
         "category": "일반",
         "title": "도봉구민중에 더콰이엇이랑 음악얘기하실분!!!",
@@ -207,16 +218,5 @@
         "commentNum": "14",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28470218",
-        "category": "일반",
-        "title": "꼴이 웃기긴해 솔직히 ㅋㅋ",
-        "href": "/kboard/28470218",
-        "author": "근본주의자",
-        "date": "2024.06.20",
-        "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
