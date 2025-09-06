@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32023022",
+        "category": "일반",
+        "title": "팩트는 씹칸보다 쿠팡이 더 whw이라는 거임",
+        "href": "/fboard/32023022",
+        "author": "mountain3",
+        "date": "2025.05.19",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32019619",
         "category": "리뷰",
         "title": "잡탕이란 이름의 일주일만의 리뷰",
@@ -207,16 +218,5 @@
         "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32000571",
-        "category": "일반",
-        "title": "탈퇴한 한달간 엘이를 보며 느낀점",
-        "href": "/fboard/32000571",
-        "author": "theweecand",
-        "date": "2025.05.13",
-        "commentNum": "55",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32289637",
+        "category": "음악",
+        "title": "잭보이즈랑 클립스앨범",
+        "href": "/fboard/32289637",
+        "author": "오타니",
+        "date": "2025.07.13",
+        "commentNum": "92",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32287194",
         "category": "인증/후기",
         "title": "(인증을 곁들인) 바보 같은 내 모습",
@@ -205,17 +216,6 @@
         "author": "노미춘식",
         "date": "2025.07.07",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32258700",
-        "category": "인증/후기",
-        "title": "Departure LP",
-        "href": "/fboard/32258700",
-        "author": "sakurako",
-        "date": "2025.07.06",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     }
