@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32315991",
+        "category": "인증/후기",
+        "title": "바이닐 입문 했어요",
+        "href": "/fboard/32315991",
+        "author": "Aaaaaaassss",
+        "date": "2025.07.19",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32314398",
         "category": "인증/후기",
         "title": "어제 김밥해서 구해온 음반들",
@@ -216,17 +227,6 @@
         "author": "junkhiphop",
         "date": "2025.07.13",
         "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32285064",
-        "category": "일반",
-        "title": "MF DOOM의 생일입니다! 😍",
-        "href": "/fboard/32285064",
-        "author": "생일봇",
-        "date": "2025.07.12",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": false
     }
