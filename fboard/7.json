@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32382239",
+        "category": "인증/후기",
+        "title": "Nujabes 누자베스 - CD 컬렉션 (Digipak Only!)",
+        "href": "/fboard/32382239",
+        "author": "DJSam",
+        "date": "2025.08.03",
+        "commentNum": "28",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32382546",
         "category": "인증/후기",
         "title": "Lil Ugly Mane - Volcanic Bird Enemy and the Voice Concern LP ...",
@@ -205,17 +216,6 @@
         "author": "미친환자101",
         "date": "2025.07.29",
         "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32364310",
-        "category": "음악",
-        "title": "많이 늦었지만 2024 베스트 힙합앨범 TOP15",
-        "href": "/fboard/32364310",
-        "author": "기분이조아",
-        "date": "2025.07.29",
-        "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
     }

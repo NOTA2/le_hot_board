@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32310787",
+        "category": "인증/후기",
+        "title": "[인증] 90년대 여성 래퍼 좋아하신다면! (22편 Lil' Kim) - ...",
+        "href": "/fboard/32310787",
+        "author": "DJSam",
+        "date": "2025.07.18",
+        "commentNum": "14",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32310682",
         "category": "인증/후기",
         "title": "[총정리 및 이벤트] 90년대 여성 래퍼 좋아하신다면!",
@@ -218,16 +229,5 @@
         "commentNum": "92",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32287194",
-        "category": "인증/후기",
-        "title": "(인증을 곁들인) 바보 같은 내 모습",
-        "href": "/fboard/32287194",
-        "author": "DJSam",
-        "date": "2025.07.13",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32505393",
+        "category": "일반",
+        "title": "해외힙합 매거진 w/HOM #26 9월 8일 공개 예정!",
+        "href": "/fboard/32505393",
+        "author": "쟈이즈",
+        "date": "2025.09.06",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32504839",
         "category": "음악",
         "title": "외국 힙합 입문 2장 : [메이저와 언더그라운드 사이의 앨범 4선]",
         "href": "/fboard/32504839",
         "author": "히오스는니얼굴이다",
         "date": "2025.09.05",
-        "commentNum": "7",
+        "commentNum": "8",
         "isVideo": true,
         "isPhoto": true
     },
@@ -206,17 +217,6 @@
         "date": "2025.09.01",
         "commentNum": "18",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32491411",
-        "category": "그림/아트웍",
-        "title": "제인 리무버 쨩을 그려보았어요~",
-        "href": "/fboard/32491411",
-        "author": "후주",
-        "date": "2025.08.31",
-        "commentNum": "21",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
