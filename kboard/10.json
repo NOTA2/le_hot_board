@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32346736",
+        "category": "인증/후기",
+        "title": "아니 살아숨셔 빨리 배송온거는 좋은데",
+        "href": "/kboard/32346736",
+        "author": "와투제이",
+        "date": "2025.07.25",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32345378",
         "category": "일반",
         "title": "비프리 - 샘스미스 불화설 ㄷㄷ",
@@ -218,16 +229,5 @@
         "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32317456",
-        "category": "음악",
-        "title": "왜 명반인지 이해 안가는 앨범",
-        "href": "/kboard/32317456",
-        "author": "Ulsan",
-        "date": "2025.07.20",
-        "commentNum": "48",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
