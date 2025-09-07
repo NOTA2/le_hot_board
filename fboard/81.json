@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28675970",
+        "category": "그림/아트웍",
+        "title": "익페 모여라",
+        "href": "/fboard/28675970",
+        "author": "카티야앨범내",
+        "date": "2024.07.20",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28671298",
         "category": "음악",
         "title": "애니 캐릭터로 그린 앨범 커버",
@@ -206,17 +217,6 @@
         "date": "2024.07.15",
         "commentNum": "16",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28647768",
-        "category": "인증/후기",
-        "title": "갤주님들 바이닐 인증",
-        "href": "/fboard/28647768",
-        "author": "hgwe8071",
-        "date": "2024.07.15",
-        "commentNum": "27",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
