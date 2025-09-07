@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32509807",
+        "category": "리뷰",
+        "title": "Jeru the Damaja - The Sun Rises in the East 리뷰",
+        "href": "/fboard/32509807",
+        "author": "공ZA",
+        "date": "2025.09.07",
+        "commentNum": "6",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32506128",
         "category": "인증/후기",
         "title": "오늘 도착한 11개의 음반",
@@ -207,16 +218,5 @@
         "commentNum": "17",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32492136",
-        "category": "일반",
-        "title": "타일러 바이닐ㄹ",
-        "href": "/fboard/32492136",
-        "author": "갸나두리매베소",
-        "date": "2025.09.01",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

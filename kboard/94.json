@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28380612",
+        "category": "음악",
+        "title": "내 기준 붐뱁 TOP 3",
+        "href": "/kboard/28380612",
+        "author": "킫밀이제밀리",
+        "date": "2024.06.09",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28378064",
         "category": "음악",
         "title": "한국의 여자 카티 데뷔",
@@ -205,17 +216,6 @@
         "author": "아니놀라",
         "date": "2024.06.03",
         "commentNum": "22",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28344903",
-        "category": "음악",
-        "title": "왜 심바 랩은 유독 듣기 버거울까... 에 대해 생각을 해봤는데",
-        "href": "/kboard/28344903",
-        "author": "GROCK",
-        "date": "2024.06.03",
-        "commentNum": "17",
         "isVideo": false,
         "isPhoto": false
     }

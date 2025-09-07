@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32510247",
+        "category": "음악",
+        "title": "저스디스 팬이었다가 졷같았다가 현타와서 힙합안들음 ㅋㅋ",
+        "href": "/kboard/32510247",
+        "author": "인간병기호날두",
+        "date": "2025.09.07",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32506105",
         "category": "음악",
         "title": "한국힙합 팬들이 제일 못하는 것",
         "href": "/kboard/32506105",
         "author": "i127qfml",
         "date": "2025.09.06",
-        "commentNum": "12",
+        "commentNum": "13",
         "isVideo": false,
         "isPhoto": false
     },
@@ -28,7 +39,7 @@
         "href": "/kboard/32506587",
         "author": "untellimclick",
         "date": "2025.09.06",
-        "commentNum": "23",
+        "commentNum": "24",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "JJJJJ",
         "date": "2025.09.02",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32494724",
-        "category": "리뷰",
-        "title": "올해의 언더 명반 킹동준-청화 리뷰",
-        "href": "/kboard/32494724",
-        "author": "Djdejddl",
-        "date": "2025.09.02",
-        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     }
