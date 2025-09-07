@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32349056",
+        "category": "일반",
+        "title": "AOTY",
+        "href": "/kboard/32349056",
+        "author": "m1N10d0",
+        "date": "2025.07.26",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32348137",
         "category": "일반",
         "title": "랍온어비트 이 라인 위지 카피한거였네",
@@ -216,17 +227,6 @@
         "author": "Rainymatic",
         "date": "2025.07.21",
         "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32323385",
-        "category": "리뷰",
-        "title": "[리뷰] RM - Indigo : 예술을 이해하는 아이돌",
-        "href": "/kboard/32323385",
-        "author": "일반인의감상",
-        "date": "2025.07.21",
-        "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
     }
