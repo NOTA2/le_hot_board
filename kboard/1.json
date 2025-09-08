@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32512204",
+        "category": "리뷰",
+        "title": "💿한국힙합 매거진 \"HAUS OF MATTERS\" #28",
+        "href": "/kboard/32512204",
+        "author": "쟈이즈",
+        "date": "2025.09.08",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32512350",
         "category": "그림/아트웍",
         "title": "공공구 ㅠㅠ 앨범 커버 피규어 만들기 2편",
@@ -206,17 +217,6 @@
         "date": "2025.09.02",
         "commentNum": "1",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32497907",
-        "category": "음악",
-        "title": "80~90년대 시티팝을 차용한 07,08년생 (정규앨범)",
-        "href": "/kboard/32497907",
-        "author": "SURP",
-        "date": "2025.09.03",
-        "commentNum": "24",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
