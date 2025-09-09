@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32327736",
+        "category": "리뷰",
+        "title": "챗GPT가 쓴 타일러 DON'T TAP THE GLASS 후기",
+        "href": "/fboard/32327736",
+        "author": "ㅅㅅㄲㄲ",
+        "date": "2025.07.21",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32329119",
         "category": "리뷰",
         "title": "<리뷰> Tyler, The Creator - DON'T TAP THE GLASS &#...",
@@ -216,17 +227,6 @@
         "author": "릴랩스베이비",
         "date": "2025.07.16",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32302137",
-        "category": "리뷰",
-        "title": "명반 다섯 장",
-        "href": "/fboard/32302137",
-        "author": "닝닝",
-        "date": "2025.07.16",
-        "commentNum": "25",
         "isVideo": false,
         "isPhoto": true
     }
