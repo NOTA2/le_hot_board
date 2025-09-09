@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_31972264",
+        "category": "리뷰",
+        "title": "언어는 뭉게지고 고장난 테이프처럼 반복된다",
+        "href": "/kboard/31972264",
+        "author": "BLVU",
+        "date": "2025.05.08",
+        "commentNum": "2",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_31973705",
         "category": "일반",
         "title": "검찰의 항소로 다시 재판을 받게 된 식케이",
@@ -207,16 +218,5 @@
         "commentNum": "11",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_31924806",
-        "category": "인증/후기",
-        "title": "고3 앨범 인증",
-        "href": "/kboard/31924806",
-        "author": "030417",
-        "date": "2025.05.03",
-        "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
