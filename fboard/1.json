@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32524144",
+        "category": "인증/후기",
+        "title": "좀 늦은 타일러 도쿄 콘서트 후기 (9/9)",
+        "href": "/fboard/32524144",
+        "author": "바쁜감자",
+        "date": "2025.09.11",
+        "commentNum": "4",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32523523",
         "category": "인증/후기",
         "title": "국내 최초 Heels Have Eyes 2 바이닐 인증",
         "href": "/fboard/32523523",
         "author": "DumpGawd",
         "date": "2025.09.11",
-        "commentNum": "14",
+        "commentNum": "16",
         "isVideo": true,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "12",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32505393",
-        "category": "일반",
-        "title": "해외힙합 매거진 w/HOM #26 9월 8일 공개 예정!",
-        "href": "/fboard/32505393",
-        "author": "쟈이즈",
-        "date": "2025.09.06",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
