@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28800317",
+        "category": "인증/후기",
+        "title": "많이늦은 비프리&이케이 실물영접후기",
+        "href": "/kboard/28800317",
+        "author": "야마단",
+        "date": "2024.08.04",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28796036",
+        "category": "리뷰",
+        "title": "씨잼(C JAMM) - ㅈ (Error) 『킁』 (분석 + 리뷰 = 감상문)",
+        "href": "/kboard/28796036",
+        "author": "코지보이",
+        "date": "2024.08.04",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28792106",
         "category": "일반",
         "title": "쇼미11은 진지하게 이영지 돌잔치같네",
@@ -192,28 +214,6 @@
         "title": "한국힙합씬은 시간이 갈수록 질떨어지는 병신들만 모이네요",
         "href": "/kboard/28746988",
         "author": "pink + white",
-        "date": "2024.07.30",
-        "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28747769",
-        "category": "일반",
-        "title": "치트키는 잘못 없음",
-        "href": "/kboard/28747769",
-        "author": "근본주의자",
-        "date": "2024.07.30",
-        "commentNum": "55",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28747919",
-        "category": "음악",
-        "title": "최근 국힙 한짤 요약",
-        "href": "/kboard/28747919",
-        "author": "델른",
         "date": "2024.07.30",
         "commentNum": "14",
         "isVideo": false,
