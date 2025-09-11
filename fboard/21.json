@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32060455",
+        "category": "일반",
+        "title": "Gnx 기습발매됐을 때 luther 개좋다고 하던게 엊그제 같은데",
+        "href": "/fboard/32060455",
+        "author": "Vanessakang",
+        "date": "2025.05.28",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32061741",
         "category": "리뷰",
         "title": "Drake - 「Take Care」",
@@ -207,16 +218,5 @@
         "commentNum": "3",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32039371",
-        "category": "리뷰",
-        "title": "Common—Be",
-        "href": "/fboard/32039371",
-        "author": "uma馬",
-        "date": "2025.05.23",
-        "commentNum": "8",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
