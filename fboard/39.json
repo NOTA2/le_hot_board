@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31242321",
+        "category": "리뷰",
+        "title": "[리뷰 + 전곡해석] Earl Sweatshirt - SICK!",
+        "href": "/fboard/31242321",
+        "author": "FINNIT",
+        "date": "2025.02.24",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31230540",
         "category": "리뷰",
         "title": "Eminem - The Marshall Mathers LP 리뷰",
@@ -205,17 +216,6 @@
         "author": "KantrickRhymer",
         "date": "2025.02.19",
         "commentNum": "34",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31168779",
-        "category": "음악",
-        "title": "한 번쯤은 들어봐야할 동부 힙합 명반 110선",
-        "href": "/fboard/31168779",
-        "author": "다스시디어스",
-        "date": "2025.02.19",
-        "commentNum": "29",
         "isVideo": false,
         "isPhoto": true
     }
