@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28342638",
+        "category": "일반",
+        "title": "앨범 평점 사이트",
+        "href": "/fboard/28342638",
+        "author": "mala",
+        "date": "2024.06.03",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28335327",
         "category": "인증/후기",
         "title": "인증) Death Grips Is Online",
@@ -207,16 +218,5 @@
         "commentNum": "39",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28303975",
-        "category": "인증/후기",
-        "title": "오늘의 디깅.jpeg (Foesum 1집을 드디어!)",
-        "href": "/fboard/28303975",
-        "author": "killakim",
-        "date": "2024.05.28",
-        "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
