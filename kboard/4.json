@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32481166",
+        "category": "일반",
+        "title": "군대 정병 얘기나오면 항상 의문인거",
+        "href": "/kboard/32481166",
+        "author": "KIIS",
+        "date": "2025.08.28",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32481324",
         "category": "일반",
         "title": "요즘 너무 긁힌다",
@@ -207,16 +218,5 @@
         "commentNum": "9",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32468003",
-        "category": "일반",
-        "title": "[리드머] 에피 - pullup to busan... 평점",
-        "href": "/kboard/32468003",
-        "author": "Eastcoast",
-        "date": "2025.08.25",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
