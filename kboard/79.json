@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29003730",
+        "category": "일반",
+        "title": "뭔 일 났을 때 엘이에 물어보지좀 마셈",
+        "href": "/kboard/29003730",
+        "author": "근본주의자",
+        "date": "2024.08.27",
+        "commentNum": "51",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28994181",
         "category": "일반",
         "title": "앙",
@@ -207,16 +218,5 @@
         "commentNum": "19",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28930463",
-        "category": "일반",
-        "title": "김하온 근황",
-        "href": "/kboard/28930463",
-        "author": "마카오킴",
-        "date": "2024.08.21",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
