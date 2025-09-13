@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28671298",
+        "category": "음악",
+        "title": "애니 캐릭터로 그린 앨범 커버",
+        "href": "/fboard/28671298",
+        "author": "파버카스텔콩테하나",
+        "date": "2024.07.19",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28673684",
         "category": "인증/후기",
         "title": "가장 아끼는 LP 자랑",
@@ -205,17 +216,6 @@
         "author": "hgwe8071",
         "date": "2024.07.15",
         "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28646312",
-        "category": "일반",
-        "title": "예곰",
-        "href": "/fboard/28646312",
-        "author": "오해원",
-        "date": "2024.07.15",
-        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     }

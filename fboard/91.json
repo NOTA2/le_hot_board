@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28346025",
+        "category": "음악",
+        "title": "Nas 형님 최근 투어 세트 리스트 (영상추가)",
+        "href": "/fboard/28346025",
+        "author": "Trivium",
+        "date": "2024.06.03",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28339953",
         "category": "음악",
         "title": "켄드릭 >>> i",
@@ -205,17 +216,6 @@
         "author": "todd",
         "date": "2024.05.30",
         "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28309662",
-        "category": "인증/후기",
-        "title": "오랜만에 CD샀다",
-        "href": "/fboard/28309662",
-        "author": "칸예윙크",
-        "date": "2024.05.29",
-        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     }
