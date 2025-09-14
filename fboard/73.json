@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29102155",
+        "category": "음악",
+        "title": "요즘 앨범 제목 특:",
+        "href": "/fboard/29102155",
+        "author": "SISTER",
+        "date": "2024.09.06",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29095165",
         "category": "인증/후기",
         "title": "지금까지 모은 cd + lp",
@@ -206,17 +217,6 @@
         "date": "2024.08.31",
         "commentNum": "15",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29040138",
-        "category": "일반",
-        "title": "인기글 칸예 까는글 뭘 말하고싶은거임?",
-        "href": "/fboard/29040138",
-        "author": "류조니서태지이건거리의시",
-        "date": "2024.08.31",
-        "commentNum": "31",
-        "isVideo": false,
         "isPhoto": false
     }
 ]

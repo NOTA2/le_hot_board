@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29991577",
+        "category": "리뷰",
+        "title": "Kendrick Lamar - GNX(2024) 리뷰",
+        "href": "/fboard/29991577",
+        "author": "온암",
+        "date": "2024.11.24",
+        "commentNum": "28",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29987978",
         "category": "인증/후기",
         "title": "오늘 김밥에서 전재산태웠습니다..",
@@ -207,16 +218,5 @@
         "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29939475",
-        "category": "일반",
-        "title": "짭예 복귀 스니펫",
-        "href": "/fboard/29939475",
-        "author": "clayboiparty",
-        "date": "2024.11.18",
-        "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

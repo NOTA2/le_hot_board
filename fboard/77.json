@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28896870",
+        "category": "음악",
+        "title": "내 기준 인생명반",
+        "href": "/fboard/28896870",
+        "author": "칸예예",
+        "date": "2024.08.16",
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28889954",
         "category": "일반",
         "title": "탑스터 요즘 듣는거 모음으로 해봤습니다",
@@ -206,17 +217,6 @@
         "date": "2024.08.11",
         "commentNum": "27",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28848346",
-        "category": "인증/후기",
-        "title": "인증) Anderson. Paak + Knxwledge = NXWORRIES!",
-        "href": "/fboard/28848346",
-        "author": "DJSam",
-        "date": "2024.08.10",
-        "commentNum": "2",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

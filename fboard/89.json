@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28440718",
+        "category": "인증/후기",
+        "title": "엘붕이들 오랜만",
+        "href": "/fboard/28440718",
+        "author": "야추테니스링",
+        "date": "2024.06.16",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28434812",
         "category": "일반",
         "title": "2Pac의 생일입니다! 🥳",
@@ -207,16 +218,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28398373",
-        "category": "인증/후기",
-        "title": "새로 산 타일러 CD 산뜻하게 인증.jpeg",
-        "href": "/fboard/28398373",
-        "author": "killakim",
-        "date": "2024.06.11",
-        "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
