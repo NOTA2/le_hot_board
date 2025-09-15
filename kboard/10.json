@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32384838",
+        "category": "음악",
+        "title": "김감전 ㅈ된다",
+        "href": "/kboard/32384838",
+        "author": "추첨",
+        "date": "2025.08.03",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32373334",
         "category": "일반",
         "title": "랩지망생들에게 전하는 몇가지",
@@ -218,16 +229,5 @@
         "commentNum": "31",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32364113",
-        "category": "음악",
-        "title": "엘붕이 1퍼센트 행님이랑 디엠주고받았다",
-        "href": "/kboard/32364113",
-        "author": "KnightsVizion",
-        "date": "2025.07.29",
-        "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
