@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28800317",
+        "category": "인증/후기",
+        "title": "많이늦은 비프리&이케이 실물영접후기",
+        "href": "/kboard/28800317",
+        "author": "야마단",
+        "date": "2024.08.04",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28796036",
         "category": "리뷰",
         "title": "씨잼(C JAMM) - ㅈ (Error) 『킁』 (분석 + 리뷰 = 감상문)",
@@ -205,17 +216,6 @@
         "author": "pink + white",
         "date": "2024.07.30",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28747769",
-        "category": "일반",
-        "title": "치트키는 잘못 없음",
-        "href": "/kboard/28747769",
-        "author": "근본주의자",
-        "date": "2024.07.30",
-        "commentNum": "55",
         "isVideo": false,
         "isPhoto": true
     }
