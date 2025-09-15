@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_30202362",
+        "category": "인증/후기",
+        "title": "드디어 도착한 “명반”",
+        "href": "/fboard/30202362",
+        "author": "archiveshaw",
+        "date": "2024.12.14",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_30197320",
+        "category": "인증/후기",
+        "title": "* 엘이 최초 * 빈스 스테이플스 친필 사인반 인증",
+        "href": "/fboard/30197320",
+        "author": "피닛",
+        "date": "2024.12.13",
+        "commentNum": "36",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30201327",
         "category": "인증/후기",
         "title": "후쿠오카 타워레코드에서 구매한 음반들",
@@ -194,28 +216,6 @@
         "author": "killakim",
         "date": "2024.12.10",
         "commentNum": "30",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29833232",
-        "category": "리뷰",
-        "title": "얼마 전, 한 소신발언과 내가 좋아하는 음악 이야기에 대하여",
-        "href": "/fboard/29833232",
-        "author": "온암",
-        "date": "2024.12.10",
-        "commentNum": "38",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30165723",
-        "category": "인증/후기",
-        "title": "Mm..Food 바이닐 인증",
-        "href": "/fboard/30165723",
-        "author": "xxxwz25",
-        "date": "2024.12.09",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     }

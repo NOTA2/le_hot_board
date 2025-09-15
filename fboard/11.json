@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32331268",
+        "category": "인증/후기",
+        "title": "De La Soul 명작 2장의 CD/LP/Tape 인증",
+        "href": "/fboard/32331268",
+        "author": "DJSam",
+        "date": "2025.07.22",
+        "commentNum": "16",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32327736",
+        "category": "리뷰",
+        "title": "챗GPT가 쓴 타일러 DON'T TAP THE GLASS 후기",
+        "href": "/fboard/32327736",
+        "author": "ㅅㅅㄲㄲ",
+        "date": "2025.07.21",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32329119",
         "category": "리뷰",
         "title": "<리뷰> Tyler, The Creator - DON'T TAP THE GLASS &#...",
@@ -194,28 +216,6 @@
         "author": "카레돈까스",
         "date": "2025.07.16",
         "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32301434",
-        "category": "음악",
-        "title": "소신발언",
-        "href": "/fboard/32301434",
-        "author": "율무김치",
-        "date": "2025.07.16",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32304278",
-        "category": "음악",
-        "title": "이 세상에 없는 사람의 음악을 들을 때면",
-        "href": "/fboard/32304278",
-        "author": "릴랩스베이비",
-        "date": "2025.07.16",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }
