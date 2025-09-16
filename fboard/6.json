@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32450871",
+        "category": "인증/후기",
+        "title": "billy woods - GOLLIWOG 리뷰 + 바이닐 인증",
+        "href": "/fboard/32450871",
+        "author": "히오스는니얼굴이다",
+        "date": "2025.08.20",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32450382",
         "category": "인증/후기",
         "title": "미떡아",
@@ -207,16 +218,5 @@
         "commentNum": "7",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32431936",
-        "category": "일반",
-        "title": "500포인트만 더 모으면 드디어 아이콘을 살 수 이따!",
-        "href": "/fboard/32431936",
-        "author": "alwayswithsound",
-        "date": "2025.08.14",
-        "commentNum": "29",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
