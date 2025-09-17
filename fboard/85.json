@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28620112",
+        "category": "음악",
+        "title": "[이벤트710] 1차 선정 결과 & 못다한 이벤트 추가 진행",
+        "href": "/fboard/28620112",
+        "author": "Trivium",
+        "date": "2024.07.10",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28619683",
         "category": "일반",
         "title": "티켓팅 전, 사전조사 해보겠습니다!",
@@ -205,17 +216,6 @@
         "author": "이오더매드문",
         "date": "2024.07.06",
         "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28589630",
-        "category": "인증/후기",
-        "title": "오늘의 레전드급 디깅.jpeg",
-        "href": "/fboard/28589630",
-        "author": "killakim",
-        "date": "2024.07.06",
-        "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
     }

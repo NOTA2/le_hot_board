@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29907213",
+        "category": "일반",
+        "title": "나플라 동정여론 있는 거 자체가 이해 안 감",
+        "href": "/kboard/29907213",
+        "author": "ansaninLBNC",
+        "date": "2024.11.15",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29906204",
         "category": "음악",
         "title": "빅나티 랩할 때 왜 자꾸 끙끙 거려요?",
@@ -207,16 +218,5 @@
         "commentNum": "48",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29860427",
-        "category": "리뷰",
-        "title": "[힙찔] Futuristic Swaver에 대하여",
-        "href": "/kboard/29860427",
-        "author": "김힙찔",
-        "date": "2024.11.10",
-        "commentNum": "18",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
