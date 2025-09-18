@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29714539",
+        "category": "음악",
+        "title": "닉변 기념 요즘 듣는 앨범 미니 탑스터",
+        "href": "/kboard/29714539",
+        "author": "리태그리셀다",
+        "date": "2024.10.28",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_29713405",
         "category": "음악",
         "title": "김봉현 평론가는 확실히 뭘 좀 안다",
@@ -205,17 +216,6 @@
         "author": "LilBaT",
         "date": "2024.10.24",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29665193",
-        "category": "인증/후기",
-        "title": "현실탑스터 저도 만들어봤어요",
-        "href": "/kboard/29665193",
-        "author": "Retaggos",
-        "date": "2024.10.23",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     }
