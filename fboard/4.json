@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32496937",
+        "category": "음악",
+        "title": "속보)미겔 8년만의 정규 앨범 ㄷㄷ",
+        "href": "/fboard/32496937",
+        "author": "Mike29",
+        "date": "2025.09.02",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32498808",
         "category": "리뷰",
         "title": "Westside Gunn - Supreme Blientele 리뷰",
@@ -207,16 +218,5 @@
         "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32480455",
-        "category": "음악",
-        "title": "good kid, m.a.a.d city vs Atrocity Exhibition",
-        "href": "/fboard/32480455",
-        "author": "기분이조아",
-        "date": "2025.08.28",
-        "commentNum": "31",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

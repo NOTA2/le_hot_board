@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32546181",
+        "category": "인증/후기",
+        "title": "MF doom 전집 완, 그외 음종 cd들..",
+        "href": "/fboard/32546181",
+        "author": "gunacho",
+        "date": "2025.09.19",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32543687",
         "category": "인증/후기",
         "title": "둠 전집 cd까지 한개 남음",
         "href": "/fboard/32543687",
         "author": "gunacho",
         "date": "2025.09.18",
-        "commentNum": "7",
+        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "gunacho",
         "date": "2025.09.14",
         "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32530390",
-        "category": "인증/후기",
-        "title": "타일러 더 크리에이터 1일차 간단 후기",
-        "href": "/fboard/32530390",
-        "author": "온암",
-        "date": "2025.09.13",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     }
