@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28712437",
+        "category": "인증/후기",
+        "title": "ASTROWORLD",
+        "href": "/fboard/28712437",
+        "author": "크밍",
+        "date": "2024.07.25",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28711833",
         "category": "인증/후기",
         "title": "내가 이번 휴가 때 구매한 앨범들 #1.",
@@ -205,17 +216,6 @@
         "author": "MarshallMathers",
         "date": "2024.07.21",
         "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28685146",
-        "category": "일반",
-        "title": "통한의 미자는 개추",
-        "href": "/fboard/28685146",
-        "author": "skxno",
-        "date": "2024.07.21",
-        "commentNum": "23",
         "isVideo": false,
         "isPhoto": false
     }

@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31766320",
+        "category": "리뷰",
+        "title": "Kanye West - <Yeezus> 감상평",
+        "href": "/fboard/31766320",
+        "author": "히오스는니얼굴이다",
+        "date": "2025.04.14",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31764510",
         "category": "인증/후기",
         "title": "오늘의 앨범추천 (23) (실물시디 인증 포함)",
@@ -205,17 +216,6 @@
         "author": "뾴감이",
         "date": "2025.04.09",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31706492",
-        "category": "인증/후기",
-        "title": "외힙 입문 CD 인증",
-        "href": "/fboard/31706492",
-        "author": "오프니어",
-        "date": "2025.04.09",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }
