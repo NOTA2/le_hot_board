@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32552770",
+        "category": "인증/후기",
+        "title": "8년간 음반을 모은 사람은 김강토의 100대 명반 중 몇개나 소장중일까?",
+        "href": "/kboard/32552770",
+        "author": "힙찔이벗지노팬",
+        "date": "2025.09.21",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32552490",
         "category": "일반",
         "title": "오",
@@ -17,7 +28,7 @@
         "href": "/kboard/32549801",
         "author": "silverdays",
         "date": "2025.09.20",
-        "commentNum": "6",
+        "commentNum": "7",
         "isVideo": false,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32539134",
-        "category": "일반",
-        "title": "양홍원 표절 논란 쉴드는 개인적으로 이해가 안가네요.",
-        "href": "/kboard/32539134",
-        "author": "redstar",
-        "date": "2025.09.16",
-        "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
