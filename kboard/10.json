@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32412682",
+        "category": "인증/후기",
+        "title": "염따 전집 인증 (살아숨셔3 CD?)",
+        "href": "/kboard/32412682",
+        "author": "오프니어",
+        "date": "2025.08.10",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32409152",
         "category": "음악",
         "title": "KC 컴필 한 번도 좋다고 느낀 적은 없는 것 같음",
@@ -216,17 +227,6 @@
         "author": "류조니서태지이건거리의시",
         "date": "2025.08.04",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32388417",
-        "category": "리뷰",
-        "title": "대충 갈긴 에피 PTB4MHSIGBAFM 후기",
-        "href": "/kboard/32388417",
-        "author": "낮에킁밤에킁",
-        "date": "2025.08.04",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": false
     }
