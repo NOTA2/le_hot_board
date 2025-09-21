@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32377261",
+        "category": "인증/후기",
+        "title": "유명 래퍼한테 차단당한 썰 - 1",
+        "href": "/fboard/32377261",
+        "author": "민니",
+        "date": "2025.08.01",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32377207",
         "category": "그림/아트웍",
         "title": "닉값하려고 순자이모 그려왔어요",
@@ -218,16 +229,5 @@
         "commentNum": "24",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32356492",
-        "category": "일반",
-        "title": "공중파에서 카티,투홀리스 따라부르는 한국아이돌",
-        "href": "/fboard/32356492",
-        "author": "로뎃",
-        "date": "2025.07.27",
-        "commentNum": "8",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]

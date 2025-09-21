@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32550859",
+        "category": "인증/후기",
+        "title": "안녕하세요 면요리 매니아입니다",
+        "href": "/fboard/32550859",
+        "author": "MarshallMathers",
+        "date": "2025.09.21",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32550142",
         "category": "인증/후기",
         "title": "클립스 사인 앨범 드디어 삼",
         "href": "/fboard/32550142",
         "author": "heartpart618",
         "date": "2025.09.21",
-        "commentNum": "4",
+        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     },
@@ -17,7 +28,7 @@
         "href": "/fboard/32549129",
         "author": "heartpart618",
         "date": "2025.09.20",
-        "commentNum": "44",
+        "commentNum": "48",
         "isVideo": false,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32534283",
-        "category": "리뷰",
-        "title": "Organized Konfusion - Stress: The Extinction Agenda 리뷰",
-        "href": "/fboard/32534283",
-        "author": "공ZA",
-        "date": "2025.09.15",
-        "commentNum": "7",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
