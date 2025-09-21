@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32550142",
+        "category": "인증/후기",
+        "title": "클립스 사인 앨범 드디어 삼",
+        "href": "/fboard/32550142",
+        "author": "heartpart618",
+        "date": "2025.09.21",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32549129",
         "category": "일반",
         "title": "외힙 팬 분류함",
         "href": "/fboard/32549129",
         "author": "heartpart618",
         "date": "2025.09.20",
-        "commentNum": "30",
+        "commentNum": "40",
         "isVideo": false,
         "isPhoto": false
     },
@@ -206,17 +217,6 @@
         "date": "2025.09.15",
         "commentNum": "7",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32532654",
-        "category": "인증/후기",
-        "title": "승리의 일요일단은 개추 ㅋㅋ",
-        "href": "/fboard/32532654",
-        "author": "RlaRlaRla",
-        "date": "2025.09.14",
-        "commentNum": "11",
-        "isVideo": false,
         "isPhoto": false
     }
 ]
