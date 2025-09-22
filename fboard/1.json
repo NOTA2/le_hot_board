@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32552699",
+        "category": "음악",
+        "title": "“야, 아담 킬라”",
+        "href": "/fboard/32552699",
+        "author": "너도밤나무",
+        "date": "2025.09.21",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32553176",
         "category": "인증/후기",
         "title": "[90년대 붐뱁 프로듀서] 12. Lord Finesse",
         "href": "/fboard/32553176",
         "author": "DJSam",
         "date": "2025.09.22",
-        "commentNum": "13",
+        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "MarshallMathers",
         "date": "2025.09.16",
         "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32536266",
-        "category": "일반",
-        "title": "맘스터치 타일러의 픽",
-        "href": "/fboard/32536266",
-        "author": "cig0721",
-        "date": "2025.09.15",
-        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     }
