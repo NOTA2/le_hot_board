@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28691210",
+        "category": "음악",
+        "title": "혼자 높이 솟은 산은 딱 eat 아닌가",
+        "href": "/kboard/28691210",
+        "author": "히팝뉴우비",
+        "date": "2024.07.22",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28695034",
         "category": "음악",
         "title": "근데 명반이 시간 지나서 구려진다고 평가 절하된다는게 말이안되는게",
@@ -207,16 +218,5 @@
         "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28660004",
-        "category": "일반",
-        "title": "pH-1 “힙합에 대한 사람들의 인식이 적나라하게 드러났잖아요.” | HIPHOPPLAYA Interview",
-        "href": "/kboard/28660004",
-        "author": "Riot",
-        "date": "2024.07.17",
-        "commentNum": "13",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
