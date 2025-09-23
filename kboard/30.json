@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_31894884",
+        "category": "인증/후기",
+        "title": "스웩의 전당에 올라간지 10년만에 다시 음반장 사진 올립니다!",
+        "href": "/kboard/31894884",
+        "author": "UnBomber",
+        "date": "2025.04.29",
+        "commentNum": "21",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_31892452",
         "category": "음악",
         "title": "이게 뉴 AOMG?",
@@ -205,17 +216,6 @@
         "author": "아포칼립소",
         "date": "2025.04.24",
         "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_31836210",
-        "category": "일반",
-        "title": "오왼 만난 썰",
-        "href": "/kboard/31836210",
-        "author": "Tahwan",
-        "date": "2025.04.23",
-        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     }
