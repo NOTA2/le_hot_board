@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28589630",
+        "category": "인증/후기",
+        "title": "오늘의 레전드급 디깅.jpeg",
+        "href": "/fboard/28589630",
+        "author": "killakim",
+        "date": "2024.07.06",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_28589184",
+        "category": "인증/후기",
+        "title": "Kanye West [The College Dropout] 피지컬 인증",
+        "href": "/fboard/28589184",
+        "author": "TFOYK",
+        "date": "2024.07.06",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28583930",
         "category": "음악",
         "title": "[이벤트 알림] 힙합LE (LE MAG) 국외게 선정 Hip-Hop 입문 앨범 추천",
@@ -194,28 +216,6 @@
         "author": "EastBrit",
         "date": "2024.07.01",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28546854",
-        "category": "음악",
-        "title": "2024년 상반기 힙합 앨범 50장",
-        "href": "/fboard/28546854",
-        "author": "DumpGawd",
-        "date": "2024.06.30",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28554153",
-        "category": "일반",
-        "title": "하루만 기다리면 칸예가 한국에 와요!",
-        "href": "/fboard/28554153",
-        "author": "오징스",
-        "date": "2024.07.01",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     }

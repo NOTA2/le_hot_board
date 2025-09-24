@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32560651",
+        "category": "음악",
+        "title": "끈적이고 역겨운",
+        "href": "/fboard/32560651",
+        "author": "유레카9번트랙",
+        "date": "2025.09.24",
+        "commentNum": "4",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32560404",
         "category": "인증/후기",
         "title": "타일러 덕분에 첨 시켜본 마마스터치 치킨",
         "href": "/fboard/32560404",
         "author": "MarshallMathers",
         "date": "2025.09.24",
-        "commentNum": "23",
+        "commentNum": "29",
         "isVideo": false,
         "isPhoto": true
     },
@@ -28,7 +39,7 @@
         "href": "/fboard/32558685",
         "author": "munkinn",
         "date": "2025.09.23",
-        "commentNum": "8",
+        "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
     },
@@ -206,17 +217,6 @@
         "date": "2025.09.17",
         "commentNum": "6",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32540202",
-        "category": "리뷰",
-        "title": "Che - REST IN BASS 리뷰",
-        "href": "/fboard/32540202",
-        "author": "공ZA",
-        "date": "2025.09.17",
-        "commentNum": "3",
-        "isVideo": true,
         "isPhoto": false
     }
 ]

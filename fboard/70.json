@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29398090",
+        "category": "일반",
+        "title": "실례지만 합법적 포인트 구걸을 허용해주시겠습니까?",
+        "href": "/fboard/29398090",
+        "author": "산지직송사이다",
+        "date": "2024.09.30",
+        "commentNum": "34",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29395623",
+        "category": "일반",
+        "title": "요즘 너무 프로필이 없으신 분이 많길래 움짤 프로필로 설정하는 법!",
+        "href": "/fboard/29395623",
+        "author": "KimKardashian",
+        "date": "2024.09.30",
+        "commentNum": "31",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29395948",
         "category": "일반",
         "title": "힙X) 아 맞다 저 전역글 안올림",
@@ -196,27 +218,5 @@
         "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29348913",
-        "category": "일반",
-        "title": "추천 24개 넘으면",
-        "href": "/fboard/29348913",
-        "author": "칸베지드예",
-        "date": "2024.09.25",
-        "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29355176",
-        "category": "일반",
-        "title": "구상중인 이벤트가 하나 있습니다.",
-        "href": "/fboard/29355176",
-        "author": "수저",
-        "date": "2024.09.26",
-        "commentNum": "38",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
