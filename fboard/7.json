@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32451544",
+        "category": "인증/후기",
+        "title": "미떡아×데이토나 바이닐 인증",
+        "href": "/fboard/32451544",
+        "author": "6vrter6",
+        "date": "2025.08.20",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32452769",
+        "category": "인증/후기",
+        "title": "레전드 상황 발생",
+        "href": "/fboard/32452769",
+        "author": "EMPTYWHITE",
+        "date": "2025.08.21",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32444784",
         "category": "음악",
         "title": "내일 나오는 거",
@@ -194,28 +216,6 @@
         "author": "GayGay",
         "date": "2025.08.16",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32435865",
-        "category": "일반",
-        "title": "골프왕 다녀온 후기",
-        "href": "/fboard/32435865",
-        "author": "nomnomcat",
-        "date": "2025.08.15",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32433551",
-        "category": "리뷰",
-        "title": "<리뷰> JID - God Does Like Ugly 🪅",
-        "href": "/fboard/32433551",
-        "author": "히오스는니얼굴이다",
-        "date": "2025.08.15",
-        "commentNum": "2",
         "isVideo": false,
         "isPhoto": true
     }
