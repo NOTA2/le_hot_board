@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32561757",
+        "category": "음악",
+        "title": "윙대장 전성기가 왜 없어",
+        "href": "/kboard/32561757",
+        "author": "자유낙하",
+        "date": "2025.09.25",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32562670",
         "category": "일반",
         "title": "그냥 언제부턴가 스윙스를 우습게 보는거 같음",
@@ -17,7 +28,7 @@
         "href": "/kboard/32564180",
         "author": "유레카9번트랙",
         "date": "2025.09.25",
-        "commentNum": "22",
+        "commentNum": "23",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "Khiphop100",
         "date": "2025.09.20",
         "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32549547",
-        "category": "인증/후기",
-        "title": "국힙 100대 명반 모으기 1일차",
-        "href": "/kboard/32549547",
-        "author": "Khiphop100",
-        "date": "2025.09.20",
-        "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
     }
