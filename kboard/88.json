@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28709536",
+        "category": "인증/후기",
+        "title": "프더비 CD 후기",
+        "href": "/kboard/28709536",
+        "author": "YD10",
+        "date": "2024.07.24",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28714100",
         "category": "음악",
         "title": "O'KOYE의 [Whether The Weather Changes Or Not] 관련 앨범 인터뷰 했습니다 !!",
@@ -205,17 +216,6 @@
         "author": "Poweroverwhelminnn",
         "date": "2024.07.20",
         "commentNum": "52",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28676484",
-        "category": "음악",
-        "title": "킁은 과대평가되었나?",
-        "href": "/kboard/28676484",
-        "author": "ㅅㅅㄲㄲ",
-        "date": "2024.07.20",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": false
     }
