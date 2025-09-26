@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28316897",
+        "category": "일반",
+        "title": "심바가 그렇게까지 특별한 래퍼였나요?",
+        "href": "/kboard/28316897",
+        "author": "Jannny",
+        "date": "2024.05.30",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28319801",
         "category": "일반",
         "title": "고고학 새글 올라왔네",
@@ -218,16 +229,5 @@
         "commentNum": "23",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28285017",
-        "category": "음악",
-        "title": "힙합엘이 줌터뷰 백번째 손님 오도마, 건배님 인터뷰",
-        "href": "/kboard/28285017",
-        "author": "공ZA",
-        "date": "2024.05.25",
-        "commentNum": "",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
