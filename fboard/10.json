@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32393088",
+        "category": "음악",
+        "title": "전설 그 자체",
+        "href": "/fboard/32393088",
+        "author": "혹스턴",
+        "date": "2025.08.06",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32168120",
         "category": "리뷰",
         "title": "앨범리뷰 - KIDS SEE GHOSTS",
@@ -216,17 +227,6 @@
         "author": "Yeisdumbasf",
         "date": "2025.08.01",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32373596",
-        "category": "음악",
-        "title": "RYM 쓰는 사람들 이해가 안됨",
-        "href": "/fboard/32373596",
-        "author": "블랙스탠",
-        "date": "2025.08.01",
-        "commentNum": "22",
         "isVideo": false,
         "isPhoto": true
     }
