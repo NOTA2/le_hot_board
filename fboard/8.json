@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32447909",
+        "category": "리뷰",
+        "title": "GZA - Liquid Swords",
+        "href": "/fboard/32447909",
+        "author": "예리",
+        "date": "2025.08.19",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32444843",
         "category": "인증/후기",
         "title": "데이토나오는 바이닐인증",
@@ -206,17 +217,6 @@
         "date": "2025.08.13",
         "commentNum": "9",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32424493",
-        "category": "인증/후기",
-        "title": "[90년대 붐뱁 프로듀서] 04. DJ Muggs",
-        "href": "/fboard/32424493",
-        "author": "DJSam",
-        "date": "2025.08.13",
-        "commentNum": "25",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
