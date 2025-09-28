@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32571279",
+        "category": "음악",
+        "title": "스윙스 힙플라 논란(?)을 이제야 알았습니다.",
+        "href": "/kboard/32571279",
+        "author": "Baul's in da building",
+        "date": "2025.09.27",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32569786",
         "category": "일반",
         "title": "개코 인스타.jpg",
@@ -205,17 +216,6 @@
         "author": "Sydd",
         "date": "2025.09.23",
         "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32555600",
-        "category": "일반",
-        "title": "쇼미 프듀 떴습니다",
-        "href": "/kboard/32555600",
-        "author": "aoty2024",
-        "date": "2025.09.23",
-        "commentNum": "38",
         "isVideo": false,
         "isPhoto": true
     }
