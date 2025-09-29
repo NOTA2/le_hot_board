@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32574501",
+        "category": "일반",
+        "title": "식케이 앨범 가이드",
+        "href": "/kboard/32574501",
+        "author": "크랙커",
+        "date": "2025.09.28",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32572599",
         "category": "일반",
         "title": "신기루 진짜 씨잼 흑역사 GOAT",
         "href": "/kboard/32572599",
         "author": "paranoidremix",
         "date": "2025.09.28",
-        "commentNum": "13",
+        "commentNum": "14",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "MessiofhiphopLE",
         "date": "2025.09.24",
         "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32559163",
-        "category": "일반",
-        "title": "남탓들보소",
-        "href": "/kboard/32559163",
-        "author": "깐녜",
-        "date": "2025.09.24",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": false
     }
