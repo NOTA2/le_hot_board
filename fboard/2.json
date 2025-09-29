@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32553176",
+        "category": "인증/후기",
+        "title": "[90년대 붐뱁 프로듀서] 12. Lord Finesse",
+        "href": "/fboard/32553176",
+        "author": "DJSam",
+        "date": "2025.09.22",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32551003",
         "category": "인증/후기",
         "title": "타일러?",
@@ -205,17 +216,6 @@
         "author": "cig0721",
         "date": "2025.09.15",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32536262",
-        "category": "인증/후기",
-        "title": "위켄드 2집 10주년 LP",
-        "href": "/fboard/32536262",
-        "author": "우는보이",
-        "date": "2025.09.15",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     }
