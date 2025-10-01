@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29933321",
+        "category": "일반",
+        "title": "아이엠머니 장가가다",
+        "href": "/kboard/29933321",
+        "author": "랩스타",
+        "date": "2024.11.18",
+        "commentNum": "7",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29939412",
         "category": "음악",
         "title": "이번에 서울대 수리과학부가 낸 앨범 들어봄?",
@@ -205,17 +216,6 @@
         "author": "lov3you",
         "date": "2024.11.14",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29895544",
-        "category": "음악",
-        "title": "가리온3 참여진 공개",
-        "href": "/kboard/29895544",
-        "author": "힙합플레이야삭풍",
-        "date": "2024.11.14",
-        "commentNum": "41",
         "isVideo": false,
         "isPhoto": true
     }
