@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32583361",
+        "category": "리뷰",
+        "title": "Kendrick의 고점을 찾아서... [GKMC] vs [TPAB]",
+        "href": "/fboard/32583361",
+        "author": "천재금붕어모임",
+        "date": "2025.10.01",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32582536",
         "category": "음악",
         "title": "앱스트랙 계보를 탑스터로 짜봤습니다",
         "href": "/fboard/32582536",
         "author": "yeschang",
         "date": "2025.10.01",
-        "commentNum": "3",
+        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     },
@@ -17,7 +28,7 @@
         "href": "/fboard/32582561",
         "author": "GayGay",
         "date": "2025.10.01",
-        "commentNum": "4",
+        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "5",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32560404",
-        "category": "인증/후기",
-        "title": "타일러 덕분에 첨 시켜본 마마스터치 치킨",
-        "href": "/fboard/32560404",
-        "author": "MarshallMathers",
-        "date": "2025.09.24",
-        "commentNum": "35",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

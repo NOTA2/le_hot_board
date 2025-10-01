@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32233351",
+        "category": "인증/후기",
+        "title": "앨범 샀읍니다",
+        "href": "/fboard/32233351",
+        "author": "KennyBeats",
+        "date": "2025.07.02",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32235161",
+        "category": "인증/후기",
+        "title": "큰 거 하나 인증!",
+        "href": "/fboard/32235161",
+        "author": "DJSam",
+        "date": "2025.07.02",
+        "commentNum": "27",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32233879",
         "category": "음악",
         "title": "Ye 불리 발매 예정 떴습니다",
@@ -196,27 +218,5 @@
         "commentNum": "30",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32210030",
-        "category": "음악",
-        "title": "장르에 대한 개인적인 생각인데(약간의뻘소리주의)",
-        "href": "/fboard/32210030",
-        "author": "KnightsVizion",
-        "date": "2025.06.27",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32211960",
-        "category": "일반",
-        "title": "19) 탱글다희 드디어 다 깟네요",
-        "href": "/fboard/32211960",
-        "author": "Dkde343",
-        "date": "2025.06.27",
-        "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

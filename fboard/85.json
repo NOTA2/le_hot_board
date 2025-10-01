@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28672717",
+        "category": "음악",
+        "title": "온 lp ㅇㅈ",
+        "href": "/fboard/28672717",
+        "author": "yves",
+        "date": "2024.07.19",
+        "commentNum": "30",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_28670612",
+        "category": "음악",
+        "title": "데스그립스의 진실..",
+        "href": "/fboard/28670612",
+        "author": "카티야앨범내",
+        "date": "2024.07.19",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28668656",
         "category": "음악",
         "title": "다들 LP를 들을 때 난 카세트를 듣지",
@@ -196,27 +218,5 @@
         "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28641681",
-        "category": "인증/후기",
-        "title": "김밥가서 근본 cd 쓸어담기",
-        "href": "/fboard/28641681",
-        "author": "mayp",
-        "date": "2024.07.14",
-        "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28642075",
-        "category": "음악",
-        "title": "Eminem ft. JID - Fuel (가사 해석)",
-        "href": "/fboard/28642075",
-        "author": "에리",
-        "date": "2024.07.14",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
