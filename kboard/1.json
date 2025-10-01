@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32581971",
+        "category": "일반",
+        "title": "비와이 : 내가 군대에 간 이유를 정확히 안다 나는",
+        "href": "/kboard/32581971",
+        "author": "Yeisdumbasf",
+        "date": "2025.10.01",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32581970",
         "category": "일반",
         "title": "기준을 이센스로 두면 문화예술에 예산 0원 써야됨 ㅇㅇ",
         "href": "/kboard/32581970",
         "author": "ㄱ그래놀라",
         "date": "2025.10.01",
-        "commentNum": "4",
+        "commentNum": "8",
         "isVideo": false,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "6",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32566502",
-        "category": "일반",
-        "title": "지디, 비프리 샤라웃",
-        "href": "/kboard/32566502",
-        "author": "Eastcoast",
-        "date": "2025.09.26",
-        "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
