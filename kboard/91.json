@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28658188",
+        "category": "일반",
+        "title": "스윙스가 돌아오는 단 하나의 방법",
+        "href": "/kboard/28658188",
+        "author": "ansaninLBNC",
+        "date": "2024.07.17",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28656026",
+        "category": "음악",
+        "title": "버벌진트 같은 유형이 한국랩퍼의 90%라고 보면 되는게",
+        "href": "/kboard/28656026",
+        "author": "Alfie",
+        "date": "2024.07.16",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28649941",
         "category": "리뷰",
         "title": "키드밀리(Kid Milli) - ron interlude 『BEIGE』 (분석 + 리뷰 = 감상문)",
@@ -196,27 +218,5 @@
         "commentNum": "19",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28627959",
-        "category": "일반",
-        "title": "와 애쉬 인스타에 도끼댓글",
-        "href": "/kboard/28627959",
-        "author": "Jablo",
-        "date": "2024.07.11",
-        "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28629023",
-        "category": "일반",
-        "title": "서울 관련 힙합 이야기 나올때마다 상시숭배하는 앨범",
-        "href": "/kboard/28629023",
-        "author": "추단",
-        "date": "2024.07.12",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
