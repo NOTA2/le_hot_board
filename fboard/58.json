@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30134171",
+        "category": "음악",
+        "title": "🔥 오늘자 새 외힙커버 🔥",
+        "href": "/fboard/30134171",
+        "author": "GayGay",
+        "date": "2024.12.07",
+        "commentNum": "28",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30134545",
         "category": "인증/후기",
         "title": "[엘이 회원 합작 앨범 프로젝트] 래퍼를 담당하실 분들을 모집합...",
@@ -205,17 +216,6 @@
         "author": "온암",
         "date": "2024.12.02",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30082203",
-        "category": "인증/후기",
-        "title": "외힙 야마 일짱 앨범 인증..",
-        "href": "/fboard/30082203",
-        "author": "Kanyeꓪest",
-        "date": "2024.12.02",
-        "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
     }

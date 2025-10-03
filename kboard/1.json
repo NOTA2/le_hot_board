@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32588554",
+        "category": "일반",
+        "title": "논란의 인디고 힙플라디오 지금 다봤는데 ㅋㅋㅋ",
+        "href": "/kboard/32588554",
+        "author": "tdede",
+        "date": "2025.10.03",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32587799",
         "category": "음악",
         "title": "스윙스는 이때까지 국힙에 거의 방해만 되었던 인물임",
         "href": "/kboard/32587799",
         "author": "오마르",
         "date": "2025.10.03",
-        "commentNum": "14",
+        "commentNum": "20",
         "isVideo": false,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32571279",
-        "category": "음악",
-        "title": "스윙스 힙플라 논란(?)을 이제야 알았습니다.",
-        "href": "/kboard/32571279",
-        "author": "Baul's in da building",
-        "date": "2025.09.27",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
