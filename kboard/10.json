@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32454324",
+        "category": "인증/후기",
+        "title": "비프리의 역작 / Korean Dream",
+        "href": "/kboard/32454324",
+        "author": "hoki03",
+        "date": "2025.08.21",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32454489",
         "category": "인증/후기",
         "title": "이센스의 시작 / Uncut, Pure!!",
@@ -216,17 +227,6 @@
         "author": "알력",
         "date": "2025.08.17",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32445629",
-        "category": "음악",
-        "title": "최엘비 정규4집[her.] 9월 9일 발매예정",
-        "href": "/kboard/32445629",
-        "author": "JJJJJ",
-        "date": "2025.08.18",
-        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     }
