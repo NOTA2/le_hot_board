@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32593344",
+        "category": "인증/후기",
+        "title": "[90년대 붐뱁 프로듀서] 13. Marley Marl",
+        "href": "/fboard/32593344",
+        "author": "DJSam",
+        "date": "2025.10.04",
+        "commentNum": "10",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32592057",
         "category": "인증/후기",
         "title": "오늘 도착한 28개의 음반",
@@ -17,7 +28,7 @@
         "href": "/fboard/32590043",
         "author": "갸나두리매베소",
         "date": "2025.10.03",
-        "commentNum": "29",
+        "commentNum": "31",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32566687",
-        "category": "일반",
-        "title": "와 영떡 인트로부터 명반 냄새ㅋㅋㅋㅋ",
-        "href": "/fboard/32566687",
-        "author": "오징스",
-        "date": "2025.09.26",
-        "commentNum": "5",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
