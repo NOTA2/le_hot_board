@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32592057",
+        "category": "인증/후기",
+        "title": "오늘 도착한 28개의 음반",
+        "href": "/fboard/32592057",
+        "author": "gunacho",
+        "date": "2025.10.04",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32590043",
         "category": "일반",
         "title": "드디어 끝난 위켄드 컬렉팅 (바이닐)",
@@ -207,16 +218,5 @@
         "commentNum": "5",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32566318",
-        "category": "인증/후기",
-        "title": "[인증] Madvillainy LP 5종 + CD 3종",
-        "href": "/fboard/32566318",
-        "author": "DJSam",
-        "date": "2025.09.26",
-        "commentNum": "23",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
