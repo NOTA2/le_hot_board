@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32596490",
+        "category": "일반",
+        "title": "[음반 용어 사전 1편~10편] 통합 버전 재업",
+        "href": "/fboard/32596490",
+        "author": "DJSam",
+        "date": "2025.10.06",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "fboard_32596493",
+        "category": "리뷰",
+        "title": "billy woods - GOLLIWOG",
+        "href": "/fboard/32596493",
+        "author": "예리",
+        "date": "2025.10.06",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32591889",
         "category": "인증/후기",
         "title": "아웃캐스트 명반 구매했습니다",
@@ -194,28 +216,6 @@
         "author": "국힙버러지손심바",
         "date": "2025.09.27",
         "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32539145",
-        "category": "리뷰",
-        "title": "★★★★★ / 위대한 힙합 걸작들.",
-        "href": "/fboard/32539145",
-        "author": "온암",
-        "date": "2025.09.27",
-        "commentNum": "33",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32567647",
-        "category": "음악",
-        "title": "칸예도 퇴물 영떡도 퇴물 릴웨인도 퇴물…",
-        "href": "/fboard/32567647",
-        "author": "유레카9번트랙",
-        "date": "2025.09.26",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     }
