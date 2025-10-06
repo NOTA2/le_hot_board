@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28712714",
+        "category": "음악",
+        "title": "퍼프대디 시발년",
+        "href": "/fboard/28712714",
+        "author": "98364",
+        "date": "2024.07.25",
+        "commentNum": "36",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_28717873",
+        "category": "인증/후기",
+        "title": "인증) 알케미스트 관련 재미있는 박스셋 2종",
+        "href": "/fboard/28717873",
+        "author": "DJSam",
+        "date": "2024.07.26",
+        "commentNum": "27",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28712437",
         "category": "인증/후기",
         "title": "ASTROWORLD",
@@ -194,28 +216,6 @@
         "author": "realhipop?",
         "date": "2024.07.21",
         "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28685410",
-        "category": "일반",
-        "title": "히히 니들은 칸예 못가지?",
-        "href": "/fboard/28685410",
-        "author": "킫밀이제밀리",
-        "date": "2024.07.21",
-        "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28688777",
-        "category": "일반",
-        "title": "솔직히 저거 스웨이리 오프셋 발사대 취급하는거잖슴 ㅋㅋㅋㅋ",
-        "href": "/fboard/28688777",
-        "author": "MarshallMathers",
-        "date": "2024.07.21",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": false
     }

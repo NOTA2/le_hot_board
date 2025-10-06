@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32597765",
+        "category": "일반",
+        "title": "추석 선물",
+        "href": "/fboard/32597765",
+        "author": "혹스턴",
+        "date": "2025.10.06",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32596490",
         "category": "일반",
         "title": "[음반 용어 사전 1편~10편] 통합 버전 재업",
         "href": "/fboard/32596490",
         "author": "DJSam",
         "date": "2025.10.06",
-        "commentNum": "6",
+        "commentNum": "7",
         "isVideo": false,
         "isPhoto": false
     },
@@ -17,7 +28,7 @@
         "href": "/fboard/32596493",
         "author": "예리",
         "date": "2025.10.06",
-        "commentNum": "3",
+        "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "다스시디어스",
         "date": "2025.09.28",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32569159",
-        "category": "인증/후기",
-        "title": "시험기간 기념 cd 샀음니다",
-        "href": "/fboard/32569159",
-        "author": "국힙버러지손심바",
-        "date": "2025.09.27",
-        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     }
