@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32462885",
+        "category": "인증/후기",
+        "title": "G2 x Kid Ash / Project : Brainwash",
+        "href": "/kboard/32462885",
+        "author": "hoki03",
+        "date": "2025.08.24",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32463679",
         "category": "그림/아트웍",
         "title": "번역 중 손실 피규어로 만들기 2편",
@@ -216,17 +227,6 @@
         "author": "크랙커",
         "date": "2025.08.19",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32448826",
-        "category": "일반",
-        "title": "[리드머] 다이나믹듀오 - Taxi Driver 평점 (리콜 리뷰)",
-        "href": "/kboard/32448826",
-        "author": "Eastcoast",
-        "date": "2025.08.19",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     }
