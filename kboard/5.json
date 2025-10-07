@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32540387",
+        "category": "일반",
+        "title": "Animal fkry는 aoty 6자리 들어갈만하지않나요",
+        "href": "/kboard/32540387",
+        "author": "끄적끄적",
+        "date": "2025.09.17",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32540754",
         "category": "음악",
         "title": "요즘 듣는 음악들( 힙x도 있음)",
@@ -207,16 +218,5 @@
         "commentNum": "26",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32526506",
-        "category": "음악",
-        "title": "에넥도트 인스트의 \"진짜\" 사용 용도",
-        "href": "/kboard/32526506",
-        "author": "Mhs",
-        "date": "2025.09.12",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
