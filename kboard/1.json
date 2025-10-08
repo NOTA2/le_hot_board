@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32604911",
+        "category": "일반",
+        "title": "뉴챔프 원썬은 그냥 가만히 있었으면 좋겠다",
+        "href": "/kboard/32604911",
+        "author": "kny55",
+        "date": "2025.10.08",
+        "commentNum": "28",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32603822",
         "category": "일반",
         "title": "DPR 사건 정리 (장문, 뇌피셜 포함)",
@@ -17,7 +28,7 @@
         "href": "/kboard/32602714",
         "author": "teamhacker",
         "date": "2025.10.07",
-        "commentNum": "20",
+        "commentNum": "21",
         "isVideo": false,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "47",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32587380",
-        "category": "일반",
-        "title": "본인 심바 관련해서 고백할 거 있음",
-        "href": "/kboard/32587380",
-        "author": "Sydd",
-        "date": "2025.10.03",
-        "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
