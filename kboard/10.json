@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32473411",
+        "category": "일반",
+        "title": "이게 젓딧 댓글보니 느껴지는 한국 현실ㅋㅋㅋ",
+        "href": "/kboard/32473411",
+        "author": "KIIS",
+        "date": "2025.08.26",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32472269",
         "category": "일반",
         "title": "‎",
@@ -216,17 +227,6 @@
         "author": "hoki03",
         "date": "2025.08.21",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32454489",
-        "category": "인증/후기",
-        "title": "이센스의 시작 / Uncut, Pure!!",
-        "href": "/kboard/32454489",
-        "author": "hoki03",
-        "date": "2025.08.21",
-        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     }
