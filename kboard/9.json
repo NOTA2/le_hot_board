@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32484288",
+        "category": "일반",
+        "title": "전 솔직히 군대 안갈수있으면 안가는게 맞는거 같음",
+        "href": "/kboard/32484288",
+        "author": "BBBBBora",
+        "date": "2025.08.29",
+        "commentNum": "23",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32483595",
         "category": "일반",
         "title": "퓨처리스틱스웨버 데이토나 안좋헤 헤어진 느낌..",
@@ -207,16 +218,5 @@
         "commentNum": "6",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32475807",
-        "category": "인증/후기",
-        "title": "꼴값들 고만 떨고 내 이센스 앨범 컬렉션이나 봐라",
-        "href": "/kboard/32475807",
-        "author": "direo",
-        "date": "2025.08.27",
-        "commentNum": "28",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

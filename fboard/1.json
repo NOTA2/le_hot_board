@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32545698",
+        "category": "음악",
+        "title": "아폴로 브라운 입문서",
+        "href": "/fboard/32545698",
+        "author": "다스시디어스",
+        "date": "2025.10.09",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32606218",
         "category": "인증/후기",
         "title": "어 어 어 어",
         "href": "/fboard/32606218",
         "author": "동동Ol",
         "date": "2025.10.09",
-        "commentNum": "5",
+        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "천재금붕어모임",
         "date": "2025.10.01",
         "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32582536",
-        "category": "음악",
-        "title": "앱스트랙 계보를 탑스터로 짜봤습니다",
-        "href": "/fboard/32582536",
-        "author": "yeschang",
-        "date": "2025.10.01",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }

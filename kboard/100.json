@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28395605",
+        "category": "음악",
+        "title": "강일권 손심바에게 일침",
+        "href": "/kboard/28395605",
+        "author": "ListenToHiphop",
+        "date": "2024.06.11",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28391656",
         "category": "일반",
         "title": "없는게 없는 무도짤",
@@ -218,16 +229,5 @@
         "commentNum": "14",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28362241",
-        "category": "일반",
-        "title": "유저 힙합매거진 HAUS OF MATTERS가 1주년을 맞이했습니다!",
-        "href": "/kboard/28362241",
-        "author": "쟈이즈",
-        "date": "2024.06.06",
-        "commentNum": "29",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
