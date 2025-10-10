@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32476219",
+        "category": "음악",
+        "title": "이찬혁의 발언이 문제고 저스디스가 짜치고",
+        "href": "/kboard/32476219",
+        "author": "djfheo",
+        "date": "2025.08.27",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32474383",
         "category": "음악",
         "title": "저스디스 진짜 존나 멋 없네",
@@ -216,17 +227,6 @@
         "author": "777",
         "date": "2025.08.23",
         "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32458394",
-        "category": "인증/후기",
-        "title": "FANA / 그날이 오면",
-        "href": "/kboard/32458394",
-        "author": "hoki03",
-        "date": "2025.08.23",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     }
