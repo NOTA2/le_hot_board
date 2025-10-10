@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28831650",
+        "category": "일반",
+        "title": " 오늘은 세계 고양이의 날입니다.",
+        "href": "/fboard/28831650",
+        "author": "크밍",
+        "date": "2024.08.08",
+        "commentNum": "28",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28829114",
         "category": "그림/아트웍",
         "title": "필드트립 그려봤습니다.",
@@ -207,16 +218,5 @@
         "commentNum": "24",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28780818",
-        "category": "일반",
-        "title": "2024년 8월 2일에 앨범을 내겠다고 한 47세 칸예 웨스트야",
-        "href": "/fboard/28780818",
-        "author": "주말이형이야",
-        "date": "2024.08.02",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

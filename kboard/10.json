@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32474658",
+        "category": "일반",
+        "title": "근데 진지하게 저스디스가 더 멋없음",
+        "href": "/kboard/32474658",
+        "author": "가스절도범",
+        "date": "2025.08.27",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32473411",
         "category": "일반",
         "title": "이게 젓딧 댓글보니 느껴지는 한국 현실ㅋㅋㅋ",
@@ -218,16 +229,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32454324",
-        "category": "인증/후기",
-        "title": "비프리의 역작 / Korean Dream",
-        "href": "/kboard/32454324",
-        "author": "hoki03",
-        "date": "2025.08.21",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
