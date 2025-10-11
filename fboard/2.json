@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32593344",
+        "category": "인증/후기",
+        "title": "[90년대 붐뱁 프로듀서] 13. Marley Marl",
+        "href": "/fboard/32593344",
+        "author": "DJSam",
+        "date": "2025.10.04",
+        "commentNum": "14",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32592057",
+        "category": "인증/후기",
+        "title": "오늘 도착한 28개의 음반",
+        "href": "/fboard/32592057",
+        "author": "gunacho",
+        "date": "2025.10.04",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32590043",
         "category": "일반",
         "title": "드디어 끝난 위켄드 컬렉팅 (바이닐)",
@@ -195,28 +217,6 @@
         "date": "2025.09.25",
         "commentNum": "7",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32566687",
-        "category": "일반",
-        "title": "와 영떡 인트로부터 명반 냄새ㅋㅋㅋㅋ",
-        "href": "/fboard/32566687",
-        "author": "오징스",
-        "date": "2025.09.26",
-        "commentNum": "5",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32566318",
-        "category": "인증/후기",
-        "title": "[인증] Madvillainy LP 5종 + CD 3종",
-        "href": "/fboard/32566318",
-        "author": "DJSam",
-        "date": "2025.09.26",
-        "commentNum": "23",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
