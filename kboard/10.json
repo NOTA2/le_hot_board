@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32477774",
+        "category": "일반",
+        "title": "원영적 사고",
+        "href": "/kboard/32477774",
+        "author": "크랙커",
+        "date": "2025.08.27",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32477577",
         "category": "리뷰",
         "title": "E SENS <The Anecdote>를 기념하며",
@@ -218,16 +229,5 @@
         "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32461814",
-        "category": "일반",
-        "title": "돌림판 웃음포인트",
-        "href": "/kboard/32461814",
-        "author": "아포칼립소",
-        "date": "2025.08.24",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
