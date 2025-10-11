@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29368877",
+        "category": "음악",
+        "title": "장르 파악하는 거 너무 어려워요",
+        "href": "/kboard/29368877",
+        "author": "DanceD",
+        "date": "2024.09.28",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29364594",
         "category": "음악",
         "title": "힙합 레이블들은 진짜 마케팅이 너무 부족함",
@@ -205,17 +216,6 @@
         "author": "안촉촉한초코칩",
         "date": "2024.09.23",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29316126",
-        "category": "인증/후기",
-        "title": "씨잼,양홍원 싸인+랩비트 후기",
-        "href": "/kboard/29316126",
-        "author": "쑥갓칸예나스",
-        "date": "2024.09.22",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }
