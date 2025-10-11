@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32479338",
+        "category": "음악",
+        "title": "자기가 돈버는 분야 안멋지다고 하면 화나는게 당연하지않나?",
+        "href": "/kboard/32479338",
+        "author": "RODDagger",
+        "date": "2025.08.28",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32478702",
         "category": "음악",
         "title": "이러니 저러니 해도",
@@ -218,16 +229,5 @@
         "commentNum": "2",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32462885",
-        "category": "인증/후기",
-        "title": "G2 x Kid Ash / Project : Brainwash",
-        "href": "/kboard/32462885",
-        "author": "hoki03",
-        "date": "2025.08.24",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

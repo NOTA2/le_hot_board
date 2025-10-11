@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28710172",
+        "category": "일반",
+        "title": "카티는 탈모가 있다",
+        "href": "/fboard/28710172",
+        "author": "김건혁",
+        "date": "2024.07.24",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28709595",
         "category": "그림/아트웍",
         "title": "blond 감성샷✨",
@@ -205,17 +216,6 @@
         "author": "너도밤나무",
         "date": "2024.07.20",
         "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28678016",
-        "category": "인증/후기",
-        "title": "Ye LP구매 후기",
-        "href": "/fboard/28678016",
-        "author": "seansean",
-        "date": "2024.07.20",
-        "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
     }
