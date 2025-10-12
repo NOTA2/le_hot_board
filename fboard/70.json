@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29524642",
+        "category": "인증/후기",
+        "title": "엘이 최초 DBR 후디 세트 인증",
+        "href": "/fboard/29524642",
+        "author": "StarboiCarti",
+        "date": "2024.10.11",
+        "commentNum": "23",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29522029",
+        "category": "인증/후기",
+        "title": "비기 X 팀버랜드6인치 인증.jpg",
+        "href": "/fboard/29522029",
+        "author": "killakim",
+        "date": "2024.10.11",
+        "commentNum": "31",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29510795",
         "category": "음악",
         "title": "재즈 힙합 추천 앨범 30선",
@@ -196,27 +218,5 @@
         "commentNum": "21",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29467044",
-        "category": "리뷰",
-        "title": " [인생리뷰] Tyler, the Creator - IGOR",
-        "href": "/fboard/29467044",
-        "author": "크밍",
-        "date": "2024.10.06",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29467502",
-        "category": "리뷰",
-        "title": "저의 4년간의 칸예 커리어 정복기",
-        "href": "/fboard/29467502",
-        "author": "kgb",
-        "date": "2024.10.06",
-        "commentNum": "16",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
