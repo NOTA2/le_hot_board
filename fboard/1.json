@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32617945",
+        "category": "리뷰",
+        "title": "💿해외힙합 매거진 \"w/HAUS OF MATTERS\" #27",
+        "href": "/fboard/32617945",
+        "author": "쟈이즈",
+        "date": "2025.10.13",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32618244",
         "category": "인증/후기",
         "title": "Jay-Z  최고 역작 Reasonable Doubt 미국 초판 바이닐",
         "href": "/fboard/32618244",
         "author": "DJSam",
         "date": "2025.10.12",
-        "commentNum": "9",
+        "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "Dumpmeister",
         "date": "2025.10.07",
         "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32600427",
-        "category": "음악",
-        "title": "소신발언",
-        "href": "/fboard/32600427",
-        "author": "천재금붕어모임",
-        "date": "2025.10.07",
-        "commentNum": "34",
         "isVideo": false,
         "isPhoto": true
     }

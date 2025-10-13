@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32447909",
+        "category": "리뷰",
+        "title": "GZA - Liquid Swords",
+        "href": "/fboard/32447909",
+        "author": "예리",
+        "date": "2025.08.19",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32444843",
         "category": "인증/후기",
         "title": "데이토나오는 바이닐인증",
@@ -217,17 +228,6 @@
         "date": "2025.08.13",
         "commentNum": "25",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32422611",
-        "category": "음악",
-        "title": "[전곡 해석] Tyler, The Creator - DON'T TAP THE GLASS",
-        "href": "/fboard/32422611",
-        "author": "Chips",
-        "date": "2025.08.12",
-        "commentNum": "8",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
