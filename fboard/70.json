@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29549057",
+        "category": "인증/후기",
+        "title": "생애 첫 구입한 LP 2장",
+        "href": "/fboard/29549057",
+        "author": "민니",
+        "date": "2024.10.13",
+        "commentNum": "56",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29534676",
         "category": "일반",
         "title": "[103.5 FM 이벤트] 이벤트 진행합니다!!",
@@ -205,17 +216,6 @@
         "author": "칸예예",
         "date": "2024.10.08",
         "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29482109",
-        "category": "인증/후기",
-        "title": "명반 왔다잉~",
-        "href": "/fboard/29482109",
-        "author": "매직원",
-        "date": "2024.10.08",
-        "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
     }

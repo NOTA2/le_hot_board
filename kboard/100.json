@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28431317",
+        "category": "일반",
+        "title": "지금 솔직히 손심바",
+        "href": "/kboard/28431317",
+        "author": "강호의손오천",
+        "date": "2024.06.15",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28427593",
         "category": "음악",
         "title": "헉피가 진짜 브랜딩의 수혜자인것같음",
@@ -216,17 +227,6 @@
         "author": "병거니우스",
         "date": "2024.06.10",
         "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28388733",
-        "category": "음악",
-        "title": "손심바 사과문에 댓글 단 릴러말즈 반응",
-        "href": "/kboard/28388733",
-        "author": "세오죠",
-        "date": "2024.06.10",
-        "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
     }
