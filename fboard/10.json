@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32444843",
+        "category": "인증/후기",
+        "title": "데이토나오는 바이닐인증",
+        "href": "/fboard/32444843",
+        "author": "따흙",
+        "date": "2025.08.18",
+        "commentNum": "24",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32445558",
         "category": "리뷰",
         "title": "다시 돌아보니 $$$4u는…",
@@ -216,39 +227,6 @@
         "author": "Chips",
         "date": "2025.08.12",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32420341",
-        "category": "리뷰",
-        "title": "JACKBOYS, <JACKBOYS 2> 리뷰",
-        "href": "/fboard/32420341",
-        "author": "uma馬",
-        "date": "2025.08.12",
-        "commentNum": "11",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32416193",
-        "category": "리뷰",
-        "title": "Clipse - Let God Sort Em Out 리뷰",
-        "href": "/fboard/32416193",
-        "author": "온암",
-        "date": "2025.08.12",
-        "commentNum": "14",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32417433",
-        "category": "인증/후기",
-        "title": "Yeezy 옷왔다",
-        "href": "/fboard/32417433",
-        "author": "KimKardashian",
-        "date": "2025.08.11",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }

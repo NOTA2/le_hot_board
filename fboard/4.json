@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32549129",
+        "category": "일반",
+        "title": "외힙 팬 분류함",
+        "href": "/fboard/32549129",
+        "author": "heartpart618",
+        "date": "2025.09.20",
+        "commentNum": "55",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32548928",
         "category": "음악",
         "title": "판타노가 클립스 신보 왜 만점 줬는지 진짜 모르겠음",
@@ -207,16 +218,5 @@
         "commentNum": "11",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32530942",
-        "category": "음악",
-        "title": "[장문, 데이터주의] 두서 없이 갈겨보는 타일러 내한 후기(1일차)",
-        "href": "/fboard/32530942",
-        "author": "패션커쇼",
-        "date": "2025.09.14",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

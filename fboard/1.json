@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32618244",
+        "category": "인증/후기",
+        "title": "Jay-Z  최고 역작 Reasonable Doubt 미국 초판 바이닐",
+        "href": "/fboard/32618244",
+        "author": "DJSam",
+        "date": "2025.10.12",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32617625",
         "category": "음악",
         "title": "이번 연휴동안 들은 앨범들",
@@ -205,17 +216,6 @@
         "author": "천재금붕어모임",
         "date": "2025.10.07",
         "commentNum": "34",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32597765",
-        "category": "일반",
-        "title": "추석 선물",
-        "href": "/fboard/32597765",
-        "author": "혹스턴",
-        "date": "2025.10.06",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }

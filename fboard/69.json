@@ -1,5 +1,38 @@
 [
     {
+        "id": "fboard_29604836",
+        "category": "인증/후기",
+        "title": "billy woods X kenny segal - Hiding Places 인증.jpg",
+        "href": "/fboard/29604836",
+        "author": "killakim",
+        "date": "2024.10.18",
+        "commentNum": "26",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29599505",
+        "category": "인증/후기",
+        "title": "여고생 힙린이의 소박한 LP 인증 (음악 추천 받아요)",
+        "href": "/fboard/29599505",
+        "author": "김스껄",
+        "date": "2024.10.18",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29590466",
+        "category": "인증/후기",
+        "title": "추천을 안누를수가 없는 앨범 후기",
+        "href": "/fboard/29590466",
+        "author": "bianca",
+        "date": "2024.10.17",
+        "commentNum": "31",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29594898",
         "category": "음악",
         "title": "투메충 엘이 뉴비 가입인사드립니당+탑스터",
@@ -185,38 +218,5 @@
         "commentNum": "22",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_29540571",
-        "category": "일반",
-        "title": "[103.5 FM 이벤트] 글이 너무 밀려 재업합니다(이벤트)",
-        "href": "/fboard/29540571",
-        "author": "칸베지드예",
-        "date": "2024.10.12",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29536074",
-        "category": "일반",
-        "title": "엘이 첫 가입인사+앨범 자랑",
-        "href": "/fboard/29536074",
-        "author": "썬플라루ㅜ",
-        "date": "2024.10.12",
-        "commentNum": "26",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29525151",
-        "category": "인증/후기",
-        "title": "The College Dropout & Late Registration",
-        "href": "/fboard/29525151",
-        "author": "dolores",
-        "date": "2024.10.11",
-        "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
