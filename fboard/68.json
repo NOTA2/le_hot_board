@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29669745",
+        "category": "리뷰",
+        "title": "<앨범 한줄평> #5",
+        "href": "/fboard/29669745",
+        "author": "MiKael",
+        "date": "2024.10.24",
+        "commentNum": "21",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29666511",
         "category": "인증/후기",
         "title": "명반.",
@@ -206,17 +217,6 @@
         "date": "2024.10.19",
         "commentNum": "37",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_29611853",
-        "category": "음악",
-        "title": "[엘이 회원 합작 앨범 프로젝트] 비트 메이킹, 프로듀싱하는 분들...",
-        "href": "/fboard/29611853",
-        "author": "피닛",
-        "date": "2024.10.19",
-        "commentNum": "106",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
