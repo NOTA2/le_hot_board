@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32621977",
+        "category": "일반",
+        "title": "??? : 하 시바 이거 7주년인데 누굴 불러야 되냐 누굴 불러도 개지랄 할 거 같은데;;;;",
+        "href": "/kboard/32621977",
+        "author": "Yeisdumbasf",
+        "date": "2025.10.14",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32621193",
         "category": "일반",
         "title": "생일 축하해 Swings! 😍",
         "href": "/kboard/32621193",
         "author": "생일봇",
         "date": "2025.10.13",
-        "commentNum": "1",
+        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "1",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32608526",
-        "category": "일반",
-        "title": "저렇게까지 말하는거 보면",
-        "href": "/kboard/32608526",
-        "author": "히파팬",
-        "date": "2025.10.09",
-        "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

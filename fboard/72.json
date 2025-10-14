@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29436041",
+        "category": "음악",
+        "title": "칸예는 한결같이 늘 나빴다 (번역) (장문)",
+        "href": "/fboard/29436041",
+        "author": "kotayex940",
+        "date": "2024.10.04",
+        "commentNum": "28",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_29433745",
         "category": "일반",
         "title": "최근 커디가 칸예 관련해서 올렸던 트윗 몇개",
@@ -207,16 +218,5 @@
         "commentNum": "37",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_29372648",
-        "category": "음악",
-        "title": "챗지피티 진짜 한대쳐버리고싶네",
-        "href": "/fboard/29372648",
-        "author": "PDFMAFIA",
-        "date": "2024.09.28",
-        "commentNum": "35",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
