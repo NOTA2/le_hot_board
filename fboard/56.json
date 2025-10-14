@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30309170",
+        "category": "인증/후기",
+        "title": "오늘의 디깅.jpg 📀",
+        "href": "/fboard/30309170",
+        "author": "killakim",
+        "date": "2024.12.25",
+        "commentNum": "14",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30313388",
         "category": "음악",
         "title": "(카티 아님) 앨범 커버 구리다고 생각했었는데",
@@ -205,17 +216,6 @@
         "author": "xxxwz25",
         "date": "2024.12.20",
         "commentNum": "111",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30253680",
-        "category": "일반",
-        "title": "CD왔다",
-        "href": "/fboard/30253680",
-        "author": "섹스마스터윤성",
-        "date": "2024.12.20",
-        "commentNum": "45",
         "isVideo": false,
         "isPhoto": true
     }

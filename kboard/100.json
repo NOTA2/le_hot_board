@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28434495",
+        "category": "일반",
+        "title": "사람이 싫을수는 있지 근데 분신은 그대로 둬야함",
+        "href": "/kboard/28434495",
+        "author": "바나나1리터",
+        "date": "2024.06.15",
+        "commentNum": "6",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28432186",
         "category": "일반",
         "title": "진짜 손심바 좀 까이는 것 같으면 우르르 몰려와서 다구리 치던거",
@@ -216,17 +227,6 @@
         "author": "박근호구다",
         "date": "2024.06.11",
         "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28390815",
-        "category": "음악",
-        "title": "110.12 사건이 계속 불타는 이유",
-        "href": "/kboard/28390815",
-        "author": "찌찌잼",
-        "date": "2024.06.10",
-        "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
     }

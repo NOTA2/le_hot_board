@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32622727",
+        "category": "인증/후기",
+        "title": "이를 안다면 개추를 누르시오",
+        "href": "/kboard/32622727",
+        "author": "희대의",
+        "date": "2025.10.14",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32621977",
         "category": "일반",
         "title": "??? : 하 시바 이거 7주년인데 누굴 불러야 되냐 누굴 불러도 개지랄 할 거 같은데;;;;",
         "href": "/kboard/32621977",
         "author": "Yeisdumbasf",
         "date": "2025.10.14",
-        "commentNum": "2",
+        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     },
@@ -17,7 +28,7 @@
         "href": "/kboard/32621193",
         "author": "생일봇",
         "date": "2025.10.13",
-        "commentNum": "4",
+        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32607861",
-        "category": "일반",
-        "title": "근데 lit이랑 별개로",
-        "href": "/kboard/32607861",
-        "author": "teamhacker",
-        "date": "2025.10.09",
-        "commentNum": "1",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

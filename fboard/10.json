@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32449546",
+        "category": "리뷰",
+        "title": "[앨범리뷰] Yeezus 리뷰 (가사를 중심으로)",
+        "href": "/fboard/32449546",
+        "author": "진짜막귀",
+        "date": "2025.08.20",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32448497",
         "category": "음악",
         "title": "뭐? 영 서그?",
@@ -216,17 +227,6 @@
         "author": "릴랩스베이비",
         "date": "2025.08.14",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32427572",
-        "category": "그림/아트웍",
-        "title": "칸예 전집 LP 목업",
-        "href": "/fboard/32427572",
-        "author": "MODM",
-        "date": "2025.08.13",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     }
