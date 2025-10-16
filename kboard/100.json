@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28442639",
+        "category": "음악",
+        "title": "MNET / 엠넷 신규 힙합 방송 ”랩 네이션“ 과 ”쇼미더머니 12“ 순차적으로 방영 예정이...",
+        "href": "/kboard/28442639",
+        "author": "디스이즈마랖",
+        "date": "2024.06.17",
+        "commentNum": "30",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28438474",
         "category": "인증/후기",
         "title": "수익 전액 기부한 힙합공연 ㄷㄷ",
@@ -216,17 +227,6 @@
         "author": "스컬",
         "date": "2024.06.12",
         "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28400891",
-        "category": "일반",
-        "title": "캐리건메이 손읍읍디스",
-        "href": "/kboard/28400891",
-        "author": "박근호구다",
-        "date": "2024.06.12",
-        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     }
