@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32489740",
+        "category": "음악",
+        "title": "hipkr 인스타에 제영상이 박제됏어요",
+        "href": "/kboard/32489740",
+        "author": "퍼기가오",
+        "date": "2025.08.31",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32489556",
         "category": "일반",
         "title": "의외로 케이플립보다 사람들이 좋아하는거",
@@ -216,17 +227,6 @@
         "author": "maldinista",
         "date": "2025.08.28",
         "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32476219",
-        "category": "음악",
-        "title": "이찬혁의 발언이 문제고 저스디스가 짜치고",
-        "href": "/kboard/32476219",
-        "author": "djfheo",
-        "date": "2025.08.27",
-        "commentNum": "",
         "isVideo": false,
         "isPhoto": false
     }
