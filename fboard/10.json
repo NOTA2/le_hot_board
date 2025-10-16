@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32457698",
+        "category": "인증/후기",
+        "title": "생일선물로 받은 RTJ2 바이닐",
+        "href": "/fboard/32457698",
+        "author": "기분이조아",
+        "date": "2025.08.22",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32454566",
         "category": "인증/후기",
         "title": "2hollis & Conceal 사인!!!",
@@ -218,16 +229,5 @@
         "commentNum": "37",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32440985",
-        "category": "음악",
-        "title": "오늘 인생 처음으로 mbdtf를 듣게 되었습니다.",
-        "href": "/fboard/32440985",
-        "author": "하명준",
-        "date": "2025.08.16",
-        "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
