@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30021304",
+        "category": "일반",
+        "title": "가리온 인터뷰를 진행했습니다.",
+        "href": "/kboard/30021304",
+        "author": "쟈이즈",
+        "date": "2024.11.26",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_30013026",
         "category": "음악",
         "title": "젓딧에게 바라는 점은",
@@ -207,16 +218,5 @@
         "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_29966075",
-        "category": "리뷰",
-        "title": "키츠요치 내려가자 감상",
-        "href": "/kboard/29966075",
-        "author": "어러러ㅓ",
-        "date": "2024.11.22",
-        "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
