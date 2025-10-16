@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32627394",
+        "category": "음악",
+        "title": "시카고 풋워크를 아시나요?",
+        "href": "/kboard/32627394",
+        "author": "Destin",
+        "date": "2025.10.16",
+        "commentNum": "",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32625761",
         "category": "일반",
         "title": "비트씬 경험하러 오세요. 재밌있는 거",
@@ -205,17 +216,6 @@
         "author": "ㄱ그래놀라",
         "date": "2025.10.11",
         "commentNum": "31",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32613190",
-        "category": "일반",
-        "title": "시스템서울 존나 빨던 커뮤에서 코르티스까는거임?",
-        "href": "/kboard/32613190",
-        "author": "가스절도범",
-        "date": "2025.10.11",
-        "commentNum": "17",
         "isVideo": false,
         "isPhoto": false
     }

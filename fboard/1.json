@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32627022",
+        "category": "음악",
+        "title": "시카고 풋워크를 아시나요?",
+        "href": "/fboard/32627022",
+        "author": "Destin",
+        "date": "2025.10.16",
+        "commentNum": "9",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32625812",
         "category": "인증/후기",
         "title": "[90년대 붐뱁 프로듀서] 14. Nick Wiz",
@@ -17,7 +28,7 @@
         "href": "/fboard/32625200",
         "author": "K드릭라마",
         "date": "2025.10.15",
-        "commentNum": "4",
+        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32613206",
-        "category": "인증/후기",
-        "title": "Ye 4, 6집 구매했습니다",
-        "href": "/fboard/32613206",
-        "author": "쓸쓸하구만",
-        "date": "2025.10.11",
-        "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
