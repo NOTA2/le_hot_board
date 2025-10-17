@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32202005",
+        "category": "일반",
+        "title": "[속보] 와비사비룸 [물질보다 정신] 피지컬 한정반 발매!",
+        "href": "/kboard/32202005",
+        "author": "Eastcoast",
+        "date": "2025.06.25",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32197425",
         "category": "음악",
         "title": "에피 E 진짜 개좋은데?",
@@ -205,17 +216,6 @@
         "author": "Djdejddl",
         "date": "2025.06.20",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32175031",
-        "category": "인증/후기",
-        "title": "케이플립 CD 부틀랙 가내수공업",
-        "href": "/kboard/32175031",
-        "author": "Djdejddl",
-        "date": "2025.06.20",
-        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     }

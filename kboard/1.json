@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32628007",
+        "category": "음악",
+        "title": "스윙스는 고점으로 보면 안됨",
+        "href": "/kboard/32628007",
+        "author": "Wings",
+        "date": "2025.10.16",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32627445",
         "category": "일반",
         "title": "소다팝 잘 출 꺼 같은 패션",
@@ -207,16 +218,5 @@
         "commentNum": "13",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32613782",
-        "category": "음악",
-        "title": "HAUS OF MATTERS 진보 20th 특집호 실물 미리보기!",
-        "href": "/kboard/32613782",
-        "author": "쟈이즈",
-        "date": "2025.10.11",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
