@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28401684",
+        "category": "음악",
+        "title": "나도 슬쩍 적어보는 벌쳐스 소신발언...",
+        "href": "/fboard/28401684",
+        "author": "ArtiViruz",
+        "date": "2024.06.11",
+        "commentNum": "9",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28399740",
         "category": "음악",
         "title": "벌쳐 듣다보면 트랙 구성 자체도 막 이해가 안간다 수준은 아님",
@@ -205,17 +216,6 @@
         "author": "EastBrit",
         "date": "2024.06.06",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28364205",
-        "category": "일반",
-        "title": "w/HOM을 만드는 매거진 팀 KHL, 결성 1주년을 맞이했습니당!",
-        "href": "/fboard/28364205",
-        "author": "쟈이즈",
-        "date": "2024.06.06",
-        "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
     }
