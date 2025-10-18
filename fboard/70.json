@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29599505",
+        "category": "인증/후기",
+        "title": "여고생 힙린이의 소박한 LP 인증 (음악 추천 받아요)",
+        "href": "/fboard/29599505",
+        "author": "김스껄",
+        "date": "2024.10.18",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29590466",
         "category": "인증/후기",
         "title": "추천을 안누를수가 없는 앨범 후기",
@@ -207,16 +218,5 @@
         "commentNum": "7",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_29536074",
-        "category": "일반",
-        "title": "엘이 첫 가입인사+앨범 자랑",
-        "href": "/fboard/29536074",
-        "author": "썬플라루ㅜ",
-        "date": "2024.10.12",
-        "commentNum": "26",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

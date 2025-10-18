@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32617625",
+        "category": "음악",
+        "title": "이번 연휴동안 들은 앨범들",
+        "href": "/fboard/32617625",
+        "author": "천재금붕어모임",
+        "date": "2025.10.12",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32617181",
         "category": "음악",
         "title": "주듣앨",
@@ -207,16 +218,5 @@
         "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32596490",
-        "category": "일반",
-        "title": "[음반 용어 사전 1편~10편] 통합 버전 재업",
-        "href": "/fboard/32596490",
-        "author": "DJSam",
-        "date": "2025.10.06",
-        "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

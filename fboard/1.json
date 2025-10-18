@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32632220",
+        "category": "리뷰",
+        "title": "[리뷰] Earl Sweatshirt - Live Laugh Love",
+        "href": "/fboard/32632220",
+        "author": "예리",
+        "date": "2025.10.18",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32630244",
         "category": "일반",
         "title": "드디어받았다!!!",
         "href": "/fboard/32630244",
         "author": "JESUMAFIA",
         "date": "2025.10.17",
-        "commentNum": "13",
+        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "DJSam",
         "date": "2025.10.12",
         "commentNum": "41",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32617625",
-        "category": "음악",
-        "title": "이번 연휴동안 들은 앨범들",
-        "href": "/fboard/32617625",
-        "author": "천재금붕어모임",
-        "date": "2025.10.12",
-        "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
     }
