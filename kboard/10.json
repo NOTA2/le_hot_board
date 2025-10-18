@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32496472",
+        "category": "음악",
+        "title": "조광일 힙알못인가?",
+        "href": "/kboard/32496472",
+        "author": "동글이",
+        "date": "2025.09.02",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32497907",
         "category": "음악",
         "title": "80~90년대 시티팝을 차용한 07,08년생 (정규앨범)",
@@ -216,17 +227,6 @@
         "author": "KIIS",
         "date": "2025.08.28",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32481324",
-        "category": "일반",
-        "title": "요즘 너무 긁힌다",
-        "href": "/kboard/32481324",
-        "author": "휘뚜루마뚜루",
-        "date": "2025.08.28",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": false
     }
