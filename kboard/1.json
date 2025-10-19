@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32635101",
+        "category": "일반",
+        "title": "군대 시스템 뒤지게 잘만들긴 했음 ㅇㅇ",
+        "href": "/kboard/32635101",
+        "author": "ㄱ그래놀라",
+        "date": "2025.10.19",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32631985",
         "category": "일반",
         "title": "엘이에서 무조건 차단해야 되는 개시발씹새끼들 유형 정리해줌ㅇㅇ",
@@ -17,7 +28,7 @@
         "href": "/kboard/32633103",
         "author": "EPMDbaby",
         "date": "2025.10.18",
-        "commentNum": "29",
+        "commentNum": "30",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "생일봇",
         "date": "2025.10.12",
         "commentNum": "1",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32617947",
-        "category": "리뷰",
-        "title": "💿한국힙합 매거진 \"HAUS OF MATTERS\" #29",
-        "href": "/kboard/32617947",
-        "author": "쟈이즈",
-        "date": "2025.10.13",
-        "commentNum": "2",
         "isVideo": false,
         "isPhoto": true
     }

@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28466037",
+        "category": "일반",
+        "title": "' 그 똥독 ' 쉴드치는 인간은 인간 취급 안함",
+        "href": "/kboard/28466037",
+        "author": "AOSOSOC",
+        "date": "2024.06.19",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28462895",
         "category": "일반",
         "title": "서리 단톡방에서 지령 떨어졌나보네",
@@ -218,16 +229,5 @@
         "commentNum": "32",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28427172",
-        "category": "리뷰",
-        "title": "한국힙합에서 존나 배신감 들었을때",
-        "href": "/kboard/28427172",
-        "author": "나투더플라",
-        "date": "2024.06.14",
-        "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
