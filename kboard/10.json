@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32497821",
+        "category": "인증/후기",
+        "title": "에넥도트 10주년 음반 도착 (+그리고)",
+        "href": "/kboard/32497821",
+        "author": "쓸쓸하구만",
+        "date": "2025.09.03",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32497653",
         "category": "인증/후기",
         "title": "에넥도트 도착",
@@ -216,17 +227,6 @@
         "author": "식스핑거",
         "date": "2025.08.29",
         "commentNum": "",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32483849",
-        "category": "음악",
-        "title": "자이언티 이번 ep",
-        "href": "/kboard/32483849",
-        "author": "유명하다왜",
-        "date": "2025.08.29",
-        "commentNum": "2",
         "isVideo": false,
         "isPhoto": false
     }

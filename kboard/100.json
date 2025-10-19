@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28462759",
+        "category": "일반",
+        "title": "똑같은 떡밥 너무 피로해요 그만해주세요",
+        "href": "/kboard/28462759",
+        "author": "근본주의자",
+        "date": "2024.06.19",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28466037",
         "category": "일반",
         "title": "' 그 똥독 ' 쉴드치는 인간은 인간 취급 안함",
@@ -218,16 +229,5 @@
         "commentNum": "13",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28422881",
-        "category": "음악",
-        "title": "QM님 저 막귀인가요?",
-        "href": "/kboard/28422881",
-        "author": "frank0cean",
-        "date": "2024.06.14",
-        "commentNum": "32",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
