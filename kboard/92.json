@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28727847",
+        "category": "음악",
+        "title": "키스에이프 깡 좆되네여 ㅋㅋㅋㅋ",
+        "href": "/kboard/28727847",
+        "author": "RODDagger",
+        "date": "2024.07.28",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28728650",
         "category": "리뷰",
         "title": "씨잼(C JAMM) -  가끔 난 날 안 믿어 『킁』 (분석 + 리뷰 = 감상문)",
@@ -207,16 +218,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28701369",
-        "category": "음악",
-        "title": "안녕하세요!! (또) 브라운티거 입니다!!ㅎㅎ (또) 읽어봐주세요..!",
-        "href": "/kboard/28701369",
-        "author": "티거",
-        "date": "2024.07.23",
-        "commentNum": "33",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]

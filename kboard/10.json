@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32499967",
+        "category": "일반",
+        "title": "The Anecdote 10주년 이센스 편지",
+        "href": "/kboard/32499967",
+        "author": "물결",
+        "date": "2025.09.04",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32497821",
         "category": "인증/후기",
         "title": "에넥도트 10주년 음반 도착 (+그리고)",
@@ -216,17 +227,6 @@
         "author": "KCTAPE",
         "date": "2025.08.29",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32483589",
-        "category": "일반",
-        "title": "남혐 여혐 같은거임",
-        "href": "/kboard/32483589",
-        "author": "식스핑거",
-        "date": "2025.08.29",
-        "commentNum": "",
         "isVideo": false,
         "isPhoto": false
     }
