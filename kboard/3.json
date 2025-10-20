@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32608526",
+        "category": "일반",
+        "title": "저렇게까지 말하는거 보면",
+        "href": "/kboard/32608526",
+        "author": "히파팬",
+        "date": "2025.10.09",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32607146",
         "category": "일반",
         "title": "끊임없이 자극적인 남자 | 팔캐스트 EP.07 JUSTHIS",
@@ -205,17 +216,6 @@
         "author": "디스포일드차일드",
         "date": "2025.10.04",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32589707",
-        "category": "음악",
-        "title": "올해의앨범은 비프리인거 같다..",
-        "href": "/kboard/32589707",
-        "author": "케빈갓",
-        "date": "2025.10.03",
-        "commentNum": "",
         "isVideo": false,
         "isPhoto": false
     }
