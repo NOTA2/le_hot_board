@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32536266",
+        "category": "일반",
+        "title": "맘스터치 타일러의 픽",
+        "href": "/fboard/32536266",
+        "author": "cig0721",
+        "date": "2025.09.15",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32536262",
+        "category": "인증/후기",
+        "title": "위켄드 2집 10주년 LP",
+        "href": "/fboard/32536262",
+        "author": "우는보이",
+        "date": "2025.09.15",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32532547",
         "category": "일반",
         "title": "타일러와 김남준을 보고 회한하며",
@@ -194,28 +216,6 @@
         "author": "히오스는니얼굴이다",
         "date": "2025.09.10",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32514790",
-        "category": "리뷰",
-        "title": "JID - God Does Like Ugly 리뷰",
-        "href": "/fboard/32514790",
-        "author": "온암",
-        "date": "2025.09.10",
-        "commentNum": "11",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32520479",
-        "category": "인증/후기",
-        "title": "Westside gunn - HEELS HAVE EYES 2",
-        "href": "/fboard/32520479",
-        "author": "마틴로즈",
-        "date": "2025.09.10",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }

@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32638806",
+        "category": "음악",
+        "title": "4.5점 준 힙합 앨범들",
+        "href": "/fboard/32638806",
+        "author": "외힙노인",
+        "date": "2025.10.20",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32639522",
+        "category": "음악",
+        "title": "4~4.5/5 준 힙합 앨범들",
+        "href": "/fboard/32639522",
+        "author": "yuke",
+        "date": "2025.10.20",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32624533",
         "category": "일반",
         "title": "GNX는 단순히 옛날로 돌아가는 믹스테잎이 아닌 이유",
@@ -194,28 +216,6 @@
         "author": "다스시디어스",
         "date": "2025.10.14",
         "commentNum": "1",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32620067",
-        "category": "일반",
-        "title": "님들 이거 또 쿨타임 돌았나 봄",
-        "href": "/fboard/32620067",
-        "author": "Yeisdumbasf",
-        "date": "2025.10.13",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32619899",
-        "category": "인증/후기",
-        "title": "보석을 향해 달리세요 2",
-        "href": "/fboard/32619899",
-        "author": "Fishmans",
-        "date": "2025.10.13",
-        "commentNum": "2",
         "isVideo": false,
         "isPhoto": true
     }

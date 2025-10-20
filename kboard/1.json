@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32638167",
+        "category": "일반",
+        "title": "근데 여기 사이트 운영진들 이제 관리 안하나여",
+        "href": "/kboard/32638167",
+        "author": "GROCK",
+        "date": "2025.10.20",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32636023",
         "category": "음악",
         "title": "안녕하세요, 로빈이라고 합니다. 제 믹스테잎 피지컬 CD를 무료로 건네드리고자 합니다.",
         "href": "/kboard/32636023",
         "author": "Bin'sATTIC",
         "date": "2025.10.19",
-        "commentNum": "23",
+        "commentNum": "27",
         "isVideo": true,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "Yeisdumbasf",
         "date": "2025.10.14",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32621193",
-        "category": "일반",
-        "title": "생일 축하해 Swings! 😍",
-        "href": "/kboard/32621193",
-        "author": "생일봇",
-        "date": "2025.10.13",
-        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     }
