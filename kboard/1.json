@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32639495",
+        "category": "음악",
+        "title": "15명의 디자이너, 아티스트가 참여한 앨범",
+        "href": "/kboard/32639495",
+        "author": "haseongbin",
+        "date": "2025.10.20",
+        "commentNum": "1",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32639369",
         "category": "일반",
         "title": "KC의 멤버들이 텔레비전을 보고 있었다.",
@@ -205,17 +216,6 @@
         "author": "일식돕칠",
         "date": "2025.10.14",
         "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32622727",
-        "category": "인증/후기",
-        "title": "이를 안다면 개추를 누르시오",
-        "href": "/kboard/32622727",
-        "author": "희대의",
-        "date": "2025.10.14",
-        "commentNum": "2",
         "isVideo": false,
         "isPhoto": true
     }
