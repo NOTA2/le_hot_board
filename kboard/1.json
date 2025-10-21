@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32642680",
+        "category": "인증/후기",
+        "title": "힙합에서 멀어져가는 지금 올려보는 인증글",
+        "href": "/kboard/32642680",
+        "author": "YTT",
+        "date": "2025.10.21",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32641690",
         "category": "일반",
         "title": "LIT 지금 당장 들을 수 있는 방법",
@@ -17,7 +28,7 @@
         "href": "/kboard/32641640",
         "author": "hhhhnhhhhnh",
         "date": "2025.10.21",
-        "commentNum": "12",
+        "commentNum": "15",
         "isVideo": false,
         "isPhoto": false
     },
@@ -50,7 +61,7 @@
         "href": "/kboard/32639369",
         "author": "Insoo",
         "date": "2025.10.20",
-        "commentNum": "21",
+        "commentNum": "22",
         "isVideo": false,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32625274",
-        "category": "음악",
-        "title": "이번에 터진 한국 음악 저작권 협회",
-        "href": "/kboard/32625274",
-        "author": "진진바리진진",
-        "date": "2025.10.15",
-        "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
