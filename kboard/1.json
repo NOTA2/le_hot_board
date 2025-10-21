@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32641640",
+        "category": "일반",
+        "title": "엘이에 있으면 좋을 거 같은 기능",
+        "href": "/kboard/32641640",
+        "author": "hhhhnhhhhnh",
+        "date": "2025.10.21",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32640683",
         "category": "음악",
         "title": "ek 삼각관계 스킷 뭔가",
@@ -17,7 +28,7 @@
         "href": "/kboard/32639495",
         "author": "haseongbin",
         "date": "2025.10.20",
-        "commentNum": "2",
+        "commentNum": "3",
         "isVideo": true,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "10",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32624234",
-        "category": "인증/후기",
-        "title": "국힙 100대 명반 모으기 25일차",
-        "href": "/kboard/32624234",
-        "author": "Khiphop100",
-        "date": "2025.10.15",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
