@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28481458",
+        "category": "일반",
+        "title": "속보)) 강수지-보랏빛향기 (feat.맨스티어)",
+        "href": "/kboard/28481458",
+        "author": "로리니",
+        "date": "2024.06.21",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28481635",
         "category": "일반",
         "title": "나중에 메코클같은데서  ”그땐 그랬죠…“ 하고 웃으면서 썰 풀 생각 하지 마 씹련들아",
@@ -217,17 +228,6 @@
         "date": "2024.06.16",
         "commentNum": "45",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28434495",
-        "category": "일반",
-        "title": "사람이 싫을수는 있지 근데 분신은 그대로 둬야함",
-        "href": "/kboard/28434495",
-        "author": "바나나1리터",
-        "date": "2024.06.15",
-        "commentNum": "6",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
