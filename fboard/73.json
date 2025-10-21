@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29440673",
+        "category": "일반",
+        "title": "확실히 금요일 오후라 엘이가 핫하네요",
+        "href": "/fboard/29440673",
+        "author": "칸베지드예",
+        "date": "2024.10.04",
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29439779",
+        "category": "인증/후기",
+        "title": "어디서 무슨 소리 들리지 않나요?",
+        "href": "/fboard/29439779",
+        "author": "크밍",
+        "date": "2024.10.04",
+        "commentNum": "41",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29436041",
         "category": "음악",
         "title": "칸예는 한결같이 늘 나빴다 (번역) (장문)",
@@ -196,27 +218,5 @@
         "commentNum": "52",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29384286",
-        "category": "일반",
-        "title": "백인팬들을 디스한 제이펙마피아",
-        "href": "/fboard/29384286",
-        "author": "이오더매드문",
-        "date": "2024.09.29",
-        "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29380553",
-        "category": "일반",
-        "title": "“BEAUTY AND THE BEAST” 해석과 여담",
-        "href": "/fboard/29380553",
-        "author": "GayGay",
-        "date": "2024.09.29",
-        "commentNum": "37",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]

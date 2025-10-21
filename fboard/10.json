@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32466695",
+        "category": "인증/후기",
+        "title": "Samurai Champloo - Departure / Impression - CD 인증",
+        "href": "/fboard/32466695",
+        "author": "DJSam",
+        "date": "2025.08.25",
+        "commentNum": "21",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32463668",
         "category": "음악",
         "title": "울 아부지가 선정한 힙합앨범 TOP10",
@@ -216,28 +227,6 @@
         "author": "23시",
         "date": "2025.08.20",
         "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32449546",
-        "category": "리뷰",
-        "title": "[앨범리뷰] Yeezus 리뷰 (가사를 중심으로)",
-        "href": "/fboard/32449546",
-        "author": "진짜막귀",
-        "date": "2025.08.20",
-        "commentNum": "8",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32448497",
-        "category": "음악",
-        "title": "뭐? 영 서그?",
-        "href": "/fboard/32448497",
-        "author": "카티야앨범내",
-        "date": "2025.08.19",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
     }
