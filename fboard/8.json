@@ -1,5 +1,38 @@
 [
     {
+        "id": "fboard_32511083",
+        "category": "음악",
+        "title": "Jane Remover - Revengeseekerz 리뷰",
+        "href": "/fboard/32511083",
+        "author": "공ZA",
+        "date": "2025.09.07",
+        "commentNum": "14",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
+        "id": "fboard_32508898",
+        "category": "음악",
+        "title": "오늘은 맥 밀러가 우리 곁을 떠난지 7주년이 되는 날입니다",
+        "href": "/fboard/32508898",
+        "author": "FINNIT",
+        "date": "2025.09.06",
+        "commentNum": "18",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32509807",
+        "category": "리뷰",
+        "title": "Jeru the Damaja - The Sun Rises in the East 리뷰",
+        "href": "/fboard/32509807",
+        "author": "공ZA",
+        "date": "2025.09.07",
+        "commentNum": "10",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32506128",
         "category": "인증/후기",
         "title": "오늘 도착한 11개의 음반",
@@ -183,39 +216,6 @@
         "author": "예리",
         "date": "2025.09.02",
         "commentNum": "22",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32495286",
-        "category": "인증/후기",
-        "title": "장.수.가능한한빠르게(가능한한빠르게)(노랑LP)",
-        "href": "/fboard/32495286",
-        "author": "국힙버러지손심바",
-        "date": "2025.09.02",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32494905",
-        "category": "리뷰",
-        "title": "A Tribe Called Quest - Midnight Marauders 리뷰",
-        "href": "/fboard/32494905",
-        "author": "공ZA",
-        "date": "2025.09.02",
-        "commentNum": "17",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32492136",
-        "category": "일반",
-        "title": "타일러 바이닐ㄹ",
-        "href": "/fboard/32492136",
-        "author": "갸나두리매베소",
-        "date": "2025.09.01",
-        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     }

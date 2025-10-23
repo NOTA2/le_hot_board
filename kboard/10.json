@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32512350",
+        "category": "그림/아트웍",
+        "title": "공공구 ㅠㅠ 앨범 커버 피규어 만들기 2편",
+        "href": "/kboard/32512350",
+        "author": "Djdejddl",
+        "date": "2025.09.07",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32508572",
         "category": "그림/아트웍",
         "title": "공공구 ㅠㅠ 앨범 커버 피규어 만들기 1편",
@@ -217,17 +228,6 @@
         "date": "2025.09.02",
         "commentNum": "1",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32496682",
-        "category": "음악",
-        "title": "큰거 온다",
-        "href": "/kboard/32496682",
-        "author": "Something",
-        "date": "2025.09.02",
-        "commentNum": "7",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

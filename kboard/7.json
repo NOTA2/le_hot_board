@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32551991",
+        "category": "일반",
+        "title": "힙플라디오 씨잼 섭외해주면 좋겠다",
+        "href": "/kboard/32551991",
+        "author": "어허허",
+        "date": "2025.09.21",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32552770",
         "category": "인증/후기",
         "title": "8년간 음반을 모은 사람은 김강토의 100대 명반 중 몇개나 소장중일까?",
@@ -205,17 +216,6 @@
         "author": "오트프",
         "date": "2025.09.17",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32540416",
-        "category": "그림/아트웍",
-        "title": "살아숨셔 숨샤 ts를 그렸어요~",
-        "href": "/kboard/32540416",
-        "author": "후주",
-        "date": "2025.09.17",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     }
