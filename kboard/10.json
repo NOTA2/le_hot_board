@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32500706",
+        "category": "음악",
+        "title": "안녕하세요. 정규 1집 [Revengeful]을 발매했습니다.",
+        "href": "/kboard/32500706",
+        "author": "Waikikik",
+        "date": "2025.09.08",
+        "commentNum": "6",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32512204",
         "category": "리뷰",
         "title": "💿한국힙합 매거진 \"HAUS OF MATTERS\" #28",
@@ -217,17 +228,6 @@
         "date": "2025.09.02",
         "commentNum": "1",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32497907",
-        "category": "음악",
-        "title": "80~90년대 시티팝을 차용한 07,08년생 (정규앨범)",
-        "href": "/kboard/32497907",
-        "author": "SURP",
-        "date": "2025.09.03",
-        "commentNum": "24",
-        "isVideo": true,
         "isPhoto": false
     }
 ]

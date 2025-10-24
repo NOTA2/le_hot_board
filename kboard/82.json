@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29266631",
+        "category": "음악",
+        "title": "누가 보면 힙합팬들만 그러는줄 알겠어",
+        "href": "/kboard/29266631",
+        "author": "맙쉿",
+        "date": "2024.09.19",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29263989",
         "category": "인증/후기",
         "title": "중딩때부터 모은 CD 인증!!!",
@@ -205,17 +216,6 @@
         "author": "MiKael",
         "date": "2024.09.15",
         "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29194963",
-        "category": "인증/후기",
-        "title": "좋아하는 국내 음반들 인증",
-        "href": "/kboard/29194963",
-        "author": "민니",
-        "date": "2024.09.14",
-        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     }

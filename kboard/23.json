@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32254299",
+        "category": "인증/후기",
+        "title": "제가 가진 앨범을 다시 좀 모아봤습니다...",
+        "href": "/kboard/32254299",
+        "author": "banhana1014",
+        "date": "2025.07.06",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32251433",
         "category": "일반",
         "title": "야호 안들어봤는데 ㅈㄴ 무서워요",
@@ -206,17 +217,6 @@
         "date": "2025.07.01",
         "commentNum": "5",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32227878",
-        "category": "음악",
-        "title": "제가 좋아하는 염따 벌스에요",
-        "href": "/kboard/32227878",
-        "author": "q0310",
-        "date": "2025.06.30",
-        "commentNum": "3",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
