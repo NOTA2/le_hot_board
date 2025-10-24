@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32473483",
+        "category": "일반",
+        "title": "헤어진 후 남녀 차이",
+        "href": "/fboard/32473483",
+        "author": "크랙커",
+        "date": "2025.08.26",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32476291",
         "category": "음악",
         "title": "외국 힙합 입문 1.5장 : [초보들을 위한 명반 4선]",
@@ -216,39 +227,6 @@
         "author": "UNOFFICIAL0308",
         "date": "2025.08.21",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32456635",
-        "category": "음악",
-        "title": "최고의 믹스테입",
-        "href": "/fboard/32456635",
-        "author": "혹스턴",
-        "date": "2025.08.22",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32454912",
-        "category": "음악",
-        "title": "생일기념 역대 최고의 힙합앨범 TOP30",
-        "href": "/fboard/32454912",
-        "author": "기분이조아",
-        "date": "2025.08.21",
-        "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32453870",
-        "category": "음악",
-        "title": "제 취향 클라우드 랩 16선",
-        "href": "/fboard/32453870",
-        "author": "유레카9번트랙",
-        "date": "2025.08.21",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }
