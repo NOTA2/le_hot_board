@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32596493",
+        "category": "리뷰",
+        "title": "billy woods - GOLLIWOG",
+        "href": "/fboard/32596493",
+        "author": "예리",
+        "date": "2025.10.06",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32591889",
         "category": "인증/후기",
         "title": "아웃캐스트 명반 구매했습니다",
@@ -206,17 +217,6 @@
         "date": "2025.09.27",
         "commentNum": "33",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32567647",
-        "category": "음악",
-        "title": "칸예도 퇴물 영떡도 퇴물 릴웨인도 퇴물…",
-        "href": "/fboard/32567647",
-        "author": "유레카9번트랙",
-        "date": "2025.09.26",
-        "commentNum": "19",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

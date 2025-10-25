@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32652529",
+        "category": "음악",
+        "title": "오늘 스캇 공연 이후 보이지 않았으면 하는 글 유형들",
+        "href": "/fboard/32652529",
+        "author": "장르편식노놉",
+        "date": "2025.10.24",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32652570",
         "category": "일반",
         "title": "멤피스 슬랭을 해석하는 방법...",
@@ -28,7 +39,7 @@
         "href": "/fboard/32651136",
         "author": "이니가",
         "date": "2025.10.24",
-        "commentNum": "20",
+        "commentNum": "24",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "예리",
         "date": "2025.10.18",
         "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32630244",
-        "category": "일반",
-        "title": "드디어받았다!!!",
-        "href": "/fboard/32630244",
-        "author": "JESUMAFIA",
-        "date": "2025.10.17",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     }
