@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32654192",
+        "category": "인증/후기",
+        "title": "서레페 후기",
+        "href": "/kboard/32654192",
+        "author": "빠삐삐빠뽀",
+        "date": "2025.10.25",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32652873",
         "category": "음악",
         "title": "재지팩트 앨범을 작업 중인 빈지노",
         "href": "/kboard/32652873",
         "author": "평화의수호자",
         "date": "2025.10.25",
-        "commentNum": "12",
+        "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "2",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32636023",
-        "category": "음악",
-        "title": "안녕하세요, 로빈이라고 합니다. 제 믹스테잎 피지컬 CD를 무료로 건네드리고자 합니다.",
-        "href": "/kboard/32636023",
-        "author": "Bin'sATTIC",
-        "date": "2025.10.19",
-        "commentNum": "28",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
