@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31990682",
+        "category": "음악",
+        "title": "에이셉 라키는 미국의 빈지노인가",
+        "href": "/fboard/31990682",
+        "author": "BrentFaiyaz",
+        "date": "2025.05.11",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_31993403",
         "category": "일반",
         "title": "엘이 일련의 사태들을 보면서...",
@@ -205,17 +216,6 @@
         "author": "BrentFaiyaz",
         "date": "2025.05.07",
         "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31961787",
-        "category": "일반",
-        "title": "리뷰 아님",
-        "href": "/fboard/31961787",
-        "author": "예리",
-        "date": "2025.05.07",
-        "commentNum": "74",
         "isVideo": false,
         "isPhoto": true
     }

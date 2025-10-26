@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32426070",
+        "category": "인증/후기",
+        "title": "5252~",
+        "href": "/fboard/32426070",
+        "author": "gunacho",
+        "date": "2025.08.13",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32425384",
         "category": "인증/후기",
         "title": "나는 당신을 위해 내 목숨을 바칩니다 (화이트 바이닐, LP)",
@@ -205,17 +216,6 @@
         "author": "DJSam",
         "date": "2025.08.07",
         "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32396203",
-        "category": "음악",
-        "title": "내일 나오는 거",
-        "href": "/fboard/32396203",
-        "author": "공ZA",
-        "date": "2025.08.07",
-        "commentNum": "26",
         "isVideo": false,
         "isPhoto": true
     }
