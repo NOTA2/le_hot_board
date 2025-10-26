@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28444317",
+        "category": "일반",
+        "title": "칸예 청불 확정되면",
+        "href": "/fboard/28444317",
+        "author": "ꓙPEGMAFIA",
+        "date": "2024.06.17",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28444782",
         "category": "일반",
         "title": "휴가를 몇 번이나 내야하는 건가요",
@@ -205,17 +216,6 @@
         "author": "제이환",
         "date": "2024.06.12",
         "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28404983",
-        "category": "음악",
-        "title": "김밥 후기",
-        "href": "/fboard/28404983",
-        "author": "김건혁",
-        "date": "2024.06.12",
-        "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
     }

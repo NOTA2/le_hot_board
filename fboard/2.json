@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32624533",
+        "category": "일반",
+        "title": "GNX는 단순히 옛날로 돌아가는 믹스테잎이 아닌 이유",
+        "href": "/fboard/32624533",
+        "author": "KangHosam",
+        "date": "2025.10.19",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32637187",
         "category": "음악",
         "title": "che처럼 랩하는 법",
@@ -206,17 +217,6 @@
         "date": "2025.10.13",
         "commentNum": "2",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32620155",
-        "category": "일반",
-        "title": "프랭크 오션 앨범 기원 300일차",
-        "href": "/fboard/32620155",
-        "author": "따흙",
-        "date": "2025.10.13",
-        "commentNum": "12",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
