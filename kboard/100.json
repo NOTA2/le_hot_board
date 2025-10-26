@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28516842",
+        "category": "음악",
+        "title": "킁",
+        "href": "/kboard/28516842",
+        "author": "김건혁",
+        "date": "2024.06.26",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28512847",
         "category": "인증/후기",
         "title": "킁 한정반 온김에",
@@ -216,17 +227,6 @@
         "author": "MarshallMathers",
         "date": "2024.06.20",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28481458",
-        "category": "일반",
-        "title": "속보)) 강수지-보랏빛향기 (feat.맨스티어)",
-        "href": "/kboard/28481458",
-        "author": "로리니",
-        "date": "2024.06.21",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }
