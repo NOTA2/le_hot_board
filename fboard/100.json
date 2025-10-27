@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28261541",
+        "category": "인증/후기",
+        "title": "오늘의 디깅.jpeg",
+        "href": "/fboard/28261541",
+        "author": "killakim",
+        "date": "2024.05.22",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28263141",
         "category": "일반",
         "title": "안녕하세요, 오늘 가입하였습니다",
@@ -216,17 +227,6 @@
         "author": "a_chal",
         "date": "2024.05.17",
         "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28220327",
-        "category": "일반",
-        "title": "YANDHI 2.0",
-        "href": "/fboard/28220327",
-        "author": "GayGay",
-        "date": "2024.05.17",
-        "commentNum": "26",
         "isVideo": false,
         "isPhoto": true
     }
