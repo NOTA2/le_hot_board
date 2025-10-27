@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32520101",
+        "category": "일반",
+        "title": "젓딧 솔직히 이게 잘한 디스인가?",
+        "href": "/kboard/32520101",
+        "author": "붐뱁처돌이",
+        "date": "2025.09.10",
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32520657",
         "category": "일반",
         "title": "식케이 가사 질문이요",
@@ -218,27 +229,5 @@
         "commentNum": "24",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32505464",
-        "category": "일반",
-        "title": "위켄드 우라까이는 솔직히 시원했음 ㅇㅇ",
-        "href": "/kboard/32505464",
-        "author": "ㄱ그래놀라",
-        "date": "2025.09.06",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32504280",
-        "category": "인증/후기",
-        "title": "에넥도트 10주년반에 센스형 사인 받은 썰",
-        "href": "/kboard/32504280",
-        "author": "오프니어",
-        "date": "2025.09.05",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

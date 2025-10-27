@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28887966",
+        "category": "리뷰",
+        "title": "씨잼(C JAMM) - 포커페이스 『킁』 (분석 + 리뷰 = 감상문)",
+        "href": "/kboard/28887966",
+        "author": "코지보이",
+        "date": "2024.08.15",
+        "commentNum": "5",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28881036",
+        "category": "음악",
+        "title": "고2 СD 모은거 인증",
+        "href": "/kboard/28881036",
+        "author": "디아초",
+        "date": "2024.08.14",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28878335",
         "category": "음악",
         "title": "963입니다. 정규 1집 [ 전쟁 ] 발매 했습니다.",
@@ -194,28 +216,6 @@
         "author": "Route",
         "date": "2024.08.10",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28850019",
-        "category": "음악",
-        "title": "식케이 너무 카티네",
-        "href": "/kboard/28850019",
-        "author": "앙대여",
-        "date": "2024.08.10",
-        "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28850186",
-        "category": "일반",
-        "title": "오늘밤 비보잉의 전설 홍텐이 파리올림픽 브레이킹 종목에 출전합니다!!",
-        "href": "/kboard/28850186",
-        "author": "MarshallMathers",
-        "date": "2024.08.10",
-        "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
     }
