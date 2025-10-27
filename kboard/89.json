@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28918298",
+        "category": "일반",
+        "title": "임성빈 씨 발 새끼야 주제파악좀해",
+        "href": "/kboard/28918298",
+        "author": "히팝뉴우비",
+        "date": "2024.08.19",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28918943",
         "category": "일반",
         "title": "솔직히 빈지노는 라이브 공연에서 빛나는 래퍼는 아님 ㅇㅇ",
@@ -206,17 +217,6 @@
         "date": "2024.08.14",
         "commentNum": "6",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28878335",
-        "category": "음악",
-        "title": "963입니다. 정규 1집 [ 전쟁 ] 발매 했습니다.",
-        "href": "/kboard/28878335",
-        "author": "CAFREEG",
-        "date": "2024.08.14",
-        "commentNum": "3",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
