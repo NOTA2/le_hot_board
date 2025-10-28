@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28520190",
+        "category": "일반",
+        "title": "힙x)최근에 본 사건중에서 너무 화가나고 어이없는 사건",
+        "href": "/kboard/28520190",
+        "author": "Application",
+        "date": "2024.06.27",
+        "commentNum": "10",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28521834",
         "category": "일반",
         "title": "'국힙 원탑'인데…맨스티어 공연에 냉랭한 반응, 왜?",
@@ -216,17 +227,6 @@
         "author": "IBAN",
         "date": "2024.06.22",
         "commentNum": "64",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28491764",
-        "category": "일반",
-        "title": "지예아",
-        "href": "/kboard/28491764",
-        "author": "김학대",
-        "date": "2024.06.22",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     }

@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32661965",
+        "category": "인증/후기",
+        "title": "[90년대 붐뱁 프로듀서] 16. Prince Paul",
+        "href": "/fboard/32661965",
+        "author": "DJSam",
+        "date": "2025.10.28",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32661391",
         "category": "일반",
         "title": "Rodeo 트랙 goat ㅋㅋ",
         "href": "/fboard/32661391",
         "author": "크랙커",
         "date": "2025.10.27",
-        "commentNum": "14",
+        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "42",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32644795",
-        "category": "음악",
-        "title": "왓더 인기글",
-        "href": "/fboard/32644795",
-        "author": "우비입은우기",
-        "date": "2025.10.22",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
