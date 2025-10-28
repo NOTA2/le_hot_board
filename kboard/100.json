@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28531973",
+        "category": "일반",
+        "title": "우울하면 오보에 만한게 없음 ㄹㅇ",
+        "href": "/kboard/28531973",
+        "author": "크랙커",
+        "date": "2024.06.28",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28528109",
         "category": "일반",
         "title": "진짜 뷰너한테 있는 정 없는 정 다 떨어진점",
@@ -218,16 +229,5 @@
         "commentNum": "21",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28496385",
-        "category": "일반",
-        "title": "과나같이 아닌척 하면서 혐오하는게 더 역겹습니다",
-        "href": "/kboard/28496385",
-        "author": "준원정훈성민",
-        "date": "2024.06.23",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
