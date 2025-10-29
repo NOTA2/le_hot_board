@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32611104",
+        "category": "인증/후기",
+        "title": "Apollo Brown - CD / LP Collection",
+        "href": "/fboard/32611104",
+        "author": "DJSam",
+        "date": "2025.10.10",
+        "commentNum": "16",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32610598",
         "category": "일반",
         "title": "해외힙합 매거진 w/HOM #27 10월 13일 공개 예정!",
@@ -206,17 +217,6 @@
         "date": "2025.10.03",
         "commentNum": "3",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32588917",
-        "category": "일반",
-        "title": "친구한테 생일 선물 받앗어요",
-        "href": "/fboard/32588917",
-        "author": "JPEGULTRA",
-        "date": "2025.10.03",
-        "commentNum": "7",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

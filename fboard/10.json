@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32494905",
+        "category": "리뷰",
+        "title": "A Tribe Called Quest - Midnight Marauders 리뷰",
+        "href": "/fboard/32494905",
+        "author": "공ZA",
+        "date": "2025.09.02",
+        "commentNum": "17",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32492136",
         "category": "일반",
         "title": "타일러 바이닐ㄹ",
@@ -217,17 +228,6 @@
         "date": "2025.08.27",
         "commentNum": "27",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32472140",
-        "category": "일반",
-        "title": "형이 왜 거기서 나와..?",
-        "href": "/fboard/32472140",
-        "author": "killakim",
-        "date": "2025.08.26",
-        "commentNum": "8",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
