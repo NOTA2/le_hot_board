@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28590519",
+        "category": "인증/후기",
+        "title": "[CD 리뷰] SZA - CTRL",
+        "href": "/fboard/28590519",
+        "author": "YD10",
+        "date": "2024.07.06",
+        "commentNum": "5",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28593263",
         "category": "음악",
         "title": "칸예 앨범 평점(객관적)",
@@ -205,17 +216,6 @@
         "author": "NAs_The Don",
         "date": "2024.07.01",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28556897",
-        "category": "음악",
-        "title": "엘범 또 왔습니다",
-        "href": "/fboard/28556897",
-        "author": "Lapi",
-        "date": "2024.07.01",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }
