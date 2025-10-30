@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28938379",
+        "category": "음악",
+        "title": "최성 X 고스트클럽 싱글이 나왔습니다!!",
+        "href": "/kboard/28938379",
+        "author": "kyuman",
+        "date": "2024.08.22",
+        "commentNum": "19",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28930463",
         "category": "일반",
         "title": "김하온 근황",
@@ -205,17 +216,6 @@
         "author": "나투더플라",
         "date": "2024.08.18",
         "commentNum": "38",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28912472",
-        "category": "음악",
-        "title": "개인의 이야기를 관련없는커뮤에 자꾸언급하는거도 보기좋진않네요",
-        "href": "/kboard/28912472",
-        "author": "세이구",
-        "date": "2024.08.18",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": false
     }
