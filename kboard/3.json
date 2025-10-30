@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32634710",
+        "category": "일반",
+        "title": "윙식대전은 윙 압승임",
+        "href": "/kboard/32634710",
+        "author": "Wings",
+        "date": "2025.10.19",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32635101",
         "category": "일반",
         "title": "군대 시스템 뒤지게 잘만들긴 했음 ㅇㅇ",
@@ -205,17 +216,6 @@
         "author": "98364",
         "date": "2025.10.13",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32618255",
-        "category": "일반",
-        "title": "Owen의 생일입니다! 🥳",
-        "href": "/kboard/32618255",
-        "author": "생일봇",
-        "date": "2025.10.12",
-        "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
     }
