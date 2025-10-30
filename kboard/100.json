@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28538647",
+        "category": "일반",
+        "title": "안녕하세요 한동안 인스타에서 힙합만화 연재했던 사람입니다",
+        "href": "/kboard/28538647",
+        "author": "Fishkim",
+        "date": "2024.06.29",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28540293",
         "category": "음악",
         "title": "오타쿠가 쓴 개념글 보고 엘이 탈퇴합니다 ㅋㅋ",
@@ -216,17 +227,6 @@
         "author": "Thunday",
         "date": "2024.06.24",
         "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28508827",
-        "category": "일반",
-        "title": "크램프입니다.",
-        "href": "/kboard/28508827",
-        "author": "KRAMP",
-        "date": "2024.06.24",
-        "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
     }
