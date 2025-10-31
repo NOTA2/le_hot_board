@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32670607",
+        "category": "인증/후기",
+        "title": "첫 CD 크로마코피아",
+        "href": "/fboard/32670607",
+        "author": "JCK25",
+        "date": "2025.10.31",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32669212",
         "category": "일반",
         "title": "스캇에게 싸인 받았습니다.",
@@ -207,16 +218,5 @@
         "commentNum": "22",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32652529",
-        "category": "음악",
-        "title": "오늘 스캇 공연 이후 보이지 않았으면 하는 글 유형들",
-        "href": "/fboard/32652529",
-        "author": "장르편식노놉",
-        "date": "2025.10.24",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
