@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28290696",
+        "category": "인증/후기",
+        "title": "오늘도착한 인생 첫 LP",
+        "href": "/fboard/28290696",
+        "author": "P1ay6o1Cart1",
+        "date": "2024.05.26",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28283277",
         "category": "음악",
         "title": "칸예 - Runaway & 쥬라기월드 테마곡",
@@ -216,17 +227,6 @@
         "author": "겁먹은괭이",
         "date": "2024.05.21",
         "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28245702",
-        "category": "일반",
-        "title": "오늘은 The Notorious B.I.G.의 생일입니다! 🎁",
-        "href": "/fboard/28245702",
-        "author": "생일봇",
-        "date": "2024.05.20",
-        "commentNum": "22",
         "isVideo": false,
         "isPhoto": false
     }
