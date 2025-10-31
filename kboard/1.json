@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32670716",
+        "category": "일반",
+        "title": "김심야는 국힙에서",
+        "href": "/kboard/32670716",
+        "author": "aLPain1125",
+        "date": "2025.10.31",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32671376",
         "category": "일반",
         "title": "감옥 갔다온걸 개ㅂㅅ취급을 해야하는데",
@@ -205,17 +216,6 @@
         "author": "Eastcoast",
         "date": "2025.10.27",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32659070",
-        "category": "일반",
-        "title": "볼레로 식케이 착장",
-        "href": "/kboard/32659070",
-        "author": "쌈닭",
-        "date": "2025.10.26",
-        "commentNum": "",
         "isVideo": false,
         "isPhoto": true
     }
