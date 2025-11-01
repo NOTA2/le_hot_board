@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29726565",
+        "category": "음악",
+        "title": "앨범을 내고 몇시간 동안 타일러가 당한 음해..",
+        "href": "/fboard/29726565",
+        "author": "민니",
+        "date": "2024.10.28",
+        "commentNum": "85",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29726838",
         "category": "리뷰",
         "title": "대깨타의 CHROMAKOPIA 리뷰",
@@ -207,16 +218,5 @@
         "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_29662349",
-        "category": "리뷰",
-        "title": "<앨범 한줄평> #4",
-        "href": "/fboard/29662349",
-        "author": "MiKael",
-        "date": "2024.10.23",
-        "commentNum": "13",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
