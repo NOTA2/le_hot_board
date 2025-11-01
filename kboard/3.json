@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_32644540",
+        "category": "일반",
+        "title": "오랜만에 되돌아 보는 뷰너 행적",
+        "href": "/kboard/32644540",
+        "author": "Wings",
+        "date": "2025.10.22",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_32644473",
+        "category": "일반",
+        "title": "뷰티풀너드가 마음에 안드는 이유 (장문)",
+        "href": "/kboard/32644473",
+        "author": "Leticia",
+        "date": "2025.10.22",
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32642923",
         "category": "일반",
         "title": "뷰너 진짜 존나 역겹네",
@@ -196,27 +218,5 @@
         "commentNum": "51",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32627445",
-        "category": "일반",
-        "title": "소다팝 잘 출 꺼 같은 패션",
-        "href": "/kboard/32627445",
-        "author": "크랙커",
-        "date": "2025.10.16",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32627394",
-        "category": "음악",
-        "title": "시카고 풋워크를 아시나요?",
-        "href": "/kboard/32627394",
-        "author": "Destin",
-        "date": "2025.10.16",
-        "commentNum": "",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
