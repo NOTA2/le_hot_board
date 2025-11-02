@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_29276085",
+        "category": "그림/아트웍",
+        "title": "저도 조심스레 올려보는 그림.jpeg",
+        "href": "/fboard/29276085",
+        "author": "JPEGꓟAFIA",
+        "date": "2024.09.19",
+        "commentNum": "40",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_29275360",
+        "category": "그림/아트웍",
+        "title": "인기글보고 삘받아서 저도 위켄드 그려봤어요",
+        "href": "/fboard/29275360",
+        "author": "Jannny",
+        "date": "2024.09.19",
+        "commentNum": "23",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29270831",
         "category": "음악",
         "title": "JPEGMAFIA - I LAY DOWN MY LIFE FOR YOU 전곡해석 완료!",
@@ -194,28 +216,6 @@
         "author": "JPEGꓟAFIA",
         "date": "2024.09.15",
         "commentNum": "30",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29188344",
-        "category": "인증/후기",
-        "title": "근본 없는 고1 인증합니다.",
-        "href": "/fboard/29188344",
-        "author": "융린",
-        "date": "2024.09.14",
-        "commentNum": "28",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29187796",
-        "category": "일반",
-        "title": "엤다 이놈아",
-        "href": "/fboard/29187796",
-        "author": "김건혁",
-        "date": "2024.09.14",
-        "commentNum": "42",
         "isVideo": false,
         "isPhoto": true
     }

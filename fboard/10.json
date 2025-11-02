@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32504839",
+        "category": "음악",
+        "title": "외국 힙합 입문 2장 : [메이저와 언더그라운드 사이의 앨범 4선]",
+        "href": "/fboard/32504839",
+        "author": "히오스는니얼굴이다",
+        "date": "2025.09.05",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32503819",
         "category": "인증/후기",
         "title": "릴어메 음반 드디어 도착했습니다",
@@ -216,28 +227,6 @@
         "author": "JBL",
         "date": "2025.08.31",
         "commentNum": "30",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32488415",
-        "category": "인증/후기",
-        "title": "[90년대 붐뱁 프로듀서] 08. Erick Sermon",
-        "href": "/fboard/32488415",
-        "author": "DJSam",
-        "date": "2025.08.31",
-        "commentNum": "25",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32487438",
-        "category": "리뷰",
-        "title": "Dijon의 Baby 리이뷰",
-        "href": "/fboard/32487438",
-        "author": "fldjf",
-        "date": "2025.08.30",
-        "commentNum": "2",
         "isVideo": false,
         "isPhoto": true
     }
