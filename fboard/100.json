@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28302519",
+        "category": "인증/후기",
+        "title": "일본 타워 레코드 가서 산 음반들 인증",
+        "href": "/fboard/28302519",
+        "author": "Nowhere2go",
+        "date": "2024.05.28",
+        "commentNum": "29",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28295860",
         "category": "음악",
         "title": "솔직히",
@@ -218,27 +229,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28266786",
-        "category": "일반",
-        "title": "난 테일러를 왜 싫어 할까?",
-        "href": "/fboard/28266786",
-        "author": "이pac",
-        "date": "2024.05.23",
-        "commentNum": "28",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28261541",
-        "category": "인증/후기",
-        "title": "오늘의 디깅.jpeg",
-        "href": "/fboard/28261541",
-        "author": "killakim",
-        "date": "2024.05.22",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
