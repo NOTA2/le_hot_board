@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32677358",
+        "category": "일반",
+        "title": "네이버 웹툰작가가 되었습니다! .Manhwa",
+        "href": "/kboard/32677358",
+        "author": "힙봇",
+        "date": "2025.11.02",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32675252",
         "category": "일반",
         "title": "룩삼 저스디스&세우 초대석!",
@@ -17,7 +28,7 @@
         "href": "/kboard/32675502",
         "author": "우드에이엠",
         "date": "2025.11.02",
-        "commentNum": "19",
+        "commentNum": "21",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "Alonso2000",
         "date": "2025.10.29",
         "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32663911",
-        "category": "일반",
-        "title": "오늘 힙플 라디오 레전드네요",
-        "href": "/kboard/32663911",
-        "author": "tegull",
-        "date": "2025.10.28",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }
