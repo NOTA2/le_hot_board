@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32492136",
+        "category": "일반",
+        "title": "타일러 바이닐ㄹ",
+        "href": "/fboard/32492136",
+        "author": "갸나두리매베소",
+        "date": "2025.09.01",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32492109",
         "category": "리뷰",
         "title": "EPMD - Business Never Personal 리뷰",
@@ -206,17 +217,6 @@
         "date": "2025.08.27",
         "commentNum": "27",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32472140",
-        "category": "일반",
-        "title": "형이 왜 거기서 나와..?",
-        "href": "/fboard/32472140",
-        "author": "killakim",
-        "date": "2025.08.26",
-        "commentNum": "8",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
