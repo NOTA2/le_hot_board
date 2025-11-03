@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_32677224",
+        "category": "일반",
+        "title": "근데 이번엔 정상수가 잘못하기도 했어요",
+        "href": "/kboard/32677224",
+        "author": "tegull",
+        "date": "2025.11.02",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_32677481",
+        "category": "일반",
+        "title": "정상수씨는 아티스트 이전에 계약자였습니다",
+        "href": "/kboard/32677481",
+        "author": "Bhang89",
+        "date": "2025.11.02",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32677358",
         "category": "일반",
         "title": "네이버 웹툰작가가 되었습니다! .Manhwa",
@@ -196,27 +218,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32665874",
-        "category": "일반",
-        "title": "이제 가상의 게토 상황극 그만할 때가 됐다",
-        "href": "/kboard/32665874",
-        "author": "paranoidremix",
-        "date": "2025.10.29",
-        "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32664712",
-        "category": "음악",
-        "title": "하루만 기다리면 LIT이 나와요!",
-        "href": "/kboard/32664712",
-        "author": "Alonso2000",
-        "date": "2025.10.29",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
