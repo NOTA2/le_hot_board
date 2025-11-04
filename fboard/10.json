@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32510939",
+        "category": "리뷰",
+        "title": "Death Grips - Exmilitary 리뷰",
+        "href": "/fboard/32510939",
+        "author": "예리",
+        "date": "2025.09.07",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32511083",
         "category": "음악",
         "title": "Jane Remover - Revengeseekerz 리뷰",
@@ -216,17 +227,6 @@
         "author": "예리",
         "date": "2025.09.02",
         "commentNum": "22",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32495286",
-        "category": "인증/후기",
-        "title": "장.수.가능한한빠르게(가능한한빠르게)(노랑LP)",
-        "href": "/fboard/32495286",
-        "author": "국힙버러지손심바",
-        "date": "2025.09.02",
-        "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
     }
