@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30748621",
+        "category": "리뷰",
+        "title": "Kanye West - The College Dropout 리뷰",
+        "href": "/fboard/30748621",
+        "author": "공ZA",
+        "date": "2025.01.28",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30745441",
         "category": "리뷰",
         "title": "Pusha T - DAYTONA 리뷰",
@@ -205,17 +216,6 @@
         "author": "카티야앨범내",
         "date": "2025.01.24",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30697294",
-        "category": "리뷰",
-        "title": "음악충 선정 역사상 가장 위대한 명반 리스트 TOP 101 ~ 150",
-        "href": "/fboard/30697294",
-        "author": "음충이",
-        "date": "2025.01.24",
-        "commentNum": "39",
         "isVideo": false,
         "isPhoto": true
     }

@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32684035",
+        "category": "리뷰",
+        "title": "나는 부두가 싫어",
+        "href": "/fboard/32684035",
+        "author": "NikesFM",
+        "date": "2025.11.05",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32683657",
         "category": "인증/후기",
         "title": "나스의 명반을 구매했습니다",
@@ -50,7 +61,7 @@
         "href": "/fboard/32681442",
         "author": "다스시디어스",
         "date": "2025.11.04",
-        "commentNum": "8",
+        "commentNum": "9",
         "isVideo": true,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "공ZA",
         "date": "2025.10.30",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32670607",
-        "category": "인증/후기",
-        "title": "첫 CD 크로마코피아",
-        "href": "/fboard/32670607",
-        "author": "JCK25",
-        "date": "2025.10.31",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }

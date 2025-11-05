@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32514784",
+        "category": "리뷰",
+        "title": "[20주년] Kanye West - Late Registration 리뷰",
+        "href": "/fboard/32514784",
+        "author": "온암",
+        "date": "2025.09.09",
+        "commentNum": "7",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32513371",
         "category": "인증/후기",
         "title": "Jackboys2 옷, CD 인증",
@@ -218,16 +229,5 @@
         "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32496937",
-        "category": "음악",
-        "title": "속보)미겔 8년만의 정규 앨범 ㄷㄷ",
-        "href": "/fboard/32496937",
-        "author": "Mike29",
-        "date": "2025.09.02",
-        "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

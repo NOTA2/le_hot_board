@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32272989",
+        "category": "일반",
+        "title": "새로 가입했습니다",
+        "href": "/fboard/32272989",
+        "author": "JESUMAFIA",
+        "date": "2025.07.09",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32273305",
         "category": "음악",
         "title": "라샨 선정 2025년 상반기 Best Album List",
@@ -207,16 +218,5 @@
         "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32244635",
-        "category": "일반",
-        "title": "호주 정부, 칸예의 입국 비자를 취소시키다",
-        "href": "/fboard/32244635",
-        "author": "MarshallMathers",
-        "date": "2025.07.04",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
