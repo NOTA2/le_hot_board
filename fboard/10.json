@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32513371",
+        "category": "인증/후기",
+        "title": "Jackboys2 옷, CD 인증",
+        "href": "/fboard/32513371",
+        "author": "낼름잉",
+        "date": "2025.09.08",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32514300",
         "category": "리뷰",
         "title": "Daniel Caesar - NEVER ENOUGH 리뷰",
@@ -217,17 +228,6 @@
         "date": "2025.09.02",
         "commentNum": "9",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32498808",
-        "category": "리뷰",
-        "title": "Westside Gunn - Supreme Blientele 리뷰",
-        "href": "/fboard/32498808",
-        "author": "공ZA",
-        "date": "2025.09.03",
-        "commentNum": "4",
-        "isVideo": true,
         "isPhoto": false
     }
 ]

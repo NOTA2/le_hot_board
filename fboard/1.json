@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32683657",
+        "category": "인증/후기",
+        "title": "나스의 명반을 구매했습니다",
+        "href": "/fboard/32683657",
+        "author": "쓸쓸하구만",
+        "date": "2025.11.05",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32682338",
         "category": "인증/후기",
         "title": "10월달 구매 음반",
@@ -39,7 +50,7 @@
         "href": "/fboard/32681442",
         "author": "다스시디어스",
         "date": "2025.11.04",
-        "commentNum": "6",
+        "commentNum": "8",
         "isVideo": true,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "JCK25",
         "date": "2025.10.31",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32669212",
-        "category": "일반",
-        "title": "스캇에게 싸인 받았습니다.",
-        "href": "/fboard/32669212",
-        "author": "프랭크",
-        "date": "2025.10.30",
-        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     }
