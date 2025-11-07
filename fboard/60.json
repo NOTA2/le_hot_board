@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_30303636",
+        "category": "인증/후기",
+        "title": "솔크인 내게 주는 크리스마스 선물🎄(앨범 인증+로직 사인)",
+        "href": "/fboard/30303636",
+        "author": "Ryo愛",
+        "date": "2024.12.25",
+        "commentNum": "79",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_30298582",
+        "category": "리뷰",
+        "title": "🎄 1986~2024 연도별 최고의 힙합 음반들 🎄",
+        "href": "/fboard/30298582",
+        "author": "온암",
+        "date": "2024.12.25",
+        "commentNum": "37",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30292216",
         "category": "인증/후기",
         "title": "🔥그저께 사온 내 인생 첫 바이닐들",
@@ -195,28 +217,6 @@
         "date": "2024.12.19",
         "commentNum": "13",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30245846",
-        "category": "일반",
-        "title": "추천) 힙합엘이 2024 외힙 연말결산 투표 진행 중!!!!",
-        "href": "/fboard/30245846",
-        "author": "크밍",
-        "date": "2024.12.19",
-        "commentNum": "34",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30245021",
-        "category": "인증/후기",
-        "title": "King Geedorah 가 뭐길래 이리 난리죠?",
-        "href": "/fboard/30245021",
-        "author": "DJSam",
-        "date": "2024.12.19",
-        "commentNum": "32",
-        "isVideo": true,
         "isPhoto": true
     }
 ]

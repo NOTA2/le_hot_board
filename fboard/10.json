@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32519536",
+        "category": "인증/후기",
+        "title": "MF DOOM Special Herbs Figure 도착",
+        "href": "/fboard/32519536",
+        "author": "KimKardashian",
+        "date": "2025.09.10",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32518510",
         "category": "그림/아트웍",
         "title": "YE--- 합체 변신 로봇~~~!!!",
@@ -218,27 +229,5 @@
         "commentNum": "6",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32501394",
-        "category": "인증/후기",
-        "title": "드디어!!!! 게시",
-        "href": "/fboard/32501394",
-        "author": "비제수방",
-        "date": "2025.09.04",
-        "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32499427",
-        "category": "리뷰",
-        "title": "Emily Montes - Emily Montes 🧚‍♀️💕 리뷰(?)",
-        "href": "/fboard/32499427",
-        "author": "후주",
-        "date": "2025.09.03",
-        "commentNum": "3",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]

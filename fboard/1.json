@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32688143",
+        "category": "음악",
+        "title": "유대인들에게 사과하는 칸예",
+        "href": "/fboard/32688143",
+        "author": "yuke",
+        "date": "2025.11.07",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32688151",
         "category": "인증/후기",
         "title": "[90년대 붐뱁 프로듀서] 18. RZA",
@@ -205,17 +216,6 @@
         "author": "히오스는니얼굴이다",
         "date": "2025.11.01",
         "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32672905",
-        "category": "인증/후기",
-        "title": "캐나다 할로윈에 사탕받으러 다니는 칸예 (후기)",
-        "href": "/fboard/32672905",
-        "author": "용별",
-        "date": "2025.11.01",
-        "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
     }
