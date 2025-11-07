@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32220219",
+        "category": "인증/후기",
+        "title": "더울 때는... G-Funk 명반 인증 및 추천!",
+        "href": "/fboard/32220219",
+        "author": "DJSam",
+        "date": "2025.06.29",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32220550",
         "category": "리뷰",
         "title": "<리뷰> Kevin Abstract - Blush🤭",
@@ -205,17 +216,6 @@
         "author": "nomnomcat",
         "date": "2025.06.25",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32196500",
-        "category": "인증/후기",
-        "title": "ALL CAPS WHEN YOU SPELL THE MAN NAME",
-        "href": "/fboard/32196500",
-        "author": "마름모하트",
-        "date": "2025.06.24",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     }
