@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32651089",
+        "category": "인증/후기",
+        "title": "BEATOLOGY VOL.1 at Pohs-Tihs RECAP",
+        "href": "/kboard/32651089",
+        "author": "BLVU",
+        "date": "2025.10.24",
+        "commentNum": "",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32650078",
         "category": "일반",
         "title": "씨잼 걘 부틀랙 만들엇서요",
@@ -207,16 +218,5 @@
         "commentNum": "25",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32633103",
-        "category": "인증/후기",
-        "title": "아뿔싸",
-        "href": "/kboard/32633103",
-        "author": "EPMDbaby",
-        "date": "2025.10.18",
-        "commentNum": "32",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32694975",
+        "category": "일반",
+        "title": "후기) 룩삼 젓딧 방송 풀로 안봤으면 그냥 자격없는거임",
+        "href": "/kboard/32694975",
+        "author": "KIIS",
+        "date": "2025.11.08",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32692143",
         "category": "일반",
         "title": "한국힙합매거진 HOM #30 11월 10일 공개 예정!",
@@ -207,16 +218,5 @@
         "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32677481",
-        "category": "일반",
-        "title": "정상수씨는 아티스트 이전에 계약자였습니다",
-        "href": "/kboard/32677481",
-        "author": "Bhang89",
-        "date": "2025.11.02",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
