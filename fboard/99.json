@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28373408",
+        "category": "일반",
+        "title": "감사합니다.",
+        "href": "/fboard/28373408",
+        "author": "Kan￥ewe$t",
+        "date": "2024.06.07",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "fboard_28372620",
+        "category": "일반",
+        "title": "오늘은 위대하신 KANYE WEST님께서의 생신입니다!🎁",
+        "href": "/fboard/28372620",
+        "author": "칸예는발매를YEEZUS",
+        "date": "2024.06.07",
+        "commentNum": "33",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28370698",
         "category": "인증/후기",
         "title": "중삐리 첫 LP 구매",
@@ -194,28 +216,6 @@
         "author": "killakim",
         "date": "2024.06.02",
         "commentNum": "17",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28339392",
-        "category": "인증/후기",
-        "title": "개추가 박힐 명반들",
-        "href": "/fboard/28339392",
-        "author": "까녜",
-        "date": "2024.06.02",
-        "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28331536",
-        "category": "인증/후기",
-        "title": "Mach-Hommy - HBO 바이닐",
-        "href": "/fboard/28331536",
-        "author": "DumpGawd",
-        "date": "2024.06.01",
-        "commentNum": "15",
         "isVideo": true,
         "isPhoto": true
     }
