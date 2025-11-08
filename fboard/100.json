@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28332730",
+        "category": "인증/후기",
+        "title": "Ye 6주년 기념 Ye",
+        "href": "/fboard/28332730",
+        "author": "BKNNETS",
+        "date": "2024.06.01",
+        "commentNum": "21",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28329047",
         "category": "인증/후기",
         "title": "GayGay표 YANDHI 피지컬 만들기",
@@ -218,16 +229,5 @@
         "commentNum": "24",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28298535",
-        "category": "인증/후기",
-        "title": "오늘의 디깅.jpeg",
-        "href": "/fboard/28298535",
-        "author": "killakim",
-        "date": "2024.05.27",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
