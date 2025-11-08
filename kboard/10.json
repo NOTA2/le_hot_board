@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_32552770",
+        "category": "인증/후기",
+        "title": "8년간 음반을 모은 사람은 김강토의 100대 명반 중 몇개나 소장중일까?",
+        "href": "/kboard/32552770",
+        "author": "힙찔이벗지노팬",
+        "date": "2025.09.21",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_32552490",
+        "category": "일반",
+        "title": "오",
+        "href": "/kboard/32552490",
+        "author": "vilence",
+        "date": "2025.09.21",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32549801",
         "category": "일반",
         "title": "쇼미 12 양홍원 나온다고 했었는데",
@@ -218,16 +240,5 @@
         "commentNum": "8",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32537462",
-        "category": "음악",
-        "title": "제네더질라 - EP [지금 다음 지금] 발매 (빌스택스, 더콰이엇, 화나, 염따 참여)",
-        "href": "/kboard/32537462",
-        "author": "코홀트닌자들다어디감",
-        "date": "2025.09.16",
-        "commentNum": "5",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
