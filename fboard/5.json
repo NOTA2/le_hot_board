@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32623405",
+        "category": "리뷰",
+        "title": "D'Angelo and The Vanguard - Black Messiah",
+        "href": "/fboard/32623405",
+        "author": "예리",
+        "date": "2025.10.15",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32623285",
+        "category": "인증/후기",
+        "title": "R.I.P. D'Angelo",
+        "href": "/fboard/32623285",
+        "author": "DJSam",
+        "date": "2025.10.14",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32623212",
         "category": "리뷰",
         "title": "D'Angelo의 Brown Sugar 리뷰와 주저리들",
@@ -194,28 +216,6 @@
         "author": "이니가",
         "date": "2025.10.09",
         "commentNum": "49",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32545698",
-        "category": "음악",
-        "title": "아폴로 브라운 입문서",
-        "href": "/fboard/32545698",
-        "author": "다스시디어스",
-        "date": "2025.10.09",
-        "commentNum": "10",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32606218",
-        "category": "인증/후기",
-        "title": "어 어 어 어",
-        "href": "/fboard/32606218",
-        "author": "동동Ol",
-        "date": "2025.10.09",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }

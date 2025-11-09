@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28771511",
+        "category": "음악",
+        "title": "Playboi Carti - Whole Lotta Red 청취 포인트",
+        "href": "/fboard/28771511",
+        "author": "노는아이카르티",
+        "date": "2024.08.01",
+        "commentNum": "32",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28773578",
         "category": "인증/후기",
         "title": "최근에 산 피지컬 모음",
@@ -205,17 +216,6 @@
         "author": "shawtyfromseoul",
         "date": "2024.07.28",
         "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28730132",
-        "category": "음악",
-        "title": "뉴비 인사드립니다(앨범자랑)",
-        "href": "/fboard/28730132",
-        "author": "뉴비입니다",
-        "date": "2024.07.28",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     }

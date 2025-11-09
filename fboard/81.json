@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_29125888",
+        "category": "인증/후기",
+        "title": "CD 인증",
+        "href": "/fboard/29125888",
+        "author": "VULTURES2",
+        "date": "2024.09.08",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_29127878",
         "category": "리뷰",
         "title": "💿 해외힙합 유저매거진 \"w/HAUS OF MATTERS\" #14",
@@ -205,17 +216,6 @@
         "author": "칸예는발매를YEEZUS",
         "date": "2024.09.02",
         "commentNum": "31",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_29068844",
-        "category": "음악",
-        "title": "씨디 공개합니다",
-        "href": "/fboard/29068844",
-        "author": "아이돈라이크힙합",
-        "date": "2024.09.02",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     }
