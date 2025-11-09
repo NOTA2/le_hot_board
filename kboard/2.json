@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32678005",
+        "category": "일반",
+        "title": "순박하거나 악한 성정과 정치적인 성향은 아무런 상관 관계가 없습니다",
+        "href": "/kboard/32678005",
+        "author": "성실",
+        "date": "2025.11.03",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32670315",
         "category": "음악",
         "title": "국힙 황금세대 87라인을 알아보자",
@@ -207,16 +218,5 @@
         "commentNum": "7",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32667247",
-        "category": "일반",
-        "title": "릿 진짜 데뷔일 맞춰서 나오나?",
-        "href": "/kboard/32667247",
-        "author": "허승앨범내",
-        "date": "2025.10.29",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
