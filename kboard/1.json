@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32696896",
+        "category": "일반",
+        "title": "기괴하다 기괴해",
+        "href": "/kboard/32696896",
+        "author": "히팝뉴우비",
+        "date": "2025.11.09",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32696057",
         "category": "일반",
         "title": "상딸 뒤지게 치네 ㅇㅇ",
         "href": "/kboard/32696057",
         "author": "ㄱ그래놀라",
         "date": "2025.11.09",
-        "commentNum": "3",
+        "commentNum": "4",
         "isVideo": false,
         "isPhoto": false
     },
@@ -17,7 +28,7 @@
         "href": "/kboard/32694975",
         "author": "KIIS",
         "date": "2025.11.08",
-        "commentNum": "17",
+        "commentNum": "18",
         "isVideo": false,
         "isPhoto": false
     },
@@ -206,17 +217,6 @@
         "date": "2025.11.03",
         "commentNum": "13",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32670315",
-        "category": "음악",
-        "title": "국힙 황금세대 87라인을 알아보자",
-        "href": "/kboard/32670315",
-        "author": "자유낙하",
-        "date": "2025.11.03",
-        "commentNum": "10",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
