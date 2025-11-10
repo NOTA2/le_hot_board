@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32562824",
+        "category": "음악",
+        "title": "힙합의 도시 디트로이트",
+        "href": "/fboard/32562824",
+        "author": "다스시디어스",
+        "date": "2025.09.25",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32563244",
+        "category": "음악",
+        "title": "쥬라기 시대",
+        "href": "/fboard/32563244",
+        "author": "혹스턴",
+        "date": "2025.09.25",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32563028",
         "category": "인증/후기",
         "title": "오늘 도착한 28개의 음반, 그리고 에미넴 1집",
@@ -195,28 +217,6 @@
         "date": "2025.09.18",
         "commentNum": "2",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32542749",
-        "category": "일반",
-        "title": "Mobb Deep 신보 Infinite 트랙리스트",
-        "href": "/fboard/32542749",
-        "author": "prodigy22",
-        "date": "2025.09.18",
-        "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32542674",
-        "category": "음악",
-        "title": "드럼리스에 관한 고찰과 견해",
-        "href": "/fboard/32542674",
-        "author": "천재금붕어모임",
-        "date": "2025.09.18",
-        "commentNum": "14",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
