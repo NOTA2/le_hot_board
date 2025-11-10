@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28339953",
+        "category": "음악",
+        "title": "켄드릭 >>> i",
+        "href": "/fboard/28339953",
+        "author": "스캇을좋아하는칸예",
+        "date": "2024.06.02",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28345632",
         "category": "인증/후기",
         "title": "패기만이!!! 모든 것을 능가한다!!!",
@@ -216,28 +227,6 @@
         "author": "todd",
         "date": "2024.05.29",
         "commentNum": "23",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28306812",
-        "category": "일반",
-        "title": "여러분 칸예를 믿으십쇼. 칸예천국 불신지옥",
-        "href": "/fboard/28306812",
-        "author": "DannyB",
-        "date": "2024.05.29",
-        "commentNum": "39",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28303975",
-        "category": "인증/후기",
-        "title": "오늘의 디깅.jpeg (Foesum 1집을 드디어!)",
-        "href": "/fboard/28303975",
-        "author": "killakim",
-        "date": "2024.05.28",
-        "commentNum": "20",
         "isVideo": false,
         "isPhoto": true
     }
