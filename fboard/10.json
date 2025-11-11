@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32530997",
+        "category": "인증/후기",
+        "title": "대충 클라우드랩 음반 인증",
+        "href": "/fboard/32530997",
+        "author": "ꓬe",
+        "date": "2025.09.14",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32530499",
         "category": "인증/후기",
         "title": "타일러 더 크리에이터 내한 기념 전집 인증!",
@@ -217,17 +228,6 @@
         "date": "2025.09.09",
         "commentNum": "32",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32514784",
-        "category": "리뷰",
-        "title": "[20주년] Kanye West - Late Registration 리뷰",
-        "href": "/fboard/32514784",
-        "author": "온암",
-        "date": "2025.09.09",
-        "commentNum": "7",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
