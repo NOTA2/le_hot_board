@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32530499",
+        "category": "인증/후기",
+        "title": "타일러 더 크리에이터 내한 기념 전집 인증!",
+        "href": "/fboard/32530499",
+        "author": "gunacho",
+        "date": "2025.09.14",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32530390",
         "category": "인증/후기",
         "title": "타일러 더 크리에이터 1일차 간단 후기",
@@ -218,27 +229,5 @@
         "commentNum": "7",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32513371",
-        "category": "인증/후기",
-        "title": "Jackboys2 옷, CD 인증",
-        "href": "/fboard/32513371",
-        "author": "낼름잉",
-        "date": "2025.09.08",
-        "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32514300",
-        "category": "리뷰",
-        "title": "Daniel Caesar - NEVER ENOUGH 리뷰",
-        "href": "/fboard/32514300",
-        "author": "공ZA",
-        "date": "2025.09.08",
-        "commentNum": "2",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]

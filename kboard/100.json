@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28620635",
+        "category": "일반",
+        "title": "지예아",
+        "href": "/kboard/28620635",
+        "author": "김루드",
+        "date": "2024.07.10",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28614078",
         "category": "리뷰",
         "title": "에픽하이 정규 8집-신발장",
@@ -216,17 +227,6 @@
         "author": "dalju",
         "date": "2024.07.06",
         "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28587886",
-        "category": "인증/후기",
-        "title": "지코가 어깨동무해서 사진찍어 줄 확률은?!!? (즐거운 주말 보내세요)",
-        "href": "/kboard/28587886",
-        "author": "dalju",
-        "date": "2024.07.05",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     }
