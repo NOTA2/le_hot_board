@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32702978",
+        "category": "음악",
+        "title": "저스디스, 버벌진트와 유엠씨를 섞었다?",
+        "href": "/kboard/32702978",
+        "author": "anmond",
+        "date": "2025.11.11",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32702212",
         "category": "일반",
         "title": "아래글 이어서) 이대남으로써 겪은 ㅠㅠ와 번중손에 대해",
         "href": "/kboard/32702212",
         "author": "파하핳핳",
         "date": "2025.11.10",
-        "commentNum": "4",
+        "commentNum": "5",
         "isVideo": false,
         "isPhoto": false
     },
@@ -28,7 +39,7 @@
         "href": "/kboard/32700504",
         "author": "Eastcoast",
         "date": "2025.11.10",
-        "commentNum": "26",
+        "commentNum": "27",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "쌈닭",
         "date": "2025.11.05",
         "commentNum": "31",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32683347",
-        "category": "일반",
-        "title": "수료하고왔습니다.",
-        "href": "/kboard/32683347",
-        "author": "후주",
-        "date": "2025.11.05",
-        "commentNum": "18",
         "isVideo": false,
         "isPhoto": true
     }
