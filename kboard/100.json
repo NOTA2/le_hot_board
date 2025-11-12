@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28620972",
+        "category": "리뷰",
+        "title": "로스 정규 2집-SKANDALOUZ 2",
+        "href": "/kboard/28620972",
+        "author": "Alonso2000",
+        "date": "2024.07.10",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28617321",
         "category": "일반",
         "title": "지가힙합모태노코 쇼미탓탓",
@@ -218,16 +229,5 @@
         "commentNum": "19",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28594287",
-        "category": "인증/후기",
-        "title": "언에듀가 이거보고 등록금 내줄 확률은?!!? (feat. 수퍼비)",
-        "href": "/kboard/28594287",
-        "author": "dalju",
-        "date": "2024.07.06",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
