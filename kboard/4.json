@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32659070",
+        "category": "일반",
+        "title": "볼레로 식케이 착장",
+        "href": "/kboard/32659070",
+        "author": "쌈닭",
+        "date": "2025.10.26",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32656903",
         "category": "일반",
         "title": "스키니도 참 저평가",
@@ -207,16 +218,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32642680",
-        "category": "인증/후기",
-        "title": "힙합에서 멀어져가는 지금 올려보는 인증글",
-        "href": "/kboard/32642680",
-        "author": "YTT",
-        "date": "2025.10.21",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
