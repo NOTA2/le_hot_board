@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28366613",
+        "category": "일반",
+        "title": "Chris Brown (2) 아이콘 기원 94일차",
+        "href": "/fboard/28366613",
+        "author": "EastBrit",
+        "date": "2024.06.06",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28364205",
         "category": "일반",
         "title": "w/HOM을 만드는 매거진 팀 KHL, 결성 1주년을 맞이했습니당!",
@@ -216,17 +227,6 @@
         "author": "Trivium",
         "date": "2024.06.01",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28325626",
-        "category": "음악",
-        "title": "제 생일입니다",
-        "href": "/fboard/28325626",
-        "author": "midwest",
-        "date": "2024.05.31",
-        "commentNum": "45",
         "isVideo": false,
         "isPhoto": false
     }

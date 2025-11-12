@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28610696",
+        "category": "음악",
+        "title": "블론드 틀어놓은 뒤 잘 준비 하는데",
+        "href": "/fboard/28610696",
+        "author": "악마수리",
+        "date": "2024.07.08",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28606509",
         "category": "음악",
         "title": "블론드 초판 실물영접",
@@ -205,17 +216,6 @@
         "author": "카티야앨범내",
         "date": "2024.07.03",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28570427",
-        "category": "인증/후기",
-        "title": "오늘의 탈틀+탈꼰+MZ세대 디깅.jpeg",
-        "href": "/fboard/28570427",
-        "author": "killakim",
-        "date": "2024.07.03",
-        "commentNum": "29",
         "isVideo": false,
         "isPhoto": true
     }

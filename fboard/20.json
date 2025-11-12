@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32331268",
+        "category": "인증/후기",
+        "title": "De La Soul 명작 2장의 CD/LP/Tape 인증",
+        "href": "/fboard/32331268",
+        "author": "DJSam",
+        "date": "2025.07.22",
+        "commentNum": "16",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32327736",
         "category": "리뷰",
         "title": "챗GPT가 쓴 타일러 DON'T TAP THE GLASS 후기",
@@ -207,16 +218,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32301434",
-        "category": "음악",
-        "title": "소신발언",
-        "href": "/fboard/32301434",
-        "author": "율무김치",
-        "date": "2025.07.16",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
