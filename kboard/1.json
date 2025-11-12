@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32705993",
+        "category": "리뷰",
+        "title": "명예의 전당)몰락한 K-POP 스타가 장르 씬의 제왕으로 돌아올 때 까지 - 박재범 정규 3...",
+        "href": "/kboard/32705993",
+        "author": "Alonso2000",
+        "date": "2025.11.12",
+        "commentNum": "2",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32704888",
         "category": "일반",
         "title": "[스압] 저스디스 LIT 선공개곡 정리 + 가사",
         "href": "/kboard/32704888",
         "author": "DEAN TRBL",
         "date": "2025.11.12",
-        "commentNum": "6",
+        "commentNum": "7",
         "isVideo": true,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32686942",
-        "category": "일반",
-        "title": "도플갱음프리스타일 듣고 힙합이 뭐였는지 다시 느낌",
-        "href": "/kboard/32686942",
-        "author": "KCTAPE",
-        "date": "2025.11.06",
-        "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
