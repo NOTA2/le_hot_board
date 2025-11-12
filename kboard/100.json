@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28616128",
+        "category": "인증/후기",
+        "title": "자메즈한테 디스당하고 실패할 확률은?!!?",
+        "href": "/kboard/28616128",
+        "author": "dalju",
+        "date": "2024.07.09",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28620635",
         "category": "일반",
         "title": "지예아",
@@ -216,17 +227,6 @@
         "author": "KoBaLT",
         "date": "2024.07.06",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28592637",
-        "category": "인증/후기",
-        "title": "오케이션이 나한테 납치됐을 확률은?!!?",
-        "href": "/kboard/28592637",
-        "author": "dalju",
-        "date": "2024.07.06",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     }
