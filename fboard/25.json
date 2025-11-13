@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32203371",
+        "category": "그림/아트웍",
+        "title": "👑 관예대왕 행차하신다 👑",
+        "href": "/fboard/32203371",
+        "author": "GayGay",
+        "date": "2025.06.26",
+        "commentNum": "56",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32203491",
         "category": "인증/후기",
         "title": "맥킨리 딕슨 magic, alive! 바이닐 인증",
@@ -207,16 +218,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32178718",
-        "category": "인증/후기",
-        "title": "도착! Ghostface Killah - Supreme Clientele LP",
-        "href": "/fboard/32178718",
-        "author": "DJSam",
-        "date": "2025.06.21",
-        "commentNum": "24",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]

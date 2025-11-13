@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28367893",
+        "category": "일반",
+        "title": "켄드릭이 고트인 이유",
+        "href": "/fboard/28367893",
+        "author": "nomologo",
+        "date": "2024.06.07",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28366613",
         "category": "일반",
         "title": "Chris Brown (2) 아이콘 기원 94일차",
@@ -218,16 +229,5 @@
         "commentNum": "23",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28327898",
-        "category": "음악",
-        "title": "Vince Staples [Dark Times] 전곡해석 완료",
-        "href": "/fboard/28327898",
-        "author": "Trivium",
-        "date": "2024.06.01",
-        "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
