@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32566167",
+        "category": "음악",
+        "title": "장문글) 스윙스는 국힙 쪽에 발을 들이면 안 됨",
+        "href": "/kboard/32566167",
+        "author": "자연치즈",
+        "date": "2025.09.26",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32566502",
         "category": "일반",
         "title": "지디, 비프리 샤라웃",
@@ -218,16 +229,5 @@
         "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32549801",
-        "category": "일반",
-        "title": "쇼미 12 양홍원 나온다고 했었는데",
-        "href": "/kboard/32549801",
-        "author": "silverdays",
-        "date": "2025.09.20",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
