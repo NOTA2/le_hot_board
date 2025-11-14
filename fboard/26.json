@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32182459",
+        "category": "리뷰",
+        "title": "<리뷰> JPEGMAFIA - I LAY DOWN MY LIFE FOR YOU✝️",
+        "href": "/fboard/32182459",
+        "author": "히오스는니얼굴이다",
+        "date": "2025.06.21",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32182612",
         "category": "일반",
         "title": "선착순 1인 전재산",
@@ -206,17 +217,6 @@
         "date": "2025.06.16",
         "commentNum": "13",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32156576",
-        "category": "인증/후기",
-        "title": "현대 붐뱁 좋아하신다면... (앨범 소개 및 피지컬 인증)",
-        "href": "/fboard/32156576",
-        "author": "천재금붕어모임",
-        "date": "2025.06.16",
-        "commentNum": "5",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
