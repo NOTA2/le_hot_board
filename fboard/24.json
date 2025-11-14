@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32229431",
+        "category": "일반",
+        "title": "ㅇㅎ)지리는 아헤가오ㄷㄷ",
+        "href": "/fboard/32229431",
+        "author": "느그에미넴",
+        "date": "2025.07.01",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32226550",
         "category": "인증/후기",
         "title": "(인증글)바이닐 인증 재밌네요,,,",
@@ -207,16 +218,5 @@
         "commentNum": "21",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32204176",
-        "category": "인증/후기",
-        "title": "Stones Throw 20주년 티셔츠 인증",
-        "href": "/fboard/32204176",
-        "author": "프랭크자파",
-        "date": "2025.06.26",
-        "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
