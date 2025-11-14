@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32714001",
+        "category": "인증/후기",
+        "title": "국힙 100대 명반 모으기 55일차",
+        "href": "/kboard/32714001",
+        "author": "Khiphop100",
+        "date": "2025.11.14",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32714488",
         "category": "일반",
         "title": "안녕하세요 로우지입니다. 래퍼 진돗개님과 작업한 정규앨범이 릴리즈 되었습니다.",
@@ -205,17 +216,6 @@
         "author": "ㄱ그래놀라",
         "date": "2025.11.09",
         "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32694975",
-        "category": "일반",
-        "title": "후기) 룩삼 젓딧 방송 풀로 안봤으면 그냥 자격없는거임",
-        "href": "/kboard/32694975",
-        "author": "KIIS",
-        "date": "2025.11.08",
-        "commentNum": "26",
         "isVideo": false,
         "isPhoto": false
     }

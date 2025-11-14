@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29428461",
+        "category": "일반",
+        "title": "씬스가 뒤지게 잘 뱉긴 하네 ㅇㅇ",
+        "href": "/kboard/29428461",
+        "author": "아니놀라",
+        "date": "2024.10.03",
+        "commentNum": "19",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29429062",
         "category": "일반",
         "title": "랩퍼블릭 흥행은 안될듯",
@@ -207,16 +218,5 @@
         "commentNum": "22",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_29383059",
-        "category": "일반",
-        "title": "빈지노 나우후드에 대한 뇌피셜",
-        "href": "/kboard/29383059",
-        "author": "East21",
-        "date": "2024.09.29",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

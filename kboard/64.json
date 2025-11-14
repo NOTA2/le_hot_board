@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30369874",
+        "category": "리뷰",
+        "title": "2024년 결산 한국힙합음반 초이스 by 쟈이즈 (스압)",
+        "href": "/kboard/30369874",
+        "author": "쟈이즈",
+        "date": "2024.12.31",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_30367421",
         "category": "리뷰",
         "title": "2024년 한국 흑인음악 결산 - 한국 힙합은 상처 입었다. 한국 힙합은 고문 받았다. 그...",
@@ -207,16 +218,5 @@
         "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_30321908",
-        "category": "음악",
-        "title": "평론가는 고자이면서 포주같다는 말이 있지요",
-        "href": "/kboard/30321908",
-        "author": "행복하자",
-        "date": "2024.12.26",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
