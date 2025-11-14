@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32536266",
+        "category": "일반",
+        "title": "맘스터치 타일러의 픽",
+        "href": "/fboard/32536266",
+        "author": "cig0721",
+        "date": "2025.09.15",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32536262",
         "category": "인증/후기",
         "title": "위켄드 2집 10주년 LP",
@@ -217,17 +228,6 @@
         "date": "2025.09.10",
         "commentNum": "11",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32520479",
-        "category": "인증/후기",
-        "title": "Westside gunn - HEELS HAVE EYES 2",
-        "href": "/fboard/32520479",
-        "author": "마틴로즈",
-        "date": "2025.09.10",
-        "commentNum": "6",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
