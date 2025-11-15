@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32718154",
+        "category": "음악",
+        "title": "저스디스의 이런 롤아웃과 홍보를 래퍼들이 배웠으면 좋겠음",
+        "href": "/kboard/32718154",
+        "author": "Alibi",
+        "date": "2025.11.15",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32717366",
         "category": "음악",
         "title": "2cd거나 분할발매이거나",
         "href": "/kboard/32717366",
         "author": "평화의수호자",
         "date": "2025.11.15",
-        "commentNum": "17",
+        "commentNum": "21",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "Eastcoast",
         "date": "2025.11.10",
         "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32698857",
-        "category": "리뷰",
-        "title": "💿한국힙합 매거진 \"HAUS OF MATTERS\" #30",
-        "href": "/kboard/32698857",
-        "author": "쟈이즈",
-        "date": "2025.11.10",
-        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     }
