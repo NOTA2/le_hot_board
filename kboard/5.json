@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32652873",
+        "category": "음악",
+        "title": "재지팩트 앨범을 작업 중인 빈지노",
+        "href": "/kboard/32652873",
+        "author": "평화의수호자",
+        "date": "2025.10.25",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32650588",
         "category": "음악",
         "title": "알고리즘이 중요하긴 하네요",
@@ -206,17 +217,6 @@
         "date": "2025.10.19",
         "commentNum": "28",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32634710",
-        "category": "일반",
-        "title": "윙식대전은 윙 압승임",
-        "href": "/kboard/32634710",
-        "author": "Wings",
-        "date": "2025.10.19",
-        "commentNum": "7",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

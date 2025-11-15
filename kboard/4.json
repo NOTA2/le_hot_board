@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32667247",
+        "category": "일반",
+        "title": "릿 진짜 데뷔일 맞춰서 나오나?",
+        "href": "/kboard/32667247",
+        "author": "허승앨범내",
+        "date": "2025.10.29",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32664954",
         "category": "일반",
         "title": "이래서 힙합 음악이 좋고 힙합 문화는 싫음",
@@ -205,17 +216,6 @@
         "author": "빠삐삐빠뽀",
         "date": "2025.10.25",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32652873",
-        "category": "음악",
-        "title": "재지팩트 앨범을 작업 중인 빈지노",
-        "href": "/kboard/32652873",
-        "author": "평화의수호자",
-        "date": "2025.10.25",
-        "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
     }
