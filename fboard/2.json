@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32697298",
+        "category": "음악",
+        "title": "2025 Rock And Roll Hall Of Fame에 등제된 Outkast",
+        "href": "/fboard/32697298",
+        "author": "ITISLIT",
+        "date": "2025.11.09",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32696090",
         "category": "음악",
         "title": "권력과 싸우다",
@@ -207,16 +218,5 @@
         "commentNum": "1",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32676127",
-        "category": "인증/후기",
-        "title": "[90년대 붐뱁 프로듀서] 17. Q-Tip",
-        "href": "/fboard/32676127",
-        "author": "DJSam",
-        "date": "2025.11.02",
-        "commentNum": "22",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]
