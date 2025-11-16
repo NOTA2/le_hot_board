@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32574501",
+        "category": "일반",
+        "title": "식케이 앨범 가이드",
+        "href": "/kboard/32574501",
+        "author": "크랙커",
+        "date": "2025.09.28",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32572599",
         "category": "일반",
         "title": "신기루 진짜 씨잼 흑역사 GOAT",
@@ -216,17 +227,6 @@
         "author": "깐녜",
         "date": "2025.09.24",
         "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32558341",
-        "category": "음악",
-        "title": "스윙스 18년간 봐오면서 지금이 제일 자존감 떨어져보임",
-        "href": "/kboard/32558341",
-        "author": "direo",
-        "date": "2025.09.23",
-        "commentNum": "12",
         "isVideo": false,
         "isPhoto": false
     }
