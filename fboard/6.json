@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32625812",
+        "category": "인증/후기",
+        "title": "[90년대 붐뱁 프로듀서] 14. Nick Wiz",
+        "href": "/fboard/32625812",
+        "author": "DJSam",
+        "date": "2025.10.16",
+        "commentNum": "20",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32625200",
         "category": "인증/후기",
         "title": "휴가 복귀전 마지막 칼춤",
@@ -205,17 +216,6 @@
         "author": "쓸쓸하구만",
         "date": "2025.10.11",
         "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32611267",
-        "category": "인증/후기",
-        "title": "MMLP 25주년 한정반 인증",
-        "href": "/fboard/32611267",
-        "author": "이마이넘",
-        "date": "2025.10.10",
-        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     }
