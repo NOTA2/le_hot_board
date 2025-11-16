@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28639133",
+        "category": "리뷰",
+        "title": "21세기 히피의 초대장, 화지 <ZISSOU> 리뷰",
+        "href": "/kboard/28639133",
+        "author": "Writersglock",
+        "date": "2024.07.14",
+        "commentNum": "5",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28635591",
         "category": "리뷰",
         "title": "[앨범 총정리] 빈지노 - 『NOWITZKI』",
@@ -218,16 +229,5 @@
         "commentNum": "26",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28609545",
-        "category": "음악",
-        "title": "MEET THE GRAHAMS 들으면 스윙스 생각이 많이 나요",
-        "href": "/kboard/28609545",
-        "author": "맙쉿",
-        "date": "2024.07.08",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
