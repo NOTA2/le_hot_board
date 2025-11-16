@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32720215",
+        "category": "인증/후기",
+        "title": "[90년대 붐뱁 프로듀서] 19. Showbiz",
+        "href": "/fboard/32720215",
+        "author": "DJSam",
+        "date": "2025.11.16",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32717108",
         "category": "인증/후기",
         "title": "두번째 글 스티브 레이시 전집 인증합니다.",
@@ -205,17 +216,6 @@
         "author": "쟈이즈",
         "date": "2025.11.10",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32697756",
-        "category": "인증/후기",
-        "title": "스캇 일본 공연 (게스트 Ye) 갔다온 후기",
-        "href": "/fboard/32697756",
-        "author": "Parachute",
-        "date": "2025.11.09",
-        "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
     }

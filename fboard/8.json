@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32585542",
+        "category": "인증/후기",
+        "title": "GOLLIWOG 바이닐 인증",
+        "href": "/fboard/32585542",
+        "author": "마틴로즈",
+        "date": "2025.10.02",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32583361",
         "category": "리뷰",
         "title": "Kendrick의 고점을 찾아서... [GKMC] vs [TPAB]",
@@ -207,16 +218,5 @@
         "commentNum": "13",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32560651",
-        "category": "음악",
-        "title": "끈적이고 역겨운",
-        "href": "/fboard/32560651",
-        "author": "유레카9번트랙",
-        "date": "2025.09.24",
-        "commentNum": "5",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]

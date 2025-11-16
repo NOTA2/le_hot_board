@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32700504",
+        "category": "일반",
+        "title": "염따: ‘어느새부터 힙합은 안 멋져’에 대한 견해",
+        "href": "/kboard/32700504",
+        "author": "Eastcoast",
+        "date": "2025.11.10",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32698857",
         "category": "리뷰",
         "title": "💿한국힙합 매거진 \"HAUS OF MATTERS\" #30",
@@ -207,16 +218,5 @@
         "commentNum": "5",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32682659",
-        "category": "음악",
-        "title": "국힙 100대 명반 LP로 모으겠습니다.",
-        "href": "/kboard/32682659",
-        "author": "Blackcreampuff1",
-        "date": "2025.11.04",
-        "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
