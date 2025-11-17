@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30055580",
+        "category": "음악",
+        "title": "안녕하세요 Sun Gin 입니다. 앨범이 발매되어 소개해드리고 싶어서 작성합니다",
+        "href": "/kboard/30055580",
+        "author": "JayDilla",
+        "date": "2024.11.30",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30055318",
         "category": "일반",
         "title": "너네 오늘 무슨 날인지나 알고 엘이오냐?",
@@ -205,17 +216,6 @@
         "author": "방구석싸클래퍼",
         "date": "2024.11.25",
         "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_30004304",
-        "category": "음악",
-        "title": "랩퍼블릭에서 스민 한계가 명확히 보이네요.",
-        "href": "/kboard/30004304",
-        "author": "안드레2999",
-        "date": "2024.11.25",
-        "commentNum": "12",
         "isVideo": false,
         "isPhoto": false
     }
