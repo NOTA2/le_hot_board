@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32388427",
+        "category": "인증/후기",
+        "title": "3년만에 자랑글 하나 쓰고 갑니다",
+        "href": "/fboard/32388427",
+        "author": "Frisia",
+        "date": "2025.08.04",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32387683",
         "category": "음악",
         "title": "내가 좋아하는 외힙 앨범 top 25",
@@ -206,17 +217,6 @@
         "date": "2025.07.31",
         "commentNum": "11",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32369810",
-        "category": "인증/후기",
-        "title": "Clipse - Let God Sort Em Out - CD 인증 (+ 1,2,3집)",
-        "href": "/fboard/32369810",
-        "author": "DJSam",
-        "date": "2025.07.31",
-        "commentNum": "14",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
