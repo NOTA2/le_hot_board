@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28621555",
+        "category": "리뷰",
+        "title": "블랙뮤직 신보들 짧은 감상평",
+        "href": "/fboard/28621555",
+        "author": "자카",
+        "date": "2024.07.10",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28622056",
         "category": "일반",
         "title": "The Weeknd 스티커 추가 기원 59일차",
@@ -207,16 +218,5 @@
         "commentNum": "19",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_28590519",
-        "category": "인증/후기",
-        "title": "[CD 리뷰] SZA - CTRL",
-        "href": "/fboard/28590519",
-        "author": "YD10",
-        "date": "2024.07.06",
-        "commentNum": "5",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]

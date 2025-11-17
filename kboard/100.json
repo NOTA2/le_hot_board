@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28643393",
+        "category": "인증/후기",
+        "title": "그동안 모은 피지컬들 인증합니다!",
+        "href": "/kboard/28643393",
+        "author": "ㅇ일리키즈",
+        "date": "2024.07.14",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28640877",
         "category": "리뷰",
         "title": "그냥노창 - 없는계절 <2부> (분석 + 리뷰 = 감상문)",
@@ -218,16 +229,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28614078",
-        "category": "리뷰",
-        "title": "에픽하이 정규 8집-신발장",
-        "href": "/kboard/28614078",
-        "author": "Alonso2000",
-        "date": "2024.07.09",
-        "commentNum": "8",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
