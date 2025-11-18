@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_32644473",
+        "category": "일반",
+        "title": "뷰티풀너드가 마음에 안드는 이유 (장문)",
+        "href": "/kboard/32644473",
+        "author": "Leticia",
+        "date": "2025.10.22",
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_32642923",
+        "category": "일반",
+        "title": "뷰너 진짜 존나 역겹네",
+        "href": "/kboard/32642923",
+        "author": "펙",
+        "date": "2025.10.21",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32642680",
         "category": "인증/후기",
         "title": "힙합에서 멀어져가는 지금 올려보는 인증글",
@@ -194,28 +216,6 @@
         "author": "크랙커",
         "date": "2025.10.16",
         "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32627394",
-        "category": "음악",
-        "title": "시카고 풋워크를 아시나요?",
-        "href": "/kboard/32627394",
-        "author": "Destin",
-        "date": "2025.10.16",
-        "commentNum": "",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32625761",
-        "category": "일반",
-        "title": "비트씬 경험하러 오세요. 재밌있는 거",
-        "href": "/kboard/32625761",
-        "author": "BLVU",
-        "date": "2025.10.16",
-        "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
     }

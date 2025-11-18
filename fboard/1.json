@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32732229",
+        "category": "인증/후기",
+        "title": "얼 스웻셔츠",
+        "href": "/fboard/32732229",
+        "author": "heartpart618",
+        "date": "2025.11.18",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32730173",
         "category": "인증/후기",
         "title": "빨간색 음반을 2장 구매했습니다",
@@ -205,17 +216,6 @@
         "author": "온암",
         "date": "2025.11.11",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32705394",
-        "category": "일반",
-        "title": "속보) 전역함",
-        "href": "/fboard/32705394",
-        "author": "Fishmans",
-        "date": "2025.11.11",
-        "commentNum": "41",
         "isVideo": false,
         "isPhoto": true
     }
