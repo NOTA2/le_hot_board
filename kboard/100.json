@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28649941",
+        "category": "리뷰",
+        "title": "키드밀리(Kid Milli) - ron interlude 『BEIGE』 (분석 + 리뷰 = 감상문)",
+        "href": "/kboard/28649941",
+        "author": "코지보이",
+        "date": "2024.07.16",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28648713",
         "category": "리뷰",
         "title": "더 콰이엇 정규 10집-Luxury Flow",
@@ -216,17 +227,6 @@
         "author": "밀어볼이는건",
         "date": "2024.07.11",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28622161",
-        "category": "음악",
-        "title": "여기서 앨범 커버 다운받는데 화질 좆되는듯",
-        "href": "/kboard/28622161",
-        "author": "델른",
-        "date": "2024.07.11",
-        "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
     }
