@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_32549801",
+        "category": "일반",
+        "title": "쇼미 12 양홍원 나온다고 했었는데",
+        "href": "/kboard/32549801",
+        "author": "silverdays",
+        "date": "2025.09.20",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_32549559",
+        "category": "그림/아트웍",
+        "title": "베이지 그려봄",
+        "href": "/kboard/32549559",
+        "author": "Khiphop100",
+        "date": "2025.09.20",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32549547",
         "category": "인증/후기",
         "title": "국힙 100대 명반 모으기 1일차",
@@ -196,27 +218,5 @@
         "commentNum": "8",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32537462",
-        "category": "음악",
-        "title": "제네더질라 - EP [지금 다음 지금] 발매 (빌스택스, 더콰이엇, 화나, 염따 참여)",
-        "href": "/kboard/32537462",
-        "author": "코홀트닌자들다어디감",
-        "date": "2025.09.16",
-        "commentNum": "5",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32535737",
-        "category": "일반",
-        "title": "루이비통의 반댓말은?",
-        "href": "/kboard/32535737",
-        "author": "닉을왜봐",
-        "date": "2025.09.15",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
