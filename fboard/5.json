@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32655048",
+        "category": "일반",
+        "title": "개인적으로 오늘 스캇 제일 감동 포인트",
+        "href": "/fboard/32655048",
+        "author": "Yeisdumbasf",
+        "date": "2025.10.25",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32655566",
         "category": "인증/후기",
         "title": "트래비스 스캇 한국 공연을 경험하고",
@@ -206,17 +217,6 @@
         "date": "2025.10.18",
         "commentNum": "5",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32632180",
-        "category": "리뷰",
-        "title": "[리뷰] DANGERDOOM - The Mouse & the Mask",
-        "href": "/fboard/32632180",
-        "author": "예리",
-        "date": "2025.10.18",
-        "commentNum": "2",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

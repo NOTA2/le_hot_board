@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32731709",
+        "category": "일반",
+        "title": "스캇 듣는 걸 멈추지 않는 탓일까 ㅜ.ㅜ",
+        "href": "/fboard/32731709",
+        "author": "AS$OONASPOSSIBLE",
+        "date": "2025.11.18",
+        "commentNum": "11",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32732229",
         "category": "인증/후기",
         "title": "얼 스웻셔츠",
         "href": "/fboard/32732229",
         "author": "heartpart618",
         "date": "2025.11.18",
-        "commentNum": "5",
+        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "눈팅이밥팅이",
         "date": "2025.11.12",
         "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32698267",
-        "category": "리뷰",
-        "title": "J A Y E L E C T R O N I C A",
-        "href": "/fboard/32698267",
-        "author": "온암",
-        "date": "2025.11.11",
-        "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
     }
