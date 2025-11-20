@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32650078",
+        "category": "일반",
+        "title": "씨잼 걘 부틀랙 만들엇서요",
+        "href": "/kboard/32650078",
+        "author": "캔",
+        "date": "2025.10.23",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32647429",
         "category": "인증/후기",
         "title": "인생 4번째 CD",
@@ -207,16 +218,5 @@
         "commentNum": "32",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32631401",
-        "category": "일반",
-        "title": "\"게시판 피로도\" = 이해 안감",
-        "href": "/kboard/32631401",
-        "author": "일식돕칠",
-        "date": "2025.10.18",
-        "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
