@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_32692527",
+        "category": "일반",
+        "title": "해외힙합 매거진 w/HOM #28 11월 10일 공개 예정!",
+        "href": "/fboard/32692527",
+        "author": "쟈이즈",
+        "date": "2025.11.08",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_32688143",
+        "category": "음악",
+        "title": "유대인들에게 사과하는 칸예",
+        "href": "/fboard/32688143",
+        "author": "yuke",
+        "date": "2025.11.07",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32688151",
         "category": "인증/후기",
         "title": "[90년대 붐뱁 프로듀서] 18. RZA",
@@ -194,28 +216,6 @@
         "author": "yuke",
         "date": "2025.11.01",
         "commentNum": "29",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32673191",
-        "category": "리뷰",
-        "title": "Injury Reserve - By the Time I Get to Phoenix 리뷰",
-        "href": "/fboard/32673191",
-        "author": "히오스는니얼굴이다",
-        "date": "2025.11.01",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32672905",
-        "category": "인증/후기",
-        "title": "캐나다 할로윈에 사탕받으러 다니는 칸예 (후기)",
-        "href": "/fboard/32672905",
-        "author": "용별",
-        "date": "2025.11.01",
-        "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
     }
