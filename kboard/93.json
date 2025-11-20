@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28929027",
+        "category": "음악",
+        "title": "영파씨 - ATE THAT",
+        "href": "/kboard/28929027",
+        "author": "ticalman",
+        "date": "2024.08.21",
+        "commentNum": "11",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28932852",
         "category": "음악",
         "title": "하나도 느껴지지 않는 키드밀리의 존재감 (라드밀리 한줄평)",
@@ -207,16 +218,5 @@
         "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28904353",
-        "category": "일반",
-        "title": "국내 힙합의 'Payback Season’: 국내 힙합은 죽었는가?",
-        "href": "/kboard/28904353",
-        "author": "Asherp",
-        "date": "2024.08.17",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

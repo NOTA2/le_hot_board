@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32585273",
+        "category": "음악",
+        "title": "과거 스윙스가 타임머신 타고 2025년으로 왔으면",
+        "href": "/kboard/32585273",
+        "author": "히팝뉴우비",
+        "date": "2025.10.02",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32584622",
         "category": "음악",
         "title": "국힙 최고이자 최악의 인트로 중 하나",
@@ -218,16 +229,5 @@
         "commentNum": "3",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32567577",
-        "category": "일반",
-        "title": "???: 후드를 뒤집어 쓴 의문의 남성 .",
-        "href": "/kboard/32567577",
-        "author": "비니빈지노",
-        "date": "2025.09.26",
-        "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

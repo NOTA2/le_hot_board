@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_30366067",
+        "category": "인증/후기",
+        "title": "[2024연말결산이벤트] 군붕이 바이닐 컬렉션",
+        "href": "/fboard/30366067",
+        "author": "JPEG",
+        "date": "2024.12.31",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_30359794",
+        "category": "인증/후기",
+        "title": "[2024연말결산이벤트] 소소한 인증",
+        "href": "/fboard/30359794",
+        "author": "이센스가사의센스",
+        "date": "2024.12.30",
+        "commentNum": "29",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_30363347",
         "category": "인증/후기",
         "title": "CD 팝니다",
@@ -195,28 +217,6 @@
         "date": "2024.12.25",
         "commentNum": "14",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30313388",
-        "category": "음악",
-        "title": "(카티 아님) 앨범 커버 구리다고 생각했었는데",
-        "href": "/fboard/30313388",
-        "author": "피닛",
-        "date": "2024.12.26",
-        "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_30306140",
-        "category": "인증/후기",
-        "title": "[인생 리뷰 V3] 인생 앨범 TOP 9을 소개합니다!",
-        "href": "/fboard/30306140",
-        "author": "크밍",
-        "date": "2024.12.25",
-        "commentNum": "21",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
