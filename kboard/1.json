@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32741495",
+        "category": "음악",
+        "title": "“LIT” 은 저스디스와 허승의 대화를 담은 앨범이다",
+        "href": "/kboard/32741495",
+        "author": "평화의수호자",
+        "date": "2025.11.20",
+        "commentNum": "25",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32738067",
         "category": "리뷰",
         "title": "저스디스 - [LIT] 후기",
         "href": "/kboard/32738067",
         "author": "성실",
         "date": "2025.11.20",
-        "commentNum": "12",
+        "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
     },
@@ -206,17 +217,6 @@
         "date": "2025.11.15",
         "commentNum": "8",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32716057",
-        "category": "음악",
-        "title": "나리스트라는분 느낌좋네요",
-        "href": "/kboard/32716057",
-        "author": "낭낭~",
-        "date": "2025.11.15",
-        "commentNum": "11",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
