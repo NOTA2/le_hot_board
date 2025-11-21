@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29005916",
+        "category": "음악",
+        "title": "집 나간 제가 다시 상황 정리글 올립니다.",
+        "href": "/kboard/29005916",
+        "author": "pleasedontdoubt",
+        "date": "2024.08.27",
+        "commentNum": "32",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28998791",
         "category": "음악",
         "title": "01년생이 뽑은 한국 힙합 명곡 TOP 10 (2편) (명단 수정)",
@@ -205,17 +216,6 @@
         "author": "나비착취",
         "date": "2024.08.22",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28941328",
-        "category": "인증/후기",
-        "title": "비프리 앨범들 인증",
-        "href": "/kboard/28941328",
-        "author": "BREAK",
-        "date": "2024.08.22",
-        "commentNum": "10",
         "isVideo": false,
         "isPhoto": true
     }
