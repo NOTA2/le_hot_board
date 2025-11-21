@@ -1,5 +1,27 @@
 [
     {
+        "id": "fboard_28332730",
+        "category": "인증/후기",
+        "title": "Ye 6주년 기념 Ye",
+        "href": "/fboard/28332730",
+        "author": "BKNNETS",
+        "date": "2024.06.01",
+        "commentNum": "21",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "fboard_28329047",
+        "category": "인증/후기",
+        "title": "GayGay표 YANDHI 피지컬 만들기",
+        "href": "/fboard/28329047",
+        "author": "GayGay",
+        "date": "2024.06.01",
+        "commentNum": "23",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28327898",
         "category": "음악",
         "title": "Vince Staples [Dark Times] 전곡해석 완료",
@@ -194,28 +216,6 @@
         "author": "DannyB",
         "date": "2024.05.27",
         "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28293888",
-        "category": "일반",
-        "title": "이제 겁먹은괭이는 없습니다",
-        "href": "/fboard/28293888",
-        "author": "JPꓰGMAFIA",
-        "date": "2024.05.26",
-        "commentNum": "24",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28298535",
-        "category": "인증/후기",
-        "title": "오늘의 디깅.jpeg",
-        "href": "/fboard/28298535",
-        "author": "killakim",
-        "date": "2024.05.27",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     }

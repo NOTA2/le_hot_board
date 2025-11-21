@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32744152",
+        "category": "리뷰",
+        "title": "Don't cross에 대해",
+        "href": "/kboard/32744152",
+        "author": "Jihxn",
+        "date": "2025.11.20",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32741495",
         "category": "음악",
         "title": "“LIT” 은 저스디스와 허승의 대화를 담은 앨범이다",
         "href": "/kboard/32741495",
         "author": "평화의수호자",
         "date": "2025.11.20",
-        "commentNum": "30",
+        "commentNum": "34",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "22",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32716754",
-        "category": "일반",
-        "title": "저스디스 LIT 트랙리스트 유추 & 떡밥 정리",
-        "href": "/kboard/32716754",
-        "author": "유명하다왜",
-        "date": "2025.11.15",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
