@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32554005",
+        "category": "음악",
+        "title": "올해 지금까지 좋았던 붐뱁/드럼리스 앨범들",
+        "href": "/fboard/32554005",
+        "author": "다스시디어스",
+        "date": "2025.09.22",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32552699",
         "category": "음악",
         "title": "“야, 아담 킬라”",
@@ -216,17 +227,6 @@
         "author": "MarshallMathers",
         "date": "2025.09.16",
         "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32536266",
-        "category": "일반",
-        "title": "맘스터치 타일러의 픽",
-        "href": "/fboard/32536266",
-        "author": "cig0721",
-        "date": "2025.09.15",
-        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     }
