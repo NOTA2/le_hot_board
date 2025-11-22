@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32753145",
+        "category": "일반",
+        "title": "본인이 순수 음악력으로 벽 느낀 앨범 2개",
+        "href": "/fboard/32753145",
+        "author": "크랙커",
+        "date": "2025.11.21",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32754366",
         "category": "인증/후기",
         "title": "오늘 도착한 음반 모음 zip",
         "href": "/fboard/32754366",
         "author": "gunacho",
         "date": "2025.11.22",
-        "commentNum": "4",
+        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     },
@@ -206,17 +217,6 @@
         "date": "2025.11.16",
         "commentNum": "23",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32717108",
-        "category": "인증/후기",
-        "title": "두번째 글 스티브 레이시 전집 인증합니다.",
-        "href": "/fboard/32717108",
-        "author": "GeminiRights",
-        "date": "2025.11.15",
-        "commentNum": "4",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
