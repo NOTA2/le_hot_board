@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32624234",
+        "category": "인증/후기",
+        "title": "국힙 100대 명반 모으기 25일차",
+        "href": "/kboard/32624234",
+        "author": "Khiphop100",
+        "date": "2025.10.15",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32623268",
         "category": "일반",
         "title": "[속보] 팔로알토, 이센스 스토리 재차 저격",
@@ -205,17 +216,6 @@
         "author": "일식돕칠",
         "date": "2025.10.10",
         "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32608650",
-        "category": "일반",
-        "title": "요즘 저스디스 랩 별로지않음?",
-        "href": "/kboard/32608650",
-        "author": "리플리",
-        "date": "2025.10.09",
-        "commentNum": "14",
         "isVideo": false,
         "isPhoto": false
     }

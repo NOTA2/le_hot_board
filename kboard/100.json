@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28674880",
+        "category": "음악",
+        "title": "누에킁은 아무리 들어도 개소리임",
+        "href": "/kboard/28674880",
+        "author": "sussybaka",
+        "date": "2024.07.19",
+        "commentNum": "36",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28673639",
         "category": "일반",
         "title": "힙합 리스너들 진짜 ㅈ같은점",
@@ -217,17 +228,6 @@
         "date": "2024.07.14",
         "commentNum": "6",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28640877",
-        "category": "리뷰",
-        "title": "그냥노창 - 없는계절 <2부> (분석 + 리뷰 = 감상문)",
-        "href": "/kboard/28640877",
-        "author": "코지보이",
-        "date": "2024.07.14",
-        "commentNum": "5",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
