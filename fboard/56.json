@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_30723349",
+        "category": "리뷰",
+        "title": "Jane Remover - Frailty 세계관 / 티저 해석",
+        "href": "/fboard/30723349",
+        "author": "nettspend",
+        "date": "2025.01.26",
+        "commentNum": "22",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_30732689",
         "category": "인증/후기",
         "title": "바이닐 몇 개 인증",
@@ -207,16 +218,5 @@
         "commentNum": "13",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_30670553",
-        "category": "일반",
-        "title": "THIS IS JPEGMAFIA #2",
-        "href": "/fboard/30670553",
-        "author": "크밍",
-        "date": "2025.01.22",
-        "commentNum": "25",
-        "isVideo": true,
-        "isPhoto": true
     }
 ]

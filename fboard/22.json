@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32315991",
+        "category": "인증/후기",
+        "title": "바이닐 입문 했어요",
+        "href": "/fboard/32315991",
+        "author": "Aaaaaaassss",
+        "date": "2025.07.19",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32314398",
         "category": "인증/후기",
         "title": "어제 김밥해서 구해온 음반들",
@@ -207,16 +218,5 @@
         "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32290062",
-        "category": "음악",
-        "title": "현재 스캇은",
-        "href": "/fboard/32290062",
-        "author": "junkhiphop",
-        "date": "2025.07.13",
-        "commentNum": "5",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
