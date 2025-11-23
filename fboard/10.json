@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32563028",
+        "category": "인증/후기",
+        "title": "오늘 도착한 28개의 음반, 그리고 에미넴 1집",
+        "href": "/fboard/32563028",
+        "author": "gunacho",
+        "date": "2025.09.25",
+        "commentNum": "13",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32560651",
         "category": "음악",
         "title": "끈적이고 역겨운",
@@ -217,17 +228,6 @@
         "date": "2025.09.17",
         "commentNum": "6",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32540202",
-        "category": "리뷰",
-        "title": "Che - REST IN BASS 리뷰",
-        "href": "/fboard/32540202",
-        "author": "공ZA",
-        "date": "2025.09.17",
-        "commentNum": "3",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
