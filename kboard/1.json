@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32756011",
+        "category": "음악",
+        "title": "젓딧 급인데 이 벌스 미쳤다 소리 안 나오는 것도 문제라 봄",
+        "href": "/kboard/32756011",
+        "author": "평창수",
+        "date": "2025.11.22",
+        "commentNum": "29",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32755709",
         "category": "음악",
         "title": "힙갤에서 퍼온 릿 해석",
         "href": "/kboard/32755709",
         "author": "befreemyself",
         "date": "2025.11.22",
-        "commentNum": "3",
+        "commentNum": "7",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "크랙커",
         "date": "2025.11.17",
         "commentNum": "1",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32725330",
-        "category": "일반",
-        "title": "앨범을 안 냈어 연락 와 반응이 뜨겁대 주위에서",
-        "href": "/kboard/32725330",
-        "author": "성실",
-        "date": "2025.11.17",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": true
     }

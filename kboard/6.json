@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32656903",
+        "category": "일반",
+        "title": "스키니도 참 저평가",
+        "href": "/kboard/32656903",
+        "author": "김대웅약혼녀",
+        "date": "2025.10.26",
+        "commentNum": "14",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32656492",
         "category": "일반",
         "title": "맨스티어떴다",
@@ -205,17 +216,6 @@
         "author": "YTT",
         "date": "2025.10.21",
         "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32641690",
-        "category": "일반",
-        "title": "LIT 지금 당장 들을 수 있는 방법",
-        "href": "/kboard/32641690",
-        "author": "Sydd",
-        "date": "2025.10.21",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
     }
