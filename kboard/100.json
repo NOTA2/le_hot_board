@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28678505",
+        "category": "음악",
+        "title": "에킁은 모르겟고 누는 진짜임",
+        "href": "/kboard/28678505",
+        "author": "Poweroverwhelminnn",
+        "date": "2024.07.20",
+        "commentNum": "52",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28676484",
         "category": "음악",
         "title": "킁은 과대평가되었나?",
@@ -216,17 +227,6 @@
         "author": "릴태양",
         "date": "2024.07.15",
         "commentNum": "21",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28645799",
-        "category": "리뷰",
-        "title": "이센스(E SENS) - Cold World 『이방인』 (분석 + 리뷰 = 감상문)",
-        "href": "/kboard/28645799",
-        "author": "코지보이",
-        "date": "2024.07.15",
-        "commentNum": "11",
         "isVideo": true,
         "isPhoto": true
     }

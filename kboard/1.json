@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32761235",
+        "category": "음악",
+        "title": "저스디스의 릿 발매와 굉장히 유사한 행보를 걸었던 10년 전 버벌진트",
+        "href": "/kboard/32761235",
+        "author": "direo",
+        "date": "2025.11.23",
+        "commentNum": "14",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32765726",
         "category": "일반",
         "title": "이쯤에서 다시 호감도 체크",
         "href": "/kboard/32765726",
         "author": "펙",
         "date": "2025.11.23",
-        "commentNum": "32",
+        "commentNum": "45",
         "isVideo": false,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32730501",
-        "category": "음악",
-        "title": "릿 20일 발매",
-        "href": "/kboard/32730501",
-        "author": "cig0721",
-        "date": "2025.11.18",
-        "commentNum": "14",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
