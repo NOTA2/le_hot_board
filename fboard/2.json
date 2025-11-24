@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32724313",
+        "category": "일반",
+        "title": "내가 더 이상 나무위키를 안 보는 이유",
+        "href": "/fboard/32724313",
+        "author": "FEX",
+        "date": "2025.11.17",
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32724125",
         "category": "음악",
         "title": "갑자기 둠 유튜브에 올라온 mm food 투어 풀영상 ㄷㄷ",
@@ -206,17 +217,6 @@
         "date": "2025.11.11",
         "commentNum": "4",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32699266",
-        "category": "인증/후기",
-        "title": "웨싸건 전집 인증",
-        "href": "/fboard/32699266",
-        "author": "23시",
-        "date": "2025.11.10",
-        "commentNum": "7",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

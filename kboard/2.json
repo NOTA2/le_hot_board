@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32733337",
+        "category": "일반",
+        "title": "LIT 진짜 24시간 남았다!",
+        "href": "/kboard/32733337",
+        "author": "지나가는사람",
+        "date": "2025.11.19",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32731190",
         "category": "일반",
         "title": "현재 김하온 상황",
@@ -206,17 +217,6 @@
         "date": "2025.11.13",
         "commentNum": "9",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32711686",
-        "category": "일반",
-        "title": "국힙팬들께",
-        "href": "/kboard/32711686",
-        "author": "Highskool07",
-        "date": "2025.11.13",
-        "commentNum": "4",
-        "isVideo": false,
         "isPhoto": false
     }
 ]

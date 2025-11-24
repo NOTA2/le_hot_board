@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32762692",
+        "category": "인증/후기",
+        "title": "히히",
+        "href": "/fboard/32762692",
+        "author": "ꓬe",
+        "date": "2025.11.23",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32765138",
         "category": "인증/후기",
         "title": "[90년대 붐뱁 프로듀서] 20. The Beatnuts",
@@ -17,7 +28,7 @@
         "href": "/fboard/32763408",
         "author": "천재금붕어모임",
         "date": "2025.11.23",
-        "commentNum": "27",
+        "commentNum": "28",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "난사실",
         "date": "2025.11.17",
         "commentNum": "18",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32724313",
-        "category": "일반",
-        "title": "내가 더 이상 나무위키를 안 보는 이유",
-        "href": "/fboard/32724313",
-        "author": "FEX",
-        "date": "2025.11.17",
-        "commentNum": "22",
         "isVideo": false,
         "isPhoto": false
     }
