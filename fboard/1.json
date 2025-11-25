@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32774769",
+        "category": "인증/후기",
+        "title": "페기 이 십새기 이제 음반으로 장난을 치네",
+        "href": "/fboard/32774769",
+        "author": "Nyeong",
+        "date": "2025.11.25",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32772763",
         "category": "일반",
         "title": "과장 좀 보태서 De La Soul - Cabin in the sky 올앨급임",
@@ -206,17 +217,6 @@
         "date": "2025.11.18",
         "commentNum": "13",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32732229",
-        "category": "인증/후기",
-        "title": "얼 스웻셔츠",
-        "href": "/fboard/32732229",
-        "author": "heartpart618",
-        "date": "2025.11.18",
-        "commentNum": "7",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
