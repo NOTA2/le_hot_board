@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32772763",
+        "category": "일반",
+        "title": "과장 좀 보태서 De La Soul - Cabin in the sky 올앨급임",
+        "href": "/fboard/32772763",
+        "author": "Fishmans",
+        "date": "2025.11.24",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32771826",
         "category": "인증/후기",
         "title": "클라우드랩 시디 구매",
@@ -205,17 +216,6 @@
         "author": "heartpart618",
         "date": "2025.11.18",
         "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32730173",
-        "category": "인증/후기",
-        "title": "빨간색 음반을 2장 구매했습니다",
-        "href": "/fboard/32730173",
-        "author": "쓸쓸하구만",
-        "date": "2025.11.18",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }
