@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32501394",
+        "category": "인증/후기",
+        "title": "드디어!!!! 게시",
+        "href": "/fboard/32501394",
+        "author": "비제수방",
+        "date": "2025.09.04",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32499427",
         "category": "리뷰",
         "title": "Emily Montes - Emily Montes 🧚‍♀️💕 리뷰(?)",
@@ -206,17 +217,6 @@
         "date": "2025.08.30",
         "commentNum": "11",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32482193",
-        "category": "음악",
-        "title": "Joey Bada$$ [Lonely At The Top] 앨범 아트워크에 대한 해석",
-        "href": "/fboard/32482193",
-        "author": "Trivium",
-        "date": "2025.08.29",
-        "commentNum": "3",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

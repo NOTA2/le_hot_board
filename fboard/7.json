@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32637187",
+        "category": "음악",
+        "title": "che처럼 랩하는 법",
+        "href": "/fboard/32637187",
+        "author": "yuke",
+        "date": "2025.10.19",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32632428",
         "category": "음악",
         "title": "외국 힙합 입문 4장 : [익스페리멘탈 힙합 입문 초석 다지기]",
@@ -206,17 +217,6 @@
         "date": "2025.10.13",
         "commentNum": "12",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32620604",
-        "category": "음악",
-        "title": "힙x) 드디어 엘이 첫 화면 진출",
-        "href": "/fboard/32620604",
-        "author": "천재금붕어모임",
-        "date": "2025.10.13",
-        "commentNum": "8",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

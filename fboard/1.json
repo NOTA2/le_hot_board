@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32780990",
+        "category": "인증/후기",
+        "title": "Dijon - Baby",
+        "href": "/fboard/32780990",
+        "author": "마틴로즈",
+        "date": "2025.11.26",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32776997",
         "category": "음악",
         "title": "취향 틀딱이라고 해서 트렌디한 20년대 힙합 탑스터 끓여옴",
@@ -205,17 +216,6 @@
         "author": "ꓬe",
         "date": "2025.11.20",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32734068",
-        "category": "리뷰",
-        "title": "[리뷰] bbno$ - bbno$",
-        "href": "/fboard/32734068",
-        "author": "예리",
-        "date": "2025.11.19",
-        "commentNum": "8",
         "isVideo": false,
         "isPhoto": true
     }
