@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32773113",
+        "category": "리뷰",
+        "title": "릿에 대한 개인적인 접근법",
+        "href": "/kboard/32773113",
+        "author": "정밀",
+        "date": "2025.11.25",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32775415",
         "category": "일반",
         "title": "유튜브 댓글 이게 존나 웃기네ㅋㅋㅋㅋㅋㅋㅋ",
         "href": "/kboard/32775415",
         "author": "비니빈지노",
         "date": "2025.11.25",
-        "commentNum": "13",
+        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "부산의왕",
         "date": "2025.11.20",
         "commentNum": "68",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32744152",
-        "category": "리뷰",
-        "title": "Don't cross에 대해",
-        "href": "/kboard/32744152",
-        "author": "Jihxn",
-        "date": "2025.11.20",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": false
     }

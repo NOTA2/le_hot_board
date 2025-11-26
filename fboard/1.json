@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32776997",
+        "category": "음악",
+        "title": "취향 틀딱이라고 해서 트렌디한 20년대 힙합 탑스터 끓여옴",
+        "href": "/fboard/32776997",
+        "author": "귀염뽀짝앤디모린",
+        "date": "2025.11.25",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32776820",
         "category": "일반",
         "title": "가입인사 드립니다",
@@ -17,7 +28,7 @@
         "href": "/fboard/32774769",
         "author": "Nyeong",
         "date": "2025.11.25",
-        "commentNum": "10",
+        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "예리",
         "date": "2025.11.19",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32733154",
-        "category": "인증/후기",
-        "title": "Westside Gunn - HEELS HAVE EYES 3",
-        "href": "/fboard/32733154",
-        "author": "마틴로즈",
-        "date": "2025.11.19",
-        "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
     }
