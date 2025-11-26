@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28703671",
+        "category": "음악",
+        "title": "스윙스 이젠 그만 하고 나와요",
+        "href": "/kboard/28703671",
+        "author": "행복하자",
+        "date": "2024.07.23",
+        "commentNum": "21",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28694312",
         "category": "음악",
         "title": "에킁은 아니고 버벌진트, 오케이션, 스윙스라고 생각합니다",
@@ -217,28 +228,6 @@
         "date": "2024.07.17",
         "commentNum": "11",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28657819",
-        "category": "음악",
-        "title": "버벌진트 [K-XY : INFP] 십년 뒤에 다시 돌려보세요.",
-        "href": "/kboard/28657819",
-        "author": "killakim",
-        "date": "2024.07.17",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28660004",
-        "category": "일반",
-        "title": "pH-1 “힙합에 대한 사람들의 인식이 적나라하게 드러났잖아요.” | HIPHOPPLAYA Interview",
-        "href": "/kboard/28660004",
-        "author": "Riot",
-        "date": "2024.07.17",
-        "commentNum": "13",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
