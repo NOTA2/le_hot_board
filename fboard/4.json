@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32693723",
+        "category": "인증/후기",
+        "title": "MF DOOM 전집 인증",
+        "href": "/fboard/32693723",
+        "author": "gunacho",
+        "date": "2025.11.08",
+        "commentNum": "24",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32693038",
         "category": "일반",
         "title": "외힙 최고의 명반",
@@ -205,17 +216,6 @@
         "author": "lazturtle8231",
         "date": "2025.11.01",
         "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32674375",
-        "category": "일반",
-        "title": "힙x) 외이도염 걸려보신 분...",
-        "href": "/fboard/32674375",
-        "author": "CXRSXN",
-        "date": "2025.11.01",
-        "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
     }
