@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28709602",
+        "category": "일반",
+        "title": "테이크원 상업예술은",
+        "href": "/kboard/28709602",
+        "author": "에일란",
+        "date": "2024.07.24",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28703623",
         "category": "음악",
         "title": "시대상을 고려하지 않는 것은",
@@ -218,16 +229,5 @@
         "commentNum": "36",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28667343",
-        "category": "리뷰",
-        "title": "[이벤트718] Toru-<Toru>",
-        "href": "/kboard/28667343",
-        "author": "킫밀이제밀리",
-        "date": "2024.07.18",
-        "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
