@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_29050509",
+        "category": "일반",
+        "title": "스윙스의 오판 2가지",
+        "href": "/kboard/29050509",
+        "author": "ansaninLBNC",
+        "date": "2024.09.01",
+        "commentNum": "22",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_29043982",
+        "category": "일반",
+        "title": "라드밀리에 굳이 평론가 빙의 할 필요 없는듯 ㅇㅇ",
+        "href": "/kboard/29043982",
+        "author": "아니놀라",
+        "date": "2024.08.31",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29038699",
         "category": "일반",
         "title": "소신) 데이토나 닫는거 별로 아쉽지 않음",
@@ -195,28 +217,6 @@
         "date": "2024.08.27",
         "commentNum": "8",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_29006444",
-        "category": "인증/후기",
-        "title": "[ 앨범 인증 ] 개쩌는 가격에 개쩌는 앨범 업어왔습니다",
-        "href": "/kboard/29006444",
-        "author": "오프니어",
-        "date": "2024.08.27",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29005916",
-        "category": "음악",
-        "title": "집 나간 제가 다시 상황 정리글 올립니다.",
-        "href": "/kboard/29005916",
-        "author": "pleasedontdoubt",
-        "date": "2024.08.27",
-        "commentNum": "32",
-        "isVideo": false,
         "isPhoto": false
     }
 ]
