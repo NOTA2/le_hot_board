@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28460347",
+        "category": "일반",
+        "title": "개귀엽네",
+        "href": "/fboard/28460347",
+        "author": "GayFlock",
+        "date": "2024.06.19",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28458248",
         "category": "리뷰",
         "title": "칸예의 양극성장애와 우울증, 자살 그리고 아내의 이야기를 담은 ...",
@@ -218,16 +229,5 @@
         "commentNum": "5",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_28411510",
-        "category": "음악",
-        "title": "벌쳐스는 걍 혁명임 ㅇㅇ",
-        "href": "/fboard/28411510",
-        "author": "홀로로로로롤",
-        "date": "2024.06.13",
-        "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

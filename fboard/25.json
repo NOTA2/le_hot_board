@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32258700",
+        "category": "인증/후기",
+        "title": "Departure LP",
+        "href": "/fboard/32258700",
+        "author": "sakurako",
+        "date": "2025.07.06",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32244701",
         "category": "리뷰",
         "title": "《The Slim Shady LP》 감상문",
@@ -206,17 +217,6 @@
         "date": "2025.07.02",
         "commentNum": "9",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32235161",
-        "category": "인증/후기",
-        "title": "큰 거 하나 인증!",
-        "href": "/fboard/32235161",
-        "author": "DJSam",
-        "date": "2025.07.02",
-        "commentNum": "27",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
