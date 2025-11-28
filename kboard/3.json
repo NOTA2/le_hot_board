@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32725933",
+        "category": "일반",
+        "title": "LIT 예약 판매 트랙리스트 보고 알았네요",
+        "href": "/kboard/32725933",
+        "author": "지나가는사람",
+        "date": "2025.11.17",
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32724112",
         "category": "음악",
         "title": "JUSTHIS-LIT 사실상 오늘 발매 확정",
@@ -206,17 +217,6 @@
         "date": "2025.11.11",
         "commentNum": "12",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32704674",
-        "category": "음악",
-        "title": "JUSTHIS 미공개곡 '돌고 돌고 돌고' (Beat Volume Up)",
-        "href": "/kboard/32704674",
-        "author": "머니백초이",
-        "date": "2025.11.11",
-        "commentNum": "",
-        "isVideo": true,
         "isPhoto": false
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32786871",
+        "category": "리뷰",
+        "title": "이즘 평론에 대한 짧은 반박",
+        "href": "/kboard/32786871",
+        "author": "쿠쿠쿠쿠",
+        "date": "2025.11.28",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32782667",
         "category": "음악",
         "title": "릿 드럼통 앞에 선택적분노 가사에 대해서",
@@ -17,7 +28,7 @@
         "href": "/kboard/32783130",
         "author": "KangHosam",
         "date": "2025.11.27",
-        "commentNum": "16",
+        "commentNum": "17",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "평창수",
         "date": "2025.11.22",
         "commentNum": "38",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32755709",
-        "category": "음악",
-        "title": "힙갤에서 퍼온 릿 해석",
-        "href": "/kboard/32755709",
-        "author": "befreemyself",
-        "date": "2025.11.22",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": false
     }

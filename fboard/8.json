@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32623285",
+        "category": "인증/후기",
+        "title": "R.I.P. D'Angelo",
+        "href": "/fboard/32623285",
+        "author": "DJSam",
+        "date": "2025.10.14",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32623212",
         "category": "리뷰",
         "title": "D'Angelo의 Brown Sugar 리뷰와 주저리들",
@@ -206,17 +217,6 @@
         "date": "2025.10.09",
         "commentNum": "10",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32606218",
-        "category": "인증/후기",
-        "title": "어 어 어 어",
-        "href": "/fboard/32606218",
-        "author": "동동Ol",
-        "date": "2025.10.09",
-        "commentNum": "6",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
