@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32285064",
+        "category": "일반",
+        "title": "MF DOOM의 생일입니다! 😍",
+        "href": "/fboard/32285064",
+        "author": "생일봇",
+        "date": "2025.07.12",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32289637",
         "category": "음악",
         "title": "잭보이즈랑 클립스앨범",
@@ -206,17 +217,6 @@
         "date": "2025.07.07",
         "commentNum": "11",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32263164",
-        "category": "일반",
-        "title": "엘이 좆같다는 사람들은 들어라 ㅇㅇ",
-        "href": "/fboard/32263164",
-        "author": "노미춘식",
-        "date": "2025.07.07",
-        "commentNum": "17",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

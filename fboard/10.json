@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32583361",
+        "category": "리뷰",
+        "title": "Kendrick의 고점을 찾아서... [GKMC] vs [TPAB]",
+        "href": "/fboard/32583361",
+        "author": "천재금붕어모임",
+        "date": "2025.10.01",
+        "commentNum": "23",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32582536",
         "category": "음악",
         "title": "앱스트랙 계보를 탑스터로 짜봤습니다",
@@ -216,17 +227,6 @@
         "author": "MarshallMathers",
         "date": "2025.09.24",
         "commentNum": "35",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32560197",
-        "category": "인증/후기",
-        "title": "100만원 - 5",
-        "href": "/fboard/32560197",
-        "author": "mountain3",
-        "date": "2025.09.24",
-        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     }
