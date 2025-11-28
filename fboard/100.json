@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28455032",
+        "category": "그림/아트웍",
+        "title": "외붕이 니들 내가 오랜만에 함 웃겨준다",
+        "href": "/fboard/28455032",
+        "author": "killakim",
+        "date": "2024.06.18",
+        "commentNum": "20",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_28447344",
         "category": "일반",
         "title": "저 장난하는거 아니고요",
@@ -216,17 +227,6 @@
         "author": "비젼",
         "date": "2024.06.13",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_28411642",
-        "category": "일반",
-        "title": "소신 발언)))",
-        "href": "/fboard/28411642",
-        "author": "StarboiCarti",
-        "date": "2024.06.13",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": false
     }
