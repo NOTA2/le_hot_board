@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32787263",
+        "category": "음악",
+        "title": "이번 이즘 리뷰를 읽고도 평론가에 목매는게 ㅂㅅ임",
+        "href": "/kboard/32787263",
+        "author": "일린",
+        "date": "2025.11.28",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32786871",
         "category": "리뷰",
         "title": "이즘 평론에 대한 짧은 반박",
@@ -28,7 +39,7 @@
         "href": "/kboard/32783130",
         "author": "KangHosam",
         "date": "2025.11.27",
-        "commentNum": "18",
+        "commentNum": "19",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "luckylukie",
         "date": "2025.11.22",
         "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32756011",
-        "category": "음악",
-        "title": "젓딧 급인데 이 벌스 미쳤다 소리 안 나오는 것도 문제라 봄",
-        "href": "/kboard/32756011",
-        "author": "평창수",
-        "date": "2025.11.22",
-        "commentNum": "38",
         "isVideo": false,
         "isPhoto": false
     }
