@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32673011",
+        "category": "일반",
+        "title": "고교 축제에서 정치 발언을 한 정상수",
+        "href": "/kboard/32673011",
+        "author": "유시춘",
+        "date": "2025.11.01",
+        "commentNum": "49",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32670695",
         "category": "일반",
         "title": "김감전 개웃기네ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
@@ -206,17 +217,6 @@
         "date": "2025.10.27",
         "commentNum": "6",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32658474",
-        "category": "일반",
-        "title": "맨xxx진짜 싫다",
-        "href": "/kboard/32658474",
-        "author": "FXXKrs",
-        "date": "2025.10.26",
-        "commentNum": "3",
-        "isVideo": false,
         "isPhoto": false
     }
 ]
