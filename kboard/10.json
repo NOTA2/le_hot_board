@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32615337",
+        "category": "음악",
+        "title": "코르티스 표절 아니라는 이유를 듣고싶음",
+        "href": "/kboard/32615337",
+        "author": "쑥갓칸예나스",
+        "date": "2025.10.11",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32615626",
         "category": "일반",
         "title": "왜 힙찔이들은 아이돌 가사로 까면 안됨?",
@@ -218,16 +229,5 @@
         "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32600113",
-        "category": "일반",
-        "title": "조광일은 제발 천박한 랩 좀 안했으면 좋겠음",
-        "href": "/kboard/32600113",
-        "author": "Bhang89",
-        "date": "2025.10.07",
-        "commentNum": "27",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_31398149",
+        "category": "일반",
+        "title": "휘성과 버벌진트",
+        "href": "/kboard/31398149",
+        "author": "에일란",
+        "date": "2025.03.11",
+        "commentNum": "4",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_31400283",
         "category": "인증/후기",
         "title": "초희귀반 인증",
@@ -205,17 +216,6 @@
         "author": "KCTAPE",
         "date": "2025.03.06",
         "commentNum": "1",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_31362030",
-        "category": "인증/후기",
-        "title": "힙합키드였던 고삐리가 지금까지 모은 CD,LP 모음",
-        "href": "/kboard/31362030",
-        "author": "minminmin14",
-        "date": "2025.03.06",
-        "commentNum": "33",
         "isVideo": false,
         "isPhoto": true
     }
