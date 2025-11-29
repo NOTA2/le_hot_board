@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32585542",
+        "category": "인증/후기",
+        "title": "GOLLIWOG 바이닐 인증",
+        "href": "/fboard/32585542",
+        "author": "마틴로즈",
+        "date": "2025.10.02",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32583361",
         "category": "리뷰",
         "title": "Kendrick의 고점을 찾아서... [GKMC] vs [TPAB]",
@@ -218,16 +229,5 @@
         "commentNum": "5",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32560404",
-        "category": "인증/후기",
-        "title": "타일러 덕분에 첨 시켜본 마마스터치 치킨",
-        "href": "/fboard/32560404",
-        "author": "MarshallMathers",
-        "date": "2025.09.24",
-        "commentNum": "35",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
