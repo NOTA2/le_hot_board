@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32588917",
+        "category": "일반",
+        "title": "친구한테 생일 선물 받앗어요",
+        "href": "/fboard/32588917",
+        "author": "JPEGULTRA",
+        "date": "2025.10.03",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32585542",
         "category": "인증/후기",
         "title": "GOLLIWOG 바이닐 인증",
@@ -218,16 +229,5 @@
         "commentNum": "13",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32560651",
-        "category": "음악",
-        "title": "끈적이고 역겨운",
-        "href": "/fboard/32560651",
-        "author": "유레카9번트랙",
-        "date": "2025.09.24",
-        "commentNum": "5",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
