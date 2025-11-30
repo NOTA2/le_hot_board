@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32613206",
+        "category": "인증/후기",
+        "title": "Ye 4, 6집 구매했습니다",
+        "href": "/fboard/32613206",
+        "author": "쓸쓸하구만",
+        "date": "2025.10.11",
+        "commentNum": "21",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32611267",
         "category": "인증/후기",
         "title": "MMLP 25주년 한정반 인증",
@@ -205,17 +216,6 @@
         "author": "gunacho",
         "date": "2025.10.04",
         "commentNum": "16",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32590043",
-        "category": "일반",
-        "title": "드디어 끝난 위켄드 컬렉팅 (바이닐)",
-        "href": "/fboard/32590043",
-        "author": "갸나두리매베소",
-        "date": "2025.10.03",
-        "commentNum": "31",
         "isVideo": false,
         "isPhoto": true
     }
