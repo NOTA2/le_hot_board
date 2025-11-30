@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32699517",
+        "category": "인증/후기",
+        "title": "오늘 구매한 앨범들",
+        "href": "/fboard/32699517",
+        "author": "쓸쓸하구만",
+        "date": "2025.11.10",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32698881",
         "category": "리뷰",
         "title": "💿해외힙합 매거진 \"w/HAUS OF MATTERS\" #28",
@@ -206,17 +217,6 @@
         "date": "2025.11.04",
         "commentNum": "10",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32681442",
-        "category": "음악",
-        "title": "모스 데프 \"힙합에 대중문화가 되고 싶은 야망 같은 건 없었...",
-        "href": "/fboard/32681442",
-        "author": "다스시디어스",
-        "date": "2025.11.04",
-        "commentNum": "9",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
