@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32802273",
+        "category": "인증/후기",
+        "title": "11월달 구매 음반",
+        "href": "/fboard/32802273",
+        "author": "EPMDbaby",
+        "date": "2025.12.01",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32799807",
         "category": "일반",
         "title": "스눕독 책 냈네요",
         "href": "/fboard/32799807",
         "author": "안드레2999",
         "date": "2025.12.01",
-        "commentNum": "5",
+        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     },
@@ -206,17 +217,6 @@
         "date": "2025.11.24",
         "commentNum": "1",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32771603",
-        "category": "인증/후기",
-        "title": "Kanye 의 프로듀서 데뷔작 Grav 'Down to Earth' 인증",
-        "href": "/fboard/32771603",
-        "author": "DJSam",
-        "date": "2025.11.24",
-        "commentNum": "8",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
