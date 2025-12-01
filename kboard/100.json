@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28728650",
+        "category": "리뷰",
+        "title": "씨잼(C JAMM) -  가끔 난 날 안 믿어 『킁』 (분석 + 리뷰 = 감상문)",
+        "href": "/kboard/28728650",
+        "author": "코지보이",
+        "date": "2024.07.28",
+        "commentNum": "9",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28726472",
         "category": "일반",
         "title": "국힙 1년 6개월차 탑스터",
@@ -216,28 +227,6 @@
         "author": "행복하자",
         "date": "2024.07.23",
         "commentNum": "21",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28694312",
-        "category": "음악",
-        "title": "에킁은 아니고 버벌진트, 오케이션, 스윙스라고 생각합니다",
-        "href": "/kboard/28694312",
-        "author": "anmond",
-        "date": "2024.07.22",
-        "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28691210",
-        "category": "음악",
-        "title": "혼자 높이 솟은 산은 딱 eat 아닌가",
-        "href": "/kboard/28691210",
-        "author": "히팝뉴우비",
-        "date": "2024.07.22",
-        "commentNum": "13",
         "isVideo": false,
         "isPhoto": false
     }
