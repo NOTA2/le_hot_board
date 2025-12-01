@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32778478",
+        "category": "일반",
+        "title": "새우가 이렇게 말했는데? 이건 별 의미 없는거임 ㅇㅇ",
+        "href": "/kboard/32778478",
+        "author": "ㄱ그래놀라",
+        "date": "2025.11.26",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32781077",
         "category": "일반",
         "title": "쇼미7 재방 보다가 소름돋았네요;;;",
@@ -207,16 +218,5 @@
         "commentNum": "21",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32750157",
-        "category": "일반",
-        "title": "유승준이 왜 까이는지 모르겠다면",
-        "href": "/kboard/32750157",
-        "author": "777",
-        "date": "2025.11.21",
-        "commentNum": "34",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

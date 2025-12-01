@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32621193",
+        "category": "일반",
+        "title": "생일 축하해 Swings! 😍",
+        "href": "/kboard/32621193",
+        "author": "생일봇",
+        "date": "2025.10.13",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32619576",
         "category": "일반",
         "title": "수능 D-31",
@@ -216,17 +227,6 @@
         "author": "Local",
         "date": "2025.10.09",
         "commentNum": "4",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32605486",
-        "category": "일반",
-        "title": "여기서 킁을 되게 심도있게 다루네요",
-        "href": "/kboard/32605486",
-        "author": "아포칼립소",
-        "date": "2025.10.08",
-        "commentNum": "8",
         "isVideo": true,
         "isPhoto": false
     }
