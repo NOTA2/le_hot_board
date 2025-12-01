@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32592057",
+        "category": "인증/후기",
+        "title": "오늘 도착한 28개의 음반",
+        "href": "/fboard/32592057",
+        "author": "gunacho",
+        "date": "2025.10.04",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32590043",
         "category": "일반",
         "title": "드디어 끝난 위켄드 컬렉팅 (바이닐)",
@@ -217,17 +228,6 @@
         "date": "2025.09.26",
         "commentNum": "23",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32562824",
-        "category": "음악",
-        "title": "힙합의 도시 디트로이트",
-        "href": "/fboard/32562824",
-        "author": "다스시디어스",
-        "date": "2025.09.25",
-        "commentNum": "9",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
