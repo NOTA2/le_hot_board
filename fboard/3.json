@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32729093",
+        "category": "인증/후기",
+        "title": "Mos Def 일본반 CD Collection",
+        "href": "/fboard/32729093",
+        "author": "DJSam",
+        "date": "2025.11.18",
+        "commentNum": "16",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32727899",
         "category": "음악",
         "title": "GNX",
@@ -207,16 +218,5 @@
         "commentNum": "10",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32703165",
-        "category": "인증/후기",
-        "title": "GDLU!GDLU!GDLU!GDLU!GDLU!GDLU!",
-        "href": "/fboard/32703165",
-        "author": "heartpart618",
-        "date": "2025.11.11",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
