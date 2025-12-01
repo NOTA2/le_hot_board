@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32800825",
+        "category": "일반",
+        "title": "힙갤에서 본 인상적인 젓딧 평가글",
+        "href": "/kboard/32800825",
+        "author": "오션부활기원",
+        "date": "2025.12.01",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32799211",
         "category": "음악",
         "title": "욕먹더라도 할말 다 하는 래퍼들이 더 호감이긴함",
         "href": "/kboard/32799211",
         "author": "Dre드노트",
         "date": "2025.12.01",
-        "commentNum": "20",
+        "commentNum": "22",
         "isVideo": false,
         "isPhoto": true
     },
@@ -28,7 +39,7 @@
         "href": "/kboard/32797286",
         "author": "fnskxh",
         "date": "2025.11.30",
-        "commentNum": "13",
+        "commentNum": "15",
         "isVideo": false,
         "isPhoto": false
     },
@@ -207,16 +218,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32781077",
-        "category": "일반",
-        "title": "쇼미7 재방 보다가 소름돋았네요;;;",
-        "href": "/kboard/32781077",
-        "author": "성실",
-        "date": "2025.11.26",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

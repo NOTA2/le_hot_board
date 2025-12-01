@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32619576",
+        "category": "일반",
+        "title": "수능 D-31",
+        "href": "/kboard/32619576",
+        "author": "98364",
+        "date": "2025.10.13",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32618255",
         "category": "일반",
         "title": "Owen의 생일입니다! 🥳",
@@ -217,17 +228,6 @@
         "date": "2025.10.08",
         "commentNum": "8",
         "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32604911",
-        "category": "일반",
-        "title": "뉴챔프 원썬은 그냥 가만히 있었으면 좋겠다",
-        "href": "/kboard/32604911",
-        "author": "kny55",
-        "date": "2025.10.08",
-        "commentNum": "48",
-        "isVideo": false,
         "isPhoto": false
     }
 ]
