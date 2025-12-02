@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32632180",
+        "category": "리뷰",
+        "title": "[리뷰] DANGERDOOM - The Mouse & the Mask",
+        "href": "/fboard/32632180",
+        "author": "예리",
+        "date": "2025.10.18",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32632220",
         "category": "리뷰",
         "title": "[리뷰] Earl Sweatshirt - Live Laugh Love",
@@ -205,17 +216,6 @@
         "author": "쟈이즈",
         "date": "2025.10.13",
         "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32618244",
-        "category": "인증/후기",
-        "title": "Jay-Z  최고 역작 Reasonable Doubt 미국 초판 바이닐",
-        "href": "/fboard/32618244",
-        "author": "DJSam",
-        "date": "2025.10.12",
-        "commentNum": "41",
         "isVideo": false,
         "isPhoto": true
     }

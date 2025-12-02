@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32597765",
+        "category": "일반",
+        "title": "추석 선물",
+        "href": "/fboard/32597765",
+        "author": "혹스턴",
+        "date": "2025.10.06",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32596490",
         "category": "일반",
         "title": "[음반 용어 사전 1편~10편] 통합 버전 재업",
@@ -217,17 +228,6 @@
         "date": "2025.09.27",
         "commentNum": "5",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32539145",
-        "category": "리뷰",
-        "title": "★★★★★ / 위대한 힙합 걸작들.",
-        "href": "/fboard/32539145",
-        "author": "온암",
-        "date": "2025.09.27",
-        "commentNum": "33",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
