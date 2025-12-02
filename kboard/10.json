@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32622727",
+        "category": "인증/후기",
+        "title": "이를 안다면 개추를 누르시오",
+        "href": "/kboard/32622727",
+        "author": "희대의",
+        "date": "2025.10.14",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32621977",
         "category": "일반",
         "title": "??? : 하 시바 이거 7주년인데 누굴 불러야 되냐 누굴 불러도 개지랄 할 거 같은데;;;;",
@@ -218,16 +229,5 @@
         "commentNum": "1",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32608526",
-        "category": "일반",
-        "title": "저렇게까지 말하는거 보면",
-        "href": "/kboard/32608526",
-        "author": "히파팬",
-        "date": "2025.10.09",
-        "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

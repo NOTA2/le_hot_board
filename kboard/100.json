@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28738630",
+        "category": "일반",
+        "title": "요즘 세우 앨범리뷰 잘 안 올라오는 이유",
+        "href": "/kboard/28738630",
+        "author": "포라",
+        "date": "2024.07.29",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28729749",
         "category": "일반",
         "title": "스카이민혁이 개쩌는 이유는",
@@ -217,17 +228,6 @@
         "date": "2024.07.23",
         "commentNum": "5",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28705701",
-        "category": "일반",
-        "title": "안녕하세요 와이챈스입니다. 하고싶은 말이 또 있어요",
-        "href": "/kboard/28705701",
-        "author": "brandyY",
-        "date": "2024.07.24",
-        "commentNum": "18",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
