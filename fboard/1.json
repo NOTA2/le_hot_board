@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32805459",
+        "category": "리뷰",
+        "title": "[리뷰] Rome Streetz, 『Kiss The Ring』: 차가운 대관식",
+        "href": "/fboard/32805459",
+        "author": "Unicorn",
+        "date": "2025.12.02",
+        "commentNum": "",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32804153",
         "category": "음악",
         "title": "제인 리무버 신곡 “So What? ♡” 12월 5일",
@@ -17,7 +28,7 @@
         "href": "/fboard/32803329",
         "author": "음충이",
         "date": "2025.12.01",
-        "commentNum": "18",
+        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "10",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32774769",
-        "category": "인증/후기",
-        "title": "페기 이 십새기 이제 음반으로 장난을 치네",
-        "href": "/fboard/32774769",
-        "author": "Nyeong",
-        "date": "2025.11.25",
-        "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
