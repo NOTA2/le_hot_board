@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_29285158",
+        "category": "음악",
+        "title": "외힙충인 본인 기준으로",
+        "href": "/kboard/29285158",
+        "author": "칸예예",
+        "date": "2024.09.20",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_29274092",
         "category": "일반",
         "title": "소신발언2) 킁은 좀 고평가돼있음",
@@ -205,17 +216,6 @@
         "author": "Route",
         "date": "2024.09.16",
         "commentNum": "15",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_29215372",
-        "category": "음악",
-        "title": "개추부탁",
-        "href": "/kboard/29215372",
-        "author": "Ghwn",
-        "date": "2024.09.16",
-        "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
     }

@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32802703",
+        "category": "일반",
+        "title": "인터넷에서 뭐든 싸움이 나면 꼭 있는 부류가",
+        "href": "/kboard/32802703",
+        "author": "포라",
+        "date": "2025.12.01",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32802401",
         "category": "일반",
         "title": "깡계 새끼뱀들 지령 제대로 받았네 ㅇㅇ",
         "href": "/kboard/32802401",
         "author": "ㄱ그래놀라",
         "date": "2025.12.01",
-        "commentNum": "22",
+        "commentNum": "23",
         "isVideo": false,
         "isPhoto": false
     },
@@ -17,7 +28,7 @@
         "href": "/kboard/32800825",
         "author": "오션부활기원",
         "date": "2025.12.01",
-        "commentNum": "12",
+        "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "KangHosam",
         "date": "2025.11.27",
         "commentNum": "20",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32782365",
-        "category": "리뷰",
-        "title": "릿, 상실이라는 묘혈",
-        "href": "/kboard/32782365",
-        "author": "정밀",
-        "date": "2025.11.26",
-        "commentNum": "15",
         "isVideo": false,
         "isPhoto": false
     }
