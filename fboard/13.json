@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32530942",
+        "category": "음악",
+        "title": "[장문, 데이터주의] 두서 없이 갈겨보는 타일러 내한 후기(1일차)",
+        "href": "/fboard/32530942",
+        "author": "패션커쇼",
+        "date": "2025.09.14",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32530997",
         "category": "인증/후기",
         "title": "대충 클라우드랩 음반 인증",
@@ -207,16 +218,5 @@
         "commentNum": "23",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32517395",
-        "category": "리뷰",
-        "title": "Kevin Abstract - BLUSH 리뷰",
-        "href": "/fboard/32517395",
-        "author": "공ZA",
-        "date": "2025.09.09",
-        "commentNum": "6",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]

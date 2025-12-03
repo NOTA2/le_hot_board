@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32600427",
+        "category": "음악",
+        "title": "소신발언",
+        "href": "/fboard/32600427",
+        "author": "천재금붕어모임",
+        "date": "2025.10.07",
+        "commentNum": "34",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32597765",
         "category": "일반",
         "title": "추석 선물",
@@ -216,17 +227,6 @@
         "author": "다스시디어스",
         "date": "2025.09.28",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32569159",
-        "category": "인증/후기",
-        "title": "시험기간 기념 cd 샀음니다",
-        "href": "/fboard/32569159",
-        "author": "국힙버러지손심바",
-        "date": "2025.09.27",
-        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     }

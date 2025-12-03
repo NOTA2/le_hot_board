@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32632428",
+        "category": "음악",
+        "title": "외국 힙합 입문 4장 : [익스페리멘탈 힙합 입문 초석 다지기]",
+        "href": "/fboard/32632428",
+        "author": "히오스는니얼굴이다",
+        "date": "2025.10.18",
+        "commentNum": "5",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32632180",
         "category": "리뷰",
         "title": "[리뷰] DANGERDOOM - The Mouse & the Mask",
@@ -205,17 +216,6 @@
         "author": "천재금붕어모임",
         "date": "2025.10.13",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32617945",
-        "category": "리뷰",
-        "title": "💿해외힙합 매거진 \"w/HAUS OF MATTERS\" #27",
-        "href": "/fboard/32617945",
-        "author": "쟈이즈",
-        "date": "2025.10.13",
-        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     }
