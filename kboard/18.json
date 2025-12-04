@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_32506105",
+        "category": "음악",
+        "title": "한국힙합 팬들이 제일 못하는 것",
+        "href": "/kboard/32506105",
+        "author": "i127qfml",
+        "date": "2025.09.06",
+        "commentNum": "13",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_32505382",
+        "category": "일반",
+        "title": "한국힙합 매거진 HOM #28 9월 8일 공개 예정!",
+        "href": "/kboard/32505382",
+        "author": "쟈이즈",
+        "date": "2025.09.06",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32506587",
         "category": "음악",
         "title": "안녕하세요 언텔입니다.",
@@ -196,27 +218,5 @@
         "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_32493322",
-        "category": "일반",
-        "title": "저스디스: LIT 완성됐다. 발매일도 확정됐다",
-        "href": "/kboard/32493322",
-        "author": "Eastcoast",
-        "date": "2025.09.01",
-        "commentNum": "36",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32492784",
-        "category": "음악",
-        "title": "쇼미 지원 진짜 아직까진 너무 아쉽네",
-        "href": "/kboard/32492784",
-        "author": "롤링라우드롤렉스롤스라이스",
-        "date": "2025.09.01",
-        "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

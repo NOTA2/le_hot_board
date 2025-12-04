@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_32478702",
+        "category": "음악",
+        "title": "이러니 저러니 해도",
+        "href": "/kboard/32478702",
+        "author": "djfheo",
+        "date": "2025.08.28",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_32477774",
+        "category": "일반",
+        "title": "원영적 사고",
+        "href": "/kboard/32477774",
+        "author": "크랙커",
+        "date": "2025.08.27",
+        "commentNum": "3",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32477577",
         "category": "리뷰",
         "title": "E SENS <The Anecdote>를 기념하며",
@@ -196,27 +218,5 @@
         "commentNum": "2",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32462885",
-        "category": "인증/후기",
-        "title": "G2 x Kid Ash / Project : Brainwash",
-        "href": "/kboard/32462885",
-        "author": "hoki03",
-        "date": "2025.08.24",
-        "commentNum": "3",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32463679",
-        "category": "그림/아트웍",
-        "title": "번역 중 손실 피규어로 만들기 2편",
-        "href": "/kboard/32463679",
-        "author": "Djdejddl",
-        "date": "2025.08.24",
-        "commentNum": "6",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
