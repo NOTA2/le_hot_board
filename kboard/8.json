@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32664712",
+        "category": "음악",
+        "title": "하루만 기다리면 LIT이 나와요!",
+        "href": "/kboard/32664712",
+        "author": "Alonso2000",
+        "date": "2025.10.29",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32663911",
         "category": "일반",
         "title": "오늘 힙플 라디오 레전드네요",
@@ -206,17 +217,6 @@
         "date": "2025.10.23",
         "commentNum": "27",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32651089",
-        "category": "인증/후기",
-        "title": "BEATOLOGY VOL.1 at Pohs-Tihs RECAP",
-        "href": "/kboard/32651089",
-        "author": "BLVU",
-        "date": "2025.10.24",
-        "commentNum": "",
-        "isVideo": true,
         "isPhoto": true
     }
 ]

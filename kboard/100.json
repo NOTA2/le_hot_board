@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28767562",
+        "category": "일반",
+        "title": "힙린이의 탑스터",
+        "href": "/kboard/28767562",
+        "author": "오버래핑",
+        "date": "2024.08.01",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28771277",
         "category": "음악",
         "title": "오늘 생일인데 부탁이 하나 있습니다 여러분!!",
@@ -216,28 +227,6 @@
         "author": "계단에다내던져",
         "date": "2024.07.27",
         "commentNum": "",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28721866",
-        "category": "인증/후기",
-        "title": "어제 신촌 알라딘에서 산 앨범",
-        "href": "/kboard/28721866",
-        "author": "Rainymatic",
-        "date": "2024.07.26",
-        "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28726093",
-        "category": "그림/아트웍",
-        "title": "안녕하세요. 제가 돌아왔습니다. 그리웠어요 :) 🎨",
-        "href": "/kboard/28726093",
-        "author": "shawtyfromseoul",
-        "date": "2024.07.27",
-        "commentNum": "44",
         "isVideo": false,
         "isPhoto": true
     }

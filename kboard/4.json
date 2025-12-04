@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32738067",
+        "category": "리뷰",
+        "title": "저스디스 - [LIT] 후기",
+        "href": "/kboard/32738067",
+        "author": "성실",
+        "date": "2025.11.20",
+        "commentNum": "16",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32735108",
         "category": "인증/후기",
         "title": "국힙 바이닐 구입한 것들, 그리고 안 산 것들 정리.",
@@ -207,16 +218,5 @@
         "commentNum": "11",
         "isVideo": true,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32714001",
-        "category": "인증/후기",
-        "title": "국힙 100대 명반 모으기 55일차",
-        "href": "/kboard/32714001",
-        "author": "Khiphop100",
-        "date": "2025.11.14",
-        "commentNum": "",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
