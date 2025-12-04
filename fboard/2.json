@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32781274",
+        "category": "리뷰",
+        "title": "짧은 글들",
+        "href": "/fboard/32781274",
+        "author": "귀염뽀짝앤디모린",
+        "date": "2025.11.26",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32780990",
         "category": "인증/후기",
         "title": "Dijon - Baby",
@@ -205,17 +216,6 @@
         "author": "lambda",
         "date": "2025.11.20",
         "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32735509",
-        "category": "인증/후기",
-        "title": "Jackzebra 시디 인증",
-        "href": "/fboard/32735509",
-        "author": "ꓬe",
-        "date": "2025.11.20",
-        "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
     }
