@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32816091",
+        "category": "일반",
+        "title": "찐명반이면 투표글 이런 거 안올라옴 ㅇㅇ",
+        "href": "/kboard/32816091",
+        "author": "ㄱ그래놀라",
+        "date": "2025.12.04",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32815214",
         "category": "일반",
         "title": "릿누에킁 릿 탈락",
         "href": "/kboard/32815214",
         "author": "nayaaaanw",
         "date": "2025.12.04",
-        "commentNum": "10",
+        "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "팟드",
         "date": "2025.11.30",
         "commentNum": "25",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32794268",
-        "category": "음악",
-        "title": "스윙스가 이정도 취급을 받으면 안되는 래퍼라는건 뭔소린지",
-        "href": "/kboard/32794268",
-        "author": "오마르",
-        "date": "2025.11.29",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": false
     }

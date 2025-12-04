@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28528109",
+        "category": "일반",
+        "title": "진짜 뷰너한테 있는 정 없는 정 다 떨어진점",
+        "href": "/kboard/28528109",
+        "author": "redstar",
+        "date": "2024.06.27",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28525702",
+        "category": "인증/후기",
+        "title": "충격과 공포의 블라세 Debugging 피지컬 후기",
+        "href": "/kboard/28525702",
+        "author": "성실",
+        "date": "2024.06.27",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28520190",
         "category": "일반",
         "title": "힙x)최근에 본 사건중에서 너무 화가나고 어이없는 사건",
@@ -196,27 +218,5 @@
         "commentNum": "21",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28496385",
-        "category": "일반",
-        "title": "과나같이 아닌척 하면서 혐오하는게 더 역겹습니다",
-        "href": "/kboard/28496385",
-        "author": "준원정훈성민",
-        "date": "2024.06.23",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28496510",
-        "category": "일반",
-        "title": "손심바로 끓인 보신탕",
-        "href": "/kboard/28496510",
-        "author": "난지우다",
-        "date": "2024.06.23",
-        "commentNum": "19",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
