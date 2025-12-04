@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32818165",
+        "category": "인증/후기",
+        "title": "Alfredo 1 &2 - CD와 LP들",
+        "href": "/fboard/32818165",
+        "author": "DJSam",
+        "date": "2025.12.04",
+        "commentNum": "2",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32818229",
         "category": "일반",
         "title": "올해 젤 많이 들은 게 켄드릭이라니",
         "href": "/fboard/32818229",
         "author": "타이가달라한사인",
         "date": "2025.12.04",
-        "commentNum": "3",
+        "commentNum": "6",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "KingGeedorah",
         "date": "2025.11.27",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32779741",
-        "category": "음악",
-        "title": "복귀기념) 음악 입문 2년만에 첫 탑스터",
-        "href": "/fboard/32779741",
-        "author": "김건혁",
-        "date": "2025.11.26",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": true
     }

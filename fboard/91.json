@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_28810144",
+        "category": "일반",
+        "title": "BIG ANNOUNCEMENT",
+        "href": "/fboard/28810144",
+        "author": "clayboiparty",
+        "date": "2024.08.06",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_28817460",
         "category": "인증/후기",
         "title": "오늘의 강력한 한방 디깅.jpeg",
@@ -205,17 +216,6 @@
         "author": "몬스터먹고싶다",
         "date": "2024.08.01",
         "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_28770836",
-        "category": "일반",
-        "title": "최근에 구매한 음반들",
-        "href": "/fboard/28770836",
-        "author": "Wiwiiwiw",
-        "date": "2024.08.01",
-        "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
     }

@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_31570493",
+        "category": "음악",
+        "title": "Playboi Carti - MUSIC - SORRY 4 DA WAIT",
+        "href": "/fboard/31570493",
+        "author": "강이현",
+        "date": "2025.03.26",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_31565653",
         "category": "일반",
         "title": "피치포크 리뷰",
@@ -206,17 +217,6 @@
         "date": "2025.03.22",
         "commentNum": "43",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_31519725",
-        "category": "리뷰",
-        "title": "Kanye West - Ye (오랜만에 끄적여본 리뷰)",
-        "href": "/fboard/31519725",
-        "author": "PDFMAFIA",
-        "date": "2025.03.21",
-        "commentNum": "41",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
