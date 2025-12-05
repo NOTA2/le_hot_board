@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_30325937",
+        "category": "일반",
+        "title": "[많이 진지] 인디고에이드입니다. 저는 성공하지 못했습니다.",
+        "href": "/kboard/30325937",
+        "author": "indegoaid",
+        "date": "2024.12.27",
+        "commentNum": "27",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_30322273",
         "category": "인증/후기",
         "title": "국힙 희귀반 인증",
@@ -205,17 +216,6 @@
         "author": "이센스센이",
         "date": "2024.12.22",
         "commentNum": "29",
-        "isVideo": true,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_30269381",
-        "category": "일반",
-        "title": "솔직히 파랑 구리다하면 막귀임;;",
-        "href": "/kboard/30269381",
-        "author": "Kan￥ewe$t",
-        "date": "2024.12.22",
-        "commentNum": "14",
         "isVideo": true,
         "isPhoto": false
     }
