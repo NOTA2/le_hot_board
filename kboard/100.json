@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28779940",
+        "category": "음악",
+        "title": "스윙스의 호들갑 중 지켜졌어야 했던 것",
+        "href": "/kboard/28779940",
+        "author": "ansaninLBNC",
+        "date": "2024.08.02",
+        "commentNum": "15",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28779314",
         "category": "일반",
         "title": "정상수 근황..jpg",
@@ -217,28 +228,6 @@
         "date": "2024.07.28",
         "commentNum": "25",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28727847",
-        "category": "음악",
-        "title": "키스에이프 깡 좆되네여 ㅋㅋㅋㅋ",
-        "href": "/kboard/28727847",
-        "author": "RODDagger",
-        "date": "2024.07.28",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28728650",
-        "category": "리뷰",
-        "title": "씨잼(C JAMM) -  가끔 난 날 안 믿어 『킁』 (분석 + 리뷰 = 감상문)",
-        "href": "/kboard/28728650",
-        "author": "코지보이",
-        "date": "2024.07.28",
-        "commentNum": "9",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
