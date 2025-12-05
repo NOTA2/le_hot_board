@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_32516020",
+        "category": "일반",
+        "title": "어느새부터 야마는 안멋져 ㅇㅇ",
+        "href": "/kboard/32516020",
+        "author": "ㄱ그래놀라",
+        "date": "2025.09.09",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_32514957",
+        "category": "인증/후기",
+        "title": "버벌진트 전집은 멀고도 험해 (1)",
+        "href": "/kboard/32514957",
+        "author": "희대의",
+        "date": "2025.09.08",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32512833",
         "category": "음악",
         "title": "아 비프리 보고싶다",
@@ -194,28 +216,6 @@
         "author": "물결",
         "date": "2025.09.04",
         "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32497821",
-        "category": "인증/후기",
-        "title": "에넥도트 10주년 음반 도착 (+그리고)",
-        "href": "/kboard/32497821",
-        "author": "쓸쓸하구만",
-        "date": "2025.09.03",
-        "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32497653",
-        "category": "인증/후기",
-        "title": "에넥도트 도착",
-        "href": "/kboard/32497653",
-        "author": "과카몰리",
-        "date": "2025.09.03",
-        "commentNum": "4",
         "isVideo": false,
         "isPhoto": true
     }
