@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32657641",
+        "category": "일반",
+        "title": "N워드는",
+        "href": "/fboard/32657641",
+        "author": "뇌졸증",
+        "date": "2025.10.26",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32658286",
         "category": "리뷰",
         "title": "불가사의 / 메시아/ 부두",
@@ -206,17 +217,6 @@
         "date": "2025.10.21",
         "commentNum": "27",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32638806",
-        "category": "음악",
-        "title": "4.5점 준 힙합 앨범들",
-        "href": "/fboard/32638806",
-        "author": "외힙노인",
-        "date": "2025.10.20",
-        "commentNum": "22",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
