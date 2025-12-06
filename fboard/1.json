@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32826473",
+        "category": "리뷰",
+        "title": "Nas - Life Is Good",
+        "href": "/fboard/32826473",
+        "author": "키디애쉬",
+        "date": "2025.12.06",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32825908",
         "category": "음악",
         "title": "그냥 클립스가 받으면 좋겠다",
         "href": "/fboard/32825908",
         "author": "외힙노인",
         "date": "2025.12.06",
-        "commentNum": "5",
+        "commentNum": "9",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "ꓬe",
         "date": "2025.11.27",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32786599",
-        "category": "리뷰",
-        "title": "리뷰글",
-        "href": "/fboard/32786599",
-        "author": "천재금붕어모임",
-        "date": "2025.11.27",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     }
