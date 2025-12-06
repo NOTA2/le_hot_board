@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32824840",
+        "category": "일반",
+        "title": "BTS, 봉준호, 손흥민, 윤여정, 한강, ...",
+        "href": "/kboard/32824840",
+        "author": "성실",
+        "date": "2025.12.06",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32822454",
         "category": "일반",
         "title": "국힙도 이제 오피움 따라잡이를 멈춰야함",
@@ -205,17 +216,6 @@
         "author": "ㄱ그래놀라",
         "date": "2025.12.02",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32805654",
-        "category": "음악",
-        "title": "스윙스의 음악적 사망을 원한다면 필독(*존나 김)",
-        "href": "/kboard/32805654",
-        "author": "anmond",
-        "date": "2025.12.02",
-        "commentNum": "28",
         "isVideo": false,
         "isPhoto": false
     }
