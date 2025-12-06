@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28790962",
+        "category": "일반",
+        "title": "한국힙합이 힘든 사람들의 음악이었나",
+        "href": "/kboard/28790962",
+        "author": "ansaninLBNC",
+        "date": "2024.08.03",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28789792",
         "category": "그림/아트웍",
         "title": "[팬아트] 던말릭 - Thursdayclub Mixtape",
@@ -218,16 +229,5 @@
         "commentNum": "27",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_28738630",
-        "category": "일반",
-        "title": "요즘 세우 앨범리뷰 잘 안 올라오는 이유",
-        "href": "/kboard/28738630",
-        "author": "포라",
-        "date": "2024.07.29",
-        "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
