@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32639369",
+        "category": "일반",
+        "title": "KC의 멤버들이 텔레비전을 보고 있었다.",
+        "href": "/kboard/32639369",
+        "author": "Insoo",
+        "date": "2025.10.20",
+        "commentNum": "22",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32638167",
         "category": "일반",
         "title": "근데 여기 사이트 운영진들 이제 관리 안하나여",
@@ -216,17 +227,6 @@
         "author": "Yeisdumbasf",
         "date": "2025.10.14",
         "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32621193",
-        "category": "일반",
-        "title": "생일 축하해 Swings! 😍",
-        "href": "/kboard/32621193",
-        "author": "생일봇",
-        "date": "2025.10.13",
-        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     }
