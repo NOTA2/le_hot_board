@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32789537",
+        "category": "인증/후기",
+        "title": "음악 많이 듣지도 않으면서 소신 발언을 한다는 게",
+        "href": "/fboard/32789537",
+        "author": "23시",
+        "date": "2025.11.28",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32788457",
         "category": "리뷰",
         "title": "물병자리로의 여정, 소울쿼리언스에 대하여 #1",
@@ -206,17 +217,6 @@
         "date": "2025.11.22",
         "commentNum": "9",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "fboard_32753145",
-        "category": "일반",
-        "title": "본인이 순수 음악력으로 벽 느낀 앨범 2개",
-        "href": "/fboard/32753145",
-        "author": "크랙커",
-        "date": "2025.11.21",
-        "commentNum": "3",
-        "isVideo": true,
         "isPhoto": false
     }
 ]
