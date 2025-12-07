@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32832038",
+        "category": "인증/후기",
+        "title": "[90년대 붐뱁 프로듀서] 22. L.E.S",
+        "href": "/fboard/32832038",
+        "author": "DJSam",
+        "date": "2025.12.07",
+        "commentNum": "3",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32828782",
         "category": "인증/후기",
         "title": "바이닐 인증 - MF DOOM 과 NAS 가 만나면?",
         "href": "/fboard/32828782",
         "author": "DJSam",
         "date": "2025.12.07",
-        "commentNum": "16",
+        "commentNum": "17",
         "isVideo": true,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "realisshogirl",
         "date": "2025.11.30",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32791781",
-        "category": "인증/후기",
-        "title": "[90년대 붐뱁 프로듀서] 21. K-Def",
-        "href": "/fboard/32791781",
-        "author": "DJSam",
-        "date": "2025.11.29",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     }

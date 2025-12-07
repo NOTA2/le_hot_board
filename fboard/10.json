@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32610598",
+        "category": "일반",
+        "title": "해외힙합 매거진 w/HOM #27 10월 13일 공개 예정!",
+        "href": "/fboard/32610598",
+        "author": "쟈이즈",
+        "date": "2025.10.10",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32608150",
         "category": "일반",
         "title": "도쿄에서 칸예 만났습니다",
@@ -216,17 +227,6 @@
         "author": "마틴로즈",
         "date": "2025.10.02",
         "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32583361",
-        "category": "리뷰",
-        "title": "Kendrick의 고점을 찾아서... [GKMC] vs [TPAB]",
-        "href": "/fboard/32583361",
-        "author": "천재금붕어모임",
-        "date": "2025.10.01",
-        "commentNum": "23",
         "isVideo": false,
         "isPhoto": true
     }
