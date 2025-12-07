@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32642680",
+        "category": "인증/후기",
+        "title": "힙합에서 멀어져가는 지금 올려보는 인증글",
+        "href": "/kboard/32642680",
+        "author": "YTT",
+        "date": "2025.10.21",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32641690",
         "category": "일반",
         "title": "LIT 지금 당장 들을 수 있는 방법",
@@ -216,17 +227,6 @@
         "author": "진진바리진진",
         "date": "2025.10.15",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32624787",
-        "category": "음악",
-        "title": "확실히 스윙스는 컴필을 개잘뽑네",
-        "href": "/kboard/32624787",
-        "author": "Rainymatic",
-        "date": "2025.10.15",
-        "commentNum": "10",
         "isVideo": false,
         "isPhoto": false
     }

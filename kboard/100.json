@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_28800317",
+        "category": "인증/후기",
+        "title": "많이늦은 비프리&이케이 실물영접후기",
+        "href": "/kboard/28800317",
+        "author": "야마단",
+        "date": "2024.08.04",
+        "commentNum": "14",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28796036",
         "category": "리뷰",
         "title": "씨잼(C JAMM) - ㅈ (Error) 『킁』 (분석 + 리뷰 = 감상문)",
@@ -218,27 +229,5 @@
         "commentNum": "55",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28747919",
-        "category": "음악",
-        "title": "최근 국힙 한짤 요약",
-        "href": "/kboard/28747919",
-        "author": "델른",
-        "date": "2024.07.30",
-        "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28736490",
-        "category": "음악",
-        "title": "영쿡과 비솝은 랩을 개잘했어요",
-        "href": "/kboard/28736490",
-        "author": "anmond",
-        "date": "2024.07.29",
-        "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32828500",
+        "category": "일반",
+        "title": "릿 왤케 안질리지",
+        "href": "/kboard/32828500",
+        "author": "쿠쿠쿠쿠",
+        "date": "2025.12.07",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32828005",
         "category": "일반",
         "title": "저스디스는 릿에서 굉장히 초보적인 실수를 한 거 같습니다",
@@ -207,16 +218,5 @@
         "commentNum": "",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32808615",
-        "category": "일반",
-        "title": "빈지노 인스타 댓글창",
-        "href": "/kboard/32808615",
-        "author": "BCJS",
-        "date": "2025.12.02",
-        "commentNum": "39",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
