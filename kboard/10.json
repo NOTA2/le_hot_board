@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32641690",
+        "category": "일반",
+        "title": "LIT 지금 당장 들을 수 있는 방법",
+        "href": "/kboard/32641690",
+        "author": "Sydd",
+        "date": "2025.10.21",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32641640",
         "category": "일반",
         "title": "엘이에 있으면 좋을 거 같은 기능",
@@ -218,27 +229,5 @@
         "commentNum": "10",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32624234",
-        "category": "인증/후기",
-        "title": "국힙 100대 명반 모으기 25일차",
-        "href": "/kboard/32624234",
-        "author": "Khiphop100",
-        "date": "2025.10.15",
-        "commentNum": "11",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32623268",
-        "category": "일반",
-        "title": "[속보] 팔로알토, 이센스 스토리 재차 저격",
-        "href": "/kboard/32623268",
-        "author": "일식돕칠",
-        "date": "2025.10.14",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

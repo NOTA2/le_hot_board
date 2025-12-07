@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28796036",
+        "category": "리뷰",
+        "title": "씨잼(C JAMM) - ㅈ (Error) 『킁』 (분석 + 리뷰 = 감상문)",
+        "href": "/kboard/28796036",
+        "author": "코지보이",
+        "date": "2024.08.04",
+        "commentNum": "8",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28792106",
+        "category": "일반",
+        "title": "쇼미11은 진지하게 이영지 돌잔치같네",
+        "href": "/kboard/28792106",
+        "author": "류조니서태지이건거리의시",
+        "date": "2024.08.03",
+        "commentNum": "40",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_28790962",
         "category": "일반",
         "title": "한국힙합이 힘든 사람들의 음악이었나",
@@ -216,17 +238,6 @@
         "author": "anmond",
         "date": "2024.07.29",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_28737154",
-        "category": "음악",
-        "title": "저번에 누에킁 때문에 시끄럽길래 들어봤는데",
-        "href": "/kboard/28737154",
-        "author": "Ghwn",
-        "date": "2024.07.29",
-        "commentNum": "27",
         "isVideo": false,
         "isPhoto": false
     }

@@ -1,5 +1,27 @@
 [
     {
+        "id": "kboard_28844982",
+        "category": "일반",
+        "title": "한국힙합 유저매거진 HOM #15 예고 + 매거진 디자이너 모집 중!",
+        "href": "/kboard/28844982",
+        "author": "쟈이즈",
+        "date": "2024.08.09",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_28848245",
+        "category": "일반",
+        "title": "흑화(?)해버린 BTS 슈가 팬...",
+        "href": "/kboard/28848245",
+        "author": "paidinfull",
+        "date": "2024.08.09",
+        "commentNum": "50",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_28844438",
         "category": "일반",
         "title": "흔한 센충이님 유튜브 채널이 악의적 신고로 삭제됐다하네요",
@@ -196,27 +218,5 @@
         "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "kboard_28796036",
-        "category": "리뷰",
-        "title": "씨잼(C JAMM) - ㅈ (Error) 『킁』 (분석 + 리뷰 = 감상문)",
-        "href": "/kboard/28796036",
-        "author": "코지보이",
-        "date": "2024.08.04",
-        "commentNum": "8",
-        "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_28792106",
-        "category": "일반",
-        "title": "쇼미11은 진지하게 이영지 돌잔치같네",
-        "href": "/kboard/28792106",
-        "author": "류조니서태지이건거리의시",
-        "date": "2024.08.03",
-        "commentNum": "40",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

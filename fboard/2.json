@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32785920",
+        "category": "인증/후기",
+        "title": "아마 한국에 나밖에 없을 시디",
+        "href": "/fboard/32785920",
+        "author": "ꓬe",
+        "date": "2025.11.27",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32786599",
         "category": "리뷰",
         "title": "리뷰글",
@@ -205,17 +216,6 @@
         "author": "gunacho",
         "date": "2025.11.22",
         "commentNum": "8",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32752740",
-        "category": "일반",
-        "title": "What’s a fashion trend you regret participating in?",
-        "href": "/fboard/32752740",
-        "author": "히팝뉴우비",
-        "date": "2025.11.21",
-        "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
     }
