@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32829036",
+        "category": "일반",
+        "title": "소신발언) 프더비 > 누에킁",
+        "href": "/kboard/32829036",
+        "author": "왕의존재",
+        "date": "2025.12.07",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32828500",
         "category": "일반",
         "title": "릿 왤케 안질리지",
@@ -17,7 +28,7 @@
         "href": "/kboard/32828005",
         "author": "mtake",
         "date": "2025.12.06",
-        "commentNum": "15",
+        "commentNum": "16",
         "isVideo": false,
         "isPhoto": false
     },
@@ -205,17 +216,6 @@
         "author": "어러러ㅓ",
         "date": "2025.12.03",
         "commentNum": "49",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32810002",
-        "category": "리뷰",
-        "title": "저스디스 릿은",
-        "href": "/kboard/32810002",
-        "author": "간옳말",
-        "date": "2025.12.03",
-        "commentNum": "",
         "isVideo": false,
         "isPhoto": false
     }
