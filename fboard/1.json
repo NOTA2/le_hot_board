@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32831555",
+        "category": "일반",
+        "title": "칸예 전집 (바이닐)",
+        "href": "/fboard/32831555",
+        "author": "갸나두리매베소",
+        "date": "2025.12.07",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32833300",
         "category": "리뷰",
         "title": "💿해외힙합 매거진 \"w/HAUS OF MATTERS\" #29",
         "href": "/fboard/32833300",
         "author": "쟈이즈",
         "date": "2025.12.08",
-        "commentNum": "",
+        "commentNum": "1",
         "isVideo": false,
         "isPhoto": true
     },
@@ -28,7 +39,7 @@
         "href": "/fboard/32832038",
         "author": "DJSam",
         "date": "2025.12.07",
-        "commentNum": "8",
+        "commentNum": "10",
         "isVideo": true,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "안드레2999",
         "date": "2025.12.01",
         "commentNum": "12",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32797471",
-        "category": "음악",
-        "title": "간략한 연간 신보 훑어보기 - 힙합",
-        "href": "/fboard/32797471",
-        "author": "Pushedash",
-        "date": "2025.11.30",
-        "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
     }

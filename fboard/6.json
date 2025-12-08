@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32681674",
+        "category": "음악",
+        "title": "오늘 도착한 앨범들",
+        "href": "/fboard/32681674",
+        "author": "쓸쓸하구만",
+        "date": "2025.11.04",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32681442",
         "category": "음악",
         "title": "모스 데프 \"힙합에 대중문화가 되고 싶은 야망 같은 건 없었...",
@@ -207,16 +218,5 @@
         "commentNum": "13",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32667873",
-        "category": "음악",
-        "title": "힙합 역사상 가장 놀라운 곡",
-        "href": "/fboard/32667873",
-        "author": "yuke",
-        "date": "2025.10.30",
-        "commentNum": "7",
-        "isVideo": true,
-        "isPhoto": false
     }
 ]
