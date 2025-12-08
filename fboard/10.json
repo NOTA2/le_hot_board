@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32611267",
+        "category": "인증/후기",
+        "title": "MMLP 25주년 한정반 인증",
+        "href": "/fboard/32611267",
+        "author": "이마이넘",
+        "date": "2025.10.10",
+        "commentNum": "11",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32611104",
         "category": "인증/후기",
         "title": "Apollo Brown - CD / LP Collection",
@@ -217,17 +228,6 @@
         "date": "2025.10.03",
         "commentNum": "3",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32588917",
-        "category": "일반",
-        "title": "친구한테 생일 선물 받앗어요",
-        "href": "/fboard/32588917",
-        "author": "JPEGULTRA",
-        "date": "2025.10.03",
-        "commentNum": "7",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

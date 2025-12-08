@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32833300",
+        "category": "리뷰",
+        "title": "💿해외힙합 매거진 \"w/HAUS OF MATTERS\" #29",
+        "href": "/fboard/32833300",
+        "author": "쟈이즈",
+        "date": "2025.12.08",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32828461",
         "category": "일반",
         "title": "갑작스러운 예 내한과 내한 공연 루머",
@@ -17,7 +28,7 @@
         "href": "/fboard/32832038",
         "author": "DJSam",
         "date": "2025.12.07",
-        "commentNum": "6",
+        "commentNum": "8",
         "isVideo": true,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32796141",
-        "category": "음악",
-        "title": "도움이 필요합니다",
-        "href": "/fboard/32796141",
-        "author": "천재금붕어모임",
-        "date": "2025.11.30",
-        "commentNum": "19",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
