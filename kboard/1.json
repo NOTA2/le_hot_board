@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32833199",
+        "category": "리뷰",
+        "title": "💿한국힙합 매거진 \"HAUS OF MATTERS\" #31",
+        "href": "/kboard/32833199",
+        "author": "쟈이즈",
+        "date": "2025.12.08",
+        "commentNum": "7",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32831385",
         "category": "인증/후기",
         "title": "내가 누구? 최엘비 전집싸인반 오우너",
@@ -205,17 +216,6 @@
         "author": "일식돕칠",
         "date": "2025.12.03",
         "commentNum": "46",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32808505",
-        "category": "음악",
-        "title": "재달 앨범",
-        "href": "/kboard/32808505",
-        "author": "seojunban",
-        "date": "2025.12.02",
-        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     }
