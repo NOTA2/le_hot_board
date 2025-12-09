@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32078341",
+        "category": "일반",
+        "title": "바이닐",
+        "href": "/fboard/32078341",
+        "author": "DumpGawd",
+        "date": "2025.06.28",
+        "commentNum": "18",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32216372",
         "category": "음악",
         "title": "언더힙합 좋아한다고 했더니 생일 선물로 이런 거 받음",
@@ -207,16 +218,5 @@
         "commentNum": "4",
         "isVideo": true,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32196157",
-        "category": "음악",
-        "title": "그 켄드릭 벌스 여기잇어요",
-        "href": "/fboard/32196157",
-        "author": "mikgazer",
-        "date": "2025.06.24",
-        "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
