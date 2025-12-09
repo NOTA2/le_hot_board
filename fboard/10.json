@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32617625",
+        "category": "음악",
+        "title": "이번 연휴동안 들은 앨범들",
+        "href": "/fboard/32617625",
+        "author": "천재금붕어모임",
+        "date": "2025.10.12",
+        "commentNum": "10",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32617181",
         "category": "음악",
         "title": "주듣앨",
@@ -218,16 +229,5 @@
         "commentNum": "9",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "fboard_32596493",
-        "category": "리뷰",
-        "title": "billy woods - GOLLIWOG",
-        "href": "/fboard/32596493",
-        "author": "예리",
-        "date": "2025.10.06",
-        "commentNum": "9",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
