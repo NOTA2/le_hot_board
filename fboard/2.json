@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32804153",
+        "category": "음악",
+        "title": "제인 리무버 신곡 “So What? ♡” 12월 5일",
+        "href": "/fboard/32804153",
+        "author": "Waster",
+        "date": "2025.12.01",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32803329",
         "category": "일반",
         "title": "???: 이게 그렇게 명반임?",
@@ -207,16 +218,5 @@
         "commentNum": "14",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32772763",
-        "category": "일반",
-        "title": "과장 좀 보태서 De La Soul - Cabin in the sky 올앨급임",
-        "href": "/fboard/32772763",
-        "author": "Fishmans",
-        "date": "2025.11.24",
-        "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

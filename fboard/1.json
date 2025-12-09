@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32837865",
+        "category": "일반",
+        "title": "뭐? 제이지가 K컬쳐에 7천억을 투자했다고?",
+        "href": "/fboard/32837865",
+        "author": "온암",
+        "date": "2025.12.09",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32836621",
         "category": "리뷰",
         "title": "De La Soul 본인들에게 샤라웃받은 Cabin In The Sky 리뷰",
         "href": "/fboard/32836621",
         "author": "온암",
         "date": "2025.12.09",
-        "commentNum": "8",
+        "commentNum": "9",
         "isVideo": true,
         "isPhoto": true
     },
@@ -17,7 +28,7 @@
         "href": "/fboard/32835729",
         "author": "음잘알되고싶",
         "date": "2025.12.08",
-        "commentNum": "10",
+        "commentNum": "11",
         "isVideo": false,
         "isPhoto": true
     },
@@ -206,17 +217,6 @@
         "date": "2025.12.02",
         "commentNum": "1",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32804153",
-        "category": "음악",
-        "title": "제인 리무버 신곡 “So What? ♡” 12월 5일",
-        "href": "/fboard/32804153",
-        "author": "Waster",
-        "date": "2025.12.01",
-        "commentNum": "2",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

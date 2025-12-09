@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32647429",
+        "category": "인증/후기",
+        "title": "인생 4번째 CD",
+        "href": "/kboard/32647429",
+        "author": "hhhhnhhhhnh",
+        "date": "2025.10.23",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32647575",
         "category": "음악",
         "title": "국힙 앨범이 딱 9장만 남는다면",
@@ -217,17 +228,6 @@
         "date": "2025.10.18",
         "commentNum": "5",
         "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32629655",
-        "category": "음악",
-        "title": "안녕하세요? 여전히 전산시스템오류에 들어있는 신진이라고 합니다",
-        "href": "/kboard/32629655",
-        "author": "VA9624",
-        "date": "2025.10.17",
-        "commentNum": "6",
-        "isVideo": true,
         "isPhoto": false
     }
 ]

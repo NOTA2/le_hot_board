@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32730173",
+        "category": "인증/후기",
+        "title": "빨간색 음반을 2장 구매했습니다",
+        "href": "/fboard/32730173",
+        "author": "쓸쓸하구만",
+        "date": "2025.11.18",
+        "commentNum": "6",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32729093",
         "category": "인증/후기",
         "title": "Mos Def 일본반 CD Collection",
@@ -207,16 +218,5 @@
         "commentNum": "41",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32703022",
-        "category": "리뷰",
-        "title": "frank ocean - blonde 감상문",
-        "href": "/fboard/32703022",
-        "author": "soulquarians",
-        "date": "2025.11.11",
-        "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]

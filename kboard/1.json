@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32836624",
+        "category": "일반",
+        "title": "릿 3점 받자 평론가 매장 시도 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "href": "/kboard/32836624",
+        "author": "이제르론",
+        "date": "2025.12.09",
+        "commentNum": "1",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32835931",
         "category": "음악",
         "title": "리드머 평점 진짜 형편 없네",
         "href": "/kboard/32835931",
         "author": "다펑크",
         "date": "2025.12.08",
-        "commentNum": "26",
+        "commentNum": "31",
         "isVideo": false,
         "isPhoto": false
     },
@@ -28,7 +39,7 @@
         "href": "/kboard/32833783",
         "author": "희대의",
         "date": "2025.12.08",
-        "commentNum": "16",
+        "commentNum": "17",
         "isVideo": false,
         "isPhoto": true
     },
@@ -207,16 +218,5 @@
         "commentNum": "17",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32815214",
-        "category": "일반",
-        "title": "릿누에킁 릿 탈락",
-        "href": "/kboard/32815214",
-        "author": "nayaaaanw",
-        "date": "2025.12.04",
-        "commentNum": "13",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
