@@ -1,12 +1,23 @@
 [
     {
+        "id": "fboard_32836621",
+        "category": "리뷰",
+        "title": "De La Soul 본인들에게 샤라웃받은 Cabin In The Sky 리뷰",
+        "href": "/fboard/32836621",
+        "author": "온암",
+        "date": "2025.12.09",
+        "commentNum": "4",
+        "isVideo": true,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32835729",
         "category": "인증/후기",
         "title": "김밥은 처음이라…..",
         "href": "/fboard/32835729",
         "author": "음잘알되고싶",
         "date": "2025.12.08",
-        "commentNum": "8",
+        "commentNum": "7",
         "isVideo": false,
         "isPhoto": true
     },
@@ -39,7 +50,7 @@
         "href": "/fboard/32833300",
         "author": "쟈이즈",
         "date": "2025.12.08",
-        "commentNum": "2",
+        "commentNum": "3",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "Waster",
         "date": "2025.12.01",
         "commentNum": "2",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32803329",
-        "category": "일반",
-        "title": "???: 이게 그렇게 명반임?",
-        "href": "/fboard/32803329",
-        "author": "음충이",
-        "date": "2025.12.01",
-        "commentNum": "19",
         "isVideo": false,
         "isPhoto": true
     }

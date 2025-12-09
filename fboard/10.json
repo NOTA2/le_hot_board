@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32617636",
+        "category": "일반",
+        "title": "인기글이 하나가 없냐",
+        "href": "/fboard/32617636",
+        "author": "ꓬe",
+        "date": "2025.10.12",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32612124",
         "category": "일반",
         "title": "호두아카이브 계정 이전",
@@ -217,17 +228,6 @@
         "date": "2025.10.04",
         "commentNum": "12",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32593344",
-        "category": "인증/후기",
-        "title": "[90년대 붐뱁 프로듀서] 13. Marley Marl",
-        "href": "/fboard/32593344",
-        "author": "DJSam",
-        "date": "2025.10.04",
-        "commentNum": "14",
-        "isVideo": true,
         "isPhoto": true
     }
 ]
