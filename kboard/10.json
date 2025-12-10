@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32650588",
+        "category": "음악",
+        "title": "알고리즘이 중요하긴 하네요",
+        "href": "/kboard/32650588",
+        "author": "leevompark",
+        "date": "2025.10.24",
+        "commentNum": "11",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32650148",
         "category": "일반",
         "title": "여성 래퍼 씬의 문제를 지적한 강일권",
@@ -216,17 +227,6 @@
         "author": "ㄱ그래놀라",
         "date": "2025.10.19",
         "commentNum": "32",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32631985",
-        "category": "일반",
-        "title": "엘이에서 무조건 차단해야 되는 개시발씹새끼들 유형 정리해줌ㅇㅇ",
-        "href": "/kboard/32631985",
-        "author": "Wings",
-        "date": "2025.10.18",
-        "commentNum": "25",
         "isVideo": false,
         "isPhoto": false
     }
