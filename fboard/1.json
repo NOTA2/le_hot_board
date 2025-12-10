@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32841075",
+        "category": "리뷰",
+        "title": "Cities Aviv, Preservation & Gabe ‘Nandez, Mobb Deep, Bold...",
+        "href": "/fboard/32841075",
+        "author": "예리",
+        "date": "2025.12.10",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32836215",
         "category": "일반",
         "title": "나스 프리모 앨범 트랙리스트",
@@ -28,7 +39,7 @@
         "href": "/fboard/32836621",
         "author": "온암",
         "date": "2025.12.09",
-        "commentNum": "16",
+        "commentNum": "17",
         "isVideo": true,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "웻싸잍",
         "date": "2025.12.03",
         "commentNum": "17",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32805984",
-        "category": "음악",
-        "title": "2025 현재까지 맛있었던 앨범들",
-        "href": "/fboard/32805984",
-        "author": "다스시디어스",
-        "date": "2025.12.02",
-        "commentNum": "",
         "isVideo": false,
         "isPhoto": true
     }

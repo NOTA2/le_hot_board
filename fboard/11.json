@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32596490",
+        "category": "일반",
+        "title": "[음반 용어 사전 1편~10편] 통합 버전 재업",
+        "href": "/fboard/32596490",
+        "author": "DJSam",
+        "date": "2025.10.06",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32596493",
         "category": "리뷰",
         "title": "billy woods - GOLLIWOG",
@@ -206,17 +217,6 @@
         "date": "2025.09.27",
         "commentNum": "5",
         "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32539145",
-        "category": "리뷰",
-        "title": "★★★★★ / 위대한 힙합 걸작들.",
-        "href": "/fboard/32539145",
-        "author": "온암",
-        "date": "2025.09.27",
-        "commentNum": "33",
-        "isVideo": true,
         "isPhoto": true
     }
 ]

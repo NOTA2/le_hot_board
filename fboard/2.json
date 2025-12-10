@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32805984",
+        "category": "음악",
+        "title": "2025 현재까지 맛있었던 앨범들",
+        "href": "/fboard/32805984",
+        "author": "다스시디어스",
+        "date": "2025.12.02",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32805459",
         "category": "리뷰",
         "title": "[리뷰] Rome Streetz, 『Kiss The Ring』: 차가운 대관식",
@@ -207,16 +218,5 @@
         "commentNum": "12",
         "isVideo": false,
         "isPhoto": true
-    },
-    {
-        "id": "fboard_32776820",
-        "category": "일반",
-        "title": "가입인사 드립니다",
-        "href": "/fboard/32776820",
-        "author": "두베",
-        "date": "2025.11.25",
-        "commentNum": "10",
-        "isVideo": false,
-        "isPhoto": false
     }
 ]
