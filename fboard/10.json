@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32620604",
+        "category": "음악",
+        "title": "힙x) 드디어 엘이 첫 화면 진출",
+        "href": "/fboard/32620604",
+        "author": "천재금붕어모임",
+        "date": "2025.10.13",
+        "commentNum": "8",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "fboard_32617945",
         "category": "리뷰",
         "title": "💿해외힙합 매거진 \"w/HAUS OF MATTERS\" #27",
@@ -216,17 +227,6 @@
         "author": "Dumpmeister",
         "date": "2025.10.07",
         "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32600427",
-        "category": "음악",
-        "title": "소신발언",
-        "href": "/fboard/32600427",
-        "author": "천재금붕어모임",
-        "date": "2025.10.07",
-        "commentNum": "34",
         "isVideo": false,
         "isPhoto": true
     }
