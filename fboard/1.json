@@ -1,5 +1,16 @@
 [
     {
+        "id": "fboard_32847564",
+        "category": "일반",
+        "title": "안녕하세요 음악 매거진 계정 운영해보려고 합니다!",
+        "href": "/fboard/32847564",
+        "author": "쨩",
+        "date": "2025.12.11",
+        "commentNum": "4",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "fboard_32843902",
         "category": "리뷰",
         "title": "[10주년] PRhyme - PRhyme (Deluxe Version) 리뷰",
@@ -17,7 +28,7 @@
         "href": "/fboard/32844133",
         "author": "GNX",
         "date": "2025.12.10",
-        "commentNum": "4",
+        "commentNum": "5",
         "isVideo": false,
         "isPhoto": true
     },
@@ -206,17 +217,6 @@
         "date": "2025.12.04",
         "commentNum": "6",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "fboard_32818229",
-        "category": "일반",
-        "title": "올해 젤 많이 들은 게 켄드릭이라니",
-        "href": "/fboard/32818229",
-        "author": "타이가달라한사인",
-        "date": "2025.12.04",
-        "commentNum": "6",
-        "isVideo": false,
         "isPhoto": true
     }
 ]
