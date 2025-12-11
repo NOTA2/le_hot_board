@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32822320",
+        "category": "리뷰",
+        "title": "(리뷰) LIT은 저스디스의 이야기인가요 아니면 당신의 이야기인가요?",
+        "href": "/kboard/32822320",
+        "author": "한달",
+        "date": "2025.12.05",
+        "commentNum": "9",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32818119",
         "category": "일반",
         "title": "릿 리드머 한짤요약",
@@ -207,16 +218,5 @@
         "commentNum": "25",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32800825",
-        "category": "일반",
-        "title": "힙갤에서 본 인상적인 젓딧 평가글",
-        "href": "/kboard/32800825",
-        "author": "오션부활기원",
-        "date": "2025.12.01",
-        "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]

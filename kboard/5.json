@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32750618",
+        "category": "음악",
+        "title": "JUSTHIS - [LIT] 후기",
+        "href": "/kboard/32750618",
+        "author": "쿠쿠쿠쿠",
+        "date": "2025.11.21",
+        "commentNum": "5",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32742314",
         "category": "음악",
         "title": "자자 이쯤에서 호불호 체크 한번 하고 갑시다",
@@ -205,17 +216,6 @@
         "author": "잡동사니",
         "date": "2025.11.16",
         "commentNum": "14",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32718154",
-        "category": "음악",
-        "title": "저스디스의 이런 롤아웃과 홍보를 래퍼들이 배웠으면 좋겠음",
-        "href": "/kboard/32718154",
-        "author": "Alibi",
-        "date": "2025.11.15",
-        "commentNum": "13",
         "isVideo": false,
         "isPhoto": false
     }

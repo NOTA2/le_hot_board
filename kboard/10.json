@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32654192",
+        "category": "인증/후기",
+        "title": "서레페 후기",
+        "href": "/kboard/32654192",
+        "author": "빠삐삐빠뽀",
+        "date": "2025.10.25",
+        "commentNum": "2",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32652873",
         "category": "음악",
         "title": "재지팩트 앨범을 작업 중인 빈지노",
@@ -217,17 +228,6 @@
         "date": "2025.10.19",
         "commentNum": "28",
         "isVideo": true,
-        "isPhoto": true
-    },
-    {
-        "id": "kboard_32634710",
-        "category": "일반",
-        "title": "윙식대전은 윙 압승임",
-        "href": "/kboard/32634710",
-        "author": "Wings",
-        "date": "2025.10.19",
-        "commentNum": "7",
-        "isVideo": false,
         "isPhoto": true
     }
 ]

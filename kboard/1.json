@@ -1,12 +1,23 @@
 [
     {
+        "id": "kboard_32841130",
+        "category": "리뷰",
+        "title": "LIT, KC3, (concept), eigensinn, WUUSLIME, ANIMAL FKRY, KOREAN AMERICAN",
+        "href": "/kboard/32841130",
+        "author": "예리",
+        "date": "2025.12.10",
+        "commentNum": "12",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32842823",
         "category": "음악",
         "title": "김하온은 ㅈ1ㄴ 과대평가됨.",
         "href": "/kboard/32842823",
         "author": "다펑크",
         "date": "2025.12.10",
-        "commentNum": "19",
+        "commentNum": "20",
         "isVideo": false,
         "isPhoto": false
     },
@@ -28,7 +39,7 @@
         "href": "/kboard/32841081",
         "author": "Writersglock",
         "date": "2025.12.10",
-        "commentNum": "15",
+        "commentNum": "16",
         "isVideo": false,
         "isPhoto": true
     },
@@ -205,17 +216,6 @@
         "author": "Fishkim",
         "date": "2025.12.04",
         "commentNum": "7",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32822320",
-        "category": "리뷰",
-        "title": "(리뷰) LIT은 저스디스의 이야기인가요 아니면 당신의 이야기인가요?",
-        "href": "/kboard/32822320",
-        "author": "한달",
-        "date": "2025.12.05",
-        "commentNum": "9",
         "isVideo": false,
         "isPhoto": false
     }
