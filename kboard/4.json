@@ -1,5 +1,16 @@
 [
     {
+        "id": "kboard_32782365",
+        "category": "리뷰",
+        "title": "릿, 상실이라는 묘혈",
+        "href": "/kboard/32782365",
+        "author": "정밀",
+        "date": "2025.11.26",
+        "commentNum": "15",
+        "isVideo": false,
+        "isPhoto": false
+    },
+    {
         "id": "kboard_32778478",
         "category": "일반",
         "title": "새우가 이렇게 말했는데? 이건 별 의미 없는거임 ㅇㅇ",
@@ -205,17 +216,6 @@
         "author": "PADNA42",
         "date": "2025.11.21",
         "commentNum": "27",
-        "isVideo": false,
-        "isPhoto": false
-    },
-    {
-        "id": "kboard_32747852",
-        "category": "음악",
-        "title": "저스디스는 자기연민과 셀프서사화에 경도된거같군요",
-        "href": "/kboard/32747852",
-        "author": "팩트는아파요",
-        "date": "2025.11.21",
-        "commentNum": "21",
         "isVideo": false,
         "isPhoto": false
     }
