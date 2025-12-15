@@ -16,6 +16,7 @@ async function scraper(board, firstPage) {
         const dataResponse = await axios.get(encodeURI(`https://hiphople.com/${board}`));
         const $ = cheerio.load(dataResponse.data);
 
+        console.log($.html())
         const hotIssueData = $('tr.notice > td.no > span.document-hot').parents('.notice')
         const ids = _.map(firstPage, issue => issue.id)
 

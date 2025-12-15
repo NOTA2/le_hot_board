@@ -1,5 +1,38 @@
 [
     {
+        "id": "kboard_32659070",
+        "category": "일반",
+        "title": "볼레로 식케이 착장",
+        "href": "/kboard/32659070",
+        "author": "쌈닭",
+        "date": "2025.10.26",
+        "commentNum": "",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
+        "id": "kboard_32656903",
+        "category": "일반",
+        "title": "스키니도 참 저평가",
+        "href": "/kboard/32656903",
+        "author": "김대웅약혼녀",
+        "date": "2025.10.26",
+        "commentNum": "14",
+        "isVideo": true,
+        "isPhoto": false
+    },
+    {
+        "id": "kboard_32656492",
+        "category": "일반",
+        "title": "맨스티어떴다",
+        "href": "/kboard/32656492",
+        "author": "Romaaz",
+        "date": "2025.10.26",
+        "commentNum": "17",
+        "isVideo": false,
+        "isPhoto": true
+    },
+    {
         "id": "kboard_32656922",
         "category": "음악",
         "title": "저스디스의 프로필 (블루, 오렌지)에 대한 생각",
@@ -218,16 +251,5 @@
         "commentNum": "20",
         "isVideo": false,
         "isPhoto": false
-    },
-    {
-        "id": "kboard_32640683",
-        "category": "음악",
-        "title": "ek 삼각관계 스킷 뭔가",
-        "href": "/kboard/32640683",
-        "author": "알력",
-        "date": "2025.10.20",
-        "commentNum": "4",
-        "isVideo": false,
-        "isPhoto": true
     }
 ]
