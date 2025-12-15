@@ -128,6 +128,11 @@ function getDate(date) {
     for (let board of boards) {
         let firstPage = await JSON.parse(fs.readFileSync(`${__dirname}/${board}/1.json`, 'utf8'));
         firstPage = await scraper(board, firstPage);
+
+        if (firstPage === undefined || firstPage === null) {
+            return;
+        }
+
         await pageSort(board, firstPage);
         await updateMetaData(board);
         await delay(2000); // 2초 대기
