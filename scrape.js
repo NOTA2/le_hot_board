@@ -13,7 +13,10 @@ const ISSUE_COUNT = 20;
 
 async function scraper(board, firstPage) {
     try {
-        const dataResponse = await axios.get(encodeURI(`https://hiphople.com/${board}`));
+        const headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        };
+        const dataResponse = await axios.get(encodeURI(`https://hiphople.com/${board}`), {headers});
         const $ = cheerio.load(dataResponse.data);
 
         console.log($.html())
